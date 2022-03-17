@@ -1,0 +1,78 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:2647:"<br>It is by far the most developed cloud providers in IaaS, PaaS, and even SaaS (Office 365) that you can get. <br> <br>and the simplest of queries like count(*) on indexed table can take 2 hours to execute using 100 DTU with the data component being the majority. 100 DWU Data Warehouse is priced considerably higher than a seemingly comparable 100 DTU Azure SQL S2 tier ().To make sure I am comparing apples to apples, can someone shed some light on how DWU compare to DTU … sql-azure Datenbank-Transaktionseinheiten (DTUs) Einführung Database Transaction Units (DTU) sind die Einheit, in der die Leistung von Azure SQL DB gemessen wird. One thing I have found is DTU comparison across tiers is not really possible. My particular area of … I am considering migration from Azure SQL to Azure SQL Data Warehouse. If you are considering Azure SQL Database, check out the DTU Calculator and if you need assistance migrating from On Premises to Azure or Azure SQL Database, let us know. Because I have a large database 200GB table with 500 million rows. This post describes the need for the calculator and the process of creating it. This, of course, comes at an additional cost which also justified the extra performance improvements. <br> <br>With an Elastic Database Pool, you’ll have a pool of eDTUs that each database can pull from (individual database limitation differences between Standard and Premium pools). <br> <br>It seems to offer some of the features that we need, however price is a concern for starting small. For example if you take a S4 which is 200 DTU and compare it to the P1 with is 125 DTU, the Standard is an order of magnitude slower than the Premium. As part of my job at Microsoft, I get the opportunity to work closely with companies across the US. We love Microsoft Azure. <br> <br> Where as my smaller db is fast. To know more on this, read … Azure SQL DB Design Note: Choosing the Right Database Reservation Size ‎09-24-2019 10:05 AM Azure SQL Database originally started off with very simple options …  <br>While DTU was perfect for small to medium deployment, the concept of DTU created a sense of ambiguity in some of our minds. Azure SQL Database DTU Versus vCore Posted on December 17, 2018 by blobeater I wrote a guest article for an IT consultancy on Azure SQL Database, more specifically DTUs and vCore options. To offer more predictability in what hardware specs are being provided for a specific instance of Azure SQL, Microsoft introduced the vCore model. <br> The following is the first in a series of posts about the Azure SQL Database DTU Calculator. <br> <br>I like what you say here. <br>";s:7:"keyword";s:12:"DTU Azure db";s:5:"links";s:8052:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Windows10-%E6%9B%B4%E6%96%B0-Wi-Fi-%E7%B9%8B%E3%81%8C%E3%82%89%E3%81%AA%E3%81%84'>Windows10 更新 Wi Fi 繋がらない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9D%E3%82%B1%E3%82%AB-%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB-100-%E5%9D%87'>ポケカ ファイル 100 均</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%8B%B1%E6%A4%9C-%E3%82%A2%E3%83%97%E3%83%AA-%E5%AD%90%E4%BE%9B'>英検 アプリ 子供</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A6%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B0%E3%83%9D%E3%82%B9%E3%83%889-2020-1996%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88-%E3%83%88%E3%83%AC%E3%83%BC%E3%82%B9%E7%B7%B4%E7%BF%92-%E7%B4%A0%E6%9D%90'>ウイニングポスト9 2020 1996イラスト トレース練習 素材</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%96%B0%E7%94%9F%E6%B4%BB-%E8%B2%BB%E7%94%A8-%E5%90%8C%E6%A3%B2'>新生活 費用 同棲</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%AD%E3%83%83%E3%82%AF-%E7%94%BB%E9%9D%A2-%E8%A8%AD%E5%AE%9A-PowerShell'>ロック 画面 設定 PowerShell</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%81%E3%83%A3%E3%83%B3%E3%83%94%E3%82%AA%E3%83%B3-%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E4%BA%BA%E6%B0%97-%E8%89%B2'>チャンピオン パーカー人気 色</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B8%8A%E6%96%B0%E5%BA%84-%E5%B0%8F%E5%85%90%E7%A7%91-%E4%BA%88%E9%98%B2%E6%8E%A5%E7%A8%AE'>上新庄 小児科 予防接種</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%BD%A6%E6%A0%B9-%E3%83%A9%E3%83%B3%E3%83%81-%E6%B4%8B%E9%A3%9F'>彦根 ランチ 洋食</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%99%E3%83%8D%E3%83%95%E3%82%A3%E3%83%83%E3%83%88-%E3%82%A2%E3%83%89%E3%83%AC%E3%82%B9-%E5%A4%89%E6%9B%B4'>ベネフィット アドレス 変更</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=NOV-%E6%97%A5%E7%84%BC%E3%81%91%E6%AD%A2%E3%82%81-%E8%B5%A4%E3%81%A1%E3%82%83%E3%82%93'>NOV 日焼け止め 赤ちゃん</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%8D%B5%E7%84%BC%E3%81%8D-%E5%99%A8-%E5%BF%85%E8%A6%81'>卵焼き 器 必要</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%84%BC%E8%82%89-%E5%BD%A6-%E6%8E%A5%E5%AE%A2'>焼肉 彦 接客</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=fda-%E7%A6%8F%E5%B2%A1-%E9%9D%99%E5%B2%A1-%E6%99%82%E5%88%BB%E8%A1%A8'>Fda 福岡 静岡 時刻表</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9B%E3%83%86%E3%83%AB-%E3%82%AD%E3%83%A3%E3%83%B3%E3%82%BB%E3%83%AB-%E8%BF%94%E9%87%91'>ホテル キャンセル 返金</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AF%E3%83%B3-%E3%82%B5%E3%83%B3%E3%83%87%E3%83%BC-%E6%8C%81%E3%81%A1%E5%B8%B0%E3%82%8A'>サーティワン サンデー 持ち帰り</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B9%9D-%E5%A4%A7-%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2-%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC'>九 大 キャリア センター</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B7%E3%83%9E%E3%83%8E-2020-%E3%83%84%E3%82%A4%E3%83%B3%E3%83%91%E3%83%AF%E3%83%BC'>シマノ 2020 ツインパワー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%8D%9A%E5%A4%9A%E3%81%8B%E3%82%89%E5%BA%83%E5%B3%B6-%E6%96%B0%E5%B9%B9%E7%B7%9A-%E4%BA%88%E7%B4%84'>博多から広島 新幹線 予約</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%91%E3%82%B9-PEN-%E6%AF%94%E8%BC%83'>オリンパス PEN 比較</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=2%E3%82%B9%E3%83%88%E3%83%90%E3%82%A4%E3%82%AF-%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3-%E3%81%8B%E3%81%91%E3%82%8B-%E3%82%B3%E3%83%84'>2ストバイク エンジン かける コツ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%8D%83%E9%87%8C%E4%B8%AD%E5%A4%AE%E5%85%AC%E5%9C%92-%E6%BB%91%E3%82%8A%E5%8F%B0-%E6%99%82%E9%96%93'>千里中央公園 滑り台 時間</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=amazon-%E6%B5%B7%E5%A4%96%E7%99%BA%E9%80%81-%E3%82%B3%E3%83%AD%E3%83%8A'>Amazon 海外発送 コロナ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%9B%A2%E4%B9%B3%E9%A3%9F-%E6%89%8B%E3%81%A5%E3%81%8B%E3%81%BF-%E3%83%A9%E3%83%B3%E3%83%81'>離乳食 手づかみ ランチ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%A4%E3%82%8F%E3%82%8A-%E3%83%94%E3%83%BC%E3%82%AF-11%E9%80%B1'>つわり ピーク 11週</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A8%E3%83%97%E3%82%BD%E3%83%B3-%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%89%E3%83%A9%E3%82%A4%E3%83%90%E3%83%BC-%E5%86%8D%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB'>エプソン プリンタードライバー 再インストール</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Let%27s-Encrypt-%E3%82%AA%E3%83%AC%E3%82%AA%E3%83%AC%E8%A8%BC%E6%98%8E%E6%9B%B8'>Let's Encrypt オレオレ証明書</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%8F%E3%82%A4%E3%82%A8%E3%83%BC%E3%82%B9-5%E5%9E%8B-%E3%83%AD%E3%83%BC%E3%83%80%E3%82%A6%E3%83%B3'>ハイエース 5型 ローダウン</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=ie11-%E3%82%AA%E3%83%BC%E3%83%88%E3%82%B3%E3%83%B3%E3%83%97%E3%83%AA%E3%83%BC%E3%83%88-%E4%B8%8D%E5%85%B7%E5%90%88'>Ie11 オートコンプリート 不具合</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%A5%AD%E5%8B%99%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC-%E9%B6%8F%E8%83%B8%E8%82%89-%E5%AE%89%E5%85%A8%E6%80%A7'>業務スーパー 鶏胸肉 安全性</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A2%E3%83%8B%E3%83%A1%E3%82%A4%E3%83%88-%E4%BA%88%E7%B4%84-%E5%8F%97%E3%81%91%E5%8F%96%E3%82%8A'>アニメイト 予約 受け取り</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%B6%8F%E8%82%89-%E3%81%8A%E5%BC%81%E5%BD%93-%E3%83%AC%E3%82%B7%E3%83%94-%E3%81%A4%E3%81%8F%E3%82%8C-%E3%81%BD'>鶏肉 お弁当 レシピ つくれ ぽ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A9%89-%E7%84%B6-%E9%A1%9E%E8%AA%9E'>婉 然 類語</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%A0%AC%E3%81%AE-%E5%86%85%E5%81%B4-%E3%82%B6%E3%83%A9%E3%82%B6%E3%83%A9'>頬の 内側 ザラザラ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=jQuery-%E7%94%BB%E5%83%8F-%E5%88%A4%E5%AE%9A'>JQuery 画像 判定</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A6%E3%83%BC%E3%83%90%E3%83%BC-%E3%82%A4%E3%83%BC%E3%83%84-%E3%83%90%E3%83%83%E3%83%89-%E7%8E%87'>ウーバー イーツ バッド 率</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%8A%E3%81%8B%E3%81%82%E3%81%95%E3%82%93%E3%81%A8%E3%81%84%E3%81%A3%E3%81%97%E3%82%87-dvd-%E3%81%82%E3%81%95%E3%83%9A%E3%83%A9'>おかあさんといっしょ Dvd あさペラ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%AA%E3%83%BC%E3%83%90%E3%82%A4%E3%82%B9-701-702-%E9%81%95%E3%81%84'>リーバイス 701 702 違い</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF%E5%85%89-%E3%83%A2%E3%83%87%E3%83%A0-%E4%BA%A4%E6%8F%9B'>ソフトバンク光 モデム 交換</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9-%E3%82%A2%E3%82%A4%E3%82%B9-%E3%82%AE%E3%83%95%E3%83%88'>クリスマス アイス ギフト</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A2%E3%83%AB%E3%83%87%E3%83%90%E3%83%A9%E3%83%B3-BFS-12'>アルデバラン BFS 12</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%86%E3%81%A4%E3%81%AE%E3%81%BF%E3%82%84-%E3%83%AC%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%8B%E3%83%83%E3%82%AF-%E6%B1%82%E4%BA%BA'>うつのみや レディースクリニック 求人</a>,
+";s:7:"expired";i:-1;}

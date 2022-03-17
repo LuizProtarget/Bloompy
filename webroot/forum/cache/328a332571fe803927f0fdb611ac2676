@@ -1,0 +1,68 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:2329:"パナソニック自転車公式サイト。電動アシスト自転車、一般自転車、posに寄せられるよくあるご質問をご紹介しています。購入前のご相談や、バッテリーに関すること、修理・メンテナンスについてお答 … <br> <br>パナソニック自転車公式サイト。電動アシスト自転車のバッテリー・充電器互換表にて、標準バッテリー検索及び換装可能な大容量・小容量バッテリーをご確認いただけます。容量のアップ・ダウンなど、お得なバッテリー選びにご確認ください。 <br> <br>電動自転車バッテリーを充電すると1→2→3→4の順に点滅する場合 こんな症状の時は？ 2019.1.31 電動自転車バッテリー、この点滅パターンは修理が必要？【ヤマハ・ブリヂスト… 電動自転車の選び方 2019.2.9 電動アシスト自転車のメーカーの選び方について <br> <br>パナソニック電動自転車充電器の故障、品番NKJ033B、メーカーに問い合わせると「1年過ぎると故障個所は見ない、修繕しない、買い替えで」との一点張り、バッテリーが使用できるのに、室内で普通に使用している充電器が先に壊れるなんておかしくないか。  <br> <br>Panasonic 電動自転車のバッテリーが充電できない 先日、電動自転車乗ろうとしたら電池残無しと言うか無反応で、んっ？壊れたか？壊れたみたい。リコールの対象。どうやら修理とか買い替えとかでなく無料交換してくれるみたい。ラッキー <br> <br>電動自転車のバッテリーは、使用年数や充電回数、保管状態などによって劣化が進み、最終的には寿命がきて使えない状態になってしまいます。一般的なリチウムイオン（Li-ion）のバッテリーの場合、充放電を繰り返していくうちに徐々に走行できる距離が短 パナソニックの自転車公式サイト。電動アシスト自転車、一般自転車、posに寄せられるよくあるご質問をご紹介しています。購入前のご相談や、バッテリーに関すること、修理・メンテナンスについてお答えしています。 <br> <br>";s:7:"keyword";s:57:"パナソニック 電動自転車 バッテリー 点滅";s:5:"links";s:6622:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AD%E3%83%A3%E3%83%A9%E3%83%90%E3%83%B3-%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%94%E3%83%B3%E3%82%B0%E3%82%AB%E3%83%BC-%E6%8C%81%E3%81%A1%E8%BE%BC%E3%81%BF'>キャラバン キャンピングカー 持ち込み</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88-%E3%83%87%E3%83%83%E3%82%B5%E3%83%B3-%E5%BF%85%E8%A6%81'>イラスト デッサン 必要</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%99%BA%E9%81%94%E9%9A%9C%E5%AE%B3-%E5%AD%90%E4%BE%9B-%E7%97%85%E9%99%A2-%E5%85%B5%E5%BA%AB'>発達障害 子供 病院 兵庫</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%84%A1%E6%96%99-HTML%E3%83%86%E3%83%B3%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88-%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BC'>無料 HTMLテンプレート カレンダー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%88%80%E5%89%A3-%E3%82%84-%E5%99%A8%E7%89%A9-%E3%81%AB-%E4%BB%98%E3%81%91-%E3%82%89%E3%82%8C-%E3%81%9F-%E4%BD%9C%E8%80%85'>刀剣 や 器物 に 付け られ た 作者</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B7%E3%82%A7%E3%82%A2-%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88-%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3'>シェア ポイント オンライン</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=macmini-2020-%E3%83%A1%E3%83%A2%E3%83%AA%E5%A2%97%E8%A8%AD'>Macmini 2020 メモリ増設</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%81%E3%83%A5%E3%83%BC%E3%83%96-%E3%83%A9%E3%83%BC-%E3%83%9B%E3%82%A4%E3%83%BC%E3%83%AB%E3%81%8A%E3%81%99%E3%81%99%E3%82%81'>チューブ ラー ホイールおすすめ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%91%E3%83%8A%E3%82%BD%E3%83%8B%E3%83%83%E3%82%AF-%E3%82%AA%E3%83%95%E3%82%BF%E3%82%A4%E3%83%A0-%E3%83%96%E3%83%AD%E3%82%B0'>パナソニック オフタイム ブログ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%9B%BB%E5%8B%95%E8%87%AA%E8%BB%A2%E8%BB%8A-%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81%E3%82%AB%E3%83%90%E3%83%BC-%E3%83%80%E3%82%A4%E3%82%BD%E3%83%BC'>電動自転車 スイッチカバー ダイソー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%A9%E3%82%A4%E3%83%B3-%E9%80%9A%E7%9F%A5-%E5%A4%9A%E3%81%84'>ライン 通知 多い</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%A5%96%E5%B7%9D-%E7%94%A3%E5%A9%A6-%E4%BA%BA-%E7%A7%91-%E6%AF%8D%E8%A6%AA%E5%AD%A6%E7%B4%9A'>祖川 産婦 人 科 母親学級</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=CBT-%E3%83%9E%E3%83%83%E3%83%81%E3%83%B3%E3%82%B0-%E7%97%85%E9%99%A2'>CBT マッチング 病院</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B8%E3%82%AA%E3%83%A9%E3%83%9E-%E7%99%BA%E6%B3%A1%E3%82%B9%E3%83%81%E3%83%AD%E3%83%BC%E3%83%AB-100-%E5%9D%87'>ジオラマ 発泡スチロール 100 均</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%B9%98%E5%8D%97%E7%BE%8E%E5%AE%B9%E5%A4%96%E7%A7%91-%E5%83%8D%E3%81%84%E3%81%A6%E3%81%9F-%E5%8F%97%E4%BB%98'>湘南美容外科 働いてた 受付</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%83%8C%E6%99%AF-%E6%B0%B4%E8%89%B2-%E6%96%87%E5%AD%97'>背景 水色 文字</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%84%E3%82%8F%E3%81%97-%E4%B8%B8%E5%B9%B2-%E3%81%97-%E3%83%95%E3%83%A9%E3%82%A4%E3%83%91%E3%83%B3-%E3%82%A2%E3%83%AB%E3%83%9F-%E3%83%9B%E3%82%A4%E3%83%AB'>いわし 丸干 し フライパン アルミ ホイル</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=X-Pro2-50-140'>X Pro2 50 140</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%AF%E3%82%B4%E3%83%B3-RG1-%E8%BB%8A%E9%AB%98%E8%AA%BF'>ステップワゴン RG1 車高調</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=iphone-x-%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC%E5%AE%B9%E9%87%8F-%E7%A2%BA%E8%AA%8D'>Iphone X バッテリー容量 確認</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%AA%81%E6%92%83-%E3%83%A8%E3%83%8D%E3%82%B9%E3%82%B1-%E3%81%AE-%E9%87%A3%E3%82%8A-%E5%8B%95%E7%94%BB'>突撃 ヨネスケ の 釣り 動画</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%81%E3%83%A3%E3%83%B3%E3%83%94%E3%82%AA%E3%83%B3-%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC-%E3%83%80%E3%82%B5%E3%81%84'>チャンピオン パーカー ダサい</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AA%E3%82%AA%E3%82%B5%E3%82%AB-%E5%A0%82-%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3'>オオサカ 堂 ログイン</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A4%E3%82%AA%E3%83%B3%E9%8A%80%E8%A1%8C-%E6%8C%AF%E8%BE%BC-%E3%82%B3%E3%83%B3%E3%83%93%E3%83%8B'>イオン銀行 振込 コンビニ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%84%9B%E5%AA%9B-%E5%A4%A7%E5%B3%B6-%E5%85%AB%E5%B9%A1%E6%B5%9C'>愛媛 大島 八幡浜</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%98%AA%E7%A5%9E%E8%A5%BF%E5%AE%AE-%E3%82%B0%E3%83%AB%E3%83%A1-%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0'>阪神西宮 グルメ ランキング</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B9%E3%83%9E%E3%83%9B%E4%B8%89%E8%84%9A-%E3%82%AF%E3%83%AA%E3%83%83%E3%83%97-%E3%83%80%E3%82%A4%E3%82%BD%E3%83%BC'>スマホ三脚 クリップ ダイソー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A2%E3%83%AB%E3%83%95%E3%82%A1%E3%83%BC%E3%83%89-%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%88%E3%83%83%E3%83%97-%E3%83%AA%E3%82%B3%E3%83%BC%E3%83%AB'>アルファード アイドリングストップ リコール</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Internet-Archive-Twitter'>Internet Archive Twitter</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%8B%E3%83%B3%E3%83%86%E3%83%B3%E3%83%89%E3%83%BC%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88-%E8%A4%87%E6%95%B0-%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3'>ニンテンドーアカウント 複数 オンライン</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%88%E3%83%A8%E3%82%BF-%E3%83%8F%E3%82%A4%E3%82%A8%E3%83%BC%E3%82%B9-%E3%83%9B%E3%82%A4%E3%83%BC%E3%83%AB-%E3%83%8A%E3%83%83%E3%83%88-%E3%82%B5%E3%82%A4%E3%82%BA'>トヨタ ハイエース ホイール ナット サイズ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%A6%E3%83%8B%E3%82%AB%E3%83%95%E3%82%A7-%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC-%E8%A9%95%E5%88%A4'>ユニカフェ コーヒー 評判</a>,
+";s:7:"expired";i:-1;}

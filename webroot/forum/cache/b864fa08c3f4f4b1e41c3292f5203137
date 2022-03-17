@@ -1,0 +1,78 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:3502:"<p>久米島初の荒磯なので萌える（笑） ポイントへのエントリーは荒磯にしては比較的楽でした～～ しかし、ウネリが年中入るようなポイントで一番座はよく水没している模様（笑） 釣り場は人も入ることが少ないみたいです。 </p> <p>オカッパリで楽しむサンゴ礁エギング、沖縄県久米島のアオリイカ釣りを、 「ルアーパラダイス九州」 編集長 天野三三雄氏がご紹介。Honda釣り倶楽部は、「釣りで遊ぶ。Hondaと遊ぶ。」をテーマに、Hondaが釣りを愛する方々にお届けするWebマガジンです。 </p> <p>関東周辺には、たくさんの釣り場があります。今回は、関東にある釣り場の中から、以下のカテゴリーでそれぞれ5箇所ずつ、トータル30箇所の釣り場を紹介します。 ★初心者・ファミリー向けおすすめ釣 … 日本国内に67店舗、海外1店舗で釣具・アウトドア商品を販売する『釣りのポイント』です。新鮮な釣り情報、商品情報満載！釣りのことなら釣りのポイントへ！  伊豆半島 釣り場MAP. ポイントピュールでは沖縄の豊かな自然環境をを生かした化粧品創りを行っています。沖縄海洋深層水を配合した、小ロット・低コスト・多品種のオリジナル化粧品創りを企画から製造までサポートします。化粧品oemの御相談ならポイントピュールへ！ 久米島と渡名喜の中間くらいに位置する。水深は40～80メートルライン。ポイントは広く、水深30メートルから急に200メートルの大陸柵に落ちる。3月頃から回遊魚のシーズン。 Loading. 日本国内に67店舗、海外1店舗で釣具・アウトドア商品を販売する『釣りのポイント』です。新鮮な釣り情報、商品情報満載！釣りのことなら釣りのポイントへ！ 沖縄磯釣り オフショアGT ... 釣りポイント; 釣り具・仕掛け ; 離島遠征; 魚・魚料理とか ... ジギングで狙う巨大マグロ（久米島パヤオ編） マグロ釣りと言えば 7月某日の話。 釣友の塩ちゃんか… スポンサー広告. 主なポイントはスーガマ、久米島空港沖、トンバーラ岩周辺などだ。 陸からの釣りは、久米島は沖縄本島と同様にサンゴのリーフに囲まれ、遠浅なポイントが多いため、比較的水深がある港や漁港周辺がポイント。夏場はハマフエフキをはじめ、ロウニンアジやオニヒラアジ、時に50kg 久米島からの朝日～～ 早速ですが、H27年12月29日～H28年1月2日まで久米島遠征磯釣りに行って来ました～～ 久米島は沖縄本島から西へ約100㎞、人工約8500人、リーフに囲まれた全体的に遠浅の島です。 PROFILE Y-Styles. 磯釣り釣果情報サイトです。伊豆半島の、堤防、磯釣り、地磯、沖磯の情報を配信して参ります。 磯釣り釣果情報サイト 伊豆半島の堤防・地磯・沖磯・離島紹介. コンビニなどリアル店舗とネットショッピングで還元率は2倍違うんです！ スマホ決済アプリ「d払い」のポイントの貯め方・使い方について、還元率・Amazon利用・ポイントアップキャンペーン・ポイント二重取りについて詳しく紹介しています。 </p>";s:7:"keyword";s:32:"久米島 磯釣り ポイント";s:5:"links";s:8288:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%89%E3%82%B3%E3%83%A2-%E3%81%82%E3%82%93%E3%81%97%E3%82%93%E3%83%95%E3%82%A3%E3%83%AB%E3%82%BF%E3%83%BC-%E8%A7%A3%E9%99%A4-iPhone'>ドコモ あんしんフィルター 解除 IPhone</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%8B%E3%83%88%E3%83%AA-%E7%89%87%E6%89%8B%E9%8D%8B-%E5%8F%A3%E3%82%B3%E3%83%9F'>ニトリ 片手鍋 口コミ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%AC%E3%83%83%E3%83%89-%E3%82%A6%E3%82%A3%E3%83%B3%E3%82%B0-8852'>レッド ウィング 8852</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%A6%8F%E5%B2%A1%E5%B8%82-%E3%83%80%E3%83%B3%E3%83%99%E3%83%AB-%E3%82%B4%E3%83%9F'>福岡市 ダンベル ゴミ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%BA%BB%E3%81%B2%E3%82%82%E3%83%90%E3%83%83%E3%82%B0-%E6%A8%A1%E6%A7%98%E7%B7%A8%E3%81%BF-%E7%B7%A8%E3%81%BF%E6%96%B9'>麻ひもバッグ 模様編み 編み方</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B9%E3%83%AA%E3%83%BC%E3%82%B3%E3%82%A4%E3%83%B3%E3%82%BA-%E3%82%AA%E3%82%BF%E3%82%AF-%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BC'>スリーコインズ オタク カレンダー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%AD%91%E6%B3%A2%E5%A4%A7%E5%AD%A6-%E6%95%B0%E5%AD%A6%E9%A1%9E-%E5%B0%B1%E8%81%B7'>筑波大学 数学類 就職</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%BB%8B%E8%B3%80-%E3%82%AB%E3%83%95%E3%82%A7-%E8%BF%91%E6%B1%9F%E5%85%AB%E5%B9%A1'>滋賀 カフェ 近江八幡</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%96%AD%E6%8D%A8%E9%9B%A2-%E5%8A%B9%E6%9E%9C-%E3%83%96%E3%83%AD%E3%82%B0'>断捨離 効果 ブログ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=line%E3%83%81%E3%82%B1%E3%83%83%E3%83%88-%E6%89%95%E3%81%84%E6%88%BB%E3%81%97-%E6%9C%9F%E9%99%90'>Lineチケット 払い戻し 期限</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%BB%8A-%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88-%E5%BE%8C%E3%82%8D'>車 イラスト 後ろ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%88%E3%83%A9%E3%82%B9%E3%83%88-%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88-%E8%A8%AA%E5%95%8F'>トラスト インターネット 訪問</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Sony-alpha-support'>Sony Alpha Support</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Mac-PowerPoint-%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E5%8C%96'>Mac PowerPoint グループ化</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=au-wimax-%E6%A9%9F%E7%A8%AE%E5%A4%89%E6%9B%B4'>Au Wimax 機種変更</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%A4%BE%E4%BC%9A%E4%BF%9D%E9%99%BA%E5%BA%81-%E6%97%A5%E6%9C%AC%E5%B9%B4%E9%87%91%E6%A9%9F%E6%A7%8B-%E9%81%95%E3%81%84'>社会保険庁 日本年金機構 違い</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%AE%AD-%E5%88%87%E3%82%8A%E8%90%BD%E3%81%A8%E3%81%97-%E5%94%90%E6%8F%9A%E3%81%92'>鮭 切り落とし 唐揚げ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%94%9F%E8%8C%B6-%E3%83%87%E3%82%A3%E3%82%BA%E3%83%8B%E3%83%BC-%E3%82%A8%E3%82%B3%E3%83%90%E3%83%83%E3%82%B0'>生茶 ディズニー エコバッグ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Absolutely-gorgeous-%E6%84%8F%E5%91%B3'>Absolutely Gorgeous 意味</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%9B%BD%E6%B0%91%E5%81%A5%E5%BA%B7%E4%BF%9D%E9%99%BA-%E5%8D%83%E8%91%89%E5%B8%82-%E6%B8%9B%E5%85%8D'>国民健康保険 千葉市 減免</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%AA%E3%83%BC%E3%83%90%E3%82%A4%E3%82%B9-501-%E5%A4%AA%E3%81%84'>リーバイス 501 太い</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BD%90%E6%B8%A1%E5%B3%B6-%E3%83%90%E3%82%A4%E3%82%AF-%E3%83%95%E3%82%A7%E3%83%AA%E3%83%BC'>佐渡島 バイク フェリー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%8F%E3%82%A4%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89-%E5%81%BD%E7%89%A9-%E8%A6%8B%E5%88%86%E3%81%91%E6%96%B9'>ハイブランド 偽物 見分け方</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=130%E4%B8%87-%E6%89%80%E5%BE%97%E7%A8%8E-%E3%81%84%E3%81%8F%E3%82%89'>130万 所得税 いくら</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%B5%A4%E3%81%A1%E3%82%83%E3%82%93-%E9%BA%A6%E8%8C%B6-%E3%82%A2%E3%83%AC%E3%83%AB%E3%82%AE%E3%83%BC%E5%8F%8D%E5%BF%9C'>赤ちゃん 麦茶 アレルギー反応</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%86%E3%81%A1%E3%82%8F-%E7%99%BD%E6%96%87%E5%AD%97-%E6%9D%90%E6%96%99'>うちわ 白文字 材料</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=CM-%E3%83%A9%E3%83%86%E3%83%B3-%E6%9B%B2'>CM ラテン 曲</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%97%E3%83%BC%E3%83%9E-%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC-%E3%83%AC%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B9-%E3%82%A2%E3%82%A6%E3%83%88%E3%83%AC%E3%83%83%E3%83%88'>プーマ パーカー レディース アウトレット</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%A2%A8%E9%82%AA-%E3%81%86%E3%81%A9%E3%82%93-%E3%83%AC%E3%82%B7%E3%83%94'>風邪 うどん レシピ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B5%E3%82%B3%E3%83%83%E3%82%B7%E3%83%A5-%E3%83%A6%E3%83%8B%E3%82%AF%E3%83%AD-2019'>サコッシュ ユニクロ 2019</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AD%E3%83%A3%E3%83%97%E3%83%86%E3%83%B3-%E3%82%B9%E3%82%BF%E3%83%83%E3%82%B0-%E3%82%AF%E3%83%83%E3%82%AB%E3%83%BC-%E3%82%BB%E3%83%83%E3%83%88-L-%E3%81%94%E9%A3%AF'>キャプテン スタッグ クッカー セット L ご飯</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%8C%97%E6%B5%B7%E9%81%93%E3%82%B3%E3%82%AB-%E3%82%B3%E3%83%BC%E3%83%A9%E3%83%9C%E3%83%88%E3%83%AA%E3%83%B3%E3%82%B0-ir'>北海道コカ コーラボトリング Ir</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%80%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%BC-%E5%BE%93%E6%A5%AD-%E5%93%A1%E6%95%B0'>ダイショー 従業 員数</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AA%E3%83%AB%E3%83%93%E3%82%B9-%E3%82%AF%E3%83%AC%E3%83%B3%E3%82%B8%E3%83%B3%E3%82%B0-%E6%8C%81%E3%81%A1'>オルビス クレンジング 持ち</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%90%8D%E6%8E%A2%E5%81%B5%E3%82%B3%E3%83%8A%E3%83%B3-%E7%B4%BA%E9%9D%92%E3%81%AE%E6%8B%B3-%E7%99%BB%E5%A0%B4%E4%BA%BA%E7%89%A9'>名探偵コナン 紺青の拳 登場人物</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%8C%AB-%E9%85%92%E5%99%A8-%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89'>錫 酒器 ブランド</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%AB%98%E6%A0%A1%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC%E9%81%B8%E6%89%8B%E6%A8%A9-2019-%E6%B3%A8%E7%9B%AE%E9%81%B8%E6%89%8B'>高校サッカー選手権 2019 注目選手</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9E%E3%82%BF%E3%82%AE-%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC-%E3%83%96%E3%83%A9%E3%83%B3%E3%82%AF'>マタギ スーパー ブランク</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%A9%E3%82%B0%E3%83%93%E3%83%BC-%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC-%E4%BD%93%E6%A0%BC'>ラグビー センター 体格</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BB%96-18%E4%BB%B6%E5%B1%85%E5%BF%83%E5%9C%B0%E3%81%8C%E8%89%AF%E3%81%84%E3%83%AC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%B3%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2%E6%96%99%E7%90%86-%E5%B0%8F%E8%A5%BF%E5%B1%8B%2C-%E6%96%99%E7%90%86%E5%B1%8B-%E6%96%B0%E7%94%BA%E5%A3%B1%E4%B8%81%E7%9B%AE%E3%81%AA%E3%81%A9'>他 18件居心地が良いレストランイタリア料理 小西屋, 料理屋 新町壱丁目など</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%8C%97-%E5%B1%B1%E7%94%B0%E5%9C%B0%E5%8C%BA%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC-%E3%81%8A%E3%81%AF%E3%81%AA%E3%81%97-%E4%BC%9A'>北 山田地区センター おはなし 会</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%BA%83%E5%B3%B6-%E3%83%A9%E3%83%B3%E3%83%81-%E9%A7%90-%E8%BB%8A%E5%A0%B4'>広島 ランチ 駐 車場</a>,
+";s:7:"expired";i:-1;}

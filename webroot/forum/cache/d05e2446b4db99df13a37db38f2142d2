@@ -1,0 +1,57 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:5449:"<br>金属アレルギーの原因、対策、メカニズムを一般の方にわかり易く説明し、発症のメカニズム、リスクやアドバイスを受けられる専門家についてご案内しています。なぜチタンなのか、なぜステンレスなのか。なぜニッケルが金属アレルギーで最も反応が出るのかなどの専門家を育てています。 金属アレルギーの人は可愛いピアスを見つけるのが大変。良いのを見つけても、素材によって買えなかったりする経験ありませんか？樹脂やニッケルフリー、チタンなどの胸キュンピアスをまとめました。こんなに可愛いのあったんだって感動するかも♡またピアスのお手入れ方法も紹介します。 <br> <br>ピアスで気をつけておかなければならない現象が「金属アレルギー」です。アレルギー反応の中でも全身に症状が現れる可能性を秘めているので、大変危険です。発症してしまう人の特徴や発症させないようにするには、どうしたら良いのでしょうか？  ピアスの金属アレルギーの症状にはかゆみや赤みなどの症状があります。熱をもって痛んだり、浸出液が出たりすることも。症状が治まったらチタンやステンレス、非金属のピアスをつけるようにしま…  ピアス 金属アレルギー 対応 サージカルステンレス ピアス 大ぶり 揺れる 可愛い ピアス / 2個1ペア(両耳) サージカルステンレス 316L製 ピアス ♪ 透明感のある3つのビーズが、可愛く揺れて、キラキラ輝く！ バラ ピアス ネックレス セット レディース 人気 蔷薇 ローズ 花 スタッドピアス k18金rgp 大人 可愛い 金属アレルギー対応 結婚式 お呼ばれ 小顔 シンプル 両耳用 おしゃれ カジュアル 上品 【ギフトbox付き】 (ホワイト ピアス) 金属アレルギーが気になって、おしゃれなピアスなどができないという女性は多いでしょう。金属アレルギーを回避できるステンレスや樹脂を使用した素材のおすすめピアスを紹介します。安心しておしゃれを楽しむことができるようになるでしょう。 金属アレルギーでピアスを諦めていた方に朗報です！！！ フックタイプのピアスは樹脂フックに変更することができますが、「直付ピアス」を樹脂に変更できることってあまりないですよね。 ピアスホールだけ金属アレルギーの症状がある私、長年その対策には苦労してきました。 せっかくのおしゃれを金属アレルギーのために楽しめないなんて残念ですよね。 いくつになっても可愛いものを身に付けたいあなたの為に. ピアスで気をつけておかなければならないのが「金属アレルギー」。 名前だけでも聞いたことがある人も、多いのではないでしょうか？ アレルギー反応の中でも全身に症状が現れる可能性を秘めているので、大変危険です。 金属アレルギーとは何なのか？ <br> <br>チタンピアスの通販ショップ「なでしこスタイル」は、全商品、金属アレルギー対応ピアス。相談実績8,000件の「ピアスホールアドバイザー」がおススメ。 金属アレルギーでも大丈夫！敏感肌でもかぶれないノンアレルギーの可愛いステンレスジュエリー、ピアス、ネックレス、ブレスレット多数。即日発送、ギフトにもおすすめ 金属アレルギー対応アクセサリー | アクセサリー通販のosewaya（お世話や）公式オンラインストアです。ネックレス、ピアス、イヤリング、ブレスレット、ヘアアクセサリーなど安くて可愛いアクセサリーを約3000点以上の品数を豊富に取り揃えています。 金属アレルギー対応ピアスのオススメ通販をご紹介します。 「私は金属アレルギー持ってないんで・・・」という人もちょっと待って！アレルギーは蓄積して発症します。アレルギーになっちゃった人も、まだなっていない人も、対策は必要なんです。【確実にアレルギーにならない素材】以外は、ピアスを変更して2～3日様 そのため、初めてピアスをする方や、肌が弱い方、金属アレルギーをお持ちの方でも安心してお使いいただけます。 セカンドピアスとしても使用できる京セラのセラミックピアスは、オシャレで可愛いジュエリーのピアスを取りそろえています。 ピアスを着けると耳にかゆみがあったり、違和感を思えることはありませんか？そんなときに気になるのが金属アレルギー。金属アレルギーの症状など、「ピアスはもう着けられない？」「もしかして金属アレルギーかも。」と思った時に、知っておいてほしいことをご紹介します。 『金属アレルギーでもつけられるピアスの選び方』の記事を書いてから、数人の方から 「18金のピアスは、金属アレルギーは大丈夫なのでしょうか？」 という、お問い合… <br>";s:7:"keyword";s:41:"金属アレルギー ピアス 可愛い";s:5:"links";s:3708:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=itunes-iphone-%E8%AA%8D%E8%AD%98%E3%81%97%E3%81%AA%E3%81%84-windows7'>Itunes Iphone 認識しない Windows7</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%90%E3%83%B3%E3%83%89%E3%83%AA-%E3%83%AC%E3%83%B3%E3%82%BF%E3%83%AB%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3-%E3%83%9D%E3%82%B1%E3%83%A2%E3%83%B3'>バンドリ レンタルパーティ ポケモン</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%9B%A2%E4%B9%B3%E9%A3%9F-%E8%92%B8%E3%81%97%E9%87%8E%E8%8F%9C-%E3%83%AC%E3%83%B3%E3%82%B8'>離乳食 蒸し野菜 レンジ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%AC%BC%E6%BB%85%E3%81%AE%E5%88%83-%E5%BD%BC%E6%B0%8F-%E8%A8%BA%E6%96%AD'>鬼滅の刃 彼氏 診断</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=2020-%E6%98%A5%E3%82%B3%E3%83%BC%E3%83%87-40%E4%BB%A3'>2020 春コーデ 40代</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Word-%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB-%E8%A1%A8%E7%A4%BA'>Word スタイル 表示</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A2%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%88%E3%83%BC%E3%83%96-%E8%87%AA%E4%BD%9C-%E3%82%B4%E3%83%88%E3%82%AF'>アルコールストーブ 自作 ゴトク</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Amazon-%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%9E%E3%83%BC%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9-%E3%83%A1%E3%83%BC%E3%83%AB'>Amazon カスタマーサービス メール</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%8B%B1-%E6%A4%9C-2%E7%B4%9A-%E7%84%A1%E6%96%99-%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88'>英 検 2級 無料 プリント</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=WordPress-embed-youtube-php'>WordPress Embed Youtube Php</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Au%E6%96%99%E9%87%91-%E6%94%AF%E6%89%95%E3%81%84-%E7%A2%BA%E8%AA%8D'>Au料金 支払い 確認</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%91%E3%83%AF%E3%83%BC%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E5%8B%95%E7%94%BB-%E5%A4%89%E6%8F%9B-Mac'>パワーポイント動画 変換 Mac</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%B5%A4%E3%81%A1%E3%82%83%E3%82%93-%E4%BA%88%E9%98%B2%E6%8E%A5%E7%A8%AE-%E9%81%95%E3%81%86-%E5%B8%82'>赤ちゃん 予防接種 違う 市</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Su-Raspberry-Pi'>Su Raspberry Pi</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%AD%E3%83%BC%E3%82%BD%E3%83%B3-%E4%BD%8E%E7%B3%96%E8%B3%AA-%E3%83%89%E3%83%BC%E3%83%8A%E3%83%84'>ローソン 低糖質 ドーナツ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%9C%9F%E5%86%AC-%E6%B4%97%E6%BF%AF%E7%89%A9-%E5%A4%96-%E5%A4%9C'>真冬 洗濯物 外 夜</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=GU-%E3%82%A2%E3%83%97%E3%83%AA-%E3%83%A2%E3%83%87%E3%83%AB'>GU アプリ モデル</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%96%B0%E6%BD%9F-%E5%A4%A7%E8%B3%9E-%E5%85%B8-2020-%E8%BF%BD%E3%81%84-%E5%88%87%E3%82%8A'>新潟 大賞 典 2020 追い 切り</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%BB%E3%83%96%E3%83%B3-%E3%82%B5%E3%83%A9%E3%83%80%E3%83%81%E3%82%AD%E3%83%B3-%E3%82%AB%E3%83%AC%E3%83%BC'>セブン サラダチキン カレー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B7%E3%83%B3%E3%82%BB-%E8%87%AA%E4%BD%9C-%E3%82%AD%E3%83%83%E3%83%88'>シンセ 自作 キット</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%84%A1%E5%8D%B0-%E6%96%B9%E7%9C%BC%E3%83%8E%E3%83%BC%E3%83%88-b6'>無印 方眼ノート B6</a>,
+";s:7:"expired";i:-1;}

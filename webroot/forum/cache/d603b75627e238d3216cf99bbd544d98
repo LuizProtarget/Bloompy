@@ -1,0 +1,80 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:7328:"<p>マイナンバー導入後に様式が新しくなる支払調書には「報酬、料金、契約金及び賞金の支払調書」等があり、支払調書を作成するためにはマイナンバーを記載することになります。実際にどのような点に気を付けて作成する必要があるのかを見ていきましょう。 いよいよ2016年の支払調書および2017年2月からの確定申告時にマイナンバー記載が義務付けられます。マイナンバーは、不動産取引にも大きな影響があります。 そこで、売買・賃貸など不動産取引を行う法人・個人の方、賃貸管理… 目次. マイナンバー制度の導入に伴い、平成28年1月1日以後に支払いが確定した報酬や不動産の賃借料等の支払に関する法定調書には、支払を受ける個人の氏名や住所のほか、マイナンバーの記載も必要となります。 マイナンバーの収集を外部に委託することは法令で認められています。 取引先は、収集したマイナンバーを「不動産等の譲受けの対価の支払調書」や「不動産の使用料等の支払調書」 マイナンバー制度が導入されたことで、納税義務に対する監視の目が強まるということをご存知でしょうか。その際ポイントになるのが「支払調書」です。源泉徴収制度の仕組みにも触れながら、今後規制が強化される中で支払調書がどのような役割を果たすのか、留意点をご紹介します。 1.1 報酬、料金、契約金及び賞金の支払調書; 1.2 不動産の使用料等の支払調書; 2 地主さんはマイナンバーの提供を拒否してもよいのか？. 不動産使用料の支払調書の作成で必要なのでしょう。 教えるのは義務ですが、教えなくても罰則はありません。相手側もマイナンバーが記載されていない支払調書を作成しても罰則はありません。税務署はナンバーは必要と言うしかできません。 2017.01.06. 次に、教えてもらったマイナンバーは何に使用されるのかというと、「法人が税務署に提出する賃料の支払調書に記載するため」です。 支払調書は、「個人の誰にいくらの賃料を支払ったか」という報告です。年間の賃料支払額が15 </p> <p>また、不動産の賃料を法人に支払っている場合は、支払調書の提出対象には該当しません。ただし、15万円超の礼金や更新料がある場合は支払調書の提出対象に該当します。 . 「支払調書」という言葉を聞いたことがありますか。マイナンバー制度が整備されていくにつれ、支払調書の取り扱いも慎重に行う必要があります。支払調書の基本的な理解とマイナンバーとの関連性を正しく理解しておきましょう。 マイナンバーの記載が必要な法定調書等について. </p> <p>27年10月にマイナンバーが交付されます。いよいよ、国民総背番号制時代が始まりマイナンバーが国民一人ひとりに交付されます。利用者の利便性アップなどと言うメリットも掲げられていますが、そんなのは後付けで、導入の理由はもちろん税と社会保険料の取りこぼしをなくすこと。 平成29年（2017年）のいまから、マイナンバーを収集する事業者に向けた情報です。大家さんなどのマイナンバーを集める実務をお伝えします。説明のポイント 支払調書の提出のためにマイナンバーを収集する 収集方法のツール、ノウハウマイナンバー 1 マイナンバーの収集が必要な支払った報酬等や地代家賃. </p> <p>まとめ. 2019.04.22 レベルアップ e-TAX法定調書（報酬・不動産マイナンバーオプション）[2019年05月版]を平成31年4月22日（月）に提供開始; 2019.01.10 レベルアップ e-TAX法定調書[2019年01月版]を平成31年1月10日（木）に提供開始 さて、この「大家さんのマイナンバーを教えて欲しい」という問い合わせは、 法人が税務署より提出を求められる「支払調書」という書類についての制度変更が問題の発端 となっていました。 そこでまずは、 「この支払調書という書類がどのようなものであるか？ </p> <p>支払調書とは. 貸主はマイナンバー提示しなければならないのか？拒否できる？駐車場を貸している大家さんへ、マイナンバー提出依頼の手紙が届く？のページです。賃貸アパート・マンション・中古住・店舗・事務所・土地なら長野市にある地域密着の芹田不動産までお気軽にご相談ください。 支払調書の作成時にマイナンバーが必要なとき リーフレット公表 都度提出するものを除き、法定調書は今月末が提出期限となっています。 そろそろ作業もピークではないでしょうか。 2.1 マイナンバーを収集する事業者はマイナンバーを適切に管理する義務がある マイナンバーの収集を外部に委託することは法令で認められています。 取引先は、収集したマイナンバーを「不動産等の譲受けの対価の支払調書」や「不動産の使用料等の支払調書」 マイナンバー制度の導入に伴い、平成28年1月1日以後に支払いが確定した報酬や不動産の賃借料等の支払に関する法定調書には、支払を受ける個人の氏名や住所のほか、マイナンバーの記載も必要となります。 不動産売却でマイナンバーの提出を拒否できる？何で必要？という疑問を解決します。不動産業者が支払調書に売主の個人番号を記載しないとどうなるのかや、提示するときの注意点についても紹介しています。悪用されないために、しっかりと確認しておきましょう。 マイナンバーの記載が必要な法定調書等について. 2017.01.06. 支払調書作成のためのマイナンバーご提出のお願い 拝啓 時下ますますご清祥のこととお慶び申し上げます。 さて、このたびはご多忙中にもかかわらず、弊社のご依頼をご承諾いただき、 感謝いたします。  マイナンバー（個人番号）は、税務分野に関する様々な書類に記載されます。そこで今回は、事業者が取り扱うことが多い法定調書関係の書類の中の「不動産に関する支払調書」についてご説明していきたいと思います。解説ポイント不動産の使用料等の支払調書不動 </p> <p>不動産使用料の支払調書の作成で必要なのでしょう。 教えるのは義務ですが、教えなくても罰則はありません。相手側もマイナンバーが記載されていない支払調書を作成しても罰則はありません。税務署はナンバーは必要と言うしかできません。 マイナンバーは支払調書に記載しなければいけない . </p>";s:7:"keyword";s:41:"支払調書 マイナンバー 不動産";s:5:"links";s:8750:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=windows10-wifi-%E7%B9%8B%E3%81%8C%E3%82%8A%E3%81%AB%E3%81%8F%E3%81%84'>Windows10 Wifi 繋がりにくい</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A2%E3%82%A4%E3%83%AA%E3%82%B9%E3%82%AA%E3%83%BC%E3%83%A4%E3%83%9E-%E9%9B%BB%E6%B0%97%E5%9C%A7%E5%8A%9B%E9%8D%8B-%E3%81%8A%E3%81%A7%E3%82%93'>アイリスオーヤマ 電気圧力鍋 おでん</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A5%88%E8%89%AF-%E4%B8%89%E6%9D%A1%E9%80%9A%E3%82%8A-%E5%B1%85%E9%85%92%E5%B1%8B'>奈良 三条通り 居酒屋</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9-%E3%83%A9%E3%83%83%E3%82%AF-100%E5%9D%87'>スペース ラック 100均</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%90%E3%83%83%E3%83%81%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB-%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF-%E3%83%95%E3%82%A9%E3%83%AB%E3%83%80'>バッチファイル ネットワーク フォルダ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B9%B1%E6%95%B0-%E5%9C%B0-%E5%A3%B0'>乱数 地 声</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%9C%B0%E5%9B%B3-%E3%83%81%E3%83%A9%E3%82%B7-%E8%B2%BC%E3%82%8A-%E4%BB%98%E3%81%91'>地図 チラシ 貼り 付け</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%97%E3%83%AD%E3%83%90%E3%82%A4%E3%83%80-id-%E3%83%91%E3%82%B9%E3%83%AF%E3%83%BC%E3%83%89-%E5%BF%98%E3%82%8C%E3%81%9F-ntt'>プロバイダ Id パスワード 忘れた Ntt</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%80%E3%82%A4%E3%82%BD%E3%83%BC-%E3%82%B3%E3%82%B9%E3%83%A1-%E3%83%8A%E3%83%81%E3%83%A5%E3%83%A9%E3%83%AB'>ダイソー コスメ ナチュラル</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%AB%98%E9%BD%A2%E8%80%85-%E9%A3%9F%E4%BA%8B-%E5%86%B7%E5%87%8D%E4%BD%9C%E3%82%8A%E7%BD%AE%E3%81%8D'>高齢者 食事 冷凍作り置き</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A4%A7%E6%B4%A5-%E3%82%B1%E3%83%BC%E3%82%AD%E5%B1%8B-%E9%AB%98%E7%9F%A5'>大津 ケーキ屋 高知</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%BB%A2%E8%81%B7%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88-%E9%80%A3%E7%B5%A1-%E3%81%93%E3%81%AA%E3%81%84'>転職エージェント 連絡 こない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%A1%E3%83%AB%E3%82%AB%E3%83%AA-%E3%81%8A%E3%81%BE%E3%81%91%E4%BB%98%E3%81%8D-%E3%81%8A%E7%A4%BC'>メルカリ おまけ付き お礼</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%B5%B7%E5%A4%96-%E3%83%87%E3%83%BC%E3%82%BFSIM-SMS'>海外 データSIM SMS</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AD%E3%83%83%E3%83%81%E3%83%B3-%E5%8F%96%E3%81%A3%E6%89%8B-%E4%BA%A4%E6%8F%9B'>キッチン 取っ手 交換</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%90%E3%82%8B%E3%81%AA%E3%81%B3-%E8%8F%AF-%E5%91%B3-%E9%B3%A5-%E5%BF%83%E6%96%8E%E6%A9%8B'>ぐるなび 華 味 鳥 心斎橋</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%9C%9D-%E3%82%B9%E3%82%AD%E3%83%B3%E3%82%B1%E3%82%A2-%E9%A0%86%E7%95%AA'>朝 スキンケア 順番</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9B%E3%83%B3%E3%83%80-%E3%83%AC%E3%83%B3%E3%82%BF%E3%82%AB%E3%83%BC-%E5%85%AB%E7%8E%8B%E5%AD%90'>ホンダ レンタカー 八王子</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A6%E3%83%BC%E3%83%90%E3%83%BC-%E3%82%A4%E3%83%BC%E3%83%84-%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC-%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC-%E7%A6%8F%E5%B2%A1-%E3%82%B3%E3%83%AD%E3%83%8A'>ウーバー イーツ パートナー センター 福岡 コロナ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AA%E3%82%BF%E3%82%AF-%E5%8A%A0%E5%B7%A5-%E3%83%8F%E3%83%BC%E3%83%88'>オタク 加工 ハート</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%95%E3%81%A4%E3%81%BE%E3%81%84%E3%82%82-%E8%92%B8%E3%81%97%E3%83%91%E3%83%B3-%E9%9B%A2%E4%B9%B3%E9%A3%9F-%E3%83%99%E3%83%BC%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%E3%81%AA%E3%81%97'>さつまいも 蒸しパン 離乳食 ベーキングパウダーなし</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B3%E3%83%BC%E3%83%B3-%E3%82%AB%E3%83%AD%E3%83%AA%E3%83%BC-%E3%82%B9%E3%83%AA%E3%83%A0'>コーン カロリー スリム</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%94%90%E6%8F%9A%E3%81%92-%E3%82%A2%E3%83%AC%E3%83%B3%E3%82%B8-%E4%BA%BA%E6%B0%97'>唐揚げ アレンジ 人気</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%86%E3%83%B3%E3%83%AA%E3%83%A5%E3%82%A6-%E3%83%AC%E3%82%A4%E3%82%BA-78LML'>テンリュウ レイズ 78LML</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%94%E3%82%A2%E3%82%B9-%E6%95%B0-%E6%84%8F%E5%91%B3'>ピアス 数 意味</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%90%8D%E8%A9%9E-%E3%81%98%E3%82%83%E3%81%AA%E3%81%84%E3%81%A7%E3%81%99%E3%81%8B-%E9%9F%93%E5%9B%BD%E8%AA%9E'>名詞 じゃないですか 韓国語</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%B9%B2%E3%81%97%E8%8A%8B-%E8%8C%A8%E5%9F%8E-%E9%80%9A%E8%B2%A9'>干し芋 茨城 通販</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A0-%E3%83%87%E3%82%B3%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3-%E7%B4%A0%E6%9D%90'>アルバム デコレーション 素材</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%95%E3%82%A1%E3%82%B9%E3%83%8A%E3%83%BC-%E7%9B%B4%E3%81%97%E6%96%B9-%E3%83%95%E3%82%A9%E3%83%BC%E3%82%AF'>ファスナー 直し方 フォーク</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%AD%E3%83%B3%E3%83%89%E3%83%B3-%E3%83%90%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%AC%E3%83%A0-%E9%AB%98%E9%80%9F%E9%89%84%E9%81%93'>ロンドン バーミンガム 高速鉄道</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=apex-%E9%87%91%E6%AD%A6%E5%99%A8-%E3%82%B7%E3%83%BC%E3%82%BA%E3%83%B33'>Apex 金武器 シーズン3</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%B5%B4%E5%AE%A4%E4%B9%BE%E7%87%A5%E6%A9%9F-%E6%99%82%E9%96%93-%E7%9B%AE%E5%AE%89'>浴室乾燥機 時間 目安</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=ubuntu-samba-%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84'>Ubuntu Samba アクセスできない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%AE%89%E5%BF%83%E3%83%95%E3%82%A3%E3%83%AB%E3%82%BF%E3%83%BC-au-%E3%82%A2%E3%83%97%E3%83%AA%E8%A8%B1%E5%8F%AF'>安心フィルター Au アプリ許可</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=X-E3-%E3%83%AC%E3%83%B3%E3%82%BA'>X E3 レンズ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%94%E3%83%BC-%E3%82%BF%E3%83%AB%E3%82%BF%E3%83%AB%E3%82%BD%E3%83%BC%E3%82%B9-%E8%B3%9E%E5%91%B3%E6%9C%9F%E9%99%90'>キューピー タルタルソース 賞味期限</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%B1%9A%E3%81%AE-%E8%A7%92-%E7%85%AE-%E8%8C%B9%E3%81%A7%E6%B1%81-%E6%8D%A8%E3%81%A6%E3%82%8B'>豚の 角 煮 茹で汁 捨てる</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89%E8%8A%B1-%E7%AB%8B%E3%81%A6%E6%9C%AD-%E4%BD%9C%E3%82%8A%E6%96%B9'>スタンド花 立て札 作り方</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A2%E3%83%BC%E3%83%A6%E3%83%AB-%E3%83%B4%E3%82%A7%E3%83%BC%E3%83%80-%E5%9B%BD%E5%86%85'>アーユル ヴェーダ 国内</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A2%E3%83%AB%E3%83%93%E3%82%AA%E3%83%B3-%E5%85%8D%E7%A8%8E%E5%BA%97-%E3%83%8F%E3%83%AF%E3%82%A4'>アルビオン 免税店 ハワイ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Mobifone-%E5%9B%BD%E9%9A%9B%E9%9B%BB%E8%A9%B1-%E3%81%8B%E3%81%91%E6%96%B9'>Mobifone 国際電話 かけ方</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%BA%BB%E7%B4%90-%E3%82%B3%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC-%E5%9B%9B%E8%A7%92'>麻紐 コースター 四角</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A2%E3%82%A4%E3%83%93%E3%82%B9-%E3%83%9A%E3%82%A4%E3%83%B3%E3%83%88-%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%88%E3%83%BC%E3%83%B3-%E3%82%B0%E3%83%A9%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3'>アイビス ペイント スクリーントーン グラデーション</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=NTT-%E6%9D%B1%E6%97%A5%E6%9C%AC-%E5%8D%97%E9%96%A2%E6%9D%B1-%E7%8E%8B%E5%AD%90'>NTT 東日本 南関東 王子</a>,
+";s:7:"expired";i:-1;}

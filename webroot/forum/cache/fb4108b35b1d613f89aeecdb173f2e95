@@ -1,0 +1,58 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:4252:"<p>このホームページでは、全国 国公立大学、私立大学の法学部を最新の偏差値データでランキングしてみました。合格難易度の比較にどうぞご利用下さい。 東北大学法学部・法学研究科専門職大学院係（certification（アットマーク）grp.tohoku.ac.jp）に、氏名、希望日・時間帯及び携帯電話番号を明記して、Eメールで申し込んで下さい。  東北大学法学部の偏差値・口コミなど、大学の詳細情報をまとめたページです。他にも入試情報、学費、就職実績、合格体験記など、他では見られない情報が満載です。 東北大学法学部の現役の学生に、どのような大学生活を送ることを期待しますか？ まず何より学生の本分である勉強をしっかりとしていただきたいと思います。それから、心身ともに健康な人間になってもらいたいですね。 東北大学 法学部. ib生受け入れ実績 ★★☆☆☆(2点) 入試難易度 ★★☆☆☆(2点) グローバル ★★★★☆(4点) 法学部では法学と政治学の基礎知識を身につけて社会問題の解決に取り組み、良き社会の実現に貢献することのできる人材の育成を目材しています。 東北学院大学の教育理念である「キリスト教による人格教育」及びそのための教育プログラムについて理解した上で、本学での学びを強く望んでいる。 法学部の教育理念・目的や教育内容を理解した上で、法学部での学びを強く望んでいる。 入学についての情報は北海道大学アドミッションセンターのサイトで公表されている内容が正式なものとなりますので、必ずアドミッションセンターの情報をご確認ください。 入試情報 法学部. 法学部の入試に関してはアドミッションセンターの情報をご覧ください。. こんにちは！ 今回は東北大学「法学部」の評判について、在校生の方にインタビューをしてきました。 東北大学「法学部」の詳しい就職先や学生の雰囲気、学費や奨学金制度についてもっと知りたい方は東北大学のパンフレットを請求してみて下さい。 東北大学の入試科目・日程・方式など入試の情報を紹介しています（旺文社提供）。一般の入試の情報も掲載しております。東北大学の入試情報なら【スタディサプリ 進路（旧：リクナビ進学）】 東北大学医学部の偏差値2020年度版最新データです（河合塾提供）。偏差値やセンター得点率、ライバル校との比較など、学校選びに役立つ情報を掲載しています。 </p> <p>東北大学 学部学科の偏差値・難易度・学費、入試科目、評判、就職先 めざせ！【東北大学】法学部法学科⇒ 学費、偏差値・難易度、入試科目、評判、就職先をチェックする！ 総合法政専攻のご紹介です。東京大学法学部・法学政治学研究科の公式サイトです。学部の特徴、カリキュラム、進路状況、学事日程などをご覧いただけます。 </p> <p>東北大学アドミッションポリシー「東北大学の特徴」より引用： 創立以来の三つの理念 創立後すぐに「研究第一」，「門戸開放」，「実学尊重」の理念を確立し，時代に応じてその内容を一層発展させてい … 東北大野球部に入部するには、まずは東北大学に入学することが必要です。 ここでは、東北大学の入試を突破した部員の合格体験記を掲載しています。 東北大学に入学する方法として、主にaoⅡ期、aoⅢ期、一般入試合格の3通りがあげられます。 国立大学法人東北大学公式ウェブサイトです。東北大学は1907年（明治40年）に日本で3番目の帝国大学として創立しました。建学以来の伝統である「研究第一」と「門戸開放」の理念を掲げ、世界最高水準の研究・教育を創造します。 </p>";s:7:"keyword";s:29:"東北大学 法学部 入試";s:5:"links";s:4316:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=MacBook-%E4%BF%9D%E8%AD%B7%E3%83%95%E3%82%A3%E3%83%AB%E3%83%A0-%E3%81%8A%E3%81%99%E3%81%99%E3%82%81'>MacBook 保護フィルム おすすめ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%A6%E3%83%8B%E3%82%AF%E3%83%AD-%E3%83%96%E3%83%A9%E3%83%88%E3%83%83%E3%83%97-%E5%9E%82%E3%82%8C%E3%82%8B-%E3%81%AE%E3%81%8B'>ユニクロ ブラトップ 垂れる のか</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=windows-server-2016-%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%83%9C%E3%82%BF%E3%83%B3-%E5%8F%8D%E5%BF%9C%E3%81%97%E3%81%AA%E3%81%84'>Windows Server 2016 スタートボタン 反応しない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%87%91%E6%B2%A2-%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3-%E8%A6%B3%E5%85%89'>金沢 デザイン 観光</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%B6%B4-%E9%83%A8-%E9%A6%96'>鶴 部 首</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=100-%E5%9D%87-%E3%83%91%E3%83%B3%E3%82%B0%E3%83%83%E3%82%BA'>100 均 パングッズ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%BA%A6-%E9%A3%B4-%E5%8A%B9%E8%83%BD'>麦 飴 効能</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C-%E3%81%8A%E3%81%97%E3%82%83%E3%82%8C-%E3%82%B9%E3%83%9D%E3%83%83%E3%83%88'>神奈川県 おしゃれ スポット</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%AF%E3%83%BC%E3%82%AF-%E6%B0%B4%E6%88%B8-%E9%9B%87%E7%94%A8%E4%BF%9D%E9%99%BA'>ハローワーク 水戸 雇用保険</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B5%E3%83%AA%E3%83%BC-%E6%89%8B%E4%BD%9C%E3%82%8A-%E5%90%8D%E5%8F%A4%E5%B1%8B'>シルバーアクセサリー 手作り 名古屋</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%B8%83%E5%9B%A3%E3%82%AB%E3%83%90%E3%83%BC-%E3%81%8A%E3%81%97%E3%82%83%E3%82%8C-%E7%99%BD'>布団カバー おしゃれ 白</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AD%E3%83%A3%E3%83%99%E3%83%84-%E3%82%B3%E3%83%81%E3%83%A5%E3%82%B8%E3%83%A3%E3%83%B3-%E9%8D%8B'>キャベツ コチュジャン 鍋</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A8%E3%83%90%E3%83%BC%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3-%E3%83%A2%E3%83%BC%E3%83%89-%E3%83%95%E3%82%A7%E3%82%A4%E3%82%B9'>エバーグリーン モード フェイス</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A2%E3%82%AF%E3%82%BB%E3%83%B3%E3%83%81%E3%83%A5%E3%82%A2-%E5%90%8D%E5%8F%A4%E5%B1%8B-%E6%8E%A1%E7%94%A8'>アクセンチュア 名古屋 採用</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6-%E4%BA%88%E9%98%B2%E6%8E%A5%E7%A8%AE-%E9%A2%A8%E9%82%AA%E3%81%AE%E6%99%82'>インフルエンザ 予防接種 風邪の時</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%86%85%E9%83%A8%E9%80%9A%E5%A0%B1-%E5%85%AC%E7%9B%8A%E9%80%9A%E5%A0%B1-%E9%81%95%E3%81%84'>内部通報 公益通報 違い</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%8A%E3%81%AB%E3%81%8E%E3%82%8A-%E5%91%B3%E5%99%8C%E6%B1%81-%E3%83%A9%E3%83%B3%E3%83%81'>おにぎり 味噌汁 ランチ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A4%E3%83%A9%E3%83%AC-%E7%94%BB%E5%83%8F%E3%83%88%E3%83%AC%E3%83%BC%E3%82%B9-%E4%B8%8D%E6%98%8E%E3%81%AA%E3%82%A8%E3%83%A9%E3%83%BC'>イラレ 画像トレース 不明なエラー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%8F%E3%82%A4%E3%82%A8%E3%83%BC%E3%82%B9-%E3%83%AF%E3%82%A4%E3%83%89-%E3%83%95%E3%83%AD%E3%82%A2%E3%83%9C%E3%83%BC%E3%83%89'>ハイエース ワイド フロアボード</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%B6%8F%E8%82%89-%E3%83%8B%E3%83%B3%E3%83%8B%E3%82%AF-%E3%82%B9%E3%83%BC%E3%83%97'>鶏肉 ニンニク スープ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=javascript-onclick-%E5%8B%95%E3%81%8B%E3%81%AA%E3%81%84'>Javascript Onclick 動かない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%B6%8F%E8%82%89-%E9%AA%A8-%E5%8F%96%E3%82%8A-%E6%96%B9'>鶏肉 骨 取り 方</a>,
+";s:7:"expired";i:-1;}

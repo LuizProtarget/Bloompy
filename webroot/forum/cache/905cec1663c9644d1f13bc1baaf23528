@@ -1,0 +1,80 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:5222:"<br>一般の人が簡単に使える、カロリーと栄養を計算するサイト。カロリーと栄養をコントロールする事で、健康的なダイエット、生活習慣病予防に役立ちます。 ユーザー登録で、食事履歴の保存ができます。 ねぎま好きなら食べても構いませんが、「あえて」ねぎまを選ぶのは避けた方が無難でしょう。 ・なんこつ串(たれ：42kcal、塩：35kcal) なんこつは低カロリーなのでどれだけ食べても平気かも？と思い込む危険があるためオススメできません。 もも塩; かわタレ; ねぎま . ホットスナック・惣菜 商品名 地域 熱量 (kcal) たんぱく質 (g) 脂質 (g) 炭水化物 (g) 食塩相当量 (g) アレルゲン 炭火焼きとり もも(タレ) 全国 138.0 14.8 7.5 2.9 1.6 小麦、卵、大豆、鶏肉、ゼラチン カロリー:133kcal .  コンビニの「ホットスナックコーナー」は、どんどん進化しています。 唐揚げやコロッケなどの定番商品は、小腹がすいたときに食べたくなりますよね。 そして、最近注目を集めているのが焼き鳥！ なんでも、ファミリーマートは「年間2億本」を目標にしているのだとか。 焼き鳥の中でも一番メジャーな商品で、 ちなみに、塩とタレを比較すると若干ながら塩の方が低カロリーです。そのため、特にこだわりが無ければ塩を選択するといいですよ。 ねぎまは糖質制限に向いている ねぎまの糖質は2本（100g）あたり約4.5gしかありません。 炭火で香ばしく焼き上げる鶏肉を塩やタレでいただく焼き鳥。ジューシーなお肉の脂が染み出したお肉とお酒が合いますよね♪今回は、そんな焼き鳥のカロリーや糖質、ダイエット中に意識したい食べ方などを紹介します。焼き鳥のカロリーや糖質をしっかりと把握す […] できそうですね。 ももタレ. ラインナップですが、4種類もあれば.  ねぎまは低カロリーのネギを挟むレシピのため、肉のみのヤキトリよりカロリーは抑えられる。 鶏肉ではなく豚バラ肉を食材に使う地方もあり、味は塩こしょう・タレの2種類が一般的。ネギマを塩味にするとカロリーダウン可能。 <br> <br>ねぎまムネ 49kcal. 重さ：10g カロリー：2.8kcal 同左、回転。 少し太めの長ねぎ1本、135g。可食部：81g カロリー：23kcal 中くらいの長ねぎ1本、90g。可食部：54g カロリー：15kcal 細めの長ねぎ1本、60g。可食部：36g カロリー：10kcal (半分に切っています。 ねぎまのカロリーや糖質量はどれくらいでしょうか。 ねぎまについてまとめていきます。 ねぎまのカロリーはどれくらい？ ねぎまは焼き鳥メニューのうちの一つです。 鶏肉とねぎを交互に串に刺して、焼いたあとタレ、もしくは塩で味付けをします。 上記4種類になります。 かわの塩が好きな私には残念な. 「焼きとり（塩）・ねぎま」1本（33.5グラム）のカロリーは48kcal。たんぱく質4.9g、脂質2.5g、炭水化物1.3g、塩分相当0.5g。写真付きのページで、食材から栄養バランスまで、グラフを使って解説しま … その日の気分に合わせて十分楽しむことが. 塩は0kcalですが、タレにはカロリーがあります。 主に糖質由来のカロリーです。 ねぎまは焼鳥の中でも低カロリーで、さらにたくさんのダイエット効果があるため、ダイエットに向いている食べ物と言われています。そんな低カロリーなねぎまですが、食べ方次第では太ってしまう原因にもなりかねません。ダイエット中にねぎまを食べる時の注意点を紹介します。 ねぎまの焼き鳥は1本100kcal前後になり、タレより塩のほうがカロリーが低めになります。 また、炭水化物の場合も同じで塩のほうが摂取する炭水化物量を抑えられるので、ダイエット中はできるだけ塩を選ぶといいでしょう。 ねぎまモモ 78kcal. 焼きたての焼き鳥のおいしさはビールがすすみますよね。手軽でおいしくてパクパク食べられちゃうんですが、焼き鳥のカロリーって気になりませんか？高タンパクで低カロリーな焼き鳥。今回は部位別にカロリーが高い焼き鳥、カロリーが低い焼き鳥をお届けします。 「焼きとん（塩）・ねぎま」1本（45.5グラム）のカロリーは60kcal。たんぱく質6.4g、脂質3.1g、炭水化物1.3g、塩分相当0.5g。写真付きのページで、食材から栄養バランスまで、グラフを使って解説しま … ねぎまのカロリーまとめ. とか書かれています。 これ？本当ですか？ 今回は、圧倒的にコンビニ焼き鳥で支持されている「ローソンでか焼鳥シリーズ」のカロリーと糖質を調査しました。 <br>";s:7:"keyword";s:26:"ねぎま 塩 カロリー";s:5:"links";s:8272:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BF%A1%E5%B7%9E%E5%A4%A7%E5%AD%A6-%E5%8C%BB%E5%AD%A6%E9%83%A8-%E6%9C%80%E5%AF%84%E3%82%8A-%E9%A7%85'>信州大学 医学部 最寄り 駅</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%87%8E%E8%BE%BA%E5%B1%B1-%E8%BB%8A-%E4%B8%AD%E6%B3%8A'>野辺山 車 中泊</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%A1%E3%83%B3%E3%82%BA-%E3%83%93%E3%82%AA%E3%83%AC-%E6%B3%A1%E7%AB%8B%E3%81%9F-%E3%81%AA%E3%81%84'>メンズ ビオレ 泡立た ない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%85%AD%E6%9C%AC%E6%9C%A8-%E3%82%AF%E3%83%A9%E3%83%96-%E9%9F%93%E5%9B%BD%E4%BA%BA'>六本木 クラブ 韓国人</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%90%8D%E5%8F%A4%E5%B1%8B-%E8%B1%8A%E6%A9%8B-%E6%9C%80%E9%80%9F'>名古屋 豊橋 最速</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=The-London-School-of-Flowers-by-Jane-Packer'>The London School Of Flowers By Jane Packer</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%98%E3%82%83%E3%82%89%E3%82%93-%E3%82%AF%E3%83%BC%E3%83%9D%E3%83%B3-%E4%BB%95%E7%B5%84%E3%81%BF'>じゃらん クーポン 仕組み</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%BF%E3%83%B3%E3%83%88-%E5%8A%A0%E9%80%9F%E6%99%82-%E7%95%B0%E9%9F%B3'>タント 加速時 異音</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%99%BE-%E5%9D%87-%E3%83%8D%E3%82%A4%E3%83%AB-%E8%A9%95%E5%88%A4'>百 均 ネイル 評判</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BC%8A%E8%B1%86%E6%A0%84-%E4%B8%8D%E5%BF%8D%E4%BA%AD-%E3%83%A1%E3%83%8B%E3%83%A5%E3%83%BC'>伊豆栄 不忍亭 メニュー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A2%E3%83%9E%E3%82%BE%E3%83%B3-%E3%82%BB%E3%83%A9%E3%83%BC%E3%82%BB%E3%83%B3%E3%83%88%E3%83%A9%E3%83%AB-%E3%81%A8%E3%81%AF'>アマゾン セラーセントラル とは</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%BB%E3%83%BC%E3%83%95%E3%83%A2%E3%83%BC%E3%83%89-Windows-Update-Windows7'>セーフモード Windows Update Windows7</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B7%E3%83%9E%E3%83%8E-%E3%83%92%E3%83%A9%E3%83%9E%E3%82%B5-%E3%83%AB%E3%82%A2%E3%83%BC'>シマノ ヒラマサ ルアー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%90%E3%82%A4%E3%82%AF-%E8%BB%A2%E5%80%92-%E7%99%BD%E7%85%99'>バイク 転倒 白煙</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B5%E3%83%B3-%E3%83%89%E3%83%A9%E3%83%83%E3%82%B0-%E5%B7%9D%E8%A5%BF'>サン ドラッグ 川西</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=MLC-68M-%E4%B8%AD%E5%8F%A4'>MLC 68M 中古</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%88%90%E7%94%B0%E5%AF%8C%E9%87%8C-%E5%BE%B3-%E6%B4%B2-%E4%BC%9A%E7%97%85%E9%99%A2-%E5%BE%AA%E7%92%B0%E5%99%A8%E5%86%85%E7%A7%91'>成田富里 徳 洲 会病院 循環器内科</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%96%B0%E5%B9%B4%E4%BC%9A-%E6%96%B0%E6%88%90%E4%BA%BA-%E6%8C%A8%E6%8B%B6'>新年会 新成人 挨拶</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A4%A7%E4%BA%AC%E7%A9%B4%E5%90%B9-%E4%B8%8D%E5%8B%95%E7%94%A3-%E8%A8%AD%E5%82%99%E4%BF%9D%E8%A8%BC'>大京穴吹 不動産 設備保証</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%86%E3%81%AA%E3%81%8E%E3%81%BF%E3%81%9F%E3%81%84%E3%81%AA%E7%99%BD%E8%BA%AB-%E9%AD%9A%E3%81%AE-%E8%92%B2%E7%84%BC%E9%A2%A8'>うなぎみたいな白身 魚の 蒲焼風</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%B1%B3%E7%B2%89-%E3%83%81%E3%83%A7%E3%82%B3-%E3%83%9E%E3%83%95%E3%82%A3%E3%83%B3'>米粉 チョコ マフィン</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%94%AF-%E6%84%8F%E5%91%B3-%E6%82%AA%E3%81%84'>唯 意味 悪い</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BF%9D%E8%82%B2%E5%9C%92-%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9-%E3%81%8A%E3%82%84%E3%81%A4'>保育園 クリスマス おやつ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A2%E3%82%A6%E3%83%A9%E3%83%8B-%E3%82%A2%E3%83%9E%E3%82%A2%E3%83%9E-%E3%82%AD%E3%83%83%E3%82%BA%E3%83%A1%E3%83%8B%E3%83%A5%E3%83%BC'>アウラニ アマアマ キッズメニュー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%86%E3%83%AC%E3%83%93-%E7%9B%B4%E6%92%AE%E3%82%8A-%E8%91%97%E4%BD%9C%E6%A8%A9'>テレビ 直撮り 著作権</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AC%E3%82%AF%E3%83%88-%E3%83%9E%E3%83%AC%E3%83%BC%E3%82%B7%E3%82%A2-%E3%83%86%E3%83%AC%E3%83%93'>ガクト マレーシア テレビ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3-%E5%8F%8E%E7%B4%8D-%E5%B8%83%E5%9B%A3'>マンション 収納 布団</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%95%E3%81%A4%E3%81%BE%E3%81%84%E3%82%82-%E8%92%B8%E3%81%97%E3%83%91%E3%83%B3-%E9%9B%A2%E4%B9%B3%E9%A3%9F-%E3%83%99%E3%83%BC%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%E3%81%AA%E3%81%97'>さつまいも 蒸しパン 離乳食 ベーキングパウダーなし</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%AF%9B%E5%B8%83-%E7%A0%B4%E3%82%8C-%E7%9B%B4%E3%81%97%E6%96%B9'>毛布 破れ 直し方</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC-%E7%84%BC%E3%81%8D%E8%8A%8B-%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0'>スーパー 焼き芋 ランキング</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%80%E3%82%A4%E3%83%AF-%E3%83%AA%E3%83%BC%E3%83%AB-%E3%83%AC%E3%83%96%E3%83%AD%E3%82%B9-3000'>ダイワ リール レブロス 3000</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%B1%A5%E6%AD%B4%E6%9B%B8-%E9%80%80%E7%A4%BE-%E9%80%80%E8%81%B7-%E3%82%A2%E3%83%AB%E3%83%90%E3%82%A4%E3%83%88'>履歴書 退社 退職 アルバイト</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=IODATA-%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC-%E8%A9%95%E5%88%A4'>IODATA ルーター 評判</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A2%E3%82%B5%E3%83%AA-%E9%87%A3%E3%82%8A%E9%A4%8C-%E4%BD%9C%E3%82%8A%E6%96%B9'>アサリ 釣り餌 作り方</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%BC%81%E5%BD%93%E7%AE%B1-%E3%82%B7%E3%83%AA%E3%82%B3%E3%83%B3%E8%93%8B-%E6%B1%9A%E3%82%8C'>弁当箱 シリコン蓋 汚れ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%80%B3%E9%BC%BB%E7%A7%91-%E5%8F%97%E4%BB%98-%E4%BB%95%E4%BA%8B'>耳鼻科 受付 仕事</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%A4%E3%81%8F%E3%81%AD-%E3%81%9F%E3%82%8C-%E3%83%9D%E3%83%B3%E9%85%A2'>つくね たれ ポン酢</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=mac-word-%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9-%E6%9E%A0%E7%B7%9A'>Mac Word テキストボックス 枠線</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%90%E3%83%AC%E3%83%B3%E3%82%BF%E3%82%A4%E3%83%B3-%E3%82%AC%E3%83%88%E3%83%BC%E3%82%B7%E3%83%A7%E3%82%B3%E3%83%A9-%E7%B0%A1%E5%8D%98'>バレンタイン ガトーショコラ 簡単</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A2%E3%83%AB%E3%83%87%E3%83%90%E3%83%A9%E3%83%B3-BFS-%E3%82%BB%E3%83%83%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0'>アルデバラン BFS セッティング</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%8A%E3%81%86-%E3%81%8E-%E5%BD%A2-%E8%89%B2%E3%81%AE%E3%81%A4%E3%81%84%E3%81%9F%E9%9D%A2%E7%A9%8D'>おう ぎ 形 色のついた面積</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%B6%8F-%E7%94%9F%E3%83%8F%E3%83%A0-%E9%A3%9F%E4%B8%AD%E6%AF%92'>鶏 生ハム 食中毒</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Mac-%E7%AE%A1%E7%90%86%E8%80%85%E6%A8%A9%E9%99%90-%E4%BB%98%E4%B8%8E'>Mac 管理者権限 付与</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%BE%E3%81%BE%E3%81%94%E3%81%A8%E3%82%AD%E3%83%83%E3%83%81%E3%83%B3-%E6%89%8B%E4%BD%9C%E3%82%8A-%E3%83%96%E3%83%AD%E3%82%B0'>ままごとキッチン 手作り ブログ</a>,
+";s:7:"expired";i:-1;}

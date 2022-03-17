@@ -1,0 +1,67 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:1682:"<p>日産ルークス（roox）の公式サイト。室内空間やラゲッジルームに加え、各グレードのインパネ・バリエーションや内装をご紹介。ユーティリティ・快適装備、ナビ・オーディオもご確認いただけます。  保険修理ご検討中の方は是非ご覧ください。 保険の事で何か分からない事がございましたら、お気軽にご相談下さい。保険免許を取得いしている者が分かりやすくご説明致し … 保険修理で得しようページへ. 以下に該当する場合は、保険・補償適用外となり、これによって発生した損害（レンタカーの修理費や清掃費、あるいはレンタカー引上げに伴う費用等）についてはお客様の全額実費負担となります。 これは「ガラス交換などを保険を使わず修理ができる」という痒い所に手が届く内容になってます。普通は保険使うと等級下がるんですが、日産カーライフ保険なら等級下げずに簡単な修理ができたりします。 特徴としては 保険補償制度が適用できない場合. タイヤパンク修理に車両保険を充てることはできるのでしょうか？車両保険に加入しておけば、車が破損したり盗難されたりしても大丈夫！ と思いきや、実はタイヤのパンクには保険が使えないこともある … </p> <p>クルマの車検・点検・整備・メンテナンス・故障、キズ・ヘコミ修理などは日産アフターサービスへ。グッドプラス保証のご案内。お得な保証延長プラン。 </p>";s:7:"keyword";s:20:"日産 修理 保険";s:5:"links";s:5688:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%80%E3%82%A4%E3%82%BD%E3%83%BC-%E3%83%AF%E3%83%B3%E3%83%97%E3%83%83%E3%82%B7%E3%83%A5-%E3%83%87%E3%82%A3%E3%82%B9%E3%83%9A%E3%83%B3%E3%82%B5%E3%83%BC-%E3%82%A2%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%AB'>ダイソー ワンプッシュ ディスペンサー アルコール</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%B8%82%E5%B7%9D%E5%B8%82-%E5%BD%93%E7%95%AA-%E5%8C%BB'>市川市 当番 医</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=DTM-%E6%9C%BA-MacBook'>DTM 机 MacBook</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%B7%9D%E5%B4%8E%E5%A4%A7%E5%B8%AB-%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6-%E4%BA%88%E9%98%B2%E6%8E%A5%E7%A8%AE'>川崎大師 インフルエンザ 予防接種</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=ex-cross-e-%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC'>Ex-cross E レビュー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%87%E3%82%A3%E3%82%A2-%E3%82%A6%E3%82%A7%E3%83%AB%E3%82%BA-%E3%82%A8%E3%83%AA%E3%82%B6%E3%83%99%E3%82%B9-%E3%82%B7%E3%83%A5%E3%83%BC'>クラウディア ウェルズ エリザベス シュー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Xperia-XZ1-Compact-%E9%9B%BB%E6%BA%90%E3%81%8C%E5%85%A5%E3%82%89%E3%81%AA%E3%81%84'>Xperia XZ1 Compact 電源が入らない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=AirDrop-%E9%80%A3%E7%B5%A1%E5%85%88%E3%81%AE%E3%81%BF-%E9%81%B8%E6%8A%9E-%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84'>AirDrop 連絡先のみ 選択 できない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%8A%E3%83%BC%E3%82%B9-%E3%81%82%E3%81%8A%E3%81%84-%E8%8B%A5%E8%8D%89-%E7%97%85%E9%99%A2'>ナース あおい 若草 病院</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%A1%94-%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9-%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88'>顔 バランス イラスト</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%A1%E3%83%AB%E3%82%AB%E3%83%AA-%E6%A8%AA%E5%8F%96%E3%82%8A-%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8'>メルカリ 横取り メッセージ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A4%A7%E6%A0%B9-%E7%85%AE%E7%89%A9-%E5%91%B3%E5%99%8C%E6%B1%81'>大根 煮物 味噌汁</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=bbc-learning-english-%E5%8B%89%E5%BC%B7%E6%B3%95'>Bbc Learning English 勉強法</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A4%A7-%E4%BA%95%E7%94%BA-%E3%83%9B%E3%83%83%E3%83%88%E3%83%9A%E3%83%83%E3%83%91%E3%83%BC-%E5%B1%85%E9%85%92%E5%B1%8B'>大 井町 ホットペッパー 居酒屋</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%99%BD%E6%BD%A4-%E6%A5%B5%E6%BD%A4-%E9%81%95%E3%81%84'>白潤 極潤 違い</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=2ch-%E4%BB%95%E4%BA%8B-%E5%A4%B1%E6%95%97'>2ch 仕事 失敗</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%B3%96%E8%B3%AA%E5%88%B6%E9%99%90-%E3%83%81%E3%83%BC%E3%82%BA%E3%82%B1%E3%83%BC%E3%82%AD-%E3%83%90%E3%82%BF%E3%83%BC%E3%81%AA%E3%81%97'>糖質制限 チーズケーキ バターなし</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%82%8A%E9%A3%AF%E5%99%A8-%E3%82%AA%E3%83%A0%E3%83%A9%E3%82%A4%E3%82%B9-%E3%83%90%E3%82%BF%E3%83%BC-%E3%81%AA%E3%81%97'>炊飯器 オムライス バター なし</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%98%E3%82%83%E3%81%8C%E3%81%84%E3%82%82-%E4%BA%BA%E5%8F%82-%E3%83%AC%E3%82%B7%E3%83%94'>じゃがいも 人参 レシピ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%AE%AE%E4%BA%A4-%E3%83%90%E3%82%B9-%E9%9B%BB%E8%A9%B1-%E7%95%AA%E5%8F%B7'>宮交 バス 電話 番号</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%96%A2%E8%A5%BF-%E6%B8%A9%E6%B3%89-n'>関西 温泉 N</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B8%80-%E5%BA%AB-%E3%83%80%E3%83%A0-%E9%81%8A%E6%AD%A9%E9%81%93'>一 庫 ダム 遊歩道</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%91%B5-%E8%8A%B1-%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88'>葵 花 イラスト</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%9C%9F%E7%80%AC-%E6%BC%81%E6%B8%AF-%E9%87%A3%E3%82%8A'>真瀬 漁港 釣り</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%A5%BD%E5%A4%A9%E8%A8%BC%E5%88%B8-%E3%82%A2%E3%83%97%E3%83%AA-PC'>楽天証券 アプリ PC</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%94%E3%82%A2%E3%82%B9-%E5%8F%B32-%E5%B7%A61'>ピアス 右2 左1</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Mac-Bluetooth-%E6%83%85%E5%A0%B1%E3%81%8C%E8%A6%8B%E3%81%A4%E3%81%8B%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93'>Mac Bluetooth 情報が見つかりません</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=gpa-%E8%A8%88%E7%AE%97-%E6%97%A5%E5%A4%A7'>Gpa 計算 日大</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88-%E6%97%A5%E4%BB%98-%E5%A4%89%E6%9B%B4'>スクリーンショット 日付 変更</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=timemachine-%E3%83%90%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97-%E9%80%B2%E3%81%BE%E3%81%AA%E3%81%84'>Timemachine バックアップ 進まない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%BB%E3%83%B3%E3%83%88%E3%83%AC%E3%82%B8%E3%82%B9%E5%A4%A7%E9%98%AA-%E3%83%AC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%B3-%E5%80%8B%E5%AE%A4'>セントレジス大阪 レストラン 個室</a>,
+";s:7:"expired";i:-1;}

@@ -1,0 +1,84 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:5211:"<br>1TB SSD 。5年保証のサムソン製。 5. おうちのimacのhddが壊れてしまったので、自分で交換してみました。その後、ssdを増設しました。hdd交換の続きに追記する形で書いています。折角なので写真と方法などなど。この作業はすべて保証外なので、ご注意を。このブログ記事を見て、いか <br> <br>Mac MINI (mid 2011)にSSDを換装する 2017/5/31 2017/6/6 ガジェット 2011年のMac MINIなためそこそこ古いので、もうこういったことはせずに買い換えている方のほうが多いかもしれません。 iMacが爆速・快適に！！iMac 21 inch Late2015を自分でSSD化してみました。今回はiFixitの分解・組み立てツールを使った体験談をご紹介します！2012年〜2019年の21 inchモデルは基本的に構造が同一なため、参考にしていただけるかと思います。 この記事では、MacBook Pro 13-inch（late 2011）の純正内蔵HDDをSSDに換装してサクサク環境にする手順をご紹介したいと思います。 2015.05.05 古〜いMacBook Pro（late 2011）をメモリ16GBへカスタ … 先日iMac 27inch 2011 MidのHDDが故障してしまいました。 新しいiMacを買うか迷った末に、ネタがてら自力でHDD交換してSSDも増設しちゃおう！という結論に。 SSD化によるメリットは何と言っても、 起動時やアプリケーション上のプロジェクトやプラグインの読み込み速度の 高速化 です。 実際にHDDからSDDに換装した場合の私のMacBook（MacBookPro 15-inch Early 2011）でのファイル読み書き速度の違いを見てみます。 <br> iMac 2011 mid の HDD を SSD に交換する。 我が家の主機、iMac の高速化！！ 準備するのは 1. [Apple]iMacにSSDを増設した時の覚書 [Apple]Mac mini (Mid 2011)のハードディスクを換装する 完全版 [ASUS]ASUS K30ADをカスタマイズする [VAIO]VAIO-Tap21カスタマイズ [PC]SDカード5種類の速度をテストした。 [Apple]Mac mini (Mid 2011)のハードディスクを換装する テスト版 MacBook Pro（2011 early）のストレージをHDDからSSDへ換装する手順を紹介します。 Macの動作が重たい方必見です。 対象となるのは、2.5インチのHDD搭載のMacBook Proです。 2011/11に購入したiMac（iMac 21.5-inch,Mid2011）は、ずっとそのままで使用。7年間現役なのだが、他のWindows マシーンや MacBook Air などと比べると、起動するのが遅い、アプリやファイルが開くのが遅いなど、古いから当然なのだろうけど、だいぶストレスを感じる。SSDに換装すれば多少速くなる … iMac 27 mid 2011で同じく外付SSD StoreJet 256GBで長寿命化を実現しております。 Thunderboltからのバスパワーへの給電にタイムラグがり、起動時の認識が遅れがちで、内蔵HDDのシステムで立ち上がってしまいます。 <br> <br>この記事は準備編の続きとなります。HDD交換編はこちら。iMac(21.5inch/2011mid)に対して下記改造を実施します。(1)SSD増設(2)CPU… 以下その場合の補足注意点です。 2.5インチSSD… お掃除用のエアダスター。 2. 5年前の当時はSSDが高価だった為この形をとりましたが、 iMac (21.5-inch, Mid 2011)にて内蔵DVDドライブをSSD化しました。 ・SSDはTranscendの480GB SSDを使用 ・治具はZheino 2nd 12.7mmノートPCドライブマウンタ使用. ガラスパネルを引っぺがすための吸盤。 3. iMac 2011 MidをSSD仕様に換装してみた 3年前に購入したiMacですが、ここ最近メモリ不足とOSのアップデートにより少々重たくなってきていました。 そろそろSSDに換装しようかなと思っていたところ、SAMSUNGのSSDが250GBで1万円ほどになっていたので衝動買いしてしまい、今回に至ります。  SSD化によるメリット. <br> <br>iMacの作業効率をあげる手段として「SSDの換装」がありますが、2015年モデル・2017年モデルなど様々なケースにおいて、やり方はどうするのか。そこで今回は、交換サービスを使わずに自分で高速化する「iMacをSSDに換装する方法」についてまとめています。  <br>iMac (mid 2010)は、5年前にHDDと光学ドライブが故障したので、 HDD → 非純正HDD（1TB） 光学ドライブ→ SSD（128GB） に交換して、システムはSSD、データはHDDに入れるというSSD＋HDD運用をしていました。. 温度センサー付きのケーブル。 6. <br> <br>iMac (mid 2010)のHDDをSSDに換装した理由. T8 & T10 サイズのトルックス（星形）レンチ。 4. ・メインマシンは iMac (27-inch, Mid 2010) のまま ・480GB の SSD を内蔵させる(1TB HDD → 480G SSD に換装) ・ケーブル購入も含めて60,000円弱の出費(ホームサーバ用のSSDは別途) ということで換装しました。増設ではありません。増設はハードル高そうだったので。 <br>";s:7:"keyword";s:19:"iMac SSD換装 2011";s:5:"links";s:9126:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%9F%93%E5%9B%BD-%E6%97%A5%E6%9C%AC-%E3%83%95%E3%82%A1%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3-%E9%81%95%E3%81%84'>韓国 日本 ファッション 違い</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%87%E3%83%AA%E3%82%ABd5-7%E4%BA%BA%E4%B9%97%E3%82%8A-%E3%82%B7%E3%83%BC%E3%83%88%E3%82%AB%E3%83%90%E3%83%BC'>デリカd5 7人乗り シートカバー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%86%99%E7%9C%9F-%E3%82%82%E3%81%96%E3%81%84%E3%81%8F-%E6%B6%88%E3%81%99-%E3%82%A2%E3%83%97%E3%83%AA'>写真 もざいく 消す アプリ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BF%A1%E5%B7%9E%E5%A4%A7%E5%AD%A6-%E8%A9%95%E5%88%A4-%E5%B7%A5%E5%AD%A6%E9%83%A8'>信州大学 評判 工学部</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%89%E3%82%AF%E3%82%BF%E3%83%BC%E3%83%9E%E3%83%BC%E3%83%81%E3%83%B3-%E3%83%90%E3%83%AC%E3%83%B3%E3%82%BF%E3%82%A4%E3%83%B3-2018'>ドクターマーチン バレンタイン 2018</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=vbs-%E3%83%90%E3%83%83%E3%83%81%E5%AE%9F%E8%A1%8C-%E9%9D%9E%E8%A1%A8%E7%A4%BA'>Vbs バッチ実行 非表示</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B8%83%E8%BC%AA-%E7%84%BC%E3%81%8D%E9%B3%A5-%E3%83%96%E3%83%AA%E3%83%83%E3%82%B8'>七輪 焼き鳥 ブリッジ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%AF%A0%E3%83%8E%E4%BA%95-%E3%83%A9%E3%83%B3%E3%83%81-%E5%92%8C%E9%A3%9F'>篠ノ井 ランチ 和食</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%95%E3%81%95%E3%81%BF-%E4%B8%8B%E5%91%B3-%E5%86%B7%E5%87%8D-%E6%A2%85'>ささみ 下味 冷凍 梅</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%8B%95%E7%89%A9-%E5%A4%9C%E9%96%93%E6%95%91%E6%80%A5-%E6%96%99%E9%87%91'>動物 夜間救急 料金</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%89%E3%82%A4%E3%83%84-%E6%9C%A8%E3%81%AE%E3%81%8A%E3%82%82%E3%81%A1%E3%82%83-%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9'>ドイツ 木のおもちゃ クリスマス</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=SH-03K-%E9%80%9A%E7%9F%A5-%E3%83%A9%E3%83%B3%E3%83%97-%E8%A8%AD%E5%AE%9A'>SH 03K 通知 ランプ 設定</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%8A%E3%82%A4%E3%82%AD-%E3%82%BB%E3%83%83%E3%83%88%E3%82%A2%E3%83%83%E3%83%97-%E3%82%AD%E3%83%83%E3%82%BA'>ナイキ セットアップ キッズ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%B8%AF%E5%BA%83-%E3%82%A2%E3%83%AC%E3%83%AB%E3%82%AE%E3%83%BC-%E6%A4%9C%E6%9F%BB'>帯広 アレルギー 検査</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%86%E3%81%A1%E3%82%8F-%E7%94%BB%E7%94%A8%E7%B4%99-%E7%9B%AE%E7%AB%8B%E3%81%A4'>うちわ 画用紙 目立つ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=2%E6%9C%8817%E6%97%A5-%E5%A4%A9%E6%B0%97-%E6%A8%AA%E6%B5%9C'>2月17日 天気 横浜</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Something-to-Talk-About-%E6%AD%8C%E8%A9%9E'>Something To Talk About 歌詞</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%BB%A2%E8%81%B7-%E7%8F%BE%E8%81%B7-%E4%BA%A4%E6%B8%89'>転職 現職 交渉</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A4%E3%83%A9%E3%83%AC-%E6%9B%B8%E3%81%8D%E5%87%BA%E3%81%97-%E4%BD%99%E7%99%BD-%E3%81%84%E3%82%89%E3%81%AA%E3%81%84'>イラレ 書き出し 余白 いらない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%BB%A2%E5%8B%A4-%E9%80%80%E8%81%B7-%E8%8B%A5%E6%89%8B'>転勤 退職 若手</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%A4%E3%82%B5%E3%82%AB-%E3%82%BF%E3%82%AF%E3%82%B7%E3%83%BC-%E8%B2%B8%E5%88%87'>ヤサカ タクシー 貸切</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%AE%A1%E7%90%86-%E6%A0%84%E9%A4%8A%E5%A3%AB-%E3%81%A8%E7%9C%8B%E8%AD%B7%E5%B8%AB-%E7%B5%A6%E6%96%99'>管理 栄養士 と看護師 給料</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%90%E3%82%A4%E3%83%88-20%E4%B8%87-%E6%89%80%E5%BE%97%E7%A8%8E'>バイト 20万 所得税</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%B2%96%E3%83%8E%E5%B3%B6-%E3%83%95%E3%82%A7%E3%83%AA%E3%83%BC-%E6%96%99%E9%87%91'>沖ノ島 フェリー 料金</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=IE-%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89%E3%81%AE%E8%A1%A8%E7%A4%BA-%E9%96%8B%E3%81%8B%E3%81%AA%E3%81%84'>IE ダウンロードの表示 開かない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=MacBook-%E4%BF%9D%E8%AD%B7%E3%83%95%E3%82%A3%E3%83%AB%E3%83%A0-%E3%81%8A%E3%81%99%E3%81%99%E3%82%81'>MacBook 保護フィルム おすすめ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%8B%E3%83%99%E3%82%A2-%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0-%E3%83%9C%E3%83%87%E3%82%A3-%E3%83%9F%E3%83%AB%E3%82%AF-%E3%83%AA%E3%83%9A%E3%82%A2-%E3%83%A8%E3%83%89%E3%83%90%E3%82%B7'>ニベア プレミアム ボディ ミルク リペア ヨドバシ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%8B%E3%83%88%E3%83%AA-A7-%E5%8F%A3%E3%82%B3%E3%83%9F'>ニトリ A7 口コミ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%BE%E3%81%BE%E3%81%94%E3%81%A8%E3%82%AD%E3%83%83%E3%83%81%E3%83%B3-%E6%89%8B%E4%BD%9C%E3%82%8A-%E7%94%B7%E3%81%AE%E5%AD%90'>ままごとキッチン 手作り 男の子</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A2%E3%82%A4-%E3%83%AA%E3%83%83%E3%82%B7%E3%83%A5-%E3%83%91%E3%83%96%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3'>アイ リッシュ パブチェーン</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%AD%8B%E3%83%88%E3%83%AC-%E9%A3%B2%E3%81%BF%E7%89%A9-%E3%83%80%E3%83%A1'>筋トレ 飲み物 ダメ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%90%E3%83%83%E3%82%B0-%E6%8C%81%E3%81%A1%E6%89%8B-%E8%B2%A9%E5%A3%B2'>バッグ 持ち手 販売</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%B1%86%E8%85%90-%E3%82%AC%E3%83%88%E3%83%BC%E3%82%B7%E3%83%A7%E3%82%B3%E3%83%A9-%E3%82%AB%E3%83%AD%E3%83%AA%E3%83%BC'>豆腐 ガトーショコラ カロリー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%AC%E3%82%B8%E3%83%B3-%E4%BF%9D%E5%AD%98-%E5%AE%B9%E5%99%A8-100%E5%9D%87'>レジン 保存 容器 100均</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%82%E3%81%A4%E9%8D%8B-%E3%81%8A%E3%81%8A%E3%81%84%E3%81%97-%E5%8F%96%E3%82%8A%E5%AF%84%E3%81%9B'>もつ鍋 おおいし 取り寄せ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%A4%BE-%E5%8F%B0-%E3%83%AC%E3%83%BC%E3%82%B9%E3%83%9B%E3%83%BC%E3%82%B9-%E3%82%B5%E3%83%B3%E3%83%87%E3%83%BC-%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%B3%E3%82%B0'>社 台 レースホース サンデー レーシング</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%AE%AE%E5%9F%8E-%E9%AB%98%E6%A0%A1-%E3%83%90%E3%82%A4%E3%83%88ok'>宮城 高校 バイトok</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B8%B8%E7%BE%8E%E5%B1%8B-%E8%87%AA%E4%B8%BB-%E5%9B%9E%E5%8F%8E'>丸美屋 自主 回収</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B8%89%E8%8F%B1%E5%9C%B0%E6%89%80-cm-%E6%A1%9C%E5%BA%AD'>三菱地所 Cm 桜庭</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%AC%E3%82%A4-%E6%AD%A3%E4%BD%93-%E3%82%A8%E3%83%B4%E3%82%A1'>レイ 正体 エヴァ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%8A%E3%81%9B%E3%81%A1-%E3%81%94%E3%81%AF%E3%82%93-%E3%82%82%E3%81%AE'>おせち ごはん もの</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%B3%A5%E5%8F%96%E5%A4%A7%E5%AD%A6-%E5%8C%BB%E5%AD%A6%E9%83%A8-%E3%82%B5%E3%83%BC%E3%82%AF%E3%83%AB'>鳥取大学 医学部 サークル</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%96%E3%83%A9-%E5%B0%8F%E3%81%95%E3%81%84-%E3%82%B5%E3%82%A4%E3%83%B3'>ブラ 小さい サイン</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%AD%E3%83%BC%E3%82%AB%E3%83%AB-%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97-%E3%83%9D%E3%83%AA%E3%82%B7%E3%83%BC-%E3%82%A8%E3%83%87%E3%82%A3%E3%82%BF%E3%83%BC-%E3%82%92-%E5%AE%9F%E8%A1%8C'>ローカル グループ ポリシー エディター を 実行</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A4%9C%E8%A1%8C%E3%83%90%E3%82%B9-%E3%81%8A%E3%81%99%E3%81%99%E3%82%81-%E3%83%87%E3%82%A3%E3%82%BA%E3%83%8B%E3%83%BC'>夜行バス おすすめ ディズニー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B3%E3%83%B3%E3%83%93%E3%83%8B-%E5%94%90%E6%8F%9A%E3%81%92-%E5%86%B7%E5%87%8D'>コンビニ 唐揚げ 冷凍</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%91%E3%83%A9%E3%83%93-%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%A0%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88-%E7%B9%8B%E3%81%8C%E3%82%89-%E3%81%AA%E3%81%84'>パラビ クロームキャスト 繋がら ない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Hire-employ-%E9%81%95%E3%81%84'>Hire Employ 違い</a>,
+";s:7:"expired";i:-1;}

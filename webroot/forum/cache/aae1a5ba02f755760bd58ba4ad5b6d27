@@ -1,0 +1,68 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:5090:"<br>とある案件でお客様の開発環境で作業するために、自宅からリモートのサーバーへSamba接続して作業することになったのですが、まず最初に「Samba繋がらん！」と詰まってしま … たとえば、NASで、SMB1.0、2.0しか利用できないような場合は、設定変更でSMB3.0にあげてWindows10に対応するように変更することが出来ます。 Synologyの例です。 まず、DMSにログインしてください。 コントロールパネルを開きます。 ファイルサービスを開きます。 <br> Windows10でSamba接続（SMB接続）ができなくて困った！なんとか解決？したときのメモ . お世話になります。 現在IOdataのNASに複数人がアクセスしています。 とある問題が発生し、Windows 10の端末を初期化しました。 そうしたところ、NASへアクセスできなくなりました。 機種：Surface laptop FWは最新の1.0にverup済み OS:Windows pro 64bit 1709 OSビルド16299.248 導入セキュリティ：トレンドマイクロ 現在のWindows10では、 セキュリティー の問題からSMB1は使用できないようになっています。 古いネットワークドライブなど、SMB1仕様のものは、規定値では使用できません。 SMB1 仕様の共有ドライブなど、現在でも使用している人は多いと思います。 LANDISKに接続できない状態の時 windows10ではSMB1.0が無効になっている場合があります。 Windows10のアップデート後に、社内の共有フォルダが見れなくなった(NASにアクセスできなくなった)というお問い合わせをよくいただきます。原因は様々ですが、多くのケースでSMBの設定が原因となっています。もし同様のトラブルに遭遇した際 Windows10のパソコンで、NASに繋げようと思ったら、下記の画像が表示されました。 NASに繋げたときのメッセージ. これは、SMB1.0が初期値で無効になっているためです。 Microsoftサポートによると、Windows10（バージョン1709以降）からは、無効になったためです。 （参考）Windows 10 Fall Creators Update と 2 Windows10がNASの共有フォルダにアクセス出来ない問題点と解決策とは何か？ 3 Windows10だけNASにアクセス・接続できない問題はこれで解決！ 4 結果：Windows10だけNASにアクセス・接続できない問題は『SMB1.0/CIFS クライアント機能を有効化』して解決！ <br> <br>Windows10 Creators Update. Windows 10 で NAS への接続時、以下のようなエラーが発生する場合の対処方法について書いておきます。 N: を次に接続しようとしてエラーが発生しました ～～ここにパス～～ Microsoft Windows […] <br> <br>Windows 10 April 2018 Update を適用したらNAS機能が使用できなくなりましたに関するFAQ。バッファローのサポートのコンテンツをご紹介。 Windows10でNASに接続できない時に試すこと Windowsのクリーンインストールをしていると「あれ？NASに接続できないぞ！？」と悩むことがあります。NASに接続できない理由はいくつかありますが、今回はSMB1.0及びCIFSとして接続可能にします。 LANMANの時代から引き継がれてきた、SMB V1が既定で無効になってしまったんですよ。 スポンサーリンク. 普段使っていたnasに突然アクセスできなくなった。nasはlandisk hdl-2.0a/e（アイ・オー・データ製）。2013年に導入。ファミリーユースの共有ファイルサーバとして、写真やムービー、音楽ファイル、家族それぞれのファイル置場と  2018/8/27 トラブル事例. Windows10に標準搭載されている録画（画面キャプチャ）機能は優秀だよ 2016.05.15 2020.02.19 Windows10に標準搭載のされているアプリで動画を編集する方法 我が家には、約10年くらいNASとして活躍している「玄箱」があります。デジカメで撮影した写真を保存していますが、Windows10を更新してから、突然接続できな … LANDISKに接続できない時はSMB1.0を有効にしてみると幸せになれるかも. エラーメッセージを消すためには、 SMB1プロトコルが必要です; SMB2以降を使用する必要があります; これらを行う必要があります。 僕の場合は、「SMB1」をパソコン側で「有効」に … 2019年7月8日 2019年10月2日. Windows 10でSMB1を有効にする. Windows10のPCからNASにアクセスできない場合、 「SMB1.0」クライアント機能が「無効」になっている可能性があります。 （Windows10のPCから）NASへのアクセスを可能としたい場合は、 以下の手順でご確認、または「有効」に変更し、アクセスが可能かをお試しください。 ＜＜SMBv1クライア … <br> <br>";s:7:"keyword";s:41:"landisk 接続できない windows10 smb1";s:5:"links";s:6366:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%9D%B1%E5%A4%A7%E9%98%AA%E5%B8%82-%E4%BD%8F%E6%B0%91%E7%A8%8E-%E3%82%AF%E3%83%AC%E3%82%B8%E3%83%83%E3%83%88'>東大阪市 住民税 クレジット</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%A5%AD%E5%8B%99%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC-%E5%B1%B1%E8%8F%9C-%E6%B0%B4%E7%85%AE'>業務スーパー 山菜 水煮</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=ipa-%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E6%94%BB%E6%92%83-%E4%BA%8B%E4%BE%8B'>Ipa サイバー攻撃 事例</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%90%88%E6%8C%BD%E3%81%8D%E8%82%89-%E3%82%B9%E3%83%BC%E3%83%97-%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%A1'>合挽き肉 スープ コンソメ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%95%E3%81%95%E3%81%BF-%E6%A2%85%E3%81%97%E3%81%9D-%E6%98%A5%E5%B7%BB%E3%81%8D'>ささみ 梅しそ 春巻き</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B7%E3%83%A7%E3%83%99%E3%83%AB-%E3%83%AD%E3%83%BC%E3%83%80%E3%83%BC-%E7%AD%89%E9%81%8B%E8%BB%A2%E6%8A%80%E8%83%BD%E8%AC%9B%E7%BF%92-%E7%A6%8F%E5%B2%A1'>ショベル ローダー 等運転技能講習 福岡</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%88%E3%82%A4%E3%83%AC-%E3%82%BF%E3%83%B3%E3%82%AF-DIY-%E9%9A%A0%E3%81%99'>トイレ タンク DIY 隠す</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%BC%98%E5%89%8D%E5%A4%A7%E5%AD%A6-%E5%8D%92%E6%A5%AD%E5%BC%8F-%E4%B8%AD%E6%AD%A2'>弘前大学 卒業式 中止</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%A6%E3%82%93%E3%81%8B%E3%82%93-%E7%AA%81%E7%84%B6%E6%AD%BB-%E7%9F%A5%E6%81%B5%E8%A2%8B'>てんかん 突然死 知恵袋</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%8E-%E5%8F%A3%E3%82%B3%E3%83%9F-%E6%B4%97%E9%A1%94'>トランシーノ 口コミ 洗顔</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%B9%B3%E5%B1%8B-%E4%B8%AD-%E4%BA%8C%E9%9A%8E-%E3%83%99%E3%83%A9%E3%83%B3%E3%83%80'>平屋 中 二階 ベランダ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%8A%E3%82%A4%E3%82%AD-%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC-Amazon'>ナイキ パーカー Amazon</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%A0-%E7%BE%8E%E5%AE%B9%E6%B6%B2-50ml'>ランコム 美容液 50ml</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%92%E3%83%AD%E3%82%A2%E3%82%AB-%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC-%E3%82%AC%E3%83%81%E3%83%A3'>ヒロアカ ポスター ガチャ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%93%81%E5%B7%9D%E3%82%B9%E3%82%AD%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%8B%E3%83%83%E3%82%AF-%E7%86%8A%E6%9C%AC-%E9%A7%90-%E8%BB%8A%E5%A0%B4'>品川スキンクリニック 熊本 駐 車場</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B8%87-%E5%9B%B3-%E5%9B%9B%E5%AD%97%E7%86%9F%E8%AA%9E'>万 図 四字熟語</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Xperia-Z2-Tablet-%E3%82%B9%E3%83%9A%E3%83%83%E3%82%AF'>Xperia Z2 Tablet スペック</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%B1%9A%E8%82%89-%E8%8C%B9%E3%81%A7%E6%B1%81-%E4%BF%9D%E5%AD%98'>豚肉 茹で汁 保存</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A4%9C%E7%A9%BA-%E3%82%B0%E3%83%A9%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3-%E8%89%B2%E9%89%9B%E7%AD%86'>夜空 グラデーション 色鉛筆</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%BE%8E%E6%BF%83%E5%90%89-%E4%BA%AC%E7%8E%8B-%E5%80%8B%E5%AE%A4'>美濃吉 京王 個室</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%96%B0%E3%81%97%E3%81%84-Steam-%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA-%E3%83%95%E3%82%A9%E3%83%AB%E3%83%80-%E3%81%AF-%E6%9B%B8%E3%81%8D%E8%BE%BC%E3%81%BF%E5%8F%AF%E8%83%BD-%E3%81%A7-%E3%81%82%E3%82%8B-%E5%BF%85%E8%A6%81%E3%81%8C-%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99'>新しい Steam ライブラリ フォルダ は 書き込み可能 で ある 必要が あります</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%95%81%E9%BA%BB%E7%96%B9-%E6%B6%88%E3%81%88%E3%81%AA%E3%81%84-%E5%AD%90%E4%BE%9B'>蕁麻疹 消えない 子供</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%96%AC-%E6%A3%9A-%E5%8F%8E%E7%B4%8D'>薬 棚 収納</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%B3%BB-%E4%BD%93-%E5%9B%9B%E5%AD%97%E7%86%9F%E8%AA%9E'>系 体 四字熟語</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B9%E3%82%AB%E3%83%BC%E3%83%88-%E5%8F%8E%E7%B4%8D-%E5%BC%95%E3%81%8D%E5%87%BA%E3%81%97'>スカート 収納 引き出し</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=google-chrome-%E3%81%A7%E3%81%AF%E6%97%A2%E5%AE%9A%E3%81%AE%E3%83%96%E3%83%A9%E3%82%A6%E3%82%B6%E3%82%92%E5%88%A4%E5%AE%9A%E3%81%BE%E3%81%9F%E3%81%AF%E8%A8%AD%E5%AE%9A%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%9B%E3%82%93'>Google Chrome では既定のブラウザを判定または設定できません</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%A5%9E%E6%88%B8-%E9%9B%BB%E9%89%84-%E5%AD%A6%E7%94%9F-%E5%AE%9A%E6%9C%9F-%E6%89%95%E3%81%84%E6%88%BB%E3%81%97'>神戸 電鉄 学生 定期 払い戻し</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%B4%85%E3%81%AF%E3%82%8B%E3%81%8B-%E8%8B%97-%E3%82%A2%E3%83%9E%E3%82%BE%E3%83%B3'>紅はるか 苗 アマゾン</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%9F%E3%82%89%E3%81%93-%E3%82%BD%E3%83%BC%E3%82%B9-%E3%82%AA%E3%83%A0%E3%83%A9%E3%82%A4%E3%82%B9-%E3%82%AF%E3%83%83%E3%82%AF%E3%83%91%E3%83%83%E3%83%89'>たらこ ソース オムライス クックパッド</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%98%BF%E8%98%AD%E9%99%80-%E7%84%BC-%E3%83%99%E3%83%93%E3%83%BC%E3%82%AB%E3%82%B9%E3%83%86%E3%83%A9-%E3%83%AC%E3%82%B7%E3%83%94'>阿蘭陀 焼 ベビーカステラ レシピ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%99%8C-%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B84-%E5%AE%8C%E6%B2%BB'>癌 ステージ4 完治</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Firefox-PC%E3%82%B5%E3%82%A4%E3%83%88%E3%83%A2%E3%83%BC%E3%83%89-%E5%9B%BA%E5%AE%9A'>Firefox PCサイトモード 固定</a>,
+";s:7:"expired";i:-1;}

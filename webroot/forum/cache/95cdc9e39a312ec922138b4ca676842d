@@ -1,0 +1,82 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:3962:"<br>場所 大阪大学 豊中キャンパス 体育館 1階 道場. <br> <br>大阪大学の受験を控えている方！エイブルの合格前予約なら、合格後にお部屋を探しに行く必要がありません。人気物件も先取り。早めにお部屋を予約して、ゆとりのある受験、新生活を始めませんか？ 関西大学 千里山キャンパス 中央体育館のキャパ、座席表、アクセスなどの会場情報を紹介するページです。関西大学 千里山キャンパス 中央体育館のイベント、ライブやコンサート情報を確認でき、オンラインで簡単にチケットの予約・購入ができます。 ラ・シェーナは大阪大学吹田キャンパス内にあるカジュアルレストランです。カジュアルなお客様との会食から団体様の懇親会まで皆様のニーズに合わせてご利用下さいませ。従業員一同心よりお待ちしております。 【※臨時休業についてのお知らせ】 大阪大学本部・部局のページが別窓で開きます。 各キャンパスのアクセス・構内地図 <br> <br>大阪大学生活協同組合（阪大生協）のWebサイト。阪大生協は大阪大学3キャンパス（豊中・吹田・箕面）内に30以上の拠点（店舗・サービスカウンター・事務室）を持ち、阪大生・阪大院生・阪大教職員の方々の勉学研究・日常生活の他、キャリア支援や就職活動まで、幅広くサポートします。 <br> <br>地図はこちら（73番 体育館） . 火曜・木曜 17:00～19:30. 土曜 13:30～16:30. . <br> <br>大阪モノレール 柴原駅 徒歩約7～15分 住所 〒560-0043 大阪府豊中市待兼山町1−16 大阪大学 全学教育推進機構 大阪大学各キャンパス・各部局の地図. <br> <br>施設・キャンパスライフをcheck! <br> 大阪学院大学・大阪学院大学短期大学部の公式サイト。実学教育を通じ、実践的な人材の育成をめざす総合大学。大学、短期大学部、通信教 育部、大学院5研究科、法科大学院を擁する。 <br> <br>! tel:06-6386-7050 fax:06-6386-7703 . 吹田市立南吹田市民体育館 〒564-0043 大阪府吹田市南吹田5-34-1. <br> <br> 阪大のキャンパス内にスポーツジムってありますか？？ ありますよ。トレーニングルーム。昔何度か交流戦や合同練習で使わせてもらいました。豊中は体育館とグラウンドの間の建物にありました。体育会系部員に聞いたらわかりますよ。 本学では、名城大学・附属高等学校の卒業生、名城大学の在学生、名城大学・附属高等学校の教職員を対象に、授業、試験、学内行事等の使用に支障のない範囲で、ナゴヤドーム前キャンパスの施設の一部（西館2階会議室等）を有料でお貸ししています。 ひと足早く大学生活を体験できます。ぜひ学生食堂でランチを味わってください。また、もれなく全員に大学オリジナルグッズをプレゼント！ キャンパス見学ツアー; 学生寮・スポーツ施設見学ツアー; 図書館体験 大阪大学のスポーツ施設情報です。大阪大学の体育館（アリーナ）などのスポーツ施設の写真を掲載しています。 ... 吹田キャンパス 〒565-0871 大阪府吹田市山田丘1-1. <br> <br> <br>道場への道のりはこちら 【ぐるなび】大阪大学（産業科学研究所）周辺のグルメ・レストランをお探しなら日本最大級のレストラン公式情報サイト「ぐるなび」にお任せ。おすすめの大阪大学（産業科学研究所）周辺のグルメなレストラン情報が満載で、店舗情報やメニュー・クーポン・地図などの情報も揃ってます! tel.06-6877-5111 <br>";s:7:"keyword";s:52:"大阪大学 吹田 キャンパス 体育館 予約";s:5:"links";s:8276:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=iMovie-09-%E4%BD%BF%E3%81%84%E6%96%B9'>IMovie 09 使い方</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=MacBook-Air-11-inch-Mid-2012-Battery'>MacBook Air 11 Inch Mid 2012 Battery</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%94%90-%E6%8F%9A%E3%81%92-%E6%A3%92-%E3%81%8A%E3%81%8B%E3%81%9A'>唐 揚げ 棒 おかず</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%9F%93%E5%9B%BD%E3%83%89%E3%83%A9%E3%83%9E-%E6%99%82%E4%BB%A3%E5%8A%87-%E4%BF%B3%E5%84%AA'>韓国ドラマ 時代劇 俳優</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=hotel-the-atta-%E5%A4%A7%E5%B3%B6%E3%81%A6%E3%82%8B'>Hotel The Atta 大島てる</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%BF%E3%83%8B%E3%82%BF-%E4%B8%87%E6%AD%A9%E8%A8%88-%E5%88%80%E5%89%A3%E4%B9%B1%E8%88%9E'>タニタ 万歩計 刀剣乱舞</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Kikki-K-PLANNER'>Kikki K PLANNER</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%98%BC%E9%A3%9F-%E3%81%8A%E3%81%AB%E3%81%8E%E3%82%8A-%E3%83%90%E3%83%8A%E3%83%8A'>昼食 おにぎり バナナ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%9B%A2%E4%B9%B3%E9%A3%9F-%E5%AE%8C%E4%BA%86%E6%9C%9F-%E9%BA%BA'>離乳食 完了期 麺</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B8%89%E4%BA%95-%E4%B8%8D%E5%8B%95%E7%94%A3-%E5%8B%A4%E5%8B%99-%E6%99%82%E9%96%93'>三井 不動産 勤務 時間</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%A8%E3%81%93%E3%82%8D-%E6%BC%A2%E5%AD%97-%E3%81%B2%E3%82%89%E3%81%8C%E3%81%AA-%E4%BD%BF%E3%81%84%E5%88%86%E3%81%91'>ところ 漢字 ひらがな 使い分け</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%88%BA%E8%BA%AB-%E3%81%BF%E3%82%8A%E3%82%93-%E9%86%A4%E6%B2%B9'>刺身 みりん 醤油</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A5%88%E8%89%AF-%E4%B8%89%E6%9D%A1%E9%80%9A%E3%82%8A-%E5%B1%85%E9%85%92%E5%B1%8B'>奈良 三条通り 居酒屋</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%87%E3%83%AA%E3%82%AB-3%E5%88%97%E7%9B%AE-%E6%A3%9A'>デリカ 3列目 棚</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%AF%E3%81%A8%E3%83%90%E3%82%B9-%E8%BF%8E%E8%B3%93%E9%A4%A8-%E3%82%AF%E3%83%AB%E3%83%BC%E3%82%BA'>はとバス 迎賓館 クルーズ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%80%E3%82%B3%E3%82%BF-%E3%82%AB%E3%83%83%E3%82%B7%E3%83%BC%E3%83%8B-%E3%81%8C%E3%81%BE%E5%8F%A3'>ダコタ カッシーニ がま口</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=iPhone-%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC%E7%AF%80%E7%B4%84-iOS12'>IPhone バッテリー節約 IOS12</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A6%E3%82%A4%E3%83%B3%E3%83%89%E3%82%A6%E3%82%BA-10-%E6%A4%9C%E7%B4%A2%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3'>ウインドウズ 10 検索エンジン</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Google-%E3%83%97%E3%83%AC%E3%82%A4-%E3%82%B2%E3%83%BC%E3%83%A0-%E7%84%A1%E6%96%99'>Google プレイ ゲーム 無料</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%9F%93%E5%9B%BD-%E9%8D%8B-%E3%82%AB%E3%83%AD%E3%83%AA%E3%83%BC'>韓国 鍋 カロリー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9E%E3%82%AB%E3%83%95%E3%82%A3%E3%83%BC-%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB-%E8%A8%AD%E5%AE%9A'>マカフィー ファイアウォール 設定</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%80%E3%82%A6%E3%83%B3-%E7%9D%80%E3%81%93%E3%81%AA%E3%81%97-%E7%94%B7%E5%89%8D'>ダウン 着こなし 男前</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%A1%E3%83%AB%E3%82%AB%E3%83%AA-%E3%83%8D%E3%82%B3%E3%83%9D%E3%82%B9-%E7%AE%B1-%E9%80%81%E6%96%99'>メルカリ ネコポス 箱 送料</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%98%E3%82%83%E3%81%8C%E3%81%84%E3%82%82-%E5%8D%83%E5%88%87%E3%82%8A-%E3%82%BD%E3%83%86%E3%83%BC'>じゃがいも 千切り ソテー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%A1%E3%83%AB%E3%82%AB%E3%83%AA-%E3%82%AB%E3%83%AB%E3%82%AB%E3%83%83%E3%82%BF-%E3%82%B3%E3%83%B3-%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88'>メルカリ カルカッタ コン クエスト</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=DWG-%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B3-%E7%99%BD%E3%81%84'>DWG アイコン 白い</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%A1%E3%82%93%E3%81%99%E3%81%93%E3%81%86-%E3%83%A9%E3%83%BC%E3%83%89-%E4%BB%A3%E7%94%A8'>ちんすこう ラード 代用</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%AD%AF%E7%A3%A8%E3%81%8D%E7%B2%89-%E3%81%8A%E3%81%99%E3%81%99%E3%82%81-%E6%AD%AF%E5%8C%BB%E8%80%85'>歯磨き粉 おすすめ 歯医者</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%83%BD-%E9%81%93%E5%BA%9C%E7%9C%8C-%E5%88%A5-%E7%94%B7%E5%A5%B3%E6%AF%94'>都 道府県 別 男女比</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B3%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%BC%E3%83%97-%E7%8E%89%E3%81%AD%E3%81%8E-%E3%81%82%E3%82%8A-%E3%81%AA%E3%81%97'>コーンスープ 玉ねぎ あり なし</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A4%A7%E5%92%8C%E8%A8%BC%E5%88%B8-CM%E6%9B%B2-2018'>大和証券 CM曲 2018</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9D%E3%83%AA%E3%83%97%E3%83%AD%E3%83%94%E3%83%AC%E3%83%B3%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A03%E6%AE%B5-%E3%82%B9%E3%82%AF%E3%82%A8%E3%82%A2%E3%82%B5%E3%82%A4%E3%82%BA-240%E6%9E%9A%E7%94%A8'>ポリプロピレンアルバム3段 スクエアサイズ 240枚用</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%89%E3%83%A9%E3%82%AF%E3%82%A811-%E6%94%BB%E7%95%A5-%E6%9C%80%E5%BE%8C%E3%81%AE%E9%8D%B5'>ドラクエ11 攻略 最後の鍵</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=BTS-%E5%AE%9F%E5%AE%B6-%E8%B2%A7%E4%B9%8F'>BTS 実家 貧乏</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%B8%9D%E7%8E%8B%E5%88%87%E9%96%8B-%E6%99%82%E9%96%93-%E9%95%B7%E3%81%84'>帝王切開 時間 長い</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Nodejs-image-onload'>Nodejs Image Onload</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B8%80%E6%BB%B4-%E3%81%AE%E6%B0%B4-%E3%81%93%E3%81%A8%E3%82%8F%E3%81%96'>一滴 の水 ことわざ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%9D%B1%E5%8C%97-%E5%A4%A7%E5%AD%A6-%E3%82%B3%E3%83%AD%E3%83%8A-%E6%84%9F%E6%9F%93-%E8%80%85'>東北 大学 コロナ 感染 者</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%81%8E%E6%95%8F%E6%80%A7%E8%85%B8%E7%97%87%E5%80%99%E7%BE%A4-%E3%82%AC%E3%82%B9%E5%9E%8B-%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC'>過敏性腸症候群 ガス型 コーヒー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%9C%AD%E5%B9%8C-%E5%B1%B1%E3%81%AE%E6%89%8B-%E9%AB%98%E6%A0%A1-%E7%95%99%E5%AD%A6%E7%94%9F'>札幌 山の手 高校 留学生</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%88%E3%83%9E%E3%83%88%E7%BC%B6-%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%A1-%E3%83%91%E3%82%B9%E3%82%BF'>トマト缶 コンソメ パスタ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%8D%83%E6%AD%B3%E7%83%8F%E5%B1%B1-%E6%95%B4%E5%BD%A2%E5%A4%96%E7%A7%91-MRI'>千歳烏山 整形外科 MRI</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=B5-%E3%83%8E%E3%83%BC%E3%83%88-100%E6%9E%9A'>B5 ノート 100枚</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BD%8E%E7%B3%96-%E8%B3%AA-%E3%82%B9%E3%82%A4%E3%83%BC%E3%83%84%E3%83%AC%E3%82%B7%E3%83%94-%E7%B0%A1%E5%8D%98'>低糖 質 スイーツレシピ 簡単</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AD%E3%83%A9%E3%82%AD%E3%83%A9%E3%83%8D%E3%83%BC%E3%83%A0-%E5%AE%9F%E5%9C%A8-%E8%A8%BC%E6%8B%A0'>キラキラネーム 実在 証拠</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A4%E3%83%B3%E3%82%B9%E3%82%BF-%E4%BD%8F%E6%89%80-%E8%B2%BC%E3%82%8A-%E4%BB%98%E3%81%91'>インスタ 住所 貼り 付け</a>,
+";s:7:"expired";i:-1;}

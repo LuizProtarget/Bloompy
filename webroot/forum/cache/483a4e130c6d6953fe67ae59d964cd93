@@ -1,0 +1,113 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:4062:"<p>This was working when using html code on the page, but does not work once inside a PHP … Cambios menores.  </p> <p>Embed Any Document WordPress plugin lets you upload and embed your documents easily in your WordPress website without any additional browser plugins like Flash or Acrobat reader. Currently I am trying to make an widget to embed video from youtube. For this we’re going to use the built in oEmbed functionality in WordPress which when used normally lets you dump in a YouTube URL and then automagically inserts the embed code. luvboy, If i understand clearly, user provides the URL/code of the Youtube video and then that video is displayed on the page. Vixy YouTube Embed. </p> <p>If you are running a site that depends heavily on video content, you may need something that’s a little more robust than what WordPress can do out of the box. The plugin lets you choose between Google Docs Viewer and Microsoft Office Online to display your documents. Installation. Vixy YouTube embed takes advantage of all the customizations that YouTube has to offer so that you have more control over how embeds are displayed. </p> <p>Next, edit the WordPress post or page where you want to add the video, and simply paste the URL in the content area. </p> <p>The traditional way to do it is by using the HTML attributes <IFrame>.To do this, simply take the URL of the page you want to embed, and use it as the source for the Tag. Start/end time shortcut bug fix. How to embed iFrame in WordPress Without Plugin. It just displays the address in the popup window. </p> <p>Embed Plus for YouTube WordPress Plugin 2.2. ; Activate the plugin through the ‘Plugins’ screen in WordPress; Use the Embed Video Thumbnail submenu in Tools menu in admin panel to configure the plugin </p> <p>Changing the default wordpress youtube embeded video dimensions. </p> <p>YouTube iframe embed handler callback. Or, use the shortcode method. </p> <p>I am new to WordPress development. For that, just write a simple page, with layout etc.. But in our case we’re adding the URL dynamically in the theme so we are going to use the wp_oembed_get() function a … </p> <p>Consider the following: I have an index page that has a … Check out the new WordPress Code Reference! Interested in functions, hooks, classes, or methods? bugfix: the javascript in widgets.php caused a wp youtube lyte widget not to be shown in the sidebar if no wp youtube lyte was present in the main content load jquery plugins in admin screen using wp_enqueue_script rather then adding them „manually“ Embedding WordPress iFrame is easier than you imagine. </p> <p>tl;dr: I want to extract embeded Youtube video links from posts in a certain category. Embed Plus for YouTube WordPress Plugin 2.3. </p> <p>Embed Plus for YouTube WordPress Plugin 2.1. Ask Question ... but after adding this to functions.php and changing the width and height to 100 both, I didn't see a difference in the post preview. </p> <p>Description # Description. You can copy the YouTube URL for a video that you want to embed. </p> <p>By request from several users, we’ve added easier access to the video analytics dashboard. The php code is working and is displaying contact forms and galleries, however, the youtube video links are not embeding like they would in a normal Wordpress page. Catches YouTube iframe embed URLs that are not parsable by oEmbed but can be translated into a URL that is. </p> <p>Embed Plus for YouTube WordPress Plugin Screenshot 2: How to get to YouTube's admin settings Embed Plus for YouTube WordPress Plugin Screenshot 1: Paste a YouTube link on its own line and it will become a YouTube embed on your website. </p> <p>Upload the plugin files to the /wp-content/plugins/ directory, or install the plugin through the WordPress plugins screen directly. </p> <p>I am currently developing a blog/article website. </p> <p>WordPress will automatically turn the URL into a YouTube embed and provide a live preview in the visual editor. </p> <p>Embed Plus for YouTube WordPress Plugin 2.0 </p>";s:7:"keyword";s:27:"WordPress embed youtube php";s:5:"links";s:14900:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%8F%E3%83%AA%E3%82%A6%E3%83%83%E3%83%89%E4%BF%B3%E5%84%AA-%E6%97%A5%E6%9C%AC%E4%BA%BA-%E3%83%8A%E3%83%9D%E3%83%AA%E3%82%BF%E3%83%B3'>ハリウッド俳優 日本人 ナポリタン</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%AA%A4-%E5%9A%A5-%E4%BA%88%E9%98%B2-%E3%83%9E%E3%83%83%E3%82%B5%E3%83%BC%E3%82%B8'>誤 嚥 予防 マッサージ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%8F%E3%82%A4%E3%82%BC%E3%83%83%E3%83%88-%E3%82%AF%E3%83%AB%E3%83%BC%E3%82%BA%E3%82%BF%E3%83%BC%E3%83%9C-%E3%83%A1%E3%83%BC%E3%82%BF%E3%83%BC'>ハイゼット クルーズターボ メーター</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97-%E9%8D%8B-%E3%83%95%E3%83%A9%E3%82%A4%E3%83%91%E3%83%B3'>キャンプ 鍋 フライパン</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AA%E3%83%AB%E3%83%AA%E3%83%BC%E7%A9%BA%E6%B8%AF-%E3%83%A2%E3%83%B3%E3%82%B5%E3%83%B3-%E3%83%9F%E3%83%83%E3%82%B7%E3%82%A7%E3%83%AB'>オルリー空港 モンサン ミッシェル</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B8%E3%82%A7%E3%83%8D%E3%82%B7%E3%82%B9-%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC-%E8%B5%A4%E3%82%89%E9%A1%94'>ジェネシス レーザー 赤ら顔</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%B0%8F%E6%9D%BE%E8%8F%9C-%E3%83%99%E3%83%BC%E3%82%B3%E3%83%B3-%E5%8D%B5-%E3%82%B9%E3%83%BC%E3%83%97'>小松菜 ベーコン 卵 スープ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%90%E3%83%83%E3%83%81%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB-%E5%AE%9F%E8%A1%8C%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84-%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3'>バッチファイル 実行できない セキュリティ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%AF%E3%83%BC%E3%83%89-%E5%B7%AE%E3%81%97%E8%BE%BC%E3%81%BF-%E5%8D%B0%E5%88%B7-%E3%82%B4%E3%82%B7%E3%83%83%E3%82%AF'>ワード 差し込み 印刷 ゴシック</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%B0%82%E9%96%80%E5%AD%A6%E6%A0%A1-%E8%90%BD%E3%81%A1%E3%81%9F-2ch'>専門学校 落ちた 2ch</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%8C%97%E6%B5%B7%E9%81%93-%E5%B0%8F%E9%BA%A6-%E3%83%97%E3%83%81-%E3%83%9B%E3%83%83%E3%83%88%E3%82%B1%E3%83%BC%E3%82%AD'>北海道 小麦 プチ ホットケーキ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%97-%E6%A0%AA%E4%B8%BB-%E3%83%9E%E3%82%B9%E3%82%AF'>シャープ 株主 マスク</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%93%E3%82%B8%E3%83%A5%E3%83%94%E3%82%B3-%E3%83%86%E3%82%A3%E3%83%B3%E3%82%AB%E3%83%BC-%E3%83%99%E3%83%AB'>ビジュピコ ティンカー ベル</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%BB%A2%E8%81%B7%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88-%E5%BD%B9%E3%81%AB%E7%AB%8B%E3%81%9F-%E3%81%AA%E3%81%84'>転職エージェント 役に立た ない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%95%86%E7%A7%91-%E5%A4%A7-%E5%81%8F%E5%B7%AE%E5%80%A4'>商科 大 偏差値</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%80%95%E9%81%8B%E6%A9%9F-%E3%83%AD%E3%83%BC%E3%82%BF%E3%83%AA%E3%83%BC-%E5%8F%96%E3%82%8A%E5%A4%96%E3%81%97'>耕運機 ロータリー 取り外し</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%91%E3%82%B9-%E3%83%AC%E3%83%B3%E3%82%BA-%E4%BF%AE%E7%90%86'>オリンパス レンズ 修理</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%8A%E5%B9%B8%E3%81%9B%E3%81%AB-%E8%8B%B1%E8%AA%9E-%E3%82%B9%E3%83%A9%E3%83%B3%E3%82%B0'>お幸せに 英語 スラング</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%97%A5%E6%9C%AC%E5%A4%A7%E5%AD%A6-%E9%99%B8%E4%B8%8A%E9%83%A8-%E5%85%A5%E9%83%A8%E6%9D%A1%E4%BB%B6'>日本大学 陸上部 入部条件</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%B3%95%E6%94%BF%E5%A4%A7%E5%AD%A6-%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC-ob%E8%A8%AA%E5%95%8F'>法政大学 キャリアセンター Ob訪問</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%97%A5%E6%9C%AC%E5%A4%A7%E5%AD%A6-%E7%90%86%E5%B7%A5-%E5%AD%A6%E9%83%A8-%E7%A7%BB%E8%BB%A2'>日本大学 理工 学部 移転</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%8C%96%E7%B2%A7%E6%B0%B4-%E4%BF%9D%E6%B9%BF%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0-%E7%94%B7'>化粧水 保湿クリーム 男</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=LINE-%E6%B1%BA%E6%B8%88%E3%81%8C-%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%9B%E3%82%93-%E3%81%A7-%E3%81%97%E3%81%9F'>LINE 決済が できません で した</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%8A%A0%E8%97%A4-%E7%94%A3%E5%A9%A6-%E4%BA%BA-%E7%A7%91-%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6-%E4%BA%88%E9%98%B2-%E6%8E%A5%E7%A8%AE'>加藤 産婦 人 科 インフルエンザ 予防 接種</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B0%E3%83%BC%E3%82%B0%E3%83%AB%E3%83%9E%E3%83%83%E3%83%97-%E8%88%AA%E7%A9%BA%E5%86%99%E7%9C%9F-%E4%BF%9D%E5%AD%98'>グーグルマップ 航空写真 保存</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%8B%E3%81%8E%E8%A3%82%E3%81%8D-%E7%B8%AB%E3%81%84%E6%96%B9-%E6%89%8B%E7%B8%AB%E3%81%84'>かぎ裂き 縫い方 手縫い</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%AD%91%E6%B3%A2%E5%A4%A7%E5%AD%A6-%E5%8C%BB%E5%AD%A6%E9%83%A8-%E5%90%88%E6%A0%BC%E7%99%BA%E8%A1%A8'>筑波大学 医学部 合格発表</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A4%E3%82%AE%E3%83%AA%E3%82%B9-%E3%83%91%E3%82%A4-%E3%83%AC%E3%82%B7%E3%83%94'>イギリス パイ レシピ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%84%BC%E8%82%89-%E5%BD%A6-%E6%8E%A5%E5%AE%A2'>焼肉 彦 接客</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%84%AA-%E5%90%8D%E5%89%8D-%E8%89%AF%E3%81%8F%E3%81%AA%E3%81%84'>優 名前 良くない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%99%8C-%E7%A8%AE%E9%A1%9E-%E7%8F%8D%E3%81%97%E3%81%84'>癌 種類 珍しい</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=What-have-you-done-until-now'>What Have You Done Until Now</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A2%E3%83%96-%E3%82%AC%E3%83%AB%E3%82%B7%E3%82%A2-%E3%83%AF%E3%83%B3-%E3%82%B7%E3%83%A7%E3%83%AB%E3%83%80%E3%83%BC-%E3%83%90%E3%83%83%E3%82%B0-2-%E3%83%AD%E3%82%A4%E3%83%A4%E3%83%AB-%E3%83%8D%E3%82%A4%E3%83%93%E3%83%BC'>アブ ガルシア ワン ショルダー バッグ 2 ロイヤル ネイビー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BB%99%E5%8F%B0-%E8%A3%81%E5%88%A4%E6%89%80-%E7%AE%A1%E8%BD%84'>仙台 裁判所 管轄</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%9B%BD%E7%AB%8B%E7%A7%91%E5%AD%A6%E5%8D%9A%E7%89%A9%E9%A4%A8-vr-ps4'>国立科学博物館 Vr Ps4</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=LINE-mobile-%E9%80%9F%E5%BA%A6'>LINE Mobile 速度</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD-%E6%8E%A5%E8%BF%91%E6%94%BE%E9%80%81-%E6%9B%B4%E6%96%B0'>東京メトロ 接近放送 更新</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%96%B0%E5%AE%BF-%E3%82%BF%E3%83%94%E3%82%AA%E3%82%AB-%E5%B0%8F%E7%94%B0%E6%80%A5'>新宿 タピオカ 小田急</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%B2%BC-%E3%82%B9%E3%83%BC%E3%83%97-%E3%83%80%E3%82%A4%E3%82%A8%E3%83%83%E3%83%88'>沼 スープ ダイエット</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=fitbit-%E6%AD%A9%E6%95%B0-%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%81%95%E3%82%8C%E3%81%AA%E3%81%84'>Fitbit 歩数 カウントされない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%B3%B6-%E9%89%84-%E5%A4%A7-%E4%B8%89-%E6%9D%B1-%E6%99%82%E5%88%BB%E8%A1%A8'>島 鉄 大 三 東 時刻表</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%A1%A8%E5%8F%82%E9%81%93-%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%E3%83%AB%E3%83%BC%E3%83%A0-%E3%82%B3%E3%83%86'>表参道 パウダールーム コテ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AF%E3%83%AA%E3%82%B9%E3%82%BF-%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%82%AB%E3%83%83%E3%83%88%E8%A8%AD%E5%AE%9A-%E4%BF%9D%E5%AD%98'>クリスタ ショートカット設定 保存</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%B2%B3%E5%90%88%E5%A1%BE-%E5%A4%A7%E5%AD%A6%E3%82%B3%E3%83%BC%E3%83%89-2020'>河合塾 大学コード 2020</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=37-82-%E3%83%AF%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%84'>37 82 ワイシャツ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A4%A7%E9%A0%88-%E9%9D%A9%E3%82%B8%E3%83%A3%E3%83%B3-%E5%8F%A4%E7%9D%80'>大須 革ジャン 古着</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%9C%8B%E8%AD%B7%E5%B8%AB-%E8%BB%A2%E8%81%B7-%E3%82%B5%E3%82%A4%E3%83%88-%E7%A5%9E%E6%88%B8'>看護師 転職 サイト 神戸</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%AF%8C%E5%A3%AB%E5%B1%B1-%E4%B8%83%E5%90%88%E7%9B%AE-%E9%AB%98%E3%81%95'>富士山 七合目 高さ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%B1%9F%E6%88%B8%E5%B7%9D-%E6%94%BE-%E6%B0%B4%E8%B7%AF-%E6%9C%80%E5%AF%84%E3%82%8A-%E9%A7%85'>江戸川 放 水路 最寄り 駅</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%87%8E%E5%8F%A3%E5%81%A5-%E7%88%B6-%E3%83%96%E3%83%AD%E3%82%B0'>野口健 父 ブログ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%BB%E3%81%86%E3%82%8C%E3%82%93%E8%8D%89-%E5%8D%B5-%E3%81%97%E3%82%81%E3%81%98'>ほうれん草 卵 しめじ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%88%B9%E6%A9%8B%E6%95%B4%E5%BD%A2%E5%A4%96%E7%A7%91-%E5%B8%82%E5%B7%9D-%E5%8F%A3%E3%82%B3%E3%83%9F'>船橋整形外科 市川 口コミ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%86%85%E8%A3%85-%E8%A8%AD%E8%A8%88%E4%BA%8B%E5%8B%99%E6%89%80-%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0'>内装 設計事務所 ランキング</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89-ipad-pro-%E7%99%BA%E5%A3%B2%E6%97%A5'>マジックキーボード Ipad Pro 発売日</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%A5%9E%E6%88%B8-%E4%B8%AD%E8%8F%AF%E8%A1%97-%E3%81%8A%E3%81%99%E3%81%99%E3%82%81'>神戸 中華街 おすすめ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%9F%93%E5%9B%BD-%E3%81%BB%E3%81%8F%E3%82%8D%E9%99%A4%E5%8E%BB-you%26i'>韓国 ほくろ除去 You&i</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%8F%96%E3%82%8A%E8%BE%BC%E3%82%93%E3%81%A0-%E7%B5%B5-%E8%89%B2%E5%A1%97%E3%82%8A'>取り込んだ 絵 色塗り</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%A1%E3%83%AB%E3%82%AB%E3%83%AA-%E5%80%A4%E4%B8%8B%E3%81%92-%E9%A0%BB%E5%BA%A6'>メルカリ 値下げ 頻度</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A4%A7%E6%AD%A3%E6%99%82%E4%BB%A3-%E5%A5%B3%E6%80%A7-%E7%94%9F%E7%90%86'>大正時代 女性 生理</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%9D%A5%E7%A4%BE-%E3%81%8A%E7%A4%BC-%E3%83%A1%E3%83%BC%E3%83%AB'>来社 お礼 メール</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=100%E5%9D%87-%E3%83%93%E3%83%8B%E3%83%BC%E3%83%AB%E8%A2%8B-%E5%A4%A7%E3%81%8D%E3%81%84'>100均 ビニール袋 大きい</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%87%E3%83%BC-%E3%81%8A%E8%BF%94%E3%81%97-%E9%87%8D%E3%81%84'>ホワイトデー お返し 重い</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%9B%BD%E7%94%A3-%E3%83%96%E3%83%A9%E3%82%A6%E3%82%B6-2019'>国産 ブラウザ 2019</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A2%E3%83%8B%E3%83%A1%E3%82%A4%E3%83%88-%E4%BA%88%E7%B4%84-%E5%8F%97%E3%81%91%E5%8F%96%E3%82%8A'>アニメイト 予約 受け取り</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Android-studio-charsetname'>Android Studio Charsetname</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%86%E3%81%AA%E3%81%8E%E3%81%BF%E3%81%9F%E3%81%84%E3%81%AA%E7%99%BD%E8%BA%AB-%E9%AD%9A%E3%81%AE-%E8%92%B2%E7%84%BC%E9%A2%A8'>うなぎみたいな白身 魚の 蒲焼風</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=WordPress-HTML-%E8%A1%A8%E7%A4%BA'>WordPress HTML 表示</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B8%E3%82%AE%E3%83%B3%E3%82%B0%E3%83%AD%E3%83%83%E3%83%89-%E3%82%A8%E3%82%AE%E3%83%B3%E3%82%B0%E3%83%AD%E3%83%83%E3%83%89-%E9%81%95%E3%81%84'>ジギングロッド エギングロッド 違い</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%BF%E3%83%B3%E3%83%88-%E3%82%B7%E3%82%AC%E3%83%BC%E3%82%BD%E3%82%B1%E3%83%83%E3%83%88-%E5%A2%97%E8%A8%AD'>タント シガーソケット 増設</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%B7%AE%E3%81%97%E8%BE%BC%E3%81%BF%E5%8D%B0%E5%88%B7-%E6%97%A5%E4%BB%98-%E3%82%B7%E3%83%AA%E3%82%A2%E3%83%AB%E5%80%A4'>差し込み印刷 日付 シリアル値</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%A8%BA%E7%99%82%E6%94%BE%E5%B0%84%E7%B7%9A%E6%8A%80%E5%B8%AB-%E5%9B%BD%E5%AE%B6%E8%A9%A6%E9%A8%93-64'>診療放射線技師 国家試験 64</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%89%8B%E4%BD%9C%E3%82%8A-%E5%91%B3%E5%99%8C-%E3%83%96%E3%83%AD%E3%82%B0'>手作り 味噌 ブログ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%A1%E3%83%87%E3%82%A3%E3%82%AB%E3%83%AB-%E3%83%95%E3%82%A3%E3%83%83%E3%83%88%E3%83%8D%E3%82%B9-%E5%8D%83%E8%91%89'>メディカル フィットネス 千葉</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%97%E3%83%AA%E3%83%BC%E3%83%84-%E7%B6%B2%E6%88%B8-%E3%83%AD%E3%83%83%E3%82%AF'>プリーツ 網戸 ロック</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%A4%87%E6%95%B0-%E7%94%BB%E5%83%8F-PDF-%E3%81%BE%E3%81%A8%E3%82%81%E3%82%8B-Mac'>複数 画像 PDF まとめる Mac</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%BF%E3%83%AB%E3%82%BF%E3%83%AB%E3%83%81%E3%82%AD%E3%83%B3-%E3%83%81%E3%82%AD%E3%83%B3%E5%8D%97%E8%9B%AE-%E9%81%95%E3%81%84'>タルタルチキン チキン南蛮 違い</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A8%E3%83%96%E3%83%AA%E3%82%A3%E3%83%AF%E3%82%B4%E3%83%B3-4WD-%E3%83%8F%E3%82%A4%E3%83%AB%E3%83%BC%E3%83%95'>エブリィワゴン 4WD ハイルーフ</a>,
+";s:7:"expired";i:-1;}

@@ -1,0 +1,62 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:4959:"<p>免除申請は、市区町村の役所に「国民年金保険料免除・納付猶予申請書」を提出します。 その際には、年金手帳と失業していることが確認できる証明の写し（雇用保険受給資格者証や離職票など）が必要に … 国民年金の被保険者が失業・退職した場合、保険料の全額または一部を免除する「失業等による特例免除」を利用できます。受給資格期間や年金受給額が優遇されるお得な制度ですが、申請が必要なので、忘れず申請しましょう。 ⇒年金について – 平成26年4月からの国民年金保険料の免除等申請期間の拡大 | 日本年金機構. </p> <p>年々、少しずつ高くなっていく国民年金保険料…毎月支払うのはキツイですよね（汗）。ただ、払わずに放置するよりも免除申請した方が断然お得！です。この記事では、国民年金の免除申請について、手続き方法・必要書類・提出先・審査期間など気になる点をまとめてみました。 この記事では、会社を退職して無職になった方や私のような個人事業主で税金の免除申請が必要な方の為に必ず支払う必要のある税金(年金・国民健康保険・住民税)の免除申請期間をまとめています。せっかく申請できる条件が揃っていても、期間内に申請しなけれ 申請書に記入した内容をご確認いただくため、「セルフチェックシート （国民年金保険料 免除・納付猶予申請用）」もご利用願います。 不慮の事故や病気が発生してから申請を行っても、障害基礎年金の受給資格要件に算入されません。 国民年金免除のしくみ（申請・期間など） 国民年金の免除制度とは 所得が一定額以下の場合や失業した場合など、国民年金保険料を納めることが経済的に困難な場合には、申請書を提出して承認されれば、国民年金保険料の納付が免除になります。 </p> <p>おはようございます、大阪の社労士有馬です 国民年金保険料の免除制度があるのはご存知でしょうか？ また、免除制度には大きく二種類あって選び方によっては将来もらえる年金の金額にかなり差ができることはご存知でしょうか 年金は将来の生活の原資になる重要なもの。  </p> <p>国民年金には「失業等による特例免除」っていうのがあって、私も以前その特例を使って免除してもらったことがあります。今回は、この特例免除について、免除の条件、特例が使える有効期間、申請方法について詳しくまとめましたので良かったら参考にしてみて下さい。 経済的な理由で国民年金の支払いが難しくなることがありますよね。 そんなときは、未納のまま放置するのではなく、申請手続きをして支払いを免除してもらいましょう。今回は、国民年金の支払いが免除される条件や期間、手続き方法などを・・・ この記事では2年間遡って、国民年金の免除申請を行った体験談をまとめてみました。特にわかりずらかった「申請期間」や「いつの所得が審査対象になるのか？」など、実際に申請した「免除申請書・添付書類の画像」を交えご紹介させていただきます。 </p> <p>(3)申請年度毎の「国民年金保険料免除・納付猶予申請書」（日本年金機構ホームページからプリントアウトできます。） (4)その他必要書類（詳細はお問い合わせください。） 申請方法. </p> <p>国民年金は保険料の支払いが厳しいというときに免除、猶予制度がありますが、どうしようと迷っているうちにどんどんと納付期限が過ぎていき未納期間が貯まるということもあります。 そこで過去分の国民年金 … （1）国民年金保険料の免除等の申請が可能な期間 保険料の納付期限から2年を経過していない期間（申請時点から2年1ヵ月前までの期間） について、さかのぼって免除等を申請することができます。 申請免除をして承認を受けると、申請する年度の7月分から翌年6月分までの国民年金保険料が免除（全額・4分の1納付・半額・4分の3納付）されます。 学生・任意加入者・国民年金基金加入者は、申請免除の手続きが出来ません。 世田谷区役所国民年金係または世田谷年金事務所の窓口で申請できます。 免除の結果報告は、3ヶ月後の10月 って言われましたが、翌年1月でした。私の場合はレアケースで特殊なのかも。 </p>";s:7:"keyword";s:32:"国民年金 免除申請 期間";s:5:"links";s:4748:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%B1%B1%E3%81%AE%E6%89%8B-%E9%AB%98%E6%A0%A1-%E4%B8%8D%E8%89%AF'>山の手 高校 不良</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC-%E5%8C%96%E5%AD%A6%E5%9F%BA%E7%A4%8E-2018-%E8%A7%A3%E8%AA%AC'>センター 化学基礎 2018 解説</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC-%E7%B0%A1%E6%98%93NAS-%E3%82%B9%E3%83%9E%E3%83%9B'>バッファロー 簡易NAS スマホ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%B4%A5%E5%B8%82-%E6%B0%B4%E8%B0%B7%E7%9A%AE%E8%86%9A%E7%A7%91-%E4%BA%8B%E4%BB%B6'>津市 水谷皮膚科 事件</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A4%A9-%E7%A5%9E-%E5%9B%9B%E5%AD%97%E7%86%9F%E8%AA%9E'>天 神 四字熟語</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%A0%93%E6%8A%9C%E3%81%8D-100%E5%9D%87-%E3%82%BB%E3%83%AA%E3%82%A2'>栓抜き 100均 セリア</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%A3%B2%E9%A3%9F%E5%BA%97-%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3-%E3%83%81%E3%83%A9%E3%82%B7'>飲食店 オープン チラシ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Synology-Antivirus-Essential'>Synology Antivirus Essential</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A4%A7%E9%98%AA%E5%A4%A7%E5%AD%A6-%E8%96%AC%E5%AD%A6%E9%83%A8-%E8%96%AC%E7%A7%91-%E5%AD%A6%E7%A7%91-%E5%BB%83%E6%AD%A2'>大阪大学 薬学部 薬科 学科 廃止</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%99%8C-%E7%A8%AE%E9%A1%9E-%E7%8F%8D%E3%81%97%E3%81%84'>癌 種類 珍しい</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=VBA-Join-%E5%9E%8B%E3%81%8C-%E4%B8%80%E8%87%B4-%E3%81%97%E3%81%BE-%E3%81%9B%E3%82%93'>VBA Join 型が 一致 しま せん</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%90%E3%83%83%E3%82%AF-%E3%83%91%E3%83%83%E3%82%AF-%E6%B5%B7%E5%A4%96%E6%97%85%E8%A1%8C-1%E9%80%B1%E9%96%93'>バック パック 海外旅行 1週間</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%90%E3%83%AB%E3%83%BC%E3%83%B3-%E3%83%9D%E3%83%B3%E3%83%97-%E3%82%BB%E3%83%AA%E3%82%A2'>バルーン ポンプ セリア</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%94%9F%E8%8C%B6-%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%9A%E3%83%BC%E3%83%B3-%E3%83%90%E3%83%BC%E3%82%B3%E3%83%BC%E3%83%89'>生茶 キャンペーン バーコード</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BD%BF%E3%81%84%E6%8D%A8%E3%81%A6-%E3%83%97%E3%83%AA%E3%83%B3%E3%82%AB%E3%83%83%E3%83%97-%E3%82%A2%E3%83%AB%E3%83%9F'>使い捨て プリンカップ アルミ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%A1%9C-%E7%B5%B5-%E3%83%AA%E3%82%A2%E3%83%AB'>桜 絵 リアル</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%B3%B6-%E9%89%84-%E5%A4%A7-%E4%B8%89-%E6%9D%B1-%E6%99%82%E5%88%BB%E8%A1%A8'>島 鉄 大 三 東 時刻表</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%BB%92%E7%B3%96-%E3%83%91%E3%83%B3-%E3%83%95%E3%83%A9%E3%82%A4%E3%83%91%E3%83%B3'>黒糖 パン フライパン</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B9%9D%E5%B7%9E%E5%A4%A7%E5%AD%A6%E5%8C%BB%E5%AD%A6%E9%83%A8-%E9%AB%98%E6%A0%A1%E5%88%A5%E5%90%88%E6%A0%BC%E8%80%85-2020'>九州大学医学部 高校別合格者 2020</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%92%B2%E5%88%88-%E5%A4%A7%E6%B5%A6%E6%B8%AF-%E9%87%A3%E3%82%8A'>蒲刈 大浦港 釣り</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%91%E3%83%AF%E3%83%BC%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88-%E3%83%A0%E3%83%BC%E3%83%93%E3%83%BC%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC-%E9%81%95%E3%81%84'>パワーポイント ムービーメーカー 違い</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%A1%9C%E3%81%AE-%E5%A1%A9%E6%BC%AC%E3%81%91-%E4%BF%9D%E5%AD%98%E6%96%B9%E6%B3%95'>桜の 塩漬け 保存方法</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%94%A3%E5%BE%8C-%E6%BC%A2%E6%96%B9-%E3%82%A4%E3%82%B9%E3%82%AF%E3%83%A9'>産後 漢方 イスクラ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%BF%E3%83%9E%E3%83%9B%E3%83%BC%E3%83%A0-%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88-2020'>タマホーム イベント 2020</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%B2%A1%E5%B1%B1%E5%B8%82%E5%8D%97%E5%8C%BA-%E5%80%8B%E5%AE%A4-%E5%B1%85%E9%85%92%E5%B1%8B'>岡山市南区 個室 居酒屋</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Windows10-%E3%83%90%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97-NAS'>Windows10 バックアップ NAS</a>,
+";s:7:"expired";i:-1;}

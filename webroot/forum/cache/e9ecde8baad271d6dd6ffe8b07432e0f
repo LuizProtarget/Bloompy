@@ -1,0 +1,85 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:6135:"<br>前回までの2つの記事で、ビジネス英語で使えるメールの表現を覚えました。 初めの記事では、メールの件名と宛名についての表現を紹介しました。相手の名前が分かっている場合の宛名の表現と、相手の名前が分かっていない場合の宛名の違い等を紹介しました。 <br> <br>英語でビジネスメールを書く際、どのように書いたら良いか迷ってしまったことはありませんか？メールの文章は記録が残るため、失礼や誤解のないようにしたいですよね。この記事では、英語のビジネスメールの構成や、よく使われるフレーズをご紹介します。 <br> <br> ビジネス英語で、NAと書くことがあります。not applicable, not acceptable, no answerなど、「不明」、「開示不可」といった意味で使っていますが、正しいでしょうか？よろしくお願いします。 私の経験か … 英語ビジネスメールの上手な書き方、その基本ルールとともに、カスタマイズして使える英語ビジネスメールのフォーマットと、ネイティブの英語例文をご紹介します。 (3)「不明点があればお尋ねください」を表す場合 If you have any questions, please don't hesitate to contact me. ご不明な点がございましたらお尋ねください。 (4)お役に立てないことのお詫びを表す場合 Weblio 辞書 > 英和辞典・和英辞典 > "不明である"の意味・解説 > "不明である"に関連した英語例文 例文検索の条件設定 「カテゴリ」「情報源」を複数指定しての検索が可能になりました。 代理店、販売店に対して、不具合原因が不明で解析に時間がかかる場合や、不具合機器を戻してもらいたい場合に使えるのビジネス英語メール例文を紹介します。 → 不具合の原因が不明、分かり次第連絡し … ビジネスでよく使われる横文字の用語。突然会議などで使われて、意味が分からずに困ることはありませんか？ ここではビジネスでよく出てくるビジネスカタカナ語について紹介します。特に覚えておきたい100個の用語について紹介しますので、この機会にぜひ覚えておきましょう！ 英語でビジネスメールを書く時には、tpoをわきまえ、相手の立場に立って文面を精査し、形式を整えることが大切です。レターに記入すべき必須項目を中心に、相手に好印象を与える書き方のコツを10つほどご紹介します。例文をはさみながら解説します。 ビジネス英語の文例集（日英対訳）で海外との連絡も楽々できる 英語でメールを作成するのは苦手という方に最適！ 英文メールの文例集（日英対訳）を公開しています 。 英語メールは書き出しから悩む方も安心。日本語のビジネスメールと同じで、コツと決まり文句を覚えておけば、英語メールも怖くはありません。ブログに書かれた5つのステップを抑えて、ビジネスの英語メールをマスターしましょう！ ビジネスで使える、英語のメールの書き出し部分を、ネイティブ講師の例文と共にご紹介。お知らせ等の事務的なものから、お礼、お詫び、感謝まで。メールを書くスピードが各段に上がります。 英語での役職については、『ビジネスですぐに使える英語の役職名厳選53個一覧』を参考にしてみて下さい。 ここでは職表や位での敬称を紹介しましたが、会話の中ですぐに出てこない場合は、「Mr.」や「Ms.」を基本として表現してもOKです。  英語でビジネスメールを書く時には、tpoをわきまえ、相手の立場に立って文面を精査し、形式を整えることが大切です。レターに記入すべき必須項目を中心に、相手に好印象を与える書き方のコツを10つほどご紹介します。例文をはさみながら解説します。 Feel free to contact me if you have any questions. <br> <br>To whom it may concernは使わない？担当者不明・ご担当者様の英語メール書き出し、関係各位・各位様の英語メールの書き出しについて説明するよ。ビジネス実務的にTo whom it may concern,は使わないとか失礼という噂も。その点も踏まえて説明するよ。 ビジネス英語で、NAと書くことがあります。not applicable, not acceptable, no answerなど、「不明」、「開示不可」といった意味で使っていますが、正しいでしょうか？よろしくお願いします。 私の経験か … 会社でイチモク置かれるビジネス英語フレーズ100」では、ビジネスシーンで使える100のフレーズを毎日紹介していきます。最初の20日間はビジネスで使われるメール上の英語表現を詳しく、分かりやすく … 英語メールは書き出しから悩む方も安心。日本語のビジネスメールと同じで、コツと決まり文句を覚えておけば、英語メールも怖くはありません。ブログに書かれた5つのステップを抑えて、ビジネスの英語メールをマスターしましょう！ Please let me know if you have any comments. ビジネスで英語メールを送るときに性別不明の場合は、敬称を含めた書き出しはどうしたらいいの？性別不明の場合の英語メールの書き出しがあるから紹介するよ。 英語でビジネスメールを送るとき、宛名の書き方で困るのが、相手の名前や性別、担当部署がはっきりしないケースです。個人名が分かっていれば、「Dear Mr. Smith,」のように、基本の宛名の書き方で始められますが、ビジネスメールでは、担当者が分からないこともしばしば。 <br>";s:7:"keyword";s:26:"不明 英語 ビジネス";s:5:"links";s:9154:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B5%E3%83%BC%E3%83%A2%E3%82%B9-%E3%82%BF%E3%83%B3%E3%83%96%E3%83%A9%E3%83%BC-%E8%93%8B-%E4%BB%98'>サーモス タンブラー 蓋 付</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%9D%A2%E6%8E%A5-%E3%81%8A%E7%A4%BC%E3%83%A1%E3%83%BC%E3%83%AB-%E9%9D%A2%E6%8E%A5%E5%AE%98-%E8%A4%87%E6%95%B0'>面接 お礼メール 面接官 複数</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%A4%E3%82%8F%E3%82%8A-%E3%83%94%E3%83%BC%E3%82%AF-11%E9%80%B1'>つわり ピーク 11週</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9E%E3%83%AA%E3%83%A1%E3%83%83%E3%82%B3-%E3%83%88%E3%83%BC%E3%83%88%E3%83%90%E3%83%83%E3%82%B0-amazon'>マリメッコ トートバッグ Amazon</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A2%E3%83%BC%E3%83%A2%E3%83%B3%E3%83%89-%E3%83%80%E3%82%A4%E3%82%A8%E3%83%83%E3%83%88-%E4%BD%95%E7%B2%92'>アーモンド ダイエット 何粒</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A4%AA%E7%94%B0-%E7%97%85%E9%99%A2-%E7%9C%BC%E7%A7%91'>太田 病院 眼科</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AD-%E9%8A%80%E5%BA%A7-%E3%82%B7%E3%83%83%E3%82%AF%E3%82%B9'>フェスティバロ 銀座 シックス</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%AA%95%E7%94%9F%E6%97%A5-%E7%94%BB%E5%83%8F-%E5%BD%BC%E6%B0%8F'>誕生日 画像 彼氏</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E8%A8%BA%E7%99%82-%E5%A4%A7%E9%98%AA%E5%B8%82-%E7%9A%AE%E8%86%9A%E7%A7%91'>オンライン診療 大阪市 皮膚科</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%B6%8F%E8%82%89-%E8%B1%86%E8%85%90-%E5%A4%A7%E6%A0%B9'>鶏肉 豆腐 大根</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A4%A7-%E4%B8%8A-%E5%B0%8F%E5%85%90%E7%A7%91'>大 上 小児科</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AF%E3%83%AA%E3%83%8B%E3%83%BC%E3%82%AF-%E3%83%8B%E3%82%AD%E3%83%93-%E6%82%AA%E5%8C%96'>クリニーク ニキビ 悪化</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%B0%8F%E6%9D%BE%E8%8F%9C-%E3%81%97%E3%82%89%E3%81%99-%E3%83%81%E3%83%A3%E3%83%BC%E3%83%8F%E3%83%B3-%E5%B9%BC%E5%85%90%E9%A3%9F'>小松菜 しらす チャーハン 幼児食</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=iodata-vpn-%E6%8E%A5%E7%B6%9A%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84'>Iodata Vpn 接続できない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%B3%87%E7%94%9F%E5%A0%82-%E7%BE%8E%E5%AE%B9%E9%83%A8%E5%93%A1-%E9%80%80%E8%81%B7%E9%87%91'>資生堂 美容部員 退職金</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=amazon-%E5%BA%97%E8%88%97%E5%90%8D-%E6%A4%9C%E7%B4%A2'>Amazon 店舗名 検索</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Azure-%E7%84%A1%E6%96%99-F1'>Azure 無料 F1</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%AE%8B%E6%A5%AD%E4%BB%A3-10%E4%B8%87-%E4%BD%95%E6%99%82%E9%96%93'>残業代 10万 何時間</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%BF%E3%82%B9%E3%82%AF-%E3%82%B9%E3%82%B1%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%A9-0x103'>タスク スケジューラ 0x103</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%B3%B6%E6%A0%B9%E5%A4%A7%E5%AD%A6-%E5%8C%BB%E5%AD%A6%E9%83%A8-%E9%9D%A2%E6%8E%A5'>島根大学 医学部 面接</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%A6%99%E5%B7%9D-%E7%9C%8C-%E5%AE%87%E5%A4%9A%E6%B4%A5-%E4%B8%B8%E4%BA%80-%E3%83%81%E3%83%A9%E3%82%B7'>香川 県 宇多津 丸亀 チラシ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%82%89%E5%9B%A3%E5%AD%90-%E6%8F%9A%E3%81%92%E3%81%AA%E3%81%84-%E9%87%8E%E8%8F%9C'>肉団子 揚げない 野菜</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%97%94-%E7%97%85%E9%99%A2-%E5%A5%B3%E5%8C%BB-%E6%9D%B1%E4%BA%AC'>痔 病院 女医 東京</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%AB%98%E6%9D%BE%E5%B8%82-%E3%83%95%E3%83%BC%E3%82%BA-%E3%83%A9%E3%83%B3%E3%83%89-%E3%83%81%E3%83%A9%E3%82%B7'>高松市 フーズ ランド チラシ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%AA%95%E7%94%9F%E6%97%A5-%E7%94%BB%E5%83%8F-%E3%83%90%E3%83%A9'>誕生日 画像 バラ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%AF%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%84-%E6%B4%97%E6%BF%AF-%E8%A5%9F%E6%B1%9A%E3%82%8C'>ワイシャツ 洗濯 襟汚れ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AD%E3%83%A3%E3%83%99%E3%83%84-%E6%B5%85-%E6%BC%AC%E3%81%91-%E7%89%9B%E3%82%BF%E3%83%B3'>キャベツ 浅 漬け 牛タン</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=t%E3%82%B7%E3%83%A3%E3%83%84-%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%E3%82%B5%E3%82%A4%E3%82%BA-%E3%83%80%E3%82%B5%E3%81%84'>Tシャツ オーバーサイズ ダサい</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88-AC-%E7%8C%AB-%E3%82%B7%E3%83%AB%E3%82%A8%E3%83%83%E3%83%88'>イラスト AC 猫 シルエット</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%9B%A2%E4%B9%B3%E9%A3%9F-%E5%AE%8C%E4%BA%86%E6%9C%9F-%E9%BA%BA'>離乳食 完了期 麺</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%80%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%BC-%E7%84%BC%E8%82%89%E3%81%AE%E3%81%9F%E3%82%8C-%E5%94%90-%E6%8F%9A%E3%81%92'>ダイショー 焼肉のたれ 唐 揚げ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%AB%E3%83%96%E3%82%BF%E3%83%B3-%E9%9D%B4-%E3%83%A1%E3%83%B3%E3%82%BA-%E3%83%AD%E3%83%BC%E3%83%95%E3%82%A1%E3%83%BC'>ルブタン 靴 メンズ ローファー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%93%E3%83%83%E3%82%AF%E3%82%AB%E3%83%A1%E3%83%A9-%E4%B8%8B%E5%8F%96%E3%82%8A-iPad'>ビックカメラ 下取り IPad</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%82%89%E8%B1%86%E8%85%90-%E3%82%81%E3%82%93%E3%81%A4%E3%82%86-%E3%83%AC%E3%83%B3%E3%82%B8'>肉豆腐 めんつゆ レンジ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%9F%E3%81%A3-%E3%81%8D-%E3%83%BC%E3%83%9E%E3%83%9E-%E3%82%AB%E3%83%AB%E3%83%9C%E3%83%8A%E3%83%BC%E3%83%A9'>たっ き ーママ カルボナーラ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%87%9C%E5%B1%B1-%E3%81%AB-%E8%A1%8C%E3%81%8F-%E9%9F%93%E5%9B%BD%E8%AA%9E'>釜山 に 行く 韓国語</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=NET-err_cert_authority_invalid-%E8%A7%A3%E6%B1%BA'>NET Err_cert_authority_invalid 解決</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%8D%8B%E3%81%A7-%E7%AD%8D-%E3%81%94%E9%A3%AF'>鍋で 筍 ご飯</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A2%E3%83%8B%E3%82%A8%E3%82%B9%E3%83%99%E3%83%BC-%E3%83%A1%E3%83%B3%E3%82%BA-%E3%83%90%E3%83%83%E3%82%B0'>アニエスベー メンズ バッグ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A6%E3%83%BC%E3%83%90%E3%83%BC%E3%82%A4%E3%83%BC%E3%83%84-%E5%B9%B2-%E3%81%95%E3%82%8C-%E3%82%8B'>ウーバーイーツ 干 され る</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=LAN%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB-%E3%83%97%E3%83%AD-%E3%82%B2%E3%83%BC%E3%83%9E%E3%83%BC'>LANケーブル プロ ゲーマー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%8C%97%E6%B5%B7%E9%81%93-%E3%83%9E%E3%82%B0%E3%83%AD-%E9%80%9A%E8%B2%A9'>北海道 マグロ 通販</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%A2%BA%E5%AE%9A%E7%B5%A6%E4%BB%98%E4%BC%81%E6%A5%AD%E5%B9%B4%E9%87%91-%E4%B8%80%E6%99%82%E9%87%91-%E7%A8%8E%E9%87%91'>確定給付企業年金 一時金 税金</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%9B%A2%E4%B9%B3%E9%A3%9F-%E5%AB%8C%E3%81%8C%E3%82%8B-7%E3%83%B6%E6%9C%88'>離乳食 嫌がる 7ヶ月</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF-%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97-%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B5%E3%83%AA%E3%83%BC'>ソフトバンク オンラインショップ アクセサリー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%9B%9B%E5%AD%A3-%E3%82%A6%E3%82%A3%E3%83%A1%E3%83%B3%E3%82%BA-%E3%83%90%E3%82%B9'>四季 ウィメンズ バス</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%A6%E3%83%BC%E3%83%81%E3%83%A5%E3%83%BC%E3%83%96-%E7%BE%BD%E7%94%9F-%E7%B5%90-%E5%BC%A6-2019'>ユーチューブ 羽生 結 弦 2019</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%AB%98%E9%BD%A2%E8%80%85-%E6%B0%B4%E5%88%86%E8%A3%9C%E7%B5%A6-%E3%83%9D%E3%82%AB%E3%83%AA%E3%82%B9%E3%82%A8%E3%83%83%E3%83%88'>高齢者 水分補給 ポカリスエット</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%BB%E3%83%AA%E3%83%BC%E3%83%8C-%E3%83%A9%E3%82%B2%E3%83%BC%E3%82%B8-%E4%B8%AD%E5%8F%A4'>セリーヌ ラゲージ 中古</a>,
+";s:7:"expired";i:-1;}

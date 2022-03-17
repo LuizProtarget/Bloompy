@@ -1,0 +1,60 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:3995:"<p>頸部（首）のマッサージや関節可動域練習は、頸部から肩にかけて、背部のマッサージが効果的。多くの方にとって最も嚥下しやすい姿勢である、頸部前屈位（あごをひいた姿勢）をとれる状態を保つことが誤嚥予防には大事です。 嚥下直接練習 kompasは慶應義塾大学病院の医師、スタッフが作成したオリジナルの医療・健康情報です。患者さんとそのご家族の皆さんへ、病気、検査、栄養、くすりなど、広く医療と健康に関わる情報を提供しており … だ液腺マッサージはいつ行えばいいの？ だ液腺マッサージも、嚥下体操同様、お食事前に行うと、だ液の分泌が促進され、お食事のための準備が整ったお口に近づきます。 お口が乾燥していると、むせたり、噛みにくくなったりしてしまいます。 の予防の可能性を示唆する研究報告がなされた 1 ) 。 しかしながら,要介護者の置かれている状況はさま ざまであり,単純な構図として表わしにくいのが現 状である。本稿では誤嚥性肺炎予防と口腔ケアの持 つ役割について,関連するいくつかの論文と平成11  高齢化の進行を反映するように誤嚥性肺炎の発症率は増大しています。誤嚥性肺炎の病態は声門下から肺にかけて唾液や飲食物が流入することで炎症が生じることです。誤嚥性肺炎は顕性誤嚥、不顕性誤嚥、逆流による誤嚥に分類でき原因はそれぞれ異なります。 【医師監修記事】食事をしている時に、気管に入りそうになった事はないでしょうか？元気であれば、すぐ咳が出るので吐き出せます。でも高齢者や体力が落ちている人、赤ちゃんなどは吐き出す力が弱い為に気管に入ってしまい、肺炎の原因になることがあります。 </p> <p>加齢とともに減ってくる唾液。口腔内が乾燥しているままだと、誤嚥性肺炎の原因にも。誤嚥予防のため、毎食前に行って欲しい唾液腺マッサージの方法を動画でご説明します。 誤嚥（ごえん）性肺炎とは、雑菌を含んだ食べ物や唾液、痰などを、誤って肺に入れてしまう"誤嚥"が原因で起こる"肺炎"のことです。ここでは「誤嚥性肺炎」という病気について、その症状から原因、予防・治療法に至るまで分かりやすく解説しております。 唾液腺マッサージは、口の中に複数ある唾液腺を刺激することで唾液の分泌を促し、誤嚥予防だけでなく口腔内の自浄作用や乾燥の予防にも効果があります。そこで今回は、だ液の効果と唾液腺マッサージ・ストレッチの方法をまとめてご紹介します。 </p> <p>嚥下障害のリハビテーション（基礎訓練）とは、食べ物を使用せずに行う嚥下訓練です。実際に食べる前に、食べるために必要な筋肉を動かしたり、刺激を加えたりして、口腔周辺の運動や感覚機能を促し、摂食による誤嚥のリスクを予防して安全に食を楽しむことを目的とします。 高齢になると誰もが身体の衰えを感じるもの。今回はその中の代表である“食事の飲み込み”について解説します。「最近むせやすくなった」というご本人や、嚥下障害に悩みを持つご家族も是非ご一読ください。※home’s介護は、2017年4月1日にlifull介護に名称変更しました。 誤嚥性肺炎を予防するために大事な ①リハビリ ②食事の姿勢 ③食事形態 について簡単にお伝えしていきたいと思います。嚥下障害に対するリハビリテーションは交互嚥下訓練などの直接訓練、パタカラ体 … </p>";s:7:"keyword";s:30:"誤 嚥 予防 マッサージ";s:5:"links";s:4176:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=VBA-Shell-cd'>VBA Shell Cd</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%B3%95%E4%BA%BA%E8%A8%AD%E7%AB%8B%E5%B1%8A%E5%87%BA%E6%9B%B8-%E6%9D%B1%E4%BA%AC%E9%83%BD-%E6%8F%90%E5%87%BA%E5%85%88'>法人設立届出書 東京都 提出先</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%8B%B1-%E6%A4%9C-2%E7%B4%9A-%E7%84%A1%E6%96%99-%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88'>英 検 2級 無料 プリント</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%AD%E3%83%BC%E3%82%AB%E3%83%AB-%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97-%E3%83%9D%E3%83%AA%E3%82%B7%E3%83%BC-%E3%82%A8%E3%83%87%E3%82%A3%E3%82%BF%E3%83%BC-%E3%82%92-%E5%AE%9F%E8%A1%8C'>ローカル グループ ポリシー エディター を 実行</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%90%8D%E6%9D%B1%E5%8C%BA-%E5%91%BC%E5%90%B8%E5%99%A8%E5%86%85%E7%A7%91-%E8%97%A4%E3%81%8C%E4%B8%98'>名東区 呼吸器内科 藤が丘</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%87%AA%E5%8B%95%E8%BB%8A-%E4%BF%9D%E9%99%BA-%E7%B7%91%E5%86%85%E9%9A%9C'>自動車 保険 緑内障</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%BB%BD%E8%87%AA%E5%8B%95%E8%BB%8A-%E6%96%B0%E5%9E%8B-%E4%BA%88%E6%83%B3'>軽自動車 新型 予想</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%AC%E3%82%B9%E3%82%A4%E3%83%A4%E3%83%9B%E3%83%B3-iphone-%E5%AE%89%E3%81%84'>ワイヤレスイヤホン Iphone 安い</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%8C%AB-%E8%85%B8%E9%96%89%E5%A1%9E-%E3%81%8A%E8%85%B9'>猫 腸閉塞 お腹</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AB%E3%83%AB%E3%83%86%E3%82%A3%E3%82%A8-%E7%B5%90%E5%A9%9A%E6%8C%87%E8%BC%AA-%E3%83%88%E3%83%AA%E3%83%8B%E3%83%86%E3%82%A3'>カルティエ 結婚指輪 トリニティ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%9D%B1-%E6%96%B0%E6%BD%9F-%E8%87%AA%E5%8B%95%E8%BB%8A-%E5%AD%A6%E6%A0%A1-%E5%AD%A6%E7%A7%91'>東 新潟 自動車 学校 学科</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%82%E3%82%93-%E3%82%B9%E3%82%BF-%E3%81%94%E9%A3%AF'>あん スタ ご飯</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Mac-%E6%89%93%E9%8D%B5%E6%84%9F-Windows'>Mac 打鍵感 Windows</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Xbox-120hz-Fortnite'>Xbox 120hz Fortnite</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A6%8A%E5%A8%A0%E4%B8%AD-%E8%82%8C%E8%8D%92%E3%82%8C-%E7%9A%AE%E8%86%9A%E7%A7%91'>妊娠中 肌荒れ 皮膚科</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=microsoft-bing-service-%E3%81%A8%E3%81%AF'>Microsoft Bing Service とは</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B9%E3%83%90%E3%83%AB-%E3%82%B9%E3%83%86%E3%83%A9-O2%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC-%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF-%E6%96%B9%E6%B3%95'>スバル ステラ O2センサー チェック 方法</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%8A%AC-%E7%A5%9E%E7%A4%BE-%E9%95%B7%E9%87%8E'>犬 神社 長野</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%A1%E3%83%AB%E3%82%AB%E3%83%AA-%E8%8B%A6%E6%83%85-%E9%9B%BB%E8%A9%B1'>メルカリ 苦情 電話</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=LCC-%E5%8F%B0%E5%8C%97-%E3%82%BB%E3%83%BC%E3%83%AB'>LCC 台北 セール</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%AC%BC-%E6%BB%85-%E3%81%AE%E5%88%83%E3%82%B3%E3%83%A9%E3%83%9C%E3%82%AB%E3%83%95%E3%82%A7-%E4%BA%8C%E6%9C%9F'>鬼 滅 の刃コラボカフェ 二期</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=WordPress-embed-youtube-php'>WordPress Embed Youtube Php</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF%E3%83%91%E3%83%B3%E3%83%84-%E3%83%AC%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B9-gu'>チェックパンツ レディース Gu</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Function-Discovery-Resource-Publication'>Function Discovery Resource Publication</a>,
+";s:7:"expired";i:-1;}

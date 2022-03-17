@@ -1,0 +1,68 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:7338:"<p>内容が追加されます。つまりこれでiPhoneとiPad用のアイコンの指定がされます。 ここに記述されている画像全てをfavicon.icoをアップロードした、Webサイトのルートパスにアップロードします。 iPhoneとiPadでホームアイコンを確認してみる </p> <p>よく見るサイトのアイコンをiPhoneのホーム画面に追加する方法 スマホで最も使うものは間違いなく アプリ だ。 ドックの中にはなくてはならない必須アプリを置き、ホーム画面の1ページ目にはよく使うアプリを置いている人も多いのではないだろうか。 </p> <p>どの iPhone、iPad、iPod touch からでもファイルを表示し、管理できます。ファイル App を使えば、今使っているのがどのデバイスでも、探しているファイルが簡単に見つかります。 iPhone/iPadのホーム画面上のアプリが増えてくるとアイコンを整理する必要が出てきます。 使わないアプリのアイコンを削除するのはもちろん、フォルダなどにまとめたり、わかりやすいように移動したい人も多いと思います。 iPadのSafariでAirシフトのログイン画面を開きます（注：まだログインはしないでください）。 「 」ボタンを押し、「ホーム画面に追加」をタップします。 「ログイン」となっている部分を「Airシフト」等の名称に変更いただき、「追加」をタップすれば、ホーム画面にアイコンが追加されます。 </p> <p>次に、iPhoneホーム画面にブックマークアイコンを追加できない場合の対処法を解説します。 iPhoneのホーム画面は表示アイコンに合わせて、基本的に13ページまで増設されます が、13ページまで増設しきっていないのにアイコンを追加できないという状況におちいることがあります。 iPhone/iPad のホーム画面にブックマーク（アイコン）を追加する方法を紹介します。 iPhone/iPadアプリ「Safari」を使えば こんな感じで、よくアクセスするWebサイトをブックマーク（アイコン）として追加することができます。 便利な機能なので、使い方を覚えておきましょう。 ここではiPad(iPad Pro/Air/mini)でホーム画面のアイコンを整理する方法を紹介しています。アイコンを並び替え、頻繁に利用するアプリをドック内やアクセスしやすい場所に置いたり、フォルダを作成し、同ジャンルのアプリをまとめることで、より便利にiPadを利用することができます。 Dockにアプリを追加するには追加したいアプリアイコンを長押ししてドラックアンドドロップで追加できます。 Dockにアプリを追加する方法 iOS11のiPadではDockから簡単にHandoffが使えるように！ </p> <p>その他のiPadモデルでも、コントロールセンターに「メモ」を追加すれば、それらのことができます。ロック画面の動作を変更するには、「設定」 ＞「メモ」＞「ロック画面からメモにアクセス」と選択し … iPad専用の新しいOS「iPadOS 13.1」では、iPadの大きな画面を生かした新機能が搭載されました。ホーム画面にウィジェットを追加できる機能もそのひとつ。iPadの画面の情報密度を高められます。 iPhoneのホーム画面にサイトのショートカットアイコンを追加する機能は以前からありますが、知らない、または使ってないという人も多いと思うので改めてご紹介します。. </p> <p>Webサイトにすばやくアクセスできるように、そのサイトのアイコンをiPadのホーム画面に追加できます。 Webサイトで、 をタップしてから、「ホーム画面に追加」をタップします。 このアイコンは、追加したデバイスにのみ表示されます。 内容が追加されます。つまりこれでiPhoneとiPad用のアイコンの指定がされます。 ここに記述されている画像全てをfavicon.icoをアップロードした、Webサイトのルートパスにアップロードします。 iPhoneとiPadでホームアイコンを確認してみる iPadを起動し、ホーム画面より「設定」をタップする。 ※新規アカウントの場合は、「メール」アイコンからもアカウント設定ができます。 「メール／連絡先／カレンダー」をタップし、続いて「アカウントの追加」をタップします。 iPhoneやiPadを使っていると、ホーム画面上からアプリのアイコンが消えてしまい、起動することができないことがあります。サードパーティ製アプリならアンインストールした可能性がありますが、「App Store」や「カメラ」等、プリインスト  ここでは、iPad/iPad miniのSafariでWebサイトへのリンクをホーム画面に追加する方法を紹介しています。iPad/iPad miniの「Safari」アプリでは、表示(アクセス)したWebサイトへのリンク(アイコン)をiPad/iPad miniのホーム画面に追加することができます。ホーム画面に追加したWebサイトへのリンクアイコン … iPhoneのホーム画面にサイトのショートカットアイコンを追加する機能は以前からありますが、知らない、または使ってないという人も多いと思うので改めてご紹介します。. iPadやiPhoneで利用する場合、ホーム画面にショートカットアイコンを置いてアプリのようにPochikinを利用することが可能です。 ホーム画面へのショートカットアイコンの作り方は以下の手順となります。 尚、ブラウザはSafariを利用することが前提となります。 iPhoneアプリのアイコンを好きな画像・写真に変更する方法を解説しています。iPhoneでアプリを使っていると機能は良いのにアイコンが気に入らないとか、好きなキャラクターのアイコンに変更したい、なんてときがありますよね。そんなときにぜひ試してみてください！ iPhone/iPad フォルダの作成・削除とフォルダ名の変更方法を紹介します。 iOS（iPhoneやiPadなど）デバイスにアプリをインストールしまくると！ アプリのアイコンでホーム画面がごちゃごちゃになってし … iPhoneを利用しているよく目にするのが、 「四角」と↑「上矢印」が重なったようなアイコン。 実はこのアイコンは、『共有ボタン』と呼ばれています。 頻繁に利用する人も多い共有ボタン。 この記事では、共有ボタンのアイコン配置を変更する方法をご紹介します。 iPAD のどこかを押したのか アイコンが揺れるら小刻みに 揺れました。どうしてなのでしょうか？ どこを触ったのでしょうら？また この揺れは何ですか？ アイコンの左肩に ×がありました。 アプリのアイコン … </p>";s:7:"keyword";s:24:"iPad アイコン 追加";s:5:"links";s:6260:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%AF%E3%83%BC%E3%83%89-%E3%82%A2%E3%83%97%E3%83%AA-%E3%82%B5%E3%82%A4%E3%83%B3%E3%82%A4%E3%83%B3'>ワード アプリ サインイン</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B8%89%E5%AE%AE-%E3%83%AF%E3%82%A4%E3%83%B3-%E3%83%90%E3%83%BC-D'>三宮 ワイン バー D</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%9C%8C%E7%AB%8B-%E8%A5%BF%E5%AE%AE%E7%97%85%E9%99%A2-%E3%83%80-%E3%83%B4%E3%82%A3%E3%83%B3%E3%83%81'>県立 西宮病院 ダ ヴィンチ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%BE%8E%E5%AE%B9%E7%9A%AE%E8%86%9A%E7%A7%91-%E3%83%8B%E3%82%AD%E3%83%93-%E3%81%8A%E3%81%99%E3%81%99%E3%82%81'>美容皮膚科 ニキビ おすすめ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Mac-%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0-%E7%92%B0%E5%A2%83-%E8%A8%AD%E5%AE%9A-%E4%BF%AE%E5%BE%A9'>Mac システム 環境 設定 修復</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Wi-Fi-%E3%82%AD%E3%83%A3%E3%83%83%E3%82%B7%E3%83%A5-%E3%82%AF%E3%83%AA%E3%82%A2'>Wi-Fi キャッシュ クリア</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%AF%E3%81%8F%E3%81%B0%E3%81%8F-%E6%B0%B4%E5%87%BA%E3%81%97%E3%81%A7%E3%81%8A%E3%81%84%E3%81%97%E3%81%84%E9%BA%A6%E8%8C%B6-%E3%83%A8%E3%83%89%E3%83%90%E3%82%B7'>はくばく 水出しでおいしい麦茶 ヨドバシ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88-%E6%96%87%E5%AD%97%E5%88%97-%E7%BD%AE%E6%8F%9B'>コマンドプロンプト 文字列 置換</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%89%E3%82%AF%E3%82%BF%E3%83%BC%E3%83%9E%E3%83%BC%E3%83%81%E3%83%B3-%E3%82%B7%E3%83%B3%E3%82%AF%E3%83%AC%E3%82%A2-%E3%82%B5%E3%82%A4%E3%82%BA%E6%84%9F'>ドクターマーチン シンクレア サイズ感</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B3%E3%82%B9%E3%83%88%E3%82%B3-%E3%83%81%E3%83%BC%E3%82%BA%E3%82%B1%E3%83%BC%E3%82%AD-%E7%94%98%E3%81%84'>コストコ チーズケーキ 甘い</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%8F%E3%83%B3%E3%82%B0%E3%82%A2%E3%82%A6%E3%83%88-%E7%94%BB%E9%9D%A2%E5%85%B1%E6%9C%89-%E9%9F%B3'>ハングアウト 画面共有 音</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B8%89%E4%BA%95-%E4%B8%8D%E5%8B%95%E7%94%A3-%E8%B2%A1%E5%8B%99'>三井 不動産 財務</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%84%A1%E7%BD%AA-%E6%8B%98%E7%95%99-%E8%B3%A0%E5%84%9F%E9%87%91'>無罪 拘留 賠償金</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Jm-%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3-%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0-%E3%83%8F%E3%83%B3%E3%83%89-%E3%82%B8%E3%82%A7%E3%83%AB-%E5%8F%A3%E3%82%B3%E3%83%9F'>Jm ソリューション プレミアム ハンド ジェル 口コミ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%B4%BE%E9%81%A3%E5%A5%91%E7%B4%84-%E5%8E%9A%E7%94%9F-%E5%8A%B4%E5%83%8D%E7%9C%81'>派遣契約 厚生 労働省</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%8A%E3%81%AB%E3%81%8E%E3%82%8A-%E7%B4%A0%E6%89%8B-%E6%B0%97%E6%8C%81%E3%81%A1%E6%82%AA%E3%81%84'>おにぎり 素手 気持ち悪い</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%B1%B3%E7%9B%9B-%E7%97%85%E9%99%A2-%E5%A4%9C%E9%96%93'>米盛 病院 夜間</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%8F%E3%83%BC%E3%83%88%E3%83%A9%E3%83%B3%E3%83%89-%E3%81%97-%E3%81%8E-%E3%81%95%E3%82%93-%E7%97%85%E6%A3%9F'>ハートランド し ぎ さん 病棟</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%BB%E3%83%AA%E3%83%BC%E3%83%8C-%E4%B8%AD%E5%8F%A4-%E3%83%90%E3%83%83%E3%82%B0'>セリーヌ 中古 バッグ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%A9%E3%82%B0%E3%83%93%E3%83%BC-%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%A0-%E3%82%B3%E3%83%84'>ラグビー スクラム コツ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%9D%B1%E5%B7%9D-%E7%94%BA%E7%AB%8B-%E6%9D%B1%E5%B7%9D-%E5%B0%8F%E5%AD%A6%E6%A0%A1-%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%BC%E3%82%B8'>東川 町立 東川 小学校 ホームページ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Au-%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%BC-%E3%82%A2%E3%83%97%E3%83%AA'>Au ウォーマー アプリ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=ana-%E6%97%85%E4%BD%9C-%E5%AE%89%E3%81%84'>Ana 旅作 安い</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%84%E3%82%A4%E3%83%83%E3%82%BF%E3%83%BC-%E6%B4%BE-%E3%82%A4%E3%83%B3%E3%82%B9%E3%82%BF%E6%B4%BE'>ツイッター 派 インスタ派</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%97%A5%E6%9C%AC%E8%A3%BD-%E5%B8%83%E5%9B%A3%E3%82%BB%E3%83%83%E3%83%88-%E3%82%B7%E3%83%B3%E3%82%B0%E3%83%AB'>日本製 布団セット シングル</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%BD%E3%83%95-%E3%83%81%E3%83%A5%E3%83%BC%E3%83%AB-%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%A4%E3%83%B3%E3%83%AF%E3%83%B3-%E3%82%B2%E3%83%AB'>ソフ チュール オールインワン ゲル</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%84%E3%83%8A-%E5%A4%A7%E6%A0%B9-%E3%83%91%E3%82%B9%E3%82%BF'>ツナ 大根 パスタ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Extra-%E6%84%8F%E5%91%B3-%E3%82%B9%E3%83%A9%E3%83%B3%E3%82%B0'>Extra 意味 スラング</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%A9%E3%83%95-%E3%81%8B%E3%82%89-%E5%8E%9A%E5%A1%97%E3%82%8A'>ラフ から 厚塗り</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%B1%8A%E5%B7%9D-%E3%83%97%E3%83%AA%E3%82%AA-%E3%82%AB%E3%83%95%E3%82%A7'>豊川 プリオ カフェ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%84%BC%E3%81%8D%E3%81%9D%E3%81%B0-%E7%94%9F-%E9%BA%BA-%E5%BE%B3%E7%94%A8-1kg'>焼きそば 生 麺 徳用 1kg</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%8A%E3%81%A7%E3%82%93-%E7%99%BD%E3%81%A0%E3%81%97-%E3%82%81%E3%82%93%E3%81%A4%E3%82%86'>おでん 白だし めんつゆ</a>,
+";s:7:"expired";i:-1;}

@@ -1,0 +1,63 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:2718:"<br>ホームページビルダー19以降、大きく分けて次の3つのアプリケーションが搭載されています。 ① ホームページビルダークラシック.  <br>② ホームページビルダーsp ホームページビルダー20,21spの利点・イマイチなところ. ホームページビルダーでアクセスカウンタを設置（さくらインターネットの場合）,コジカテの教師が日々の出来事・オススメの勉強法・生徒さんとの奮闘ぶりを書いています。 ホームページ入門サイトのアクセスカウンターの作り方について説明したページです。アクセスカウンターの概要、画像の自作例、設置方法の例等について説明しています。又、サンプルのカウンター画像素材もダウンロード出来ます。 研究室のサイトで多く利用されているため、アクセスカウンターについて解説してきましたが、アクセス解析も実はお …  ホームページビルダー20,21spの利点・イマイチなところ. ホームページ・ビルダーspで行う見出しの修正. ホームページビルダーspで、新規にホームページを作成する際、テンプレートを選択してから行いますが、このテンプレートには、あらかじめサンプルの文字列や画像、タイトル、見出し等が設定されています。 ホームページ・ビルダー21 通常版; ホームページ・ビルダー21 アカデミック版; 最後に. HPを作りました。index.htmlページにヒットカウンターを設置したいのですが、一般ユーザーには見えず、HP管理者のみに見えるようなヒットカウンターを設置する方法はないでしょうか？自分で考えてみたのですが、1 ヒットカウンター <br> <br>「ホームページ・ビルダー サービス」は、ジャストシステムが運営するホスティング・顧客管理サービスです。ホームページの公開、独自ドメイン、メールアドレスの作成、メルマガ配信、クーポン配信も。 ホームページ・ビルダー サービスのご契約をご検討の方、ご契約中の方からのお問い合わせをお受けしています。 ご記入いただきましたお名前・メールアドレスは、お客様のお問い合わせに関連して、弊社からの返信にのみ使用いたします。 <br> ホームページビルダー19以降、大きく分けて次の3つのアプリケーションが搭載されています。 ① ホームページビルダークラシック. ② ホームページビルダーsp <br>";s:7:"keyword";s:61:"ホームページ ビルダーSP アクセスカウンター";s:5:"links";s:4936:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Pixiv-%E7%94%BB%E5%83%8F-%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9'>Pixiv 画像 ウイルス</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%AF%8C%E5%A3%AB%E9%80%9A-%E6%8C%87%E7%B4%8B%E8%AA%8D%E8%A8%BC-%E3%83%89%E3%83%A9%E3%82%A4%E3%83%90'>富士通 指紋認証 ドライバ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=imac-mid-2011-%E5%A4%96%E9%83%A8%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4'>Imac Mid 2011 外部ディスプレイ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BA%AC%E6%A9%8B-%E3%82%AB%E3%83%A9%E3%82%AA%E3%82%B1-%E3%82%B9%E3%83%8A%E3%83%83%E3%82%AF'>京橋 カラオケ スナック</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%84%A1%E5%8D%B0%E8%89%AF%E5%93%81-100%E5%9D%87-%E5%8F%8E%E7%B4%8D'>無印良品 100均 収納</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%8C%87%E8%BC%AA-%E5%88%BB%E5%8D%B0-%E3%81%8A%E3%82%82%E3%81%97%E3%82%8D'>指輪 刻印 おもしろ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%AE%AE%E5%9C%B0%E5%B6%BD%E7%A5%9E%E7%A4%BE-%E4%B8%83%E4%BA%94%E4%B8%89-%E5%88%9D%E7%A9%82-%E6%96%99'>宮地嶽神社 七五三 初穂 料</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%8C%A8%E6%9C%A8-%E5%B8%82-%E7%89%B9%E5%88%A5-%E5%BE%B4%E5%8F%8E-%E7%95%B0%E5%8B%95-%E5%B1%8A-%E6%8F%90%E5%87%BA-%E5%85%88'>茨木 市 特別 徴収 異動 届 提出 先</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9A%E3%82%A2-%E3%83%8D%E3%83%83%E3%82%AF%E3%83%AC%E3%82%B9-%E5%A4%A7%E3%81%8D%E3%82%81'>ペア ネックレス 大きめ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%B1%85%E9%85%92%E5%B1%8B-%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E5%BA%97-%E6%A2%85%E7%94%B0'>居酒屋 チェーン店 梅田</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%89%9B%E4%B9%B3%E5%AF%92%E5%A4%A9-%E3%81%BF%E3%81%8B%E3%82%93-%E3%82%BC%E3%83%A9%E3%83%81%E3%83%B3'>牛乳寒天 みかん ゼラチン</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B9%E3%83%88%E3%83%AA%E3%83%BC%E3%83%A0-%E8%BB%8A-%E9%AB%98'>ストリーム 車 高</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89-%E3%83%95%E3%83%BC%E3%82%BA-%E4%BA%AC%E9%83%BD'>ワールド フーズ 京都</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A4%E3%82%AA%E3%83%B3-C2-%E8%A9%A6%E9%A8%93-2018'>イオン C2 試験 2018</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=EOS-Kiss-%E3%83%95%E3%82%A3%E3%83%AB%E3%83%A0-%E4%BD%BF%E3%81%84%E6%96%B9'>EOS Kiss フィルム 使い方</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%82%B8%E3%83%A0-%E3%83%90%E3%82%A4%E3%83%88-%E3%81%8A%E3%81%99%E3%81%99%E3%82%81'>スポーツジム バイト おすすめ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=google-fit-%E9%80%A3%E6%90%BA%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%A2%E3%83%97%E3%83%AA'>Google Fit 連携できるアプリ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%AD%A6%E7%BF%92%E6%9C%BA-%E3%83%AA%E3%83%A1%E3%82%A4%E3%82%AF-%E3%83%9A%E3%83%B3%E3%82%AD'>学習机 リメイク ペンキ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A2%E3%82%B0%E3%83%8D%E3%82%B9-%E7%9B%AE%E3%81%AE%E4%B8%8B-%E8%84%82%E8%82%AA%E3%83%96%E3%83%AD%E3%82%B0'>アグネス 目の下 脂肪ブログ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A6%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B0%E3%83%9D%E3%82%B9%E3%83%88-8-psvita-%E6%94%BB%E7%95%A5'>ウイニングポスト 8 Psvita 攻略</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%82%E3%81%95%E3%82%8A-%E6%B0%B4%E7%85%AE-%E5%B9%BC%E5%85%90%E9%A3%9F'>あさり 水煮 幼児食</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=LINE-%E3%81%AA%E3%82%8A%E3%81%99%E3%81%BE%E3%81%97-%E6%96%87%E7%AB%A0'>LINE なりすまし 文章</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%B4%97%E6%BF%AF-%E5%B9%B2%E3%81%97%E6%96%B9-%E8%A3%8F%E8%BF%94%E3%81%97'>洗濯 干し方 裏返し</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%9F%8E%E8%A5%BF%E5%A4%A7%E5%AD%A6-%E7%95%99%E5%B9%B4-%E9%80%9A%E7%9F%A5'>城西大学 留年 通知</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B8%83%E4%BA%94%E4%B8%89-%E3%81%8A%E7%A5%9D%E3%81%84-%E7%BE%A9%E4%B8%A1%E8%A6%AA'>七五三 お祝い 義両親</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A8%E3%82%A2%E3%82%B3%E3%83%B3-%E3%83%9E%E3%82%B0%E3%83%8D%E3%83%83%E3%83%88%E3%82%AF%E3%83%A9%E3%83%83%E3%83%81-%E3%83%AA%E3%83%AC%E3%83%BC'>エアコン マグネットクラッチ リレー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9D%E3%83%88%E3%82%B9-%E6%A0%B9-%E5%88%87%E3%82%8B'>ポトス 根 切る</a>,
+";s:7:"expired";i:-1;}

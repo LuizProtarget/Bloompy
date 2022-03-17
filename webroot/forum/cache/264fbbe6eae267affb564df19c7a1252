@@ -1,0 +1,61 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:1985:"iMacをターゲットディスプレイモードで使用するということですね。 条件を満たせば可能です。 OS X Lion: 別の Mac をディスプレイとして使用する. 2.1 Step.1 まずは準備するもの; 2.2 Step.2 ターゲットディスプレイモード「command + F2」 2.2.1 「command + F2」が機能しない…そんな時は; 3 贅沢ですよね せっかく iMac と MacBook があるので、2つをつないでiMac を外部ディスプレイにしてみました。はげしく今更ではありますが iMac がかなり古いので性能的には MacBook をメインに使いたい。 で、どーせなら iMac 使ってディスプレイもおっきく使いたい！ というわけでチャレンジしてみたんです。 27 インチ iMac (Late 2009 または Mid 2010) を外部ディスプレイとして使う 2 iMacをサブディスプレイ（外付けディスプレイ）として使う方法. iMac（27-inch, Late 2009） iMac（27-inch, Mid 2010） iMac（Mid 2011 ～ Mid 2014） iMac（Retina 5K, 27-inch, Late 2014）以降の iMac モデルは、「ターゲットディスプレイモード」でディスプレイとして使う事は出来ません。  我が家で外部ディスプレイ化するのはこのiMacです。 外部ディスプレイ化するのは、iMac27インチ（2011）になります。 古いモデルですが、愛着があるので下取りなどには出しませんでした。 iMac27インチ（2011）の液晶はTFT。解像度は、2560×1440ピクセルです。 iMacでは、4Kまたは5Kから選べる、目の覚めるようなRetinaディスプレイが美しく活躍します。10億の色と500ニトの輝度を持っているので、グラフィックスは画面から飛び出してくるように感じられ、文字は驚くほどシャープでクリアに読むことができます。 <br> <br>OS X v10.6.1 以降を搭載したサポート対象の iMac. ";s:7:"keyword";s:38:"imac mid 2011 外部ディスプレイ";s:5:"links";s:4804:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%BD%A6%E6%A0%B9%E9%A7%85-%E3%83%A9%E3%83%B3%E3%83%81-%E3%82%AB%E3%83%95%E3%82%A7'>彦根駅 ランチ カフェ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Windows-%E3%83%AD%E3%83%83%E3%82%AF%E7%94%BB%E9%9D%A2-%E3%83%90%E3%83%83%E3%82%AF%E3%82%B0%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%89'>Windows ロック画面 バックグラウンド</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%90%E3%82%A4%E3%83%88-%E5%B9%B3%E5%9D%87%E6%9C%88%E5%8F%8E-%E9%AB%98%E6%A0%A1%E7%94%9F'>バイト 平均月収 高校生</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=6%E6%9C%88-%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88-%E3%81%8A%E3%81%97%E3%82%83%E3%82%8C'>6月 イラスト おしゃれ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A4%A9%E7%AA%93-%E3%82%AB%E3%83%BC%E3%83%86%E3%83%B3-100-%E5%9D%87'>天窓 カーテン 100 均</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%B4%97%E6%BF%AF-%E6%99%82%E7%9F%AD-%E5%B7%A5%E5%A4%AB'>洗濯 時短 工夫</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%8A%E5%B9%B4%E7%8E%89-%E5%88%87%E6%89%8B%E3%82%B7%E3%83%BC%E3%83%88-%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB'>お年玉 切手シート ファイル</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Chrome-extension-iOS-App'>Chrome Extension IOS App</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B9%9D%E5%B7%9E%E5%A4%A7%E5%AD%A6-%E3%82%B7%E3%83%A9%E3%83%90%E3%82%B9-%E6%96%87%E5%AD%A6%E9%83%A8'>九州大学 シラバス 文学部</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%BB%E3%81%86%E3%82%8C%E3%82%93%E8%8D%89-%E5%8D%B5-%E3%82%AA%E3%83%A0%E3%83%AC%E3%83%84-%E3%82%AF%E3%83%83%E3%82%AF%E3%83%91%E3%83%83%E3%83%89'>ほうれん草 卵 オムレツ クックパッド</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AD%E3%83%A3%E3%83%83%E3%82%B7%E3%83%A5%E3%82%AB%E3%83%BC%E3%83%89-%E5%89%B2%E3%82%8C%E3%81%9F-%E3%81%BF%E3%81%9A%E3%81%BB'>キャッシュカード 割れた みずほ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AF%E3%83%AC%E3%83%B3%E3%82%B8%E3%83%B3%E3%82%B0%E3%82%B8%E3%82%A7%E3%83%AB-CC-%E5%8F%A3%E3%82%B3%E3%83%9F'>クレンジングジェル CC 口コミ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A2%E3%83%8B%E3%83%A1%E3%82%A4%E3%83%88%E5%A4%A9%E7%8E%8B%E5%AF%BA-%E4%B8%80-%E7%95%AA-%E3%81%8F%E3%81%98'>アニメイト天王寺 一 番 くじ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%82%E3%81%86%E5%B0%91%E3%81%97%E5%AE%89%E3%81%8F%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B-%E8%8B%B1%E8%AA%9E-%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9'>もう少し安くなりませんか 英語 ビジネス</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BA%AC%E9%83%BD-%E7%B5%90%E5%A9%9A-%E5%BC%8F-%E8%8A%B1'>京都 結婚 式 花</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%B7%A5%E4%BA%8B%E4%B8%8D%E8%A6%81-wifi-%E5%8F%A3%E3%82%B3%E3%83%9F'>工事不要 Wifi 口コミ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AF%E3%83%AD%E3%83%A0%E3%83%8F%E3%83%BC%E3%83%84-%E3%82%A4%E3%83%B3%E3%83%9C%E3%82%A4%E3%82%B9-%E5%80%A4%E6%AE%B5%E6%9B%B8%E3%81%84%E3%81%A6%E3%81%AA%E3%81%84'>クロムハーツ インボイス 値段書いてない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=iPad-%E9%81%85%E3%81%84-%E3%83%8D%E3%83%83%E3%83%88'>IPad 遅い ネット</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=mac-%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB-high-sierra'>Mac クリーンインストール High Sierra</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%8A%E3%81%A7%E3%82%93-%E7%99%BD%E3%81%A0%E3%81%97-%E3%82%81%E3%82%93%E3%81%A4%E3%82%86'>おでん 白だし めんつゆ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%B4%8D%E8%B1%86-%E3%83%91%E3%82%B9%E3%82%BF-%E3%83%9E%E3%82%B9%E3%82%AA'>納豆 パスタ マスオ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%BF%91%E6%B1%9F-%E5%85%AB%E5%B9%A1-%E9%A7%85-%E8%A6%B3%E5%85%89'>近江 八幡 駅 観光</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%A8%E3%82%8A-%E3%82%80%E3%81%AD-%E3%83%A8%E3%83%BC%E3%82%B0%E3%83%AB%E3%83%88-%E5%94%90-%E6%8F%9A%E3%81%92'>とり むね ヨーグルト 唐 揚げ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%88%E3%83%9E%E3%83%88-%E4%BF%9D%E5%AD%98-%E3%82%BD%E3%83%BC%E3%82%B9'>トマト 保存 ソース</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%84%9B%E5%AE%95%E7%A5%9E%E7%A4%BE-%E5%8E%84%E9%99%A4%E3%81%91-%E6%B0%B7'>愛宕神社 厄除け 氷</a>,
+";s:7:"expired";i:-1;}

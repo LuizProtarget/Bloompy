@@ -1,0 +1,126 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:5160:"<p>1ピクセルって何ミリなのでしょう？至急、お答えお待ちしております。かなり急いでます。よろしくお願いいたします。1ピクセルが何ミリかという質問の答えになるかどうか分かりませんが、web制作上に限って言えば、横100ピクセルの画像を </p> <p>ブラシサイズ変更のウィンドウとご連絡をいただきましたが、 ご使用のソフトウェアは、「clip studio paint」でよろしいでしょうか。 その場合は、[ウィンドウ]メニューの[ブラシサイズ]を選択していただき パレットが表示するかご確認ください。 ブラシサイズについてですが、mmとpxから選択可能です。 また、現在の単位がどちらなのかは「ファイル」→「環境設定」の 「定規・単位」から確認（変更）することが出来ます。 </p> <p>ポイントとは、文字や図形のサイズを表す単位のことです。「1ポイント」は「1pt」または「1ポ」とも表記されます。1インチは25.4mmなので25.4÷72＝0.3527777…mmとなります。 カラーイラストの主線向きのペンです。ブラシサイズを変更せず強弱のつけやすいペンです。線を重ねずにワンストロークで引く場合に向いているので、特にベクターレイヤと相性がよいです。  ペン入れはデフォルトのGペンと、オリジナル設定のペンを交互に使いながら行います。 ブラシサイズは2.00mmあたりに設定し、描く場所によって変化させます。 アンチエイリアスは[無し]に設定します。デフォルトのGペンの設定はこれで終わりです。 </p> <p>ペン入れをするレイヤーは第1回の[2]で作成した「ペン」フォルダーの … ペンのサイズは絵柄によって細いほうがいいとか太い方がいいとかありますので難しいですね。 とりあえず、0.3mmで書いても綺麗に印刷に出ます。 0.1mmは細すぎてかすれてしまう可能性があります。 私は太めがすきなので一番細いところで0.3mmです。 </p> <p>クリスタ（clip studio paint）での筆圧検知レベルの調整、ペン・ブラシごとの筆圧設定（筆圧カーブ・影響元設定）の調整やカスタマイズなどのやり方色々についてまとめてみました。 </p> <p>ペン入れ時のブラシサイズの太さについて 0.7pxで書いてみたのですが、1px以下だと上の画像のようにギザギザ・途切れが出て綺麗に描けません。 デジタルイラストのキャンバスサイズで悩むことはありませんか？実はポイントを押さえれば適切なサイズ選びも難しくないのです。まとめてみたのでぜひ一度確認しておきましょう。 まとめてみましたので適切なサイズでイラストを仕上げるための参考にしてみて下さいね。 </p> <p>ペンの太さ、テキストのサイズにも影響してくる部分です あと余談ですが、ブラシサイズはプロパティの詳細で 「画面上のサイズで指定」という不思議なチェック項目があり これもブラシサイズに影響します 後半分からない説明も多いとは思いますが </p> <p>いつもラフはいいのに、ペン入れするとなんか物足りないんだよね。どうしたらきれいにペン入れ出来るんだろう？今回はこんな人に役立つ記事だと思います！この記事は線画用のペンに関して扱います。色塗り用の筆設定とかはまた別に記事にします&gt;&amp;lt 解像度とサイズの概念は最初かなりとっつきにくい部分だと思います。 でも理屈を考えながら描いていると少しずつ理解していけると思うので、あきらめずがんばってください。 </p> <p>ペンサイズのmm表示はぜひ実現して下さい。同じ設定のペンで、用紙解像度が変わると太さが 替わってしまうのはペンとして使い物になりません。 基本漫画を描くときはA4とかB4とかの紙に描くのであって、縦横何ピクセルの画面に 個人の好みもあるかと思いますが、主線の適切なブラシサイズがわかりません。B5原寸(カラー360dpi、モノクロ漫画600dpi) ご自身の設定やお勧めサイト等教えてくださると嬉しいです。 </p> <p>今日はclip studio paint(クリスタ)のオススメのブラシを紹介しますね、(元から入ってるデフォルトのヤツね、) 始めに言っちゃうと、オススメブラシのランキングは、 第1位 水彩「塗り&馴染ませ」ブラシ 第2位 「デッサン鉛筆」ブラシ 第3位 「油彩」ブラシ です。 </p> <p>2.ペン入れレイヤーの作成. ・ブラシサイズ：15 ※[ブラシサイズ影響元設定]の[筆圧設定]は下図参照 ・手ブレ補正：0. </p> <p>クリスタの解像度とキャンバスサイズについてのまとめ . </p>";s:7:"keyword";s:31:"クリスタ ペンサイズ mm";s:5:"links";s:17250:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Chrome-plugin-%E9%99%90%E5%AE%9A%E5%85%AC%E9%96%8B'>Chrome Plugin 限定公開</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%B0%B4%E7%AD%92-%E3%81%8A%E3%81%99%E3%81%99%E3%82%81-%E6%B4%97%E3%81%84%E3%82%84%E3%81%99%E3%81%84'>水筒 おすすめ 洗いやすい</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%8B%B1%E8%AA%9E-%E5%90%8D%E8%A8%80-%E5%8B%89%E5%BC%B7'>英語 名言 勉強</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9-%E5%9C%B0%E5%9B%B3-%E5%9C%B0%E6%96%B9'>フランス 地図 地方</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Windows10-%E3%83%90%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97-NAS'>Windows10 バックアップ NAS</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%8E%E3%83%BC%E3%82%B9-%E3%83%95%E3%82%A7%E3%82%A4%E3%82%B9-%E3%82%AD%E3%83%83%E3%82%BA-%E3%83%9E%E3%82%A6%E3%83%B3%E3%83%86%E3%83%B3%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC'>ノース フェイス キッズ マウンテンパーカー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A2%E3%83%87%E3%82%A3%E3%83%80%E3%82%B9-%E3%82%A6%E3%82%A3%E3%83%B3%E3%83%89%E3%83%96%E3%83%AC%E3%83%BC%E3%82%AB%E3%83%BC-%E3%82%B5%E3%82%A4%E3%82%BA%E6%84%9F'>アディダス ウィンドブレーカー サイズ感</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=bbc-learning-english-%E5%8B%89%E5%BC%B7%E6%B3%95'>Bbc Learning English 勉強法</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%8B%B1%E8%AA%9E-%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88-%E5%AD%90%E4%BE%9B'>英語 テキスト 子供</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%B9%B4%E8%B3%80%E7%8A%B6-2019-%E7%84%A1%E6%96%99%E3%83%86%E3%83%B3%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88-%E5%92%8C%E9%A2%A8'>年賀状 2019 無料テンプレート 和風</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=18%E9%87%91-%E5%96%9C%E5%B9%B3%E3%83%8D%E3%83%83%E3%82%AF%E3%83%AC%E3%82%B9-100g-%E4%B8%AD%E5%8F%A4'>18金 喜平ネックレス 100g 中古</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%97%85%E9%99%A2-%E3%83%90%E3%82%A4%E3%83%88-%E5%9F%BC%E7%8E%89'>病院 バイト 埼玉</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=ASIX-AX88179-VLAN'>ASIX AX88179 VLAN</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%A4%E3%83%9E%E3%83%88%E9%81%8B%E8%BC%B8-%E5%BD%93%E9%81%B8-%E3%83%A1%E3%83%BC%E3%83%AB'>ヤマト運輸 当選 メール</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=iphone-%E7%B7%8A%E6%80%A5%E9%80%9F%E5%A0%B1-%E9%9F%B3%E9%87%8F'>Iphone 緊急速報 音量</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A4%E3%82%AE%E3%83%AA%E3%82%B9-%E3%83%AF%E3%83%BC%E3%83%9B%E3%83%AA-%E3%83%87%E3%82%B6%E3%82%A4%E3%83%8A%E3%83%BC'>イギリス ワーホリ デザイナー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%9F%E3%81%93%E7%84%BC%E3%81%8D-%E3%81%BB%E3%82%93%E3%81%A0%E3%81%97-%E7%B2%89'>たこ焼き ほんだし 粉</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%8A%E3%82%8A%E3%82%82%E3%81%AE-%E3%83%86%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A5-%E3%81%BF%E3%81%9F%E3%81%84'>おりもの ティッシュ みたい</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=mac-mini-%E3%83%A1%E3%83%A2%E3%83%AA%E5%A2%97%E8%A8%AD-2019'>Mac Mini メモリ増設 2019</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B9%B3%E6%B6%B2-%E3%81%8A%E3%81%99%E3%81%99%E3%82%81-%E7%BE%8E%E7%99%BD-30%E4%BB%A3'>乳液 おすすめ 美白 30代</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%80%E3%82%A4%E3%82%BD%E3%83%BC-%E3%82%A2%E3%83%B3%E3%83%81%E3%83%A7%E3%83%93-%E3%83%AC%E3%82%B7%E3%83%94'>ダイソー アンチョビ レシピ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%96%A2%E8%A5%BF%E5%AD%A6%E9%99%A2%E5%A4%A7%E5%AD%A6-%E5%95%86%E5%AD%A6%E9%83%A8-%E6%95%B0%E5%AD%A6'>関西学院大学 商学部 数学</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%8E%8C%E5%80%89-%E5%AD%A6%E7%94%9F-%E8%A6%B3%E5%85%89'>鎌倉 学生 観光</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%B4%BE%E9%81%A3%E5%A5%91%E7%B4%84-%E5%8E%9A%E7%94%9F-%E5%8A%B4%E5%83%8D%E7%9C%81'>派遣契約 厚生 労働省</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A2%E3%83%B3%E3%83%89%E3%83%AD%E3%82%A4%E3%83%89-%E3%82%BF%E3%83%96%E3%83%AC%E3%83%83%E3%83%88-10%E3%82%A4%E3%83%B3%E3%83%81'>アンドロイド タブレット 10インチ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=HIS-%E3%82%B0%E3%83%AC%E3%83%BC%E3%83%88-%E3%82%AA%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%B3-%E3%83%AD%E3%83%BC%E3%83%89'>HIS グレート オーシャン ロード</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%B3%A5%E5%88%BA%E3%81%97-%E6%8C%81%E3%81%A1%E5%B8%B0%E3%82%8A-%E5%A4%A7%E9%98%AA'>鳥刺し 持ち帰り 大阪</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Surface-%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%97%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC-%E9%81%85%E3%81%84'>Surface エクスプローラー 遅い</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=mac-%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB-high-sierra'>Mac クリーンインストール High Sierra</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%8F%8E%E7%B4%8D%E6%A3%9A-diy-100%E5%9D%87'>収納棚 Diy 100均</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88-%E3%82%A2%E3%83%97%E3%83%AA-%E3%81%9D%E3%81%AE%E4%BB%96-%E3%81%AE%E9%A0%85%E7%9B%AE%E3%81%AE%E3%82%B5%E3%82%A4%E3%82%BA%E3%82%92%E5%A4%89%E6%9B%B4%E3%81%99%E3%82%8B-%E3%83%AC%E3%82%B8%E3%82%B9%E3%83%88%E3%83%AA'>テキスト アプリ その他 の項目のサイズを変更する レジストリ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%9D%B1%E5%A4%A7-%E9%A1%98%E6%9B%B8-%E5%8F%97%E7%90%86'>東大 願書 受理</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A4%A7%E3%81%8D%E3%81%84-%E3%83%80%E3%82%A4%E3%82%BD%E3%83%BC-%E9%83%BD%E5%86%85'>大きい ダイソー 都内</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB-%E7%A7%BB%E5%8B%95-%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%82%AB%E3%83%83%E3%83%88'>ファイル 移動 ショートカット</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B8%B2%E6%8F%9A%E3%81%92-%E3%82%BD%E3%83%BC%E3%82%B9-%E3%83%97%E3%83%AD'>串揚げ ソース プロ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B3%E3%82%A6%E3%83%A2%E3%83%AA-%E3%83%A9%E3%83%B3-%E6%9D%BF%E4%BB%98-%E3%82%AB%E3%83%93'>コウモリ ラン 板付 カビ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%96%B0-%E6%9C%A8-%E8%80%B3%E9%BC%BB%E5%92%BD%E5%96%89%E7%A7%91-%E6%B1%82%E4%BA%BA'>新 木 耳鼻咽喉科 求人</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A6%E3%83%BC%E3%83%90%E3%83%BC%E3%82%A4%E3%83%BC%E3%83%84-%E8%92%B2%E7%94%B0-%E7%A8%BC%E3%81%92%E3%82%8B'>ウーバーイーツ 蒲田 稼げる</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=onedrive-%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88-%E4%BF%9D%E5%AD%98%E5%85%88'>Onedrive スクリーンショット 保存先</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%96%B0-%E5%B7%9D%E6%A9%8B-%E7%97%85%E9%99%A2-%E8%84%B3%E7%A5%9E%E7%B5%8C-%E5%A4%96%E7%A7%91'>新 川橋 病院 脳神経 外科</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%82%E3%82%93%E3%82%B9%E3%82%BF-knights-%E3%82%B0%E3%83%83%E3%82%BA'>あんスタ Knights グッズ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%90%E3%83%B3%E3%83%89%E3%83%AA-%E6%98%A0%E7%94%BB-%E3%82%B0%E3%83%83%E3%82%BA'>バンドリ 映画 グッズ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Qnap-firmware-fw004'>Qnap Firmware Fw004</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B9%E3%82%AD%E3%83%AC%E3%83%83%E3%83%88-%E5%8F%96%E3%81%A3%E6%89%8B-%E3%82%B7%E3%83%BC%E3%82%BA%E3%83%8B%E3%83%B3%E3%82%B0'>スキレット 取っ手 シーズニング</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Llbean-%E3%83%80%E3%82%A6%E3%83%B3-%E3%81%9F%E3%81%9F%E3%81%BF%E6%96%B9'>Llbean ダウン たたみ方</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BD%90%E4%B8%96%E4%BF%9D-%E7%9B%B8%E6%B5%A6-%E7%BE%8E%E5%AE%B9%E5%AE%A4'>佐世保 相浦 美容室</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%8D%E3%81%B3%E7%A0%82%E7%B3%96-%E3%82%B0%E3%83%A9%E3%83%8B%E3%83%A5%E3%83%BC%E7%B3%96-%E4%BB%A3%E7%94%A8'>きび砂糖 グラニュー糖 代用</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BB%8F%E5%A3%87-%E8%B2%B7%E3%81%84%E6%9B%BF%E3%81%88-%E3%81%AF%E3%81%9B%E3%81%8C%E3%82%8F'>仏壇 買い替え はせがわ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B9%9D%E5%B7%9E%E5%A4%A7%E5%AD%A6-%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3-%E7%9B%B8%E8%AB%87'>九州大学 パソコン 相談</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A4%A7%E9%98%AA%E5%A4%A7%E5%AD%A6-%E9%AB%98%E6%A0%A1%E5%88%A5%E5%90%88%E6%A0%BC%E8%80%85%E6%95%B0-2020'>大阪大学 高校別合格者数 2020</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%88%E3%83%A8%E3%82%BF-%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC-%E9%B3%B4%E3%82%8A-%E3%81%A3-%E3%81%B1%E3%81%AA%E3%81%97'>トヨタ コーナーセンサー 鳴り っ ぱなし</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=AKiTiO-Thunder2-Quad'>AKiTiO Thunder2 Quad</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=N-BOX%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%A0-%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC'>N BOXカスタム バッテリー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9A%E3%83%B3%E3%82%B1%E3%83%BC%E3%82%B9-%E3%81%8A%E3%81%97%E3%82%83%E3%82%8C-%E9%9D%A9'>ペンケース おしゃれ 革</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%84%E3%83%8A%E7%BC%B6-%E3%83%AC%E3%82%B7%E3%83%94-%E3%83%91%E3%82%B9%E3%82%BF'>ツナ缶 レシピ パスタ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%B6%8F%E8%82%89-%E7%82%92%E3%82%81%E7%89%A9-%E3%83%9D%E3%83%B3%E9%85%A2'>鶏肉 炒め物 ポン酢</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%AF%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%84-%E6%B4%97%E6%BF%AF-%E8%A5%9F%E6%B1%9A%E3%82%8C'>ワイシャツ 洗濯 襟汚れ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B9%E3%83%AA%E3%83%A9%E3%83%B3%E3%82%AB-%E3%82%A2%E3%83%BC%E3%83%A6%E3%83%AB%E3%83%B4%E3%82%A7%E3%83%BC%E3%83%80-%E8%B3%87%E6%A0%BC'>スリランカ アーユルヴェーダ 資格</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A4%E3%82%AA%E3%83%B3-%E3%82%B9%E3%83%88%E3%83%AC%E3%83%BC%E3%82%B8-%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9'>イオン ストレージ ボックス</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B4%E3%83%AB%E3%83%95%E3%82%A6%E3%82%A7%E3%82%A2-%E3%83%AC%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B9-%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%83%91%E3%83%B3%E3%83%84'>ゴルフウェア レディース ショートパンツ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B8%8D%E5%8B%95%E7%94%A3-%E6%A5%AD%E7%95%8C-%E5%90%91%E3%81%84%E3%81%A6%E3%82%8B%E4%BA%BA'>不動産 業界 向いてる人</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%89%8B%E6%9B%B8%E3%81%8D-%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88-%E4%BA%BA'>手書き イラスト 人</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9E%E3%83%BC%E3%83%81%E3%83%B3-%E3%83%AF%E3%83%B3%E3%82%B5%E3%82%A4%E3%82%BA-%E4%B8%8B%E3%81%92'>マーチン ワンサイズ 下げ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A4%E3%82%B9%E3%83%A9%E3%83%A0%E6%95%99-%E8%B1%9A%E8%82%89-%E9%A3%9F%E3%81%B9%E3%81%A6%E3%81%97%E3%81%BE%E3%81%A3%E3%81%9F%E3%82%89'>イスラム教 豚肉 食べてしまったら</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=J-%E3%83%AA%E3%83%BC%E3%82%B0-%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%AD%E3%83%B3%E3%82%B0-%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88-%E3%81%95%E3%82%8C%E3%81%AA%E3%81%84'>J リーグ ウォーキング カウント されない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B5%E3%83%BC%E3%83%A2%E3%82%B9-%E3%82%BF%E3%83%B3%E3%83%96%E3%83%A9%E3%83%BC-%E8%93%8B-%E4%BB%98'>サーモス タンブラー 蓋 付</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AF%E3%83%83%E3%82%AF%E3%83%91%E3%83%83%E3%83%89-%E3%81%9F%E3%81%93%E7%84%BC%E3%81%8D-%E5%85%B7'>クックパッド たこ焼き 具</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%9D%B1%E6%AD%A6%E5%8B%95%E7%89%A9%E5%85%AC%E5%9C%92-%E6%A0%AA%E4%B8%BB%E5%84%AA%E5%BE%85%E5%88%B8-%E4%BD%BF%E3%81%84%E6%96%B9'>東武動物公園 株主優待券 使い方</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%8A%E3%82%A4%E3%83%B3-%E3%83%95%E3%82%A9%E3%83%BC-%E9%AB%98%E6%A0%A1%E7%94%9F-%E3%83%A9%E3%83%83%E3%83%97'>ナイン フォー 高校生 ラップ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%A1%E3%83%AB%E3%83%91%E3%83%AB%E3%82%AF-%E6%A8%AA%E6%B5%9C-%E6%88%90%E4%BA%BA-%E5%BC%8F'>メルパルク 横浜 成人 式</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9B%E3%83%83%E3%82%B1-%E5%88%BA%E3%81%97-%E9%A4%8C'>ホッケ 刺し 餌</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%B3%BB-%E4%BD%93-%E5%9B%9B%E5%AD%97%E7%86%9F%E8%AA%9E'>系 体 四字熟語</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%AD%90%E4%BE%9B-%E9%9B%86%E4%B8%AD%E5%8A%9B-%E9%A3%9F%E4%BA%8B'>子供 集中力 食事</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9B%E3%83%B3%E3%83%80-nbox-%E3%82%AA%E3%82%A4%E3%83%AB%E4%BA%A4%E6%8F%9B-%E5%80%A4%E6%AE%B5'>ホンダ Nbox オイル交換 値段</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=iPhone-%E3%82%A6%E3%82%A9%E3%83%AC%E3%83%83%E3%83%88-%E5%89%8A%E9%99%A4'>IPhone ウォレット 削除</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%BB%E3%83%B3%E3%83%88%E3%83%AC%E3%82%B8%E3%82%B9-%E5%A4%A7%E9%98%AA-%E3%83%87%E3%82%A4%E3%83%A6%E3%83%BC%E3%82%B9'>セントレジス 大阪 デイユース</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%A9%E3%82%A4%E3%83%88-%E3%82%B7%E3%83%A7%E3%82%A2%E3%82%B8%E3%82%AE-%E3%83%B3%E3%82%B0-1%E5%8F%B7'>ライト ショアジギ ング 1号</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%9C%AD%E5%B9%8C-%E5%B0%8F%E5%85%90%E7%A7%91-%E6%97%A5%E6%9B%9C%E6%97%A5'>札幌 小児科 日曜日</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AF%E3%83%A9%E3%83%B3%E3%83%99%E3%83%AA%E3%83%BC-%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0%E3%83%81%E3%83%BC%E3%82%BA-%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%B3'>クランベリー クリームチーズ スコーン</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9-%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC-%E9%9F%93%E5%9B%BD%E8%AA%9E'>クリスマス パーティー 韓国語</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A9%9A-%E6%B4%BB-%E5%9E%A2-%E3%83%B2%E3%83%81-65'>婚 活 垢 ヲチ 65</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%8F%E3%83%8E%E3%82%A4-%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%87%E3%83%B3%E3%82%A6%E3%82%A3%E3%83%BC%E3%82%AF-%E6%B0%97%E5%80%99'>ハノイ ゴールデンウィーク 気候</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%90%E3%82%A4%E3%83%88-20%E4%B8%87-%E6%89%80%E5%BE%97%E7%A8%8E'>バイト 20万 所得税</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=au-wimax-%E6%A9%9F%E7%A8%AE%E5%A4%89%E6%9B%B4'>Au Wimax 機種変更</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=GIMP-%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3-%E5%A1%97%E3%82%8A%E3%81%A4%E3%81%B6%E3%81%97'>GIMP パターン 塗りつぶし</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A6%E3%83%BC%E3%83%90%E3%83%BC%E3%82%A4%E3%83%BC%E3%83%84-%E5%AF%BE%E5%BF%9C-%E6%82%AA%E3%81%84'>ウーバーイーツ 対応 悪い</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A1%A9%E3%83%93%E3%83%91%E3%82%A4%E3%83%97-diy-%E5%A1%97%E8%A3%85'>塩ビパイプ Diy 塗装</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%9A%9C%E5%AE%B3%E8%80%85%E6%89%8B%E5%B8%B3%E3%81%A7-%E8%A1%8C-%E3%81%93%E3%81%86-%E4%BA%AC%E9%83%BD'>障害者手帳で 行 こう 京都</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%AA%E3%83%BC%E3%83%81%E3%83%9E%E3%82%A4%E3%82%B1%E3%83%AB-rg-%E3%81%82%E3%82%8B%E3%81%82%E3%82%8B'>リーチマイケル Rg あるある</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Cpds-%E8%AC%9B%E7%BF%92-%E5%92%8C%E6%AD%8C%E5%B1%B1'>Cpds 講習 和歌山</a>,
+";s:7:"expired";i:-1;}

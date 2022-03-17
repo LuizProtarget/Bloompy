@@ -1,0 +1,66 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:3016:"<p>Windows: Cortana can do a lot of cool stuff in Windows 10, but she tends to prefer Microsoft’s own apps and services. Learn more Install R packages from github downloading master.zip There are numerous applications out there that do need to open a web browser and often times it will force Edge to be the browser of choice. DOWNLOAD EdgeDeflector 1.1.3.0 for Windows. EdgeDeflector can intercept anything that forces Microsoft Edge to open and redirects it to your default web browser. EdgeDeflector. It briefly opens a new chrome tab then It closes. Search Deflector is a small tool that redirects searches made from the Windows Start Menu or Cortana to whatever browser and search engine you prefer. Now you can search faster by just tapping the Windows key, and typing your search. ByPass Edge Replace Edge Default Browser Deflector Edge Browser Tweak. Now you can search faster by just tapping the Windows key, and typing your search. EdgeDeflector is a small helper application that intercepts URIs that force-open web links in Microsoft Edge and redirects it to the system’s default web browser. No more Microsoft Edge and Bing! Search Deflector is a small tool that redirects searches made from the Windows Start Menu or Cortana to whatever browser and search engine you prefer. DOWNLOAD EdgeDeflector 1.1.3.0 for Windows. </p> <p>Stack Overflow for Teams is a private, secure spot for you and your coworkers to find and share information. By downloading, you agree to the Open Source Applications Terms. EdgeDeflectoribm - EdgeDeflector 是一个小型的helper 应用程序，它拦截微软Edge中强制打开的网络链接，并将它的重定向到系统浏览器的缺省位置。 这使你可以以使用 Windows 功能和Cortana,下载EdgeDeflector的源码 No more Microsoft Edge and Bing! </p> <p>4.5 / 5. EdgeDeflector for Windows 10 is a free program that lets the users use their default web browser for invoking queries in … This allows you to use Windows features like the Cortana assistant and built-in help links with the browser of your choice instead of being forced to use Microsoft Edge. Download for macOS Download for Windows (64bit) Download for macOS or Windows (msi) Download for Windows. GitHub Gist: instantly share code, notes, and snippets. Windows 10: Redirect Microsoft Edge links with EdgeDeflector by Martin Brinkmann on November 12, 2017 in Internet - 10 comments EdgeDeflector is a free open source program for Microsoft's Windows 10 operating system that unlocks the option to open hard coded Microsoft Edge links with other browsers. Edge is a perfectly fine browser, Or you can put up with all that comes with Chrome and Google’s privacy issues. 4.5 / 5. Windows: Cortana can do a lot of cool stuff in Windows 10, but she tends to prefer Microsoft’s own apps and services. DOWNLOAD NOW. EdgeDeflector is a small helper application that intercepts URIs that force-open web links in Microsoft Edge and redirects it to the system’s default web browser. </p>";s:7:"keyword";s:21:"Edge deflector GitHub";s:5:"links";s:5850:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B8%AD%E5%9B%BD-%E8%B3%83%E9%87%91%E4%B8%8A%E6%98%87%E7%8E%87-2020'>中国 賃金上昇率 2020</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BC%9A%E8%AD%B0-%E6%A9%9F%E6%9D%90-%E3%83%AC%E3%83%B3%E3%82%BF%E3%83%AB'>会議 機材 レンタル</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%87%A8%E6%9C%88-%E3%81%8A%E3%81%BE%E3%81%9F-%E9%81%95%E5%92%8C%E6%84%9F'>臨月 おまた 違和感</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%BB%BA%E8%A8%AD%E6%A5%AD-%E6%B3%95%E5%AE%9A%E7%A6%8F%E5%88%A9%E8%B2%BB-%E4%BB%95%E8%A8%B3'>建設業 法定福利費 仕訳</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%9B%BB%E5%8B%95-%E8%87%AA%E8%BB%A2%E8%BB%8A-%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81%E3%82%AB%E3%83%90%E3%83%BC-%E4%BB%A3%E7%94%A8'>電動 自転車 スイッチカバー 代用</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A4%E3%83%A9%E3%83%AC-%E3%83%95%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5-%E4%BD%9C%E3%82%8A%E6%96%B9'>イラレ フラッシュ 作り方</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%85%A7%E3%82%8A-%E7%84%BC%E3%81%8D-%E3%83%81%E3%82%AD%E3%83%B3-%E3%83%A9%E3%83%B3%E3%83%81'>照り 焼き チキン ランチ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%AD%90%E5%AE%AE%E6%91%98%E5%87%BA%E5%BE%8C-%E3%81%8A%E3%82%8A%E3%82%82%E3%81%AE-%E3%83%94%E3%83%B3%E3%82%AF'>子宮摘出後 おりもの ピンク</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%94%9F%E5%8D%94%E3%81%BE%E3%81%A4%E3%82%8A-%E5%B1%B1%E5%8F%A3-2020'>生協まつり 山口 2020</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AD%E3%83%A3%E3%83%99%E3%83%84-%E6%B5%85-%E6%BC%AC%E3%81%91-%E7%89%9B%E3%82%BF%E3%83%B3'>キャベツ 浅 漬け 牛タン</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%8B%B1%E8%AA%9E-%E6%85%A3%E7%94%A8%E5%8F%A5-%E5%8B%95%E7%89%A9'>英語 慣用句 動物</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=mac-usb-%E6%8E%A5%E8%A7%A6%E4%B8%8D%E8%89%AF'>Mac Usb 接触不良</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%B3%96%E5%B0%BF%E7%97%85-%E5%90%88%E4%BD%B5%E7%97%87-%E9%A0%86%E7%95%AA'>糖尿病 合併症 順番</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%BB%E3%83%AA%E3%82%A2-%E3%82%B9%E3%83%91%E3%82%A4%E3%82%B9%E3%83%9C%E3%83%88%E3%83%AB-%E3%83%A9%E3%83%99%E3%83%AB'>セリア スパイスボトル ラベル</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%86%E3%83%8B%E3%83%9F%E3%83%A5-%E3%83%89%E3%83%AA%E3%83%A9%E3%82%A4-2020-%E3%82%B2%E3%82%B9%E3%83%88'>テニミュ ドリライ 2020 ゲスト</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AA%E3%83%BC%E3%83%88%E3%83%9F%E3%83%BC%E3%83%AB-%E3%82%A2%E3%83%AC%E3%83%AB%E3%82%AE%E3%83%BC-%E9%9B%A2%E4%B9%B3%E9%A3%9F'>オートミール アレルギー 離乳食</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%90%8D%E5%8F%A4%E5%B1%8B-%E5%A4%A7%E5%AD%A6-%E3%82%B5%E3%82%A4%E3%83%9C%E3%82%A6%E3%82%BA'>名古屋 大学 サイボウズ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%BC%E3%83%88%E3%82%B9%E3%82%BF%E3%83%83%E3%83%95-%E5%B0%82%E9%96%80%E5%AD%A6%E6%A0%A1-%E4%BB%99%E5%8F%B0'>コンサートスタッフ 専門学校 仙台</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%91%E3%83%BC%E3%82%BD%E3%83%AB%E3%83%86%E3%83%B3%E3%83%97%E3%82%B9%E3%82%BF%E3%83%83%E3%83%95-%E5%90%8D%E5%8F%A4%E5%B1%8B-%E7%99%BB%E9%8C%B2'>パーソルテンプスタッフ 名古屋 登録</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Fetch-javascript-image'>Fetch Javascript Image</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A4%9A%E8%82%89%E6%A4%8D%E7%89%A9-%E5%AF%84%E3%81%9B%E6%A4%8D%E3%81%88-%E9%9A%99%E9%96%93'>多肉植物 寄せ植え 隙間</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=windows10-%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%83%A1%E3%83%8B%E3%83%A5%E3%83%BC-%E6%96%B0%E8%A6%8F-%E8%A1%A8%E7%A4%BA%E3%81%97%E3%81%AA%E3%81%84'>Windows10 スタートメニュー 新規 表示しない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%96%A2%E6%9D%B1-%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88-2020'>関東 イベント 2020</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AD%E3%83%A3%E3%83%99%E3%83%84-%E3%81%8D%E3%81%AE%E3%81%93-%E3%83%91%E3%82%B9%E3%82%BF-%E3%82%81%E3%82%93%E3%81%A4%E3%82%86'>キャベツ きのこ パスタ めんつゆ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%BA%83%E5%B3%B6%E5%B8%82-%E4%B8%8D%E7%99%BB%E6%A0%A1-%E3%82%AB%E3%82%A6%E3%83%B3%E3%82%BB%E3%83%AA%E3%83%B3%E3%82%B0'>広島市 不登校 カウンセリング</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=fda-%E7%A6%8F%E5%B2%A1-%E9%9D%99%E5%B2%A1-%E6%99%82%E5%88%BB%E8%A1%A8'>Fda 福岡 静岡 時刻表</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB-%E3%83%8F%E3%82%A4%E3%83%89%E3%83%AD%E3%82%AD%E3%83%8E%E3%83%B3-%E3%81%8A%E3%81%99%E3%81%99%E3%82%81'>アメリカ ハイドロキノン おすすめ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%BF%91%E7%95%BF%E5%A4%A7%E5%AD%A6-%E7%B7%A8%E5%85%A5-%E9%9B%A3%E3%81%97%E3%81%84'>近畿大学 編入 難しい</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%87%A8%E5%BA%8A%E6%A4%9C%E6%9F%BB%E6%8A%80%E5%B8%AB%E5%9B%BD%E5%AE%B6%E8%A9%A6%E9%A8%93-62-%E8%A7%A3%E8%AA%AC'>臨床検査技師国家試験 62 解説</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A2%E3%83%B3%E3%83%91%E3%83%B3%E3%83%9E%E3%83%B3-%E3%83%86%E3%83%A9%E3%82%B9-%E7%A5%9E%E6%88%B8'>アンパンマン テラス 神戸</a>,
+";s:7:"expired";i:-1;}

@@ -1,0 +1,62 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:4563:"<br> <br>ここからiOS 9.3.5を前提に、iPadの動作を軽くして少しでも速くする方法を説明していきます。 <br> iPad Proを毎日使い倒すぼくが感じる、iPad Proへの不満点をまとめました。 仕事にもプライベートにも毎日活用している12.9インチiPad Pro。 iPad Proがどれだけ素晴らしい端末なのかに関してはこれまでも様々な切り口から記事でご紹介してきました。 Visa LINE Payクレジットカードが到着。初年度3%還元を使い倒す！ 2020.04.26 2020.05.17. iPhone／iPadの動作を軽くする13の方法. iPad Proの動作が重くなってしまったときに試したい17の対処法をまとめました。iPad Proの動作が重くなってしまうと、その魅力は半減してしまいます。動作が重くならないような設定をしておきましょう。 2019.03.05. iPadの動作が重い＆反応が遅いなどの問題で困っていませんか？iPadの動作が重い・遅い場合は、適切な対処法を実行することで、iPadの動作問題を解決できます。iPadの動作問題で困っている方は、本記事の対処法を参考にしてみてください。 今年の2月にiPad Pro 9.7インチを買った優樹です。 www.shibamasa.jp 6月にiPad Pro新モデルが世に出て以来、どこもかしこも10.5インチだの12.9インチだの、とても賑わっています。 でもですね、ちょっと待ってほしい。 9.7インチだって、できる子なんですよ！？ 今だからこそ、9.7イ… iPhone/iPad/iPod touchを最新のiOS 12にアップデートした後、デバイスの動作が前より重い・遅いと感じませんか？特にヤフーやTwitter、YouTubeなどのアプリを使っていると、全体が重くて勝手に落ちたりすることもあります。 iPad Proの動作が重くなってしまったときに試したい17の対処法をまとめました。iPad Proの動作が重くなってしまうと、その魅力は半減してしまいます。動作が重くならないような設定をしておきま … 「iPhone や iPad の動作が重くてストレスになる」「キーボード入力がワンテンポ・ツーテンポ遅れる」「カクカクする」「アプリがすぐに落ちる」。このような動作の遅さや重さでイライラしている方、困 こんな環境でブログを書いています- PCデスク周り晒し 2020-2020.05.02. iPadやiPad miniをお使いの方で、「アプリが頻繁に落ちる」「処理が重い」などという理由でお困りの方はいませんか？この記事では、アップデート以外でipadの動作処理が重い原因と解消法についてまとめてみました！是非ご覧になってください！ 初代iPad mini はiOS9でも動作を軽く設定できる。まだまだ現役続行 . iPadに限らずパソコンもそうですが動作が重いと感じた時に再起動すると調子が良くなることあります。 動作が重いと感じたら「再起動」してみましょう。 再起動の手順は、簡単です。 ども、Apple Geek です！今回は iPhone / iPad のネット動作が「重い」「遅い」原因と改善方法をご紹介します。 え、安っ！無制限ポケットWifi人気ランキングTOP3はこちらインターネットに接続して YouTube で動画を見たり、 SNS で頻繁に投稿している方って多いと思います。 <br> <br>我が家の厳選クレジットカード6枚（2020年版） 2020.04.29. <br> <br>iPad Proの動作が重いときに試してみたい17の方法. 周りのイラストレーターさんに進められたりとなんやかんやあり、 悩みに悩んでiPad proを購入しました！ もっと早く買ってればよかった！ っと思ったので、iPad proでイラストを描く方に向けたレビューしたいと思います。 一つの参考としてみていただけたらと思います。 2015.10.18 2019.12.25.  本 【2018年版】100冊以上読ん … 筆者のiPadのiOSバージョンは9.3.5となっています。 iPad（第3世代）はiOS10のアップグレート対象からは外れてしまいました。 iPad動作改善方法. iPhone／iPadの動作が重い時に、軽くするためにするべき13の方法です。 それぞれについて試してみてください。 Safariのタブを閉じる・履歴／キャッシュを削除する. <br>";s:7:"keyword";s:22:"iPad Pro 動作 重い";s:5:"links";s:4602:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=KFB-%E3%83%89%E3%83%A9%E3%81%88%E3%82%82%E3%82%93-%E8%A9%A6%E5%86%99%E4%BC%9A'>KFB ドラえもん 試写会</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%AD%A6%E8%94%B5%E6%96%B0%E5%9F%8E-%E6%95%B4%E5%BD%A2%E5%A4%96%E7%A7%91-MRI'>武蔵新城 整形外科 MRI</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81%E3%83%B3%E3%82%B0%E3%83%8F%E3%83%96-%E9%87%91%E5%B1%9E-%E3%83%97%E3%83%A9%E3%82%B9%E3%83%81%E3%83%83%E3%82%AF'>スイッチングハブ 金属 プラスチック</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%B5%90%E5%A9%9A%E5%BC%8F-%E9%8F%A1%E9%96%8B%E3%81%8D-%E6%9E%A1'>結婚式 鏡開き 枡</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B1%E3%83%BC%E3%82%B9-%E3%82%A2%E3%83%97%E3%83%AA-%E7%84%A1%E6%96%99'>スマホケース アプリ 無料</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%86%9D%E3%81%AE%E7%97%9B%E3%81%BF-%E3%83%86%E3%83%8B%E3%82%B9-%E3%83%9C%E3%83%BC%E3%83%AB'>膝の痛み テニス ボール</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=ISO-to-USB'>ISO To USB</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%9D%BF%E6%A9%8B%E5%8C%BA-%E6%96%B0%E7%94%9F%E5%85%90-%E8%81%B4%E8%A6%9A%E6%A4%9C%E6%9F%BB'>板橋区 新生児 聴覚検査</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B7%E3%83%BC%E3%83%81%E3%82%AD%E3%83%B3-%E3%81%8A-%E3%81%AB%E3%81%8E%E3%82%89-%E3%81%9A'>シーチキン お にぎら ず</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Shimano-plays-3000-spec'>Shimano Plays 3000 Spec</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%8F%A4%E6%96%87-%E6%B4%BB%E7%94%A8%E5%BD%A2-%E8%A6%8B%E5%88%86%E3%81%91%E6%96%B9'>古文 活用形 見分け方</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%B0%8F%E6%9D%BE%E8%8F%9C-%E3%83%99%E3%83%BC%E3%82%B3%E3%83%B3-%E5%8D%B5-%E3%82%B9%E3%83%BC%E3%83%97'>小松菜 ベーコン 卵 スープ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=40%E4%BB%A3-%E8%BB%A2%E8%81%B7-%E7%8F%BE%E5%AE%9F'>40代 転職 現実</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%97%A5%E7%84%BC%E3%81%91%E6%AD%A2%E3%82%81-%E3%81%8A%E3%81%99%E3%81%99%E3%82%81-%E3%83%A1%E3%83%B3%E3%82%BA'>日焼け止め おすすめ メンズ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%BB%E3%83%AA%E3%82%A2-%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC-%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC'>セリア スマートホルダー シャンプー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%9D%B1%E5%8C%97%E5%A4%A7%E5%AD%A6-%E6%96%87%E5%AD%A6-%E9%83%A8%E9%95%B7'>東北大学 文学 部長</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%AB%98%E6%A0%A1%E7%94%9F-%E7%97%85%E9%99%A2-%E6%96%99%E9%87%91'>高校生 病院 料金</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%AF%94-%E3%81%B8%E3%82%93-%E8%AA%AD%E3%81%BF%E6%96%B9'>比 へん 読み方</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%AE%AE%E4%BA%A4-%E3%83%90%E3%82%B9-%E9%9B%BB%E8%A9%B1-%E7%95%AA%E5%8F%B7'>宮交 バス 電話 番号</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%B9%98%E5%8D%97-%E6%B4%A5%E6%B3%A2-%E6%AD%B4%E5%8F%B2'>湘南 津波 歴史</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Magic-Mouse-2-%E9%81%95%E3%81%84'>Magic Mouse 2 違い</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B3%E3%83%BC%E3%83%97-%E5%95%86%E5%93%81-%E3%83%9E%E3%82%B9%E3%82%AF'>コープ 商品 マスク</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%A5%9D-%E8%8A%B1-%E3%83%9C%E3%83%BC%E3%83%89'>祝 花 ボード</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%BB%92-%E7%83%8F%E9%BE%8D%E8%8C%B6-%E3%82%A2%E3%83%AC%E3%83%B3%E3%82%B8'>黒 烏龍茶 アレンジ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%8E%E3%83%BC%E3%83%88%E3%83%AB%E3%83%80%E3%83%A0%E5%A4%A7%E8%81%96%E5%A0%82-%E3%82%B9%E3%83%86%E3%83%B3%E3%83%89%E3%82%B0%E3%83%A9%E3%82%B9-%E6%84%8F%E5%91%B3'>ノートルダム大聖堂 ステンドグラス 意味</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B5%E3%83%B3%E3%83%88%E3%83%AA%E3%83%BC-%E5%A4%A9%E7%84%B6-%E6%B0%B4-%E6%BE%84%E3%81%BF%E3%82%8F%E3%81%9F%E3%82%8B-%E3%81%8A%E8%8C%B6-%E3%81%BE%E3%81%9A%E3%81%84'>サントリー 天然 水 澄みわたる お茶 まずい</a>,
+";s:7:"expired";i:-1;}

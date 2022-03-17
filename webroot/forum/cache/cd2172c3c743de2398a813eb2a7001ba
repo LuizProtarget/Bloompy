@@ -1,0 +1,95 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:6114:"<p>gd1フィットの質問です。obd2スキャンツールelm327（v1.4）を使用しスマホのトルクでo2センサーの電圧表示をしました。以下の値だ適正かお分かりになるでしょうか？定常走行、アイドリングとも同じ値でした。フロントo2センサー 0.1～0. 先ほど言ったようにO2センサーより高性能なので値段の方もO2センサーと比べ高いです。今回は現状正常なこととセンサーの値段が高いことなどから総合的に判断して交換修理を行わ無いことをユーザーさんと相談をして決めました。 O₂センサーの故障診断方法について話す前に、まず知っておいていただきたいのは、O₂センサーが故障した場合の症状についてである。 近年は当会の技術相談窓口にも、「a/f センサとは何か？ o2センサーは空燃比の状態を判断するためのセンサーです。 o2センサーの出力特性は、燃料が濃いと約1vの電圧を、薄いとほぼ0vに近い電圧を出力するようになっています。この特性を生かして空燃比の状態を常に監視して、ecuに情報を送っています。 今回は、前回に引き続き、今さら聞けないO₂センサーの故障診断方法について紹介する。 O₂センサーの役割. 高い信頼性. 今さら聞けないO2 センサーの話 vol.2. p0138コード定義 o2センサ回路高電圧（バンク1、センサ2） p0138コードとは p0138は、バンク1センサ2のo2センサが1.2ボルト未満の低電圧出力を10秒以上超えないことを示すobd-iiジェネリックコードであり、排気流中に酸素がないことを示している。 p0138コードの原因は何ですか？ kea a/f・o2センサーの品質は自動車産業品質マネジメントを導入した工場で厳しく管理されています。 工場からの最終出荷段階の際には、すべてのセンサーを対象に性能テストを実施し、合格した製品のみを出荷しています。 0vで電圧が変動しない状況がある程度続くと「O2センサー電圧低い」という故障コードをひろい、逆に1v以上ではりつくと「電圧高い」症状コードになります。 a/fセンサーとは何？という事で書いていきます。 a/fセンサーが悪いですという話を聞くことがあるかと思います。 ただ、a/fセンサーと呼ばず別名でいう方もいますね。 では、a/fセンサーについて、詳しく書 … o2センサーの故障の症状は主にエンジン回転数が低い時に見られ、2つのo2センサーのうち故障の頻度が高いo2センサーは排気直後のエキゾーストマニホールドに取り付いているo2センサーです(もう1つのo2センサーは触媒付近に取り付いています) まずはO2センサーの働きからセンサー内部のジルコニア素子が排気ガス中の酸素濃度と反応して約1Vの電圧を発生します。それをECUが読み取ります。高温で反応する素… o2センサーとは？ o2センサーは、排気ガス中に含まれる酸素濃度により出力電圧が変化し、空燃比が理論空燃比より濃い（リッチ）か薄い（リーン）を検出するセンサです。 o2センサーの役割 o2センサー … o2センサーと電圧は密接な関係にあります。o2センサーの正常な電圧は約0.1vから0.8vほどです。 自分で点検した際に、この数値以内の電圧でなかった場合は、何らかの異常が出ていると考えていいでしょう。 o2センサーと電圧の関係性. </p> <p>エンジンチェックランプが点灯した！ダイアグノーシスで故障コードを読んでみると、故障ナンバー1の原因といえばo2センサーです。o2センサーは触媒が一番効率よく仕事ができるように空燃比を監視しているセンサーです。このo2センサーのトラブルって言 0.6v⇔2.5vの変化だとかなり電圧が高いことになり、O2センサーの異常が考えられる。 そこでO2センサーを交換してもらうと、エンジンの吹き上がりも良くなり、O2センサーの信号も約0v⇔1vで変化し正常となったということだった。 </p> <p>近年は当会の技術相談窓口にも、「a/f センサとは何か？ o2センサーとは排気ガス中の酸素濃度を測定してエンジンコントロールコンピューターにフィードバックして燃料の濃い薄いを調整するためのセンサーです。 テスターで電圧を見るとおかしくはないよう … [mixi]SR20DE、SR20DET 純正O2センサーの電圧についての質問 純正O2センサーの電圧について質問があります。 電圧が0～5Vまでの変動があると思うのですが対応がわかりません。 電圧が小さい方(0V)が酸素が多い(燃料が少ない)のでしょうか？ それても大きい方(5V)が酸素が多いの 2011年10月 a/f センサ？ laf センサ？ 最近、空燃比の状態を判断するセンサの名前で、一般的によく聞くo2センサの他に、a/f センサ（エー・バイ・エフ・センサ）やlaf センサ（ラフ・センサ）という名称を耳にする機会はないだろうか？. 2011年10月 a/f センサ？ laf センサ？ 最近、空燃比の状態を判断するセンサの名前で、一般的によく聞くo2センサの他に、a/f センサ（エー・バイ・エフ・センサ）やlaf センサ（ラフ・センサ）という名称を耳にする機会はないだろうか？. 仮に理論空燃比で定速運転している場合のフロントo2センサは、0．5v を中心にして規則正しく変化し、触媒内で酸化反応が行われると酸素が減少することで、リヤo2センサの信号電圧は0．5vより高い信号電圧を出力したままになる。 </p> <p> </p>";s:7:"keyword";s:28:"o2センサー 電圧 高い";s:5:"links";s:11222:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%97%85%E8%A1%8C-iPad-%E3%83%90%E3%83%83%E3%82%B0'>旅行 IPad バッグ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%B5%8C%E6%B8%88%E5%AD%A6%E9%83%A8-%E5%81%8F%E5%B7%AE%E5%80%A4-%E6%B2%B3%E5%90%88%E5%A1%BE'>経済学部 偏差値 河合塾</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A4%E3%83%A4%E3%83%AA%E3%83%B3%E3%82%B0-%E3%83%A1%E3%83%B3%E3%82%BA-%E7%89%87%E8%80%B3-%E3%81%A9%E3%81%A3%E3%81%A1'>イヤリング メンズ 片耳 どっち</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A4%A7%E5%88%86-%E6%96%99%E7%90%86-%E5%BA%97'>大分 料理 店</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%95%E3%83%A9%E3%82%A4%E3%83%91%E3%83%B3-%E8%93%8B-%E5%B0%8F%E3%81%95%E3%81%84'>フライパン 蓋 小さい</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B7%E3%83%9E%E3%83%8E-%E3%82%A8%E3%82%AE%E3%83%B3%E3%82%B0%E3%83%AD%E3%83%83%E3%83%89-%E3%83%AA%E3%83%9F%E3%83%86%E3%83%83%E3%83%89'>シマノ エギングロッド リミテッド</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%8B%E3%82%81%E3%82%84-%E6%A5%BD-%E5%AF%9B-%E6%A5%BD%E5%A4%A9'>かめや 楽 寛 楽天</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%A8%8E%E7%90%86%E5%A3%AB-%E6%B3%95-50%E6%9D%A1'>税理士 法 50条</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=VBA-Join-%E5%9E%8B%E3%81%8C-%E4%B8%80%E8%87%B4-%E3%81%97%E3%81%BE-%E3%81%9B%E3%82%93'>VBA Join 型が 一致 しま せん</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%9D%99%E8%84%88%E6%B9%96-%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC-%E5%A4%A7%E9%98%AA'>静脈湖 レーザー 大阪</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%87%8C%E5%B8%B0%E3%82%8A%E5%87%BA%E7%94%A3-%E3%81%84%E3%81%A4%E3%81%8B%E3%82%89-%E8%BB%A2%E9%99%A2'>里帰り出産 いつから 転院</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A6%E3%83%83%E3%83%89%E3%83%99%E3%83%AA%E3%83%BC-%E3%82%B3%E3%83%A2%E3%83%B3-%E3%82%A2%E3%82%A6%E3%83%88%E3%83%AC%E3%83%83%E3%83%88-%E3%83%8A%E3%82%A4%E3%82%AD'>ウッドベリー コモン アウトレット ナイキ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%AD%90%E4%BE%9B-%E7%97%85%E6%B0%97-%E3%83%96%E3%83%AD%E3%82%B0-%E3%82%A2%E3%83%A1%E3%83%96%E3%83%AD'>子供 病気 ブログ アメブロ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%AB%98%E6%A7%BB%E5%B8%82-%E8%A5%BF%E9%9D%A2-%E4%BA%8B%E4%BB%B6'>高槻市 西面 事件</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%85%83%E7%94%BA%E3%83%A9%E3%83%B3%E3%83%81-%E5%AE%89%E3%81%84-%E3%83%9C%E3%83%AA%E3%83%A5%E3%83%BC%E3%83%A0'>元町ランチ 安い ボリューム</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%B6%8F%E8%83%B8%E8%82%89-%E3%83%9E%E3%83%A8%E3%83%8D%E3%83%BC%E3%82%BA-%E3%82%AD%E3%83%A3%E3%83%99%E3%83%84'>鶏胸肉 マヨネーズ キャベツ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=google-fit-%E9%80%A3%E6%90%BA%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84-%E3%83%89%E3%83%A9%E3%82%AF%E3%82%A8%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%AF'>Google Fit 連携できない ドラクエウォーク</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9D%E3%83%AA%E3%83%97%E3%83%AD%E3%83%94%E3%83%AC%E3%83%B3%E9%AB%98%E9%80%8F%E6%98%8E%E3%83%95%E3%82%A3%E3%83%AB%E3%83%A0%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A0-2%E6%AE%B5-3%E5%86%8A%E7%B5%84-l%E5%88%A4-136%E6%9E%9A%E7%94%A8%C3%973%E5%86%8A'>ポリプロピレン高透明フィルムアルバム 2段 3冊組 L判 136枚用×3冊</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%AB%B9%E7%94%B0%E5%9F%8E%E8%B7%A1-%E9%9B%B2%E6%B5%B7-%E6%99%82%E6%9C%9F'>竹田城跡 雲海 時期</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%85%AB-%E7%99%BE-%E6%B4%A5%E7%94%BA-%E3%81%97-%E3%81%8A-%E3%81%AA%E3%81%BF'>八 百 津町 し お なみ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%AE%B6%E7%B4%8B-%E5%A3%81%E7%B4%99-%E3%83%95%E3%83%AA%E3%83%BC'>家紋 壁紙 フリー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%8D%83%E8%91%89-%E5%8F%97%E4%BB%98%E6%B1%82%E4%BA%BA-%E6%AD%A3%E7%A4%BE%E5%93%A1'>千葉 受付求人 正社員</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%97%A5%E6%9C%AC%E5%A4%A7%E5%AD%A6-%E7%90%86%E5%B7%A5%E5%AD%A6%E9%83%A8-%E5%B0%B1%E8%81%B7%E5%85%88'>日本大学 理工学部 就職先</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%8B%89%E5%BC%B7%E6%9C%BA-%E7%99%BD-%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84'>勉強机 白 かわいい</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=tab-%E3%82%AD%E3%83%BC-%E7%A7%BB%E5%8B%95%E3%81%97%E3%81%AA%E3%81%84'>Tab キー 移動しない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=https-%E9%8D%B5%E3%83%9E%E3%83%BC%E3%82%AF-%E8%A1%A8%E7%A4%BA%E3%81%95%E3%82%8C%E3%81%AA%E3%81%84'>Https 鍵マーク 表示されない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%84%BC%E3%81%8D%E9%B3%A5-%E3%81%9F%E3%82%8C-%E5%85%A5%E3%82%8C%E7%89%A9'>焼き鳥 たれ 入れ物</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BA%8C%E4%BA%BA%E7%9B%AE-8%E9%80%B1-%E3%81%8A%E8%85%B9'>二人目 8週 お腹</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%89%B5%E5%91%B3-%E3%82%B7%E3%83%A3%E3%83%B3%E3%82%BF%E3%83%B3-%E3%82%B9%E3%83%BC%E3%83%97-%E3%81%88%E3%81%AE%E3%81%8D'>創味 シャンタン スープ えのき</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A9%89-%E7%84%B6-%E9%A1%9E%E8%AA%9E'>婉 然 類語</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=iTunes-%E4%BF%9D%E5%AD%98%E5%85%88-%E5%A4%96%E4%BB%98%E3%81%91'>ITunes 保存先 外付け</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%86%86-%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0%E3%83%89%E3%83%B3-%E3%83%AC%E3%83%BC%E3%83%88'>円 ベトナムドン レート</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%9F%93%E5%9B%BD-%E3%83%AA%E3%83%95%E3%83%88-%E3%82%A2%E3%83%83%E3%83%97-%E3%83%96%E3%83%AD%E3%82%B0'>韓国 リフト アップ ブログ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%9F%93%E5%9B%BD-%E9%8D%8B-%E3%82%AB%E3%83%AD%E3%83%AA%E3%83%BC'>韓国 鍋 カロリー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%A8%B2%E6%AF%9B-%E5%8C%BA%E5%BD%B9%E6%89%80-%E8%BB%A2%E5%85%A5%E5%B1%8A'>稲毛 区役所 転入届</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%BB%E3%83%96%E3%83%B3%E3%82%A4%E3%83%AC%E3%83%96%E3%83%B3-d%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88-%E6%89%95%E3%81%84'>セブンイレブン Dポイント 払い</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%BB%8B%E8%B3%80%E7%9C%8C-%E3%82%B1%E3%83%BC%E3%82%AD%E5%B1%8B-%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0'>滋賀県 ケーキ屋 ランキング</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%87%E3%83%B3%E3%82%A6%E3%82%A3%E3%83%BC%E3%82%AF-%E3%83%8F%E3%83%AF%E3%82%A4-%E6%B7%B7%E9%9B%91'>ゴールデンウィーク ハワイ 混雑</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=HTML-value-%E5%A4%89%E6%95%B0'>HTML Value 変数</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A8%E3%83%BC%E3%82%B9%E3%83%9B%E3%83%86%E3%83%AB-%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%A8%E3%83%BC%E3%82%AF-%E3%82%B0%E3%83%83%E3%82%BA'>エースホテル ニューヨーク グッズ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%8A%80%E8%83%BD%E5%AE%9F%E7%BF%92%E7%94%9F-%E5%A4%B1%E8%B8%AA-%E3%83%9A%E3%83%8A%E3%83%AB%E3%83%86%E3%82%A3'>技能実習生 失踪 ペナルティ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%AB%E3%82%A4%E3%83%9C%E3%82%B9-%E3%83%86%E3%82%A3%E3%83%BC-%E7%84%A1%E5%8D%B0'>ルイボス ティー 無印</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AD%E3%83%A3%E3%83%99%E3%83%84-%E6%B5%85%E6%BC%AC%E3%81%91%E3%81%AE%E7%B4%A0-%E3%81%94%E3%81%BE%E6%B2%B9'>キャベツ 浅漬けの素 ごま油</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Python-%E4%BB%95%E4%BA%8B-%E8%87%AA%E5%8B%95%E5%8C%96'>Python 仕事 自動化</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%8A%E5%BC%81%E5%BD%93-%E3%82%B9%E3%83%97%E3%83%BC%E3%83%B3-%E3%82%B1%E3%83%BC%E3%82%B9-100-%E5%9D%87'>お弁当 スプーン ケース 100 均</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Nippon-Telegraph-and-Telephone-Corporation'>Nippon Telegraph And Telephone Corporation</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%8B%E3%81%BE%E3%81%A9%E3%82%84-%E3%83%81%E3%82%AD%E3%83%B3%E5%8D%97%E8%9B%AE-%E3%83%AC%E3%82%B7%E3%83%94'>かまどや チキン南蛮 レシピ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%89%8B%E4%BD%9C%E3%82%8A-%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3%E3%83%88-%E5%A4%A7%E9%98%AA'>手作り プレゼント 大阪</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%8E%9A-%E6%8F%9A%E3%81%92-%E3%82%AA%E3%83%AC%E3%83%B3%E3%82%B8%E3%83%9A%E3%83%BC%E3%82%B8'>厚 揚げ オレンジページ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B8%AD%E5%9B%BD-%E3%81%AE-%E6%AD%8C-999-%E6%9C%AC%E3%81%AE-%E3%83%90%E3%83%A9'>中国 の 歌 999 本の バラ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A4%9A-%E6%99%82%E9%96%93-%E4%B8%AD%E5%9B%BD%E8%AA%9E'>多 時間 中国語</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BA%80%E6%9C%89-%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6%E4%BA%88%E9%98%B2%E6%8E%A5%E7%A8%AE-%E5%AE%89%E3%81%84'>亀有 インフルエンザ予防接種 安い</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%AF%E3%82%A4%E3%83%B3-%E3%83%9D%E3%83%AA%E3%83%95%E3%82%A7%E3%83%8E%E3%83%BC%E3%83%AB-%E5%8A%B9%E6%9E%9C'>ワイン ポリフェノール 効果</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%92%E3%83%97%E3%83%8E%E3%82%B7%E3%82%B9%E3%83%9E%E3%82%A4%E3%82%AF-%E8%88%9E%E5%8F%B0-dvd'>ヒプノシスマイク 舞台 Dvd</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%89%E3%82%AF%E3%82%BF%E3%83%BC%E3%83%9E%E3%83%BC%E3%83%81%E3%83%B3-1461-pw'>ドクターマーチン 1461 Pw</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%91%E3%83%8A%E3%82%BD%E3%83%8B%E3%83%83%E3%82%AF-%E8%87%AA%E8%BB%A2%E8%BB%8A-%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%9C%E3%83%AA%E3%83%BC'>パナソニック 自転車 ジャンボリー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%9C%8B%E8%AD%B7%E5%BF%85%E8%A6%81%E5%BA%A6-2020-%E8%A8%98%E9%8C%B2'>看護必要度 2020 記録</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%90%E3%83%BC%E3%83%90%E3%83%AA%E3%83%BC-%E3%83%80%E3%83%83%E3%83%95%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%88-%E3%82%B3%E3%83%BC%E3%83%87'>バーバリー ダッフルコート コーデ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%B8%82-%E5%8E%9F%E5%B8%82-%E5%87%BA%E7%94%A3%E8%B2%BB%E7%94%A8'>市 原市 出産費用</a>,
+";s:7:"expired";i:-1;}

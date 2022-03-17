@@ -1,0 +1,61 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:5909:"<br>社内会議 司会 進行方法 社内会議にて、司会をします。そこで質問ですが、冒頭に社長より一言頂く予定になっており、その際、どのような言い方をすれば自然でしょうか？｢それでは、社長よりお言葉を頂戴したいと思います。  「次の会議の進行役を任せる」と言われたら、さて、あなたはどうしますか？ 依頼された会議が上司や先輩も多く参加する場だったら、やっぱり緊張しますよね。中には、「自分にはリーダーシップなんて … 研修会の司会者は、当日どのような内容を担当することになるのでしょうか。普段参加している立場ではあまり意識することのない「司会者の仕事内容」は、主に以下のふたつです。 1.会の進行・各種アナウンス <br> <br>【司会者のテクニック】会議の進行をスムーズにするために知っておきたい3つのコツ Shingo Hirono 2014/03/30（最終更新日：2014/03/30） 祝賀会や新年会といったイベントでは、司会進行が重要な役目を担います。催しの出来・不出来は、司会者の腕前に左右されるのです。そんな重要な司会進行を任されたら、自分の役割を認識した上で当日に備えることが肝要。司会進行の役割や事前準備、注意点などを詳しく解説します。 打ち合わせや会議の質を高め、効率よく進めるための15のコツをご紹介します。目的の見えない打ち合わせは時間の浪費に繋がりかねません、Webディレクターに限らず業務に関わるなら身につけておきた … <br> <br>セミナーの司会は台本の準備を徹底的に. 会議をコントロールする. 1.入館から退館まで 2.時間・内容・詳細を表にする 3.印刷するかスマホですぐに見られるようにしておく 4.運営スタッフに …  <br>講演会やセミナーの開催で、司会進行を任せられて焦っていませんか？経験がないときに、いきなり人前で話すとなると、緊張しますよね。講師紹介は、どのようにすればよいかのポイントと、司会の原稿も合わせてご紹介します！ それでは、実際の司会進行時を想定した例文と共に、会議の進め方について見ていきましょう。 【挨拶の方法・フレーズ】始めの挨拶と終わりの挨拶で会議の9割が決まる！ 下手な会議進行は卒業！会議のマニュアルと進行の例文集. 「次の会議の進行役を任せる」と言われたら、さて、あなたはどうしますか？ 依頼された会議が上司や先輩も多く参加する場だったら、やっぱり緊張しますよね。中には、「自分にはリーダーシップなんて … <br> <br>社内勉強会の開催にはたくさんのメリットがあります。そんな勉強会をより良いものにするためにも事前に必要な準備などの進め方については把握しておく必要があるため、社内勉強会を開催予定の方は参考にしてみましょう。 司会進行原稿（案） 東海防衛支局主催第17回防衛問題セミナー（豊川市） 日 時：平成23年11月30日（水）18：00～20：00 講 師：防衛省運用企画局国際協力課 齋藤雅一課長 司会の腕の見せ所は 会議の司会進行は、慣れるまで大変！ここでは、会議の司会進行が”みるみる”上手くなる4つのコツを紹介。会議やミーティングには、会社が成果をあげる、という大変重要な意味があります。そのため、司会進行 … セミナーにせっかく足を運んでもらったお客様に満足してもらうためには、どのように司会進行を行えば良いのでしょうか。自社の魅力をアピールするために、本記事では司会進行役が知っておきたい、セミナーでの話し方やノウハウについてご紹介します。 【会議中】時間を守って、進行する 【会議中】継続検討には、できるだけしない 【会議中】決定事項の総括、感謝 【会議終了後】決定事項及び議事録の共有; 会議の司会役、基本的な10ステップの流れ参照. 社内勉強会の開催にはたくさんのメリットがあります。そんな勉強会をより良いものにするためにも事前に必要な準備などの進め方については把握しておく必要があるため、社内勉強会を開催予定の方は参考にしてみましょう。 【司会者のテクニック】会議の進行をスムーズにするために知っておきたい3つのコツ Shingo Hirono 2014/03/30（最終更新日：2014/03/30） 勉強会の流れに沿ってポイントをまとめました。 タイムテーブルをきっちり作る. 司会より講師先生のプロフィールを簡単ですがご紹介させていただきます。(聞いておいた内容を紹介する) それでは短い時間ではありますが、講師 先生の一語一句が私たちのためになるよう一生懸命勉強し たいと思います。 司会はセミナーの顔ともいえる立場。誰しも緊張して、ドキドキしてしまうものですよね。 しかし必要以上に不安に思う必要はありません！事前の周到な準備と丁寧な進行を心掛ければ大丈夫ですよ。 研修会の司会が担当する内容. <br> 社員総会の司会についてお悩みですか？社員総会は今後のビジョンや戦略を共有する大事なイベント。社内向けのイベントですが、司会を任された人は「自分で大丈夫かな？」と不安になるものですよね。 3. <br>";s:7:"keyword";s:29:"社内 勉強会 司会進行";s:5:"links";s:4812:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%95%E3%82%A1%E3%82%A4%E3%83%96-%E3%82%B9%E3%82%BF%E3%83%BC-%E3%82%B3%E3%82%B3%E3%82%B9-%E3%82%AF%E3%83%BC%E3%83%9D%E3%83%B3'>ファイブ スター ココス クーポン</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9B%E3%83%B3%E3%83%80-%E3%83%8F%E3%82%A4%E3%83%96%E3%83%AA%E3%83%83%E3%83%89-%E3%82%A8%E3%82%A2%E3%82%B3%E3%83%B3'>ホンダ ハイブリッド エアコン</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9-%E6%89%8B%E6%9B%B8%E3%81%8D-%E3%81%8A%E3%81%97%E3%82%83%E3%82%8C'>クリスマス 手書き おしゃれ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Make-a-reservation'>Make A Reservation</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=VBA-Shell-cd'>VBA Shell Cd</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0-%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC-%E5%AD%90%E6%A9%9F%E3%83%A2%E3%83%BC%E3%83%89'>エレコム ルーター 子機モード</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%B0%8F%E5%B1%B1-%E7%9A%AE%E8%86%9A%E7%A7%91-%E9%96%89%E9%99%A2'>小山 皮膚科 閉院</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%9D%BE%E6%88%B8%E5%B8%82-%E5%85%90%E7%AB%A5%E6%89%8B%E5%BD%93-%E7%8F%BE%E6%B3%81%E5%B1%8A'>松戸市 児童手当 現況届</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%86%B7%E8%94%B5%E5%BA%AB-%E3%83%AA%E3%83%A1%E3%82%A4%E3%82%AF%E3%82%B7%E3%83%BC%E3%83%88-%E3%81%8A%E3%81%99%E3%81%99%E3%82%81'>冷蔵庫 リメイクシート おすすめ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%8A%E3%82%A4%E3%82%AD-%E3%82%B9%E3%83%91%E3%83%83%E3%83%84-%E3%83%A9%E3%83%B3%E3%83%8B%E3%83%B3%E3%82%B0'>ナイキ スパッツ ランニング</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B7%E3%83%9E%E3%83%8E-%E4%BC%81%E6%A5%AD-%E7%90%86%E5%BF%B5'>シマノ 企業 理念</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%97%A5%E6%9C%AC%E4%BA%BA-%E7%89%B9%E6%94%BB-%E6%80%96%E3%81%84'>日本人 特攻 怖い</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9F%E3%83%8B%E3%83%81%E3%83%A5%E3%82%A2-%E4%BD%9C%E5%AE%B6-%E5%8B%9F%E9%9B%86'>ミニチュア 作家 募集</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%93-%E3%81%A7-%E5%A7%8B%E3%81%BE%E3%81%A3-%E3%81%A6%E3%81%84-%E3%81%A7%E7%B5%82%E3%82%8F%E3%82%8B-%E5%9B%BD'>こ で 始まっ てい で終わる 国</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=pc%E3%82%BD%E3%83%95%E3%83%88-%E3%81%8A%E3%81%99%E3%81%99%E3%82%81-%E3%82%B2%E3%83%BC%E3%83%A0'>Pcソフト おすすめ ゲーム</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%B5%A4%E6%AF%9B%E3%81%AE%E3%82%A2%E3%83%B3-%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%AB%E3%83%AB-%E6%AD%B4%E4%BB%A3'>赤毛のアン ミュージカル 歴代</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%83%B3-%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%A0-%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC-%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88'>アメリカン クライム ストーリー キャスト</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%A8%E3%83%BC%E3%83%AD%E3%83%94%E3%82%A2%E3%83%B3-%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E9%80%A3%E7%9B%9F-%E6%9C%AD%E5%B9%8C'>ヨーロピアン フラワーデザイン連盟 札幌</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=40%E4%BB%A3-%E8%84%82%E6%80%A7%E8%82%8C-%E5%9F%BA%E7%A4%8E%E5%8C%96%E7%B2%A7%E5%93%81'>40代 脂性肌 基礎化粧品</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%88%B9-%E3%83%AD%E3%83%83%E3%83%89%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC-%E5%82%B7'>船 ロッドホルダー 傷</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%B0%8F%E6%B1%A0%E7%97%85%E9%99%A2-%E3%81%8A%E7%9B%86-%E4%BC%91%E3%81%BF'>小池病院 お盆 休み</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%97%E3%83%AD%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9-%E9%9B%86%E4%B8%AD%E3%83%89%E3%82%A2%E3%83%AD%E3%83%83%E3%82%AF-%E6%95%85%E9%9A%9C'>プロボックス 集中ドアロック 故障</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%8A%AC-%E8%AA%A4%E9%A3%B2-%E3%83%93%E3%83%8B%E3%83%BC%E3%83%AB'>犬 誤飲 ビニール</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%98%AA%E5%A4%A7-%E5%8C%BB%E5%AD%A6%E9%83%A8-2ch'>阪大 医学部 2ch</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%A6%E3%83%8B%E3%82%AF%E3%83%AD-%E3%83%96%E3%83%A9%E3%83%88%E3%83%83%E3%83%97-%E5%BA%95%E5%80%A4'>ユニクロ ブラトップ 底値</a>,
+";s:7:"expired";i:-1;}

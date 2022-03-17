@@ -1,0 +1,56 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:4845:"<p>【2階：間取り】 2階も 1階同様‘‘行き止まりのないぐるっと1周できる間取り’’です！ 将来子供部屋となる部屋がありますので、その部分以外の生活スペースは行き止まりがないようにと設計していただきま … 間取りの失敗2．部屋の配置が悪い気がする！ リビング空間ばかり優先してしまい、家事動線を意識せず間取りを決めてしまった。 動線は考えたものの、くつろぐ空間と家事動線が混在し、気が散ったりメリハリがつかない間取りになってしまった。 </p> <p>動線を重視した1階間取りと違い、2階は方角を重視して考えました。 サンルームや子ども部屋など、どの部屋の日当たりをどの程度にしたいのか、という観点から考えることで、スムーズに決めることができたように思います。  </p> <p>間取りの失敗2．部屋の配置が悪い気がする！ リビング空間ばかり優先してしまい、家事動線を意識せず間取りを決めてしまった。 動線は考えたものの、くつろぐ空間と家事動線が混在し、気が散ったりメリハリがつかない間取りになってしまった。 2階は寝室や子ども部屋がメインなので、工夫する余地って少ないんですよね。 でも、せっかく注文住宅を建てるのに、2階を工夫がない平凡な間取りにするのはもったいない。 我が家が取り入れてよかったと実感してる、2階間取りのアイディアを紹介します。 1階は「寝るだけの部屋」とわりきった間取りにしています。 子供部屋とは別にスタディルームを. </p> <p>2階建て3ldkの間取り. </p> <p>ども。2階は書きませんと宣言しておきながらリクエストがあったためやっぱり書くことにした嘘つきヒゲメガネのtakaです。ご訪問ありがとうございます最初の提案から… 2階建てで30坪台の間取りは、4人家族や5人家族など一般的な家族構成にぴったりとなります。 1人暮らしの一般的な広さは、20～25㎡と言われています。30坪は、昔の尺寸法で計算すると約99㎡となります。 2階建ての20坪の間取りは、10坪～15坪以下の総2階の住宅となる場合が大半です。 この場合、1フロアにLDKや水まわりしか作ることができなく、頑張って作っても狭い1室しか作ることができません。 1階は共有スペースでldk、2階を家族それぞれのスペースという事で. ご夫婦の寝室＋子供部屋、という感じになってきますかね。 そこで悩むのは2階の部屋の広さですね。 層二階で考えるのが建築費用のコストカットのコツですが、 狭小3階建て住宅の間取りプランです。 1階はガレージと目的によって自由に使えるお部屋。 2階は家族みんなで、ご飯を食べたり、のんびりテレビを見るスペース。 3階はそれぞれの時間をすごせる居室など、 それぞれ区切られた空間にしました。 詳しく見る </p> <p>子供部屋が3畳だと、勉強机も置けません。 そこで2階につくった スタディルーム ！ 2階建て3ldkの間取りをご紹介します。2階建てにすることにより、狭い敷地でも1部屋を広くできます。同じ30坪の住宅であったとしても、平屋建てよりも部屋を広くすることができる … 2階建て×30坪の間取りのポイント. ども。2階は書きませんと宣言しておきながらリクエストがあったためやっぱり書くことにした嘘つきヒゲメガネのtakaです。ご訪問ありがとうございます最初の提案から… こちらは夫婦+子供2人を想定した2階建て狭小住宅のモデルプラン。敷地面積は約30坪、1階2階それぞれ14坪の間取りプランです。 1階に 子供部屋 と 寝室 があるつくりで、2階に 約20帖の広々リビングとキッチン 、浴室洗面のすぐ隣に バルコニー があります。 LDKが2階にある間取りの実例です。2階のLDKは何といっても明るくなるというメリットがあります。反面、2階への階段の上り下りが増えるデメリットがあるので、その辺りの対策が必要です。 「将来は安心の平屋に住みたい。でも今は子供部屋が欲しい。」平屋の暮らしと2階建ての機能性のハイブリッド。エーエス・ライジングの「平屋みたいな2階建て」。熊本のお客様に現在もこれから先の将来もずっと安心で住みやすい注文住宅を造ります。 </p>";s:7:"keyword";s:22:"2階 2部屋 間取り";s:5:"links";s:3608:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BD%93%E8%84%82%E8%82%AA%E7%8E%87-%E5%A5%B3%E6%80%A7-30%E4%BB%A3'>体脂肪率 女性 30代</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Known-to-%E6%84%8F%E5%91%B3'>Known To 意味</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%90%E3%82%A4%E3%82%AF-%E3%82%A2%E3%82%AF%E3%82%BB%E3%83%AB%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%BC-%E6%88%BB%E3%82%89%E3%81%AA%E3%81%84'>バイク アクセルワイヤー 戻らない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%8D%E3%82%AE-%E3%83%99%E3%83%BC%E3%82%B3%E3%83%B3-%E3%83%81%E3%83%BC%E3%82%BA'>ネギ ベーコン チーズ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B8%89%E8%8F%B1-%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97-%E6%8E%A1%E7%94%A8'>三菱 グループ 採用</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%98%AA%E7%A5%9E%E8%A5%BF%E5%AE%AE-%E3%82%B0%E3%83%AB%E3%83%A1-%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0'>阪神西宮 グルメ ランキング</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B8%89-%E8%A8%98%E4%BA%8B-%E5%9B%9B%E5%AD%97%E7%86%9F%E8%AA%9E'>三 記事 四字熟語</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%AC%E3%82%B6%E3%83%BC-%E5%90%8D%E5%89%8D%E5%85%A5%E3%82%8C-%E6%89%8B%E4%BD%9C%E3%82%8A'>レザー 名前入れ 手作り</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%98%E3%83%93%E3%82%AD%E3%83%A3%E3%83%AD-%E3%83%A9%E3%82%A4%E3%83%B3-%E3%83%8A%E3%82%A4%E3%83%AD%E3%83%B3'>ヘビキャロ ライン ナイロン</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%8B%E3%83%A9-%E3%82%82%E3%82%84%E3%81%97-%E3%81%82%E3%82%93%E3%81%8B%E3%81%91-%E7%84%BC%E3%81%8D%E3%81%9D%E3%81%B0'>ニラ もやし あんかけ 焼きそば</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%A0%E3%83%BC%E3%83%B4-%E3%82%B7%E3%82%AC%E3%83%BC%E3%82%BD%E3%82%B1%E3%83%83%E3%83%88-%E3%83%92%E3%83%A5%E3%83%BC%E3%82%BA'>ムーヴ シガーソケット ヒューズ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=tab%E3%82%AD%E3%83%BC-%E8%A8%AD%E5%AE%9A-%E3%83%A1%E3%83%A2%E5%B8%B3'>Tabキー 設定 メモ帳</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=google-%E6%A4%9C%E7%B4%A2-%E5%B0%8F%E3%81%95%E3%81%8F%E3%81%AA%E3%81%A3%E3%81%9F'>Google 検索 小さくなった</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%8F%E3%81%8B%E3%82%81-%E3%83%AC%E3%82%B7%E3%83%94-%E7%82%92%E3%82%81'>わかめ レシピ 炒め</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=nhk-%E6%B5%B7%E5%A4%96%E3%83%89%E3%83%A9%E3%83%9E-this-is-us'>Nhk 海外ドラマ This Is Us</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%85%B5%E5%BA%AB-%E7%9C%8C%E7%AB%8B-%E8%A5%BF%E5%AE%AE%E7%97%85%E9%99%A2-%E7%9C%8B%E8%AD%B7%E5%B8%AB'>兵庫 県立 西宮病院 看護師</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Win7-%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88%E3%82%AD%E3%83%BC-Win10'>Win7 プロダクトキー Win10</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B8%96%E7%95%8C-%E3%81%AE-%E5%9C%B0%E4%B8%8B%E9%89%84-%E7%B6%B2'>世界 の 地下鉄 網</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=5%E5%88%86%E8%A2%96-t%E3%82%B7%E3%83%A3%E3%83%84-%E3%83%A1%E3%83%B3%E3%82%BA'>5分袖 Tシャツ メンズ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=2015-%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC-%E8%8B%B1%E8%AA%9E-%E9%9B%A3%E6%98%93%E5%BA%A6'>2015 センター 英語 難易度</a>,
+";s:7:"expired";i:-1;}

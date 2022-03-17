@@ -1,0 +1,72 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:4774:" 漢字とひらがなを適切に使い分けるには、個人として、 日ごろから、適切な使い分けを意識して文章を書く; 読みづらい漢字は、なるべくひらがなで書く; といった心がけはもちろん、ウェブサイトの運営上は、 複雑すぎないルールを関係者で共有する 漢字とカナ問題 「トキ」は「時」か「とき」か、「コドモ」は「子供」か「子ども」か。みなさんどうしてますか。 社に規定はありますか？ その規定では、一律に「これは漢字」「これはひらがな」と決まってますか？ 規定がない方や、社用以外の文章ではみなさんどうしてますか？ 漢字書きとひらがな書きの使い分けが適当な語－「事物」を指す名詞⇔形式名詞、その他－. 「〜のうえ」と「〜の上」という表現をご存知でしょうか。「ご確認のうえ」「箱の上に」といったように使います。では、それぞれの意味についてきちんと理解しているでしょうか。日常会話でよく使われている表現ですが、普段意識して使うことは少ないですよね。 ・漢字でもひらがなでも間違いではない。 ・読み手に与える印象を考慮して好きな方を選べばよい。 ・ただし慣習的には漢字で書くことの方が多い。 となりましょうか。 > ちなみに面白いページを見つけましたので、参考までにご案内します。 「頂く」と「いただく」漢字とひらがなの違いと使い分け 「いただく」の漢字とひらがなにはそれぞれ別の意味があり、漢字とひらがなを使い分ける必要があります。 漢字 ... ：会議の後、私のところまで来ていただけますか。 漢字を使えるのに漢字を使わないのは、その単語に意味を持たせたいときだけに限らなければ文章が幼稚に見えたり、信用出来ないものという印象を与えかねません。チラシを作るときはまず漢字を使うところから始めてみましょう。 ひらがなが持つイメージ <br> <br>漢字書きとひらがな書きの使い分けが適当な語－「事物」を指す名詞⇔形式名詞、その他－. ウエブの質問サイトを見ると、 「自信をモツ」の「モツ」は、漢字の「持つ」なのか、平仮名の「もつ」なのか。 「勇気をモツ」の「モツ」は、漢字の「持つ」なのか、平仮名の「もつ」なのか。 「持つ」と「もつ」の使い分けに関する質問が見られます。 「宜しく」と「よろしく」、ビジネスではもちろんプライベートでの挨拶文でも使うことがありますが、そのとき漢字で書くべきか平仮名がよいのか、迷いますよね。 漢字と平仮名！使い分けのルールがあると思ってしまいますが、実は漢字の「宜しく」には意外な秘密が隠されているのです！ いつもご丁寧な回答をありがとうございます。 今、ミニコミ情報紙の文章を書いています。そこで、ひらがなを使うのか、漢字を使うのか迷う文があります。 例えば、 「～のなか、」か「～の中、」 「～のとき、」か「～の時、 <br> <br>先に述べたように、形式名詞（修飾語を伴って意味をなす名詞）はひらがな書きが通例です。 [漢字の略字] [漢字のタイプ] [漢字とコマ枠との関係] [ひらがな、カタカナの書き方] [アルファベットの書き方] [CGS単位への統一] [概念の明確化を] [避けたいことば] [である調] [かなづかい] [漢字のかなの使い分け… 例えば、使い分けとしては ×：会議の後、私のところまで来て頂けますか。 ：会議の後、私のところまで来ていただけますか。 という違いがあります。 ... 「頂く」と「いただく」漢字とひらがなの違いと使い分け [漢字の略字] [漢字のタイプ] [漢字とコマ枠との関係] [ひらがな、カタカナの書き方] [アルファベットの書き方] [CGS単位への統一] [概念の明確化を] [避けたいことば] [である調] [かなづかい] [漢字のかなの使い分け… 「事」「こと」、漢字とひらがなの使い分けをしなければいけません。この記事ではどのような場面で漢字の「事」、ひらがなの「こと」を使い分けをするべきか解説いたします。 先に述べたように、形式名詞（修飾語を伴って意味をなす名詞）はひらがな書きが通例です。 ";s:7:"keyword";s:42:"ところ 漢字 ひらがな 使い分け";s:5:"links";s:6770:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B8%AD%E5%9B%BD%E7%94%A3-%E5%86%B7%E5%87%8D%E9%A3%9F%E5%93%81-%E4%BA%8B%E4%BB%B6'>中国産 冷凍食品 事件</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A4%A7%E5%B3%B6-%E6%84%9B%E5%AA%9B-%E3%82%AB%E3%83%95%E3%82%A7'>大島 愛媛 カフェ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%87%A8%E5%BA%8A%E6%A4%9C%E6%9F%BB%E6%8A%80%E5%B8%AB-%E6%A8%A1%E8%A9%A6-%E9%81%8E%E5%8E%BB-%E5%95%8F'>臨床検査技師 模試 過去 問</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B9%E3%83%97%E3%83%BC%E3%83%AB-%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB-%E5%89%8A%E9%99%A4'>スプール ファイル 削除</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=S%26B-%E3%82%AB%E3%83%AC%E3%83%BC%E7%B2%89-%E5%B9%BC%E5%85%90'>S&B カレー粉 幼児</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AD%E3%83%B3%E3%82%B9%E3%83%AC-%E8%B6%85%E8%B6%8A-%E3%83%95%E3%83%AC%E3%82%A4'>キンスレ 超越 フレイ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%90%E3%83%83%E3%82%AF-%E3%83%91%E3%83%83%E3%82%AF-%E6%B5%B7%E5%A4%96%E6%97%85%E8%A1%8C-1%E9%80%B1%E9%96%93'>バック パック 海外旅行 1週間</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AB%E3%83%83%E3%83%97-%E7%9B%AE%E7%8E%89%E7%84%BC%E3%81%8D-%E3%83%AC%E3%83%B3%E3%82%B8'>カップ 目玉焼き レンジ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%8F%E3%82%A4%E3%83%B3%E3%83%84-%E3%82%B0%E3%83%A9%E3%82%BF%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9-%E3%83%91%E3%82%B9%E3%82%BF'>ハインツ グラタンソース パスタ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%A8%97-%E7%B2%92-%E8%85%AB-%E7%9A%AE%E8%86%9A%E7%A7%91-%E8%A1%A8%E5%8F%82%E9%81%93'>稗 粒 腫 皮膚科 表参道</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%B7%B7%E8%A1%80-%E7%BE%8E%E4%BA%BA-%E3%81%AA%E3%81%9C'>混血 美人 なぜ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%81%B5%E6%96%B9%E5%B7%BB%E3%81%8D-%E6%96%B9%E8%A7%92-%E8%AA%B0%E3%81%8C%E6%B1%BA%E3%82%81%E3%82%8B'>恵方巻き 方角 誰が決める</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%83%93%E3%83%87%E3%82%AA-%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB-%E8%A1%A8%E7%A4%BA%E3%81%95%E3%82%8C%E3%81%AA%E3%81%84'>プライムビデオ ジャンル 表示されない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%8E%E3%83%BC%E3%83%88-A4-B5-%E4%BB%95%E4%BA%8B'>ノート A4 B5 仕事</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=windows-%E3%82%B9%E3%83%88%E3%82%A2%E3%82%A2%E3%83%97%E3%83%AA-%E9%96%8B%E7%99%BA'>Windows ストアアプリ 開発</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A4%9A%E8%82%89%E6%A4%8D%E7%89%A9-%E5%AF%84%E3%81%9B%E6%A4%8D%E3%81%88-%E9%9A%99%E9%96%93'>多肉植物 寄せ植え 隙間</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E5%90%8D%E3%81%AE%E9%95%B7%E3%81%95%E3%81%AF-%E5%AF%BE%E8%B1%A1%E3%81%AE%E3%83%95%E3%82%A9%E3%83%AB%E3%83%80%E3%83%BC-%E3%81%AB-%E5%AF%BE%E3%81%97-%E3%81%A6'>ファイル名の長さは 対象のフォルダー に 対し て</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=t%E3%82%B7%E3%83%A3%E3%83%84-%E8%A8%80%E8%91%89-%E3%81%8B%E3%81%A3%E3%81%93%E3%81%84%E3%81%84-%E8%8B%B1%E8%AA%9E'>Tシャツ 言葉 かっこいい 英語</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Amazon-%E6%B1%82%E4%BA%BA---%E7%A6%8F%E5%B2%A1'>Amazon 求人 - 福岡</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%8E%89%E3%81%AD%E3%81%8E-%E3%83%9E%E3%82%B0%E3%82%AB%E3%83%83%E3%83%97-%E3%83%AC%E3%83%B3%E3%82%B8'>玉ねぎ マグカップ レンジ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=uverworld-%E6%9D%B1%E4%BA%AC%E3%83%89%E3%83%BC%E3%83%A0-%E9%9B%AA%E8%BE%B1'>Uverworld 東京ドーム 雪辱</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%8D%83%E8%91%89%E7%9C%8C-%E5%85%AB%E5%8D%83%E4%BB%A3%E5%B8%82-%E5%91%A8%E8%BE%BA-%E6%B1%82%E4%BA%BA'>千葉県 八千代市 周辺 求人</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%9D%B1%E4%BA%AC%E5%8A%B4%E7%81%BD-%E4%B8%80%E4%BA%BA-%E8%A6%AA%E6%96%B9%E9%83%A8%E4%BC%9A'>東京労災 一人 親方部会</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BF%8A-%E6%84%8F%E5%91%B3-%E8%8B%B1%E8%AA%9E'>俊 意味 英語</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%B6%8F%E8%82%89-%E3%81%BB%E3%82%8D%E3%81%BB%E3%82%8D-%E6%99%82%E7%9F%AD'>鶏肉 ほろほろ 時短</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%AD%A6%E6%A0%A1-%E5%BC%95%E3%81%8D%E8%90%BD%E3%81%A8%E3%81%97-%E3%82%B3%E3%83%AD%E3%83%8A'>学校 引き落とし コロナ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%97%A5%E6%9C%AC%E3%83%88%E3%83%A9%E3%82%B9%E3%83%86%E3%82%A3-%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E4%BF%A1%E8%A8%97%E9%8A%80%E8%A1%8C-%E6%A0%AA%E5%BC%8F-%E4%BC%9A%E7%A4%BE-%E3%81%BF%E3%81%9A%E3%81%BB'>日本トラスティ サービス信託銀行 株式 会社 みずほ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%BB%A2%E8%81%B7-%E3%82%B3%E3%83%AD%E3%83%8A-%E5%BD%B1%E9%9F%BF'>転職 コロナ 影響</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A2%E3%82%B8-%E9%96%8B%E3%81%8D-%E3%83%A0%E3%83%8B%E3%82%A8%E3%83%AB'>アジ 開き ムニエル</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%9D%B1%E4%BA%AC%E8%A5%BF%E5%B7%9D-%E3%82%A6%E3%83%BC%E3%83%AB-%E6%95%B7%E5%B8%83%E5%9B%A3'>東京西川 ウール 敷布団</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B3%E3%83%8A%E3%83%9F%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84-%E5%B2%A1%E5%B1%B1-2ch'>コナミスポーツ 岡山 2ch</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A6%8A%E5%A9%A6-%E6%B5%B7%E5%A4%96%E6%97%85%E8%A1%8C-%E4%BF%9D%E9%99%BA'>妊婦 海外旅行 保険</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%8C%96%E7%B2%A7%E5%93%81-%E6%9C%AA%E9%96%8B%E5%B0%81-5%E5%B9%B4'>化粧品 未開封 5年</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%A6%E3%83%8B%E3%82%AF%E3%83%AD-%E3%83%96%E3%83%A9%E3%83%88%E3%83%83%E3%83%97-%E5%BA%95%E5%80%A4'>ユニクロ ブラトップ 底値</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BC%9A%E8%AD%B0-%E6%A9%9F%E6%9D%90-%E3%83%AC%E3%83%B3%E3%82%BF%E3%83%AB'>会議 機材 レンタル</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%8F%A4%E7%9D%80-%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8A%E3%83%BC-%E9%9F%93%E5%9B%BD'>古着 トレーナー 韓国</a>,
+";s:7:"expired";i:-1;}

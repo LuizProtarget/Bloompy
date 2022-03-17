@@ -1,0 +1,80 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:4394:"<p> </p> <p>働き方改革の一環として、育児・介護と仕事の両立に注目が高まっています。時短勤務制度は従業員が育児・介護と仕事の両立を促進する制度です。一方で、時短勤務による労働時間の減少により結果的に社会保険の加入条件から外れてしまう可能性が考えられます。 従業員が社会保険から脱退することになる事由（社会保険の資格喪失事由）としては、退職、死亡、70歳以上になったことなどがある。こうした資格喪失事由が発生した場合は、原則として、その翌日に被保険者の資格を失う。 社会保険と聞くと、一般的に健康保険や厚生年金保険を思い浮かべる人も多いのではないでしょうか。実は、社会保険は2つだけではありません。それでは、社会保険にはどのようなものがあるのか、それぞれの加入条件について詳しく見ていきましょう。 </p> <p>大阪市西区にある社会保険労務士事務所。就業規則と人事労務の課題を解決、労働トラブルの予防が専門。上場企業やipo企業の労務管理支援の実績有り。労働時間管理の問題、残業代対策、事業承継、メンタルヘルスケア・休職の支援はお任せください。 【社労士監修】役員の社会保険については、加入条件が明文化されていない部分もあり、わかりにくくなっています。この記事では、役員の社会保険への加入条件や二か所以上で勤務している役員の社会保険について解説していきます。 脱退一時金は原則として以下の4つの条件にすべてあてはまる方に支給（出国後2年以内に請求） (1) 日本国籍を有していない方 (2) 国民年金の1号被保険者としての保険料納付済期間又は厚生年金保険の被保険者期間が6ヵ月以上ある方 1.1 社会保険の扶養とは「経済面で一人で生活できない人の面倒をみること」; 2 社会保険の扶養の加入条件とは？. 目次. 1.1 社会保険の扶養とは「経済面で一人で生活できない人の面倒をみること」; 2 社会保険の扶養の加入条件とは？. 1 社会保険の扶養とは？. 飲食店、美容院などで社会保険に加入していない事業所は要注意です。いよいよ政府も本気モードです。税理士であり社会保険労務士である筆者がその内容をわかりやすくまとめました。是非チェックし今後の対策にも役立たせてください。 自分は今、一部上場の某飲食チェーンで働いています。会社の方針で、アルバイト従業員の社会保険の強制脱退が決まりました。会社の支出を減らす為です。当店のアルバイト従業員の一人は、社会保険を脱退すると、当然勤務時間も限られてし 目次. 健康保険をはじめとした社会保険はそれぞれ加入条件が異なり、加入義務のある従業員の範囲も異なります。特にパートなど非正規型従業員の加入は誤解が多いようです。平成28年10月、平成29年1月、平成29年4月の改正により、社会保険の加入対象が大きく広がりました。 社会保険(健康保険･厚生年金保険)の加入義務や要件とは？「自分が社会保険に加入すべきなのか知りたい」という方には必見です。税理士であり社会保険労務士である筆者がわかりやすく解説しています。 社会保険に加入すると本人が病気や怪我をしたり、亡くなったりした場合に保険給付が行われるのに加え、被扶養者などの病気や怪我、死亡なども保険給付が行われます。ここでは社会保険の被扶養者となるための扶養条件を「被扶養者の範囲」と「収入要件」の2つに分けて解説します。 1 社会保険の扶養とは？. 社会保険は強制加入ですので、現在ご家族の被扶養者となっている方も加入要件を満たす就労条件の場合は、必ず当社の社会保険に加入することになります。なお厚生年金の加入は70歳未満までです。 保険料の支払いについて </p>";s:7:"keyword";s:26:"社会保険 脱退 条件";s:5:"links";s:8514:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%96%E3%83%AB-%E3%83%8A%E3%83%93-%E7%A3%81%E7%9F%B3-%E5%BD%B1%E9%9F%BF'>ポータブル ナビ 磁石 影響</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%A4%E3%81%B6-%E3%81%BE%E3%82%8B-%E9%BA%A6%E8%8C%B6-%E7%85%AE%E5%87%BA%E3%81%97-%E6%96%B9'>つぶ まる 麦茶 煮出し 方</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Nox-%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88-%E5%89%8A%E9%99%A4'>Nox アカウント 削除</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A4%A7%E8%85%B8-%E3%81%8C-%E3%82%93-%E5%A6%BB'>大腸 が ん 妻</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%B1%86%E4%B9%B3-%E3%83%AC%E3%83%A2%E3%83%B3%E6%B1%81-%E5%8A%B9%E6%9E%9C'>豆乳 レモン汁 効果</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%80%E3%82%A4%E3%82%BD%E3%83%BC-%E3%81%8A%E8%8F%93%E5%AD%90-%E4%BA%BA%E6%B0%97%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0'>ダイソー お菓子 人気ランキング</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=javascript-%E3%83%9C%E3%82%BF%E3%83%B3-%E3%82%AF%E3%83%AA%E3%83%83%E3%82%AF%E3%81%95%E3%81%9B%E3%82%8B'>Javascript ボタン クリックさせる</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%AD%91%E6%B3%A2%E5%A4%A7%E5%AD%A6-%E8%8A%B8%E8%A1%93%E5%B0%82%E9%96%80%E5%AD%A6%E7%BE%A4-%E5%A4%A7%E5%AD%A6%E9%99%A2'>筑波大学 芸術専門学群 大学院</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB-%E5%AF%BF%E5%8F%B8-%E3%81%BE%E3%81%9A%E3%81%84'>アメリカ 寿司 まずい</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%85%83%E7%94%BA-%E8%AA%95%E7%94%9F%E6%97%A5-%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%82%BA'>元町 誕生日 サプライズ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%B8%9D%E4%BA%AC%E5%A4%A7%E5%AD%A6-%E7%B7%A8%E5%85%A5-%E5%80%8D%E7%8E%87'>帝京大学 編入 倍率</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%80%E3%82%A4%E3%83%AF-PE%E3%83%A9%E3%82%A4%E3%83%B3-%E6%A3%9A-%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC'>ダイワ PEライン 棚 センサー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%97-im-%E6%94%B9%E8%A1%8C'>スカイプ Im 改行</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%BC%98%E5%89%8D%E5%A4%A7%E5%AD%A6-%E5%8C%BB%E5%AD%A6%E9%83%A8-%E5%8D%92%E6%A5%AD%E7%94%9F'>弘前大学 医学部 卒業生</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=ie11-%E3%82%AA%E3%83%BC%E3%83%88%E3%82%B3%E3%83%B3%E3%83%97%E3%83%AA%E3%83%BC%E3%83%88-%E4%B8%8D%E5%85%B7%E5%90%88'>Ie11 オートコンプリート 不具合</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B8%89%E8%BB%92%E8%8C%B6%E5%B1%8B-%E4%B8%89%E8%A7%92%E5%9C%B0%E5%B8%AF-%E8%A1%8C%E3%81%8D%E6%96%B9'>三軒茶屋 三角地帯 行き方</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%96%A2%E8%A5%BF%E5%A4%A7%E5%AD%A6-%E6%B3%95%E5%AD%A6%E9%83%A8-%E5%BC%81%E8%AD%B7%E5%A3%AB'>関西大学 法学部 弁護士</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%84%BC%E3%81%8D%E8%8A%8B-%E3%83%97%E3%83%AA%E3%83%B3-%E7%B0%A1%E5%8D%98'>焼き芋 プリン 簡単</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%A2%85%E7%94%B0-%E3%82%BF%E3%82%AF%E3%82%B7%E3%83%BC-%E4%BA%88%E7%B4%84'>梅田 タクシー 予約</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AB%E3%83%BC%E3%82%AD-%E3%83%80%E3%82%A6%E3%83%B3-%E3%82%B3%E3%83%BC%E3%83%87-%E3%83%A1%E3%83%B3%E3%82%BA'>カーキ ダウン コーデ メンズ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%92%E3%83%97%E3%83%8E%E3%82%B7%E3%82%B9%E3%83%9E%E3%82%A4%E3%82%AF-%E3%82%B5%E3%83%B3%E3%83%AA%E3%82%AA%E3%83%AA%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-%E3%82%82%E3%81%A1%E3%81%93%E3%82%8D%E3%82%8A%E3%82%93'>ヒプノシスマイク サンリオリミックス もちころりん</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A4%A7%E5%AE%AE%E9%A7%85-%E9%A7%90%E8%BB%8A%E5%A0%B4-%E7%A9%BA%E3%81%8D%E7%8A%B6%E6%B3%81'>大宮駅 駐車場 空き状況</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A4%9C-%E8%B7%AF-%E5%9B%9B%E5%AD%97%E7%86%9F%E8%AA%9E'>夜 路 四字熟語</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%BA%83%E5%B3%B6%E5%A4%A7%E5%AD%A6-%E5%80%8D%E7%8E%87-2017'>広島大学 倍率 2017</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B8%89%E4%BA%95-%E4%B8%8D%E5%8B%95%E7%94%A3-%E3%83%AC%E3%82%B8%E3%83%87%E3%83%B3%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%AA%E3%83%BC%E3%82%B9-WEB%E3%83%86%E3%82%B9%E3%83%88'>三井 不動産 レジデンシャルリース WEBテスト</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BA%80%E6%9C%89-%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6%E4%BA%88%E9%98%B2%E6%8E%A5%E7%A8%AE-%E5%AE%89%E3%81%84'>亀有 インフルエンザ予防接種 安い</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%AE%B6-%E6%9D%A5-%E4%B8%89%E5%AD%97%E7%86%9F%E8%AA%9E'>家 来 三字熟語</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%84%BC%E3%81%8D%E9%B3%A5-%E3%81%8A%E3%82%93%E3%81%A0-%E5%B9%B3%E6%B2%BC%E6%A9%8B'>焼き鳥 おんだ 平沼橋</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%AF%E3%82%B4%E3%83%B3-2%E5%88%97%E7%9B%AE-%E8%B7%B3%E3%81%AD%E4%B8%8A%E3%81%92'>ステップワゴン 2列目 跳ね上げ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%8C%97%E6%B5%B7%E9%81%93-%E9%AB%98%E6%A0%A1-%E6%9C%89%E5%90%8D%E4%BA%BA'>北海道 高校 有名人</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%8B%B1%E8%AA%9E-%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3-%E6%95%99%E6%9D%90-%E5%B0%8F%E5%AD%A6%E7%94%9F'>英語 オンライン 教材 小学生</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AA%E3%82%B7%E3%82%A2-%E3%82%AB%E3%83%AB%E3%82%AB%E3%83%83%E3%82%BF-%E4%B8%AD%E6%B7%B1%E6%B5%B7'>オシア カルカッタ 中深海</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%BF%91%E7%95%BF%E5%A4%A7%E5%AD%A6-%E7%90%86%E5%B7%A5-%E5%AD%A6%E9%83%A8-%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%88%A9%E7%94%A8'>近畿大学 理工 学部 センター利用</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%80%E3%82%A4%E3%82%A8%E3%83%83%E3%83%88-%E7%82%B9%E6%BB%B4-%E5%B2%A1%E5%B1%B1'>ダイエット 点滴 岡山</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%B6%8F-%E3%81%B6%E3%81%A4%E5%88%87%E3%82%8A-%E3%82%B9%E3%83%BC%E3%83%97'>鶏 ぶつ切り スープ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%84%E3%81%A1%E3%81%98%E3%81%8F-%E3%81%A8-%E3%82%B9%E3%83%A2%E3%83%BC%E3%82%AF%E3%83%81%E3%82%AD%E3%83%B3%E3%81%AE%E3%82%B5%E3%83%A9%E3%83%80'>いちじく と スモークチキンのサラダ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%AD%9A-%E7%94%98%E9%85%A2%E3%81%82%E3%82%93%E3%81%8B%E3%81%91-%E5%92%8C%E9%A2%A8'>魚 甘酢あんかけ 和風</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%B8%88%E7%94%9F%E4%BC%9A%E4%B8%AD%E5%A4%AE%E7%97%85%E9%99%A2-%E7%9C%8B%E8%AD%B7%E5%B8%AB-%E5%80%8D%E7%8E%87'>済生会中央病院 看護師 倍率</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%91%89-%E6%8C%81%E3%81%A1%E5%B8%B0%E3%82%8A-%E3%82%B0%E3%83%AB%E3%83%A1'>呉 持ち帰り グルメ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%A4%8D%E9%87%8E-%E7%94%A3%E5%A9%A6-%E4%BA%BA-%E7%A7%91-%E9%A7%90-%E8%BB%8A%E5%A0%B4'>植野 産婦 人 科 駐 車場</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%9C%AD%E5%B9%8C-%E9%AB%98%E6%A0%A1-J%E3%83%A9%E3%83%B3%E3%82%AF'>札幌 高校 Jランク</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%BC%A2%E5%AD%97-%E7%86%9F%E8%AA%9E-%E8%A6%9A%E3%81%88%E6%96%B9'>漢字 熟語 覚え方</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%85%90%E7%AB%A5%E6%89%B6%E9%A4%8A%E6%89%8B%E5%BD%93-%E8%A8%88%E7%AE%97-%E6%BA%90%E6%B3%89%E5%BE%B4%E5%8F%8E%E7%A5%A8'>児童扶養手当 計算 源泉徴収票</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%B4%A0%E6%9D%90-%E3%83%AF%E3%83%BC%E3%83%89-%E7%BD%AB%E7%B7%9A-%E3%83%A2%E3%83%8E%E3%82%AF%E3%83%AD'>素材 ワード 罫線 モノクロ</a>,
+";s:7:"expired";i:-1;}

@@ -1,0 +1,64 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:2083:"<p> </p> <p>イラレの画像の表示が荒い・ギザギザする原因 アケコン天板絵イラストの依頼方法、相場は？ Premiere Proで読み込んだmovファイルが再生できない時の対処法 カテゴリー. イラレでWeb用に保存のなどで書き出した画像がぼやける理由 の などで書き出した画像がぼやける理由" data-hatena-bookmark-layout="standard" data-hatena-bookmark-lang="ja" title="このエントリーをはてなブックマークに追加"> イラレのアセットの書き出しを使用していると、普通にスライスした時よりも、画像が荒く感じたり経験した人もいるかと思いますが、 設定を少し変更するだけで、画像の荒さを解消することができます。 アセットの書き出しパネルから ↓ CCの魅力を感じつつもCS6製品で様子を見ている、月額支払いがちょっと怖い。そんな九州ライター村上です、みなさんこんにちは。 今人気のフラットデザインはIllustratorが得意とする部分なので、最近Illustratorを使ってWebサイトを作ろうという動きが増えてきました。 イラストレーター関連の問題、第二弾です。イラストレーターに画像を取り込むと、画像の文字がボケたり1pxの余白ができることがありました。必ずできるわけではないので何か理由がありそうです。今回はこの問題について調べました。 </p> <p>イラストレーターで文字入りのロゴを作って、ホームページにのっけたのだが、「あれ、なんだか文字がぼやけて見えるぞ」ということで、ぼやけないロゴを作る方法をメモ。 昔からIllustratorラブ！な私ですが、いつの間にやらWebデザインをする上での便利な機能が増えてきて、ますます嬉しい次第です。その中で今回は画像アセットを使った書き出し方法を紹介します。昔はスライスツールを使って […] </p>";s:7:"keyword";s:42:"イラレ 書き出し 文字 ぼやける";s:5:"links";s:5386:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%82%E3%81%86%E7%96%B2%E3%82%8C-%E3%81%A1%E3%82%83%E3%81%A3-%E3%81%9F-%E9%9F%93%E5%9B%BD%E8%AA%9E'>もう疲れ ちゃっ た 韓国語</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%A9%8B%E6%A2%81-%E3%82%A6%E3%82%A4%E3%83%B3%E3%82%B0-%E5%BD%B9%E5%89%B2'>橋梁 ウイング 役割</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A6%8A%E5%A9%A6-%E6%B5%B7%E5%A4%96%E6%97%85%E8%A1%8C-%E4%BF%9D%E9%99%BA'>妊婦 海外旅行 保険</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=nhk-bs-%E5%8F%97%E4%BF%A1%E6%96%99-%E7%BE%A9%E5%8B%99'>Nhk Bs 受信料 義務</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Raspberry-Pi-openmediavault'>Raspberry Pi Openmediavault</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%81%B5%E6%96%B9%E5%B7%BB%E3%81%8D%E3%81%AE-%E4%BD%9C%E3%82%8A%E6%96%B9-%E5%8B%95%E7%94%BB'>恵方巻きの 作り方 動画</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B0%E3%83%A9%E3%83%96-%E3%83%AB-%E3%82%AD%E3%83%A5%E3%82%A6-%E3%82%A8%E3%83%B3'>グラブ ル キュウ エン</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%86%E3%83%AC%E3%83%B3%E3%82%B9-%E3%83%8F%E3%83%AF%E3%83%BC%E3%83%89-%E3%82%A2%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%86%E3%82%A3'>テレンス ハワード アシャンティ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%80%E3%82%A4%E3%82%BD%E3%83%BC-%E3%81%8A%E8%8F%93%E5%AD%90-%E3%82%AB%E3%83%83%E3%83%97'>ダイソー お菓子 カップ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%AD%A6%E8%94%B5%E9%87%8E%E5%A4%A7%E5%AD%A6-%E7%95%99%E5%B9%B4-%E5%AD%A6%E8%B2%BB'>武蔵野大学 留年 学費</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9E%E3%83%83%E3%82%B7%E3%83%A5%E3%83%AB%E3%83%BC%E3%83%A0-%E3%81%98%E3%82%83%E3%81%8C%E3%81%84%E3%82%82-%E3%82%B9%E3%83%BC%E3%83%97'>マッシュルーム じゃがいも スープ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=10%E4%BB%A3-%E3%81%BB%E3%81%86-%E3%82%8C%E3%81%84-%E7%B7%9A-%E5%8E%9F%E5%9B%A0'>10代 ほう れい 線 原因</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9C%E3%83%87%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97-%E3%83%9C%E3%83%87%E3%82%A3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0-%E3%83%9D%E3%83%B3%E3%83%97'>ボディショップ ボディクリーム ポンプ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BA%AC%E3%82%BB%E3%83%A9%E3%83%89%E3%83%BC%E3%83%A0-%E5%87%BA%E7%A6%81-%E3%82%A2%E3%82%A4%E3%83%9E%E3%82%B9'>京セラドーム 出禁 アイマス</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%AC%E3%83%83%E3%83%89%E3%82%A6%E3%82%A3%E3%83%B3%E3%82%B0-%E3%82%AA%E3%83%83%E3%82%AF%E3%82%B9%E3%83%95%E3%82%A9%E3%83%BC%E3%83%89-%E3%82%B5%E3%82%A4%E3%82%BA%E6%84%9F'>レッドウィング オックスフォード サイズ感</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%BF%E3%83%88%E3%82%A5%E3%83%BC%E3%83%A9SV-TW-%E3%82%B9%E3%83%97%E3%83%BC%E3%83%AB'>タトゥーラSV TW スプール</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%BD%E3%83%8B%E3%83%BC-%E3%82%A4%E3%83%A4%E3%83%9B%E3%83%B3-%E9%80%9A%E8%A9%B1'>ソニー イヤホン 通話</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%B7%A5%E5%AD%A6%E9%83%A8-%E5%B0%B1%E6%B4%BB-%E6%A5%BD'>工学部 就活 楽</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=43%E6%AD%B3-%E5%A6%8A%E6%B4%BB-%E3%83%96%E3%83%AD%E3%82%B0'>43歳 妊活 ブログ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=amazon%E3%82%AB%E3%83%BC%E3%83%89-suica%E3%83%81%E3%83%A3%E3%83%BC%E3%82%B8-%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88'>Amazonカード Suicaチャージ ポイント</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%A0%E3%83%BC%E3%83%B4-%E3%82%B7%E3%82%AC%E3%83%BC%E3%82%BD%E3%82%B1%E3%83%83%E3%83%88-%E3%83%92%E3%83%A5%E3%83%BC%E3%82%BA'>ムーヴ シガーソケット ヒューズ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%97%A5-%E5%A4%A7-%E5%9B%BD%E9%9A%9B%E9%96%A2%E4%BF%82-%E5%AD%A6%E9%83%A8-%E8%A3%9C%E6%AC%A0%E5%90%88%E6%A0%BC'>日 大 国際関係 学部 補欠合格</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B9%85%E3%81%97%E3%81%B6%E3%82%8A%E3%81%AB%E8%A9%B1%E3%81%9B%E3%81%A6-%E3%82%88%E3%81%8B%E3%81%A3%E3%81%9F-%E8%8B%B1%E8%AA%9E'>久しぶりに話せて よかった 英語</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%99%E3%83%8D%E3%83%9D-%E4%BA%A4%E6%8F%9B-%E3%83%89%E3%82%B3%E3%83%A2'>ベネポ 交換 ドコモ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2-%E5%B0%8F%E9%BA%A6%E7%B2%89-%E6%96%99%E7%90%86'>イタリア 小麦粉 料理</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B5%E3%83%A9%E3%83%80%E3%83%81%E3%82%AD%E3%83%B3-%E3%82%86%E3%81%A7%E5%8D%B5-%E3%83%AC%E3%82%B7%E3%83%94'>サラダチキン ゆで卵 レシピ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%9B%B8%E7%B6%9A%E7%A8%8E-%E7%94%B3%E5%91%8A%E6%9B%B8-%E6%9B%B8%E3%81%8D%E6%96%B9-2019'>相続税 申告書 書き方 2019</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%BE%E3%82%8A-%E5%90%8D%E5%89%8D-%E6%BC%A2%E5%AD%97'>まり 名前 漢字</a>,
+";s:7:"expired";i:-1;}

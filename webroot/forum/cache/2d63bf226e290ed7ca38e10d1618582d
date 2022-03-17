@@ -1,0 +1,71 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:2391:"<br>iPhoneは年々便利になってきていて、既存の世の中にある様々なアイテムが必要なくなりました。例えば、カメラ。デジカメを持たずにiPhoneのカメラだけですます、という方は多いのではないでしょうか。電話、ネット、メール、カレンダー、マップ、 【参考】なぜ送れない？AirDropが使えない時の簡単な対処法. AirDropができない時の対処法：iPhone 8以前の場合. 「AirDrop（エアドロップ）」はAppleのデバイス同士でデータをやり取りできる機能で、そのスピードと手軽さから写真やURLなどをシェアするときに非常に便利だ。この記事では、AirDropの使い方と仕組み、つながらない時の対処法や便利な使い方などを紹介する。  エアドロップは、Bluetoothを活用した技術なので、この手順は必須です。 エアドロップが失敗するという場合、BluetoothがONになっていなかっただけという事例もありますので、もしAirDropで送れない時には一番最初にチェックしましょう。 これで、AirDropが表示されるようになります。まずはお互いのiPhoneのAirDropが機能制限されていないかチェックしてみましょう。 エアドロップ の情報はこちら AirDrop 2018.10.15 エアードロップ の情報はこちら AirDrop 2018.8.16 【iOS】AirDropが「変換中」で送信出来ない時の対処方法 AirDrop 2017.12.1 【iOS】AirDropで写真を何枚まで送れるか分からない時の対処方法 エアドロップ の情報はこちら AirDrop 2018.8.16 AirDropの『転送できませんでした。やり直してください。』の対処方法 AirDrop 2018.8.16 【iOS】AirDropが「変換中」で送信出来ない時の対処方法 AirDrop 2018.7.30 【iOS】AirDropの表示名が変わらない時の対処方法  そもそもコントロールセンターを開いたときにAirDrop自体が表示されていない場合。 設定＞一般＞機能制限＞AirDrop をオンに. AirDrop(エアードロップ)が共有できない人、iPhoneでPCに画像が送れない人、何やってもできなかった人、そもそもココで失敗している！という部分を30秒で解説！パパッと読んで、パパッと解決しよ <br>";s:7:"keyword";s:41:"エアドロップ 送れない 変換中";s:5:"links";s:6570:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%BA%92%E9%BA%9F%E3%81%8C%E3%81%8F%E3%82%8B%E5%8B%95%E7%94%BB-13-%E8%A9%B1'>麒麟がくる動画 13 話</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%86%9D-%E9%BB%92%E3%81%9A%E3%81%BF-%E3%82%B5%E3%83%AD%E3%83%B3'>膝 黒ずみ サロン</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%94%E9%A3%AF-%E5%86%B7%E5%87%8D-%E5%AE%B9%E5%99%A8-%E3%82%BB%E3%83%AA%E3%82%A2'>ご飯 冷凍 容器 セリア</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9B%E3%83%BC%E3%83%81%E3%83%9F%E3%83%B3-%E5%A5%B3%E6%80%A7-%E4%B8%80%E4%BA%BA%E6%9A%AE%E3%82%89%E3%81%97'>ホーチミン 女性 一人暮らし</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%97%E3%83%88-%E6%96%87%E5%AD%97%E5%88%97-%E7%B5%90%E5%90%88'>スクリプト 文字列 結合</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%99%82%E4%BE%A1%E7%B7%8F%E9%A1%8D-%E6%8E%A8%E7%A7%BB-%E6%A4%9C%E7%B4%A2'>時価総額 推移 検索</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=mac-us%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89-karabiner'>Mac Usキーボード Karabiner</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B9%E3%82%A4%E3%83%95%E3%83%88-%E3%83%9E%E3%82%A4%E3%83%AB%E3%83%89%E3%83%8F%E3%82%A4%E3%83%96%E3%83%AA%E3%83%83%E3%83%89-%E7%87%83%E8%B2%BB'>スイフト マイルドハイブリッド 燃費</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%BF%E3%83%BC%E3%82%B2%E3%83%83%E3%83%881000-%E8%8B%B1-%E6%A4%9C'>ターゲット1000 英 検</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=paypay-%E3%83%A4%E3%83%95%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89-%E3%83%81%E3%83%A3%E3%83%BC%E3%82%B8-%E4%B8%8A%E9%99%90'>Paypay ヤフーカード チャージ 上限</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A4%A7%E8%85%B8%E5%86%85%E8%A6%96%E9%8F%A1%E6%A4%9C%E6%9F%BB-%E5%90%8D%E5%8C%BB-%E7%BE%A4%E9%A6%AC'>大腸内視鏡検査 名医 群馬</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%AD%90%E4%BE%9B-%E3%83%95%E3%82%B1-%E3%81%8B%E3%81%9F%E3%81%BE%E3%82%8A'>子供 フケ かたまり</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%A1%94%E3%81%AE%E3%82%80%E3%81%8F%E3%81%BF-%E3%82%B5%E3%83%97%E3%83%AA-%E5%8A%B9%E6%9E%9C'>顔のむくみ サプリ 効果</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%AA%E3%83%96%E3%83%AC-%E3%83%8F%E3%83%B3%E3%83%89%E3%83%AB-%E3%82%B3%E3%83%A9%E3%83%9C'>リブレ ハンドル コラボ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BC%9A%E3%81%88%E3%82%8B%E3%81%A8%E3%81%84%E3%81%84-%E3%81%AD-%E9%9F%93%E5%9B%BD%E8%AA%9E'>会えるといい ね 韓国語</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%88%90%E4%BA%BA%E5%BC%8F-%E7%A7%81%E6%9C%8D-2ch'>成人式 私服 2ch</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AB%E3%83%BC%E3%83%A1%E3%82%A4%E3%83%88-%E3%83%AD%E3%83%83%E3%83%89%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC-%E4%B8%AD%E5%8F%A4'>カーメイト ロッドホルダー 中古</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%82%E3%81%A4%E9%8D%8B-%E3%81%8A%E3%81%8A%E3%81%84%E3%81%97-%E5%8F%96%E3%82%8A%E5%AF%84%E3%81%9B'>もつ鍋 おおいし 取り寄せ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B4%E3%83%87%E3%82%A3%E3%83%90-%E3%82%A2%E3%82%A4%E3%82%B9-%E6%AF%8D%E3%81%AE%E6%97%A5'>ゴディバ アイス 母の日</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%89%8B%E5%9B%9E%E3%81%97-%E5%85%85%E9%9B%BB%E5%99%A8-100%E5%9D%87'>手回し 充電器 100均</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Apple-com-IP%E3%82%A2%E3%83%89%E3%83%AC%E3%82%B9'>Apple Com IPアドレス</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A8%E3%83%97%E3%82%BD%E3%83%B3-%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%89%E3%83%A9%E3%82%A4%E3%83%90%E3%83%BC-%E5%86%8D%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB'>エプソン プリンタードライバー 再インストール</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%85%8D%E7%A8%8E%E5%BA%97-%E5%8F%97%E3%81%91%E5%8F%96%E3%82%8A-%E4%BB%95%E7%B5%84%E3%81%BF'>免税店 受け取り 仕組み</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%97%E3%81%BE%E3%82%80%E3%82%89-%E3%83%97%E3%83%AA%E3%82%AD%E3%83%A5%E3%82%A2-%E3%83%91%E3%82%B8%E3%83%A3%E3%83%9E'>しまむら プリキュア パジャマ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9D%E3%83%83%E3%83%97%E3%82%A2%E3%83%83%E3%83%97%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF-iphone-%E3%82%A2%E3%83%97%E3%83%AA'>ポップアップブロック Iphone アプリ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=ip%E3%82%A2%E3%83%89%E3%83%AC%E3%82%B9-%E7%A2%BA%E8%AA%8D-windows10'>Ipアドレス 確認 Windows10</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BA%BA-%E3%81%A8%E3%81%AA%E3%82%8A-%E8%B3%AA%E5%95%8F'>人 となり 質問</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A6%E3%83%BC%E3%83%90%E3%83%BC%E3%82%A4%E3%83%BC%E3%83%84-%E5%88%9D%E5%9B%9E-1000%E5%86%86'>ウーバーイーツ 初回 1000円</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%9C%A7%E5%8A%9B%E9%8D%8B-%E8%92%B8%E3%81%97%E5%99%A8-%E3%83%AC%E3%82%B7%E3%83%94'>圧力鍋 蒸し器 レシピ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%AD%A6%E8%94%B5%E9%87%8E%E5%A4%A7%E5%AD%A6-%E7%95%99%E5%B9%B4-%E5%AD%A6%E8%B2%BB'>武蔵野大学 留年 学費</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%91%E3%83%97%E3%83%AA%E3%82%AB-%E3%83%AC%E3%82%B7%E3%83%94-%E3%83%AC%E3%83%B3%E3%82%B8'>パプリカ レシピ レンジ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%92%E3%82%AB%E3%83%AA%E3%82%A8-%E3%82%B9%E3%82%A4%E3%83%BC%E3%83%84-%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A'>ヒカリエ スイーツ 期間限定</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%B3%B6%E7%94%B0-%E7%94%A3%E5%A9%A6-%E4%BA%BA-%E7%A7%91-%E3%83%96%E3%83%AD%E3%82%B0'>島田 産婦 人 科 ブログ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%BB%E3%83%AA%E3%82%A2-%E3%82%B6%E3%83%AB-%E5%9B%9B%E8%A7%92'>セリア ザル 四角</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A7%AB%E8%B7%AF-%E9%A7%85%E5%89%8D-%E7%BE%8E%E5%AE%B9%E7%9A%AE%E8%86%9A%E7%A7%91'>姫路 駅前 美容皮膚科</a>,
+";s:7:"expired";i:-1;}

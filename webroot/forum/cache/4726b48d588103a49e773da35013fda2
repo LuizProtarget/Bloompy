@@ -1,0 +1,71 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:2649:"<br>This tutorial shows how to send ajax request using jQuery ajax() method. Change the type of submit to button in the form set this plugin, you will get validations via ajax and direct drawing. <br> <br>Now, let’s code our jQuery events to make a Ajax call to detailsasjson() action method to get the json result and populate the details div using $.Ajax() method in jQuery. We know that Web-API is a new version of Microsoft’s Service oriented Application. Include your own jQuery.Deferred implementation or exclude those modules as well ( grunt custom:-deferred,-ajax,-effects,-core/ready ). <br> <br>The term AJAX is short for Asynchronous Javascript And XML. <br> <br>The jQuery ajax() method provides core functionality of Ajax in jQuery. @section scripts { <script type="text/javascript"> AJAX makes it possible to fetch content from a server in the background (asynchronously), and update parts of your page with the new content - all without having to reload the complete HTML page. Version 2.4.2 Released 7 years ago Video gallery for website – Android Template. jQuery - jQuery.get() Method - The jQuery.get( url, [data], [callback], [type] ) method loads data from the server using a GET HTTP request. And jQuery UI Dialog will be available to you more effectively! Code below. 0. <br> <br>For simplicity, I have built the details HTML content manually you can use some free templates. In this blog, we will understand how to call Web-API, using jQuery AJAX function. The jQuery get() method sends asynchronous http GET request to the server and retrieves the data. 0. Let us learn this function by building some Codes. The bridge from jQuery to PHP, and vice-versa through AJAX. Forks. It sends asynchronous HTTP requests to the server. The jQuery Get() method is an AJAX method used to send and receive data from the Database or external files without reloading the whole page.  This tutorial shows how to send asynchronous http GET request using get() method of jQuery. Using event delegation, forms and links can call PHP functions with only some data-* attributes, and perform RESTful requests using GET, POST, PUT, DELETE without any manual event binding, everything just works. <br> <br>Note that modules that depend on jQuery.Deferred(AJAX, effects, core/ready) will not be removed and will still expect jQuery.Deferred to be there. Florian Rappl demonstrates how to use jQuery's getJSON helper to load JSON-encoded data from a server using a GET HTTP request. The jQuery AJAX features makes it possible and easy use AJAX in your HTML pages. Watchers. It’s fully RESTful Service, which can be consumed by HTTP verb. <br>";s:7:"keyword";s:15:"jQuery Ajax GET";s:5:"links";s:6180:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B9%E3%83%A9%E3%83%83%E3%82%AF%E3%82%B9-%E3%82%B3%E3%83%BC%E3%83%87-%E9%9F%93%E5%9B%BD'>スラックス コーデ 韓国</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%80%E3%82%A4%E3%83%AF-%E7%A3%AF-%E7%AB%BF-SMT'>ダイワ 磯 竿 SMT</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Windows10-%E3%83%AD%E3%83%83%E3%82%AF%E7%94%BB%E9%9D%A2-%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88'>Windows10 ロック画面 インターネット</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%96%A2%E8%A5%BF%E5%A4%A7%E5%AD%A6-%E5%95%86%E5%AD%A6%E9%83%A8-%E5%85%A5%E8%A9%A6'>関西大学 商学部 入試</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%99%E3%82%B8%E3%82%BF%E3%83%AA%E3%82%A2%E3%83%B3-%E3%83%AC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%B3-%E4%BA%AC%E9%83%BD'>ベジタリアン レストラン 京都</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9D%E3%82%B1%E3%83%A2%E3%83%B3-%E3%82%BD%E3%83%BC%E3%83%89-%E8%A9%95%E4%BE%A1'>ポケモン ソード 評価</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=JPG-%E8%A4%87%E6%95%B0-%E3%81%BE%E3%81%A8%E3%82%81%E3%82%8B'>JPG 複数 まとめる</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%84%A1%E5%8D%B0-%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%A2%E3%83%95%E3%83%AC%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B9-%E3%82%B7%E3%83%88%E3%83%A9%E3%82%B9'>無印 インテリアフレグランス シトラス</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B9%E3%82%A4%E3%83%BC%E3%83%88%E3%83%9D%E3%83%86%E3%83%88%E3%81%AE-%E4%BD%9C%E3%82%8A%E6%96%B9-%E5%8B%95%E7%94%BB'>スイートポテトの 作り方 動画</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B8%8D%E5%A6%8A-%E5%8F%8B%E4%BA%BA-%E5%A6%8A%E5%A8%A0%E5%A0%B1%E5%91%8A'>不妊 友人 妊娠報告</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9-%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC-%E3%82%B3%E3%82%B9%E3%83%97%E3%83%AC-%E5%AD%90%E4%BE%9B'>クリスマス パーティー コスプレ 子供</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=ikea-%E9%95%B7%E4%B9%85%E6%89%8B-%E3%83%89%E3%83%AA%E3%83%B3%E3%82%AF%E3%83%90%E3%83%BC-%E7%84%A1%E6%96%99'>Ikea 長久手 ドリンクバー 無料</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%8D%8B-%E6%84%9B%E7%94%A8-%E3%83%96%E3%83%AD%E3%82%B0'>鍋 愛用 ブログ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%A5%BF%E5%AE%AE-%E5%8C%97%E5%8F%A3-%E3%82%A2%E3%83%95%E3%82%BF%E3%83%BC%E3%83%94%E3%83%AB'>西宮 北口 アフターピル</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%95%E3%83%A9%E3%82%A4%E3%83%91%E3%83%B3-%E3%83%91%E3%82%B9%E3%82%BF-2%E4%BA%BA%E5%89%8D'>フライパン パスタ 2人前</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%80%E3%82%A4%E3%83%AF-%E6%98%A5%E6%B8%93-%E8%A9%95%E4%BE%A1'>ダイワ 春渓 評価</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%BB%E3%81%86%E3%82%8C%E3%82%93%E8%8D%89-%E3%82%B0%E3%83%A9%E3%82%BF%E3%83%B3-%E3%83%8F%E3%82%A4%E3%83%B3%E3%83%84'>ほうれん草 グラタン ハインツ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BA%AC%E9%83%BD%E5%BA%9C%E7%AB%8B-%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6-%E8%A1%8C%E3%81%8D%E3%81%9F%E3%81%84'>京都府立 医科大学 行きたい</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=dena-%E8%87%AA%E7%A4%BE%E6%A0%AA%E8%B2%B7%E3%81%84-%E7%8A%B6%E6%B3%81'>Dena 自社株買い 状況</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%AD%A3%E6%9C%88-%E3%81%8A%E5%90%B8%E3%81%84%E7%89%A9-%E3%83%AC%E3%82%B7%E3%83%94'>正月 お吸い物 レシピ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%94%E3%82%A2%E3%82%B9-%E6%8B%A1%E5%BC%B5-%E5%B9%B4%E9%BD%A2'>ピアス 拡張 年齢</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%8A%8B-%E3%81%91%E3%82%93-%E3%81%B4-%E7%89%87%E6%A0%97%E7%B2%89'>芋 けん ぴ 片栗粉</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%BB%E3%83%96%E3%83%B3%E3%82%A4%E3%83%AC%E3%83%96%E3%83%B3-%E5%8D%B5-%E8%B3%9E%E5%91%B3%E6%9C%9F%E9%99%90'>セブンイレブン 卵 賞味期限</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Replace-A-for-B'>Replace A For B</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%87%BA-%E3%81%AE-%E3%81%A4%E3%81%8F-%E7%86%9F%E8%AA%9E'>出 の つく 熟語</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%98%A5%E9%9B%A8-%E5%B0%8F%E6%9D%BE%E8%8F%9C-%E5%8D%B5'>春雨 小松菜 卵</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=MacBook-%E4%BF%9D%E8%AD%B7%E3%83%95%E3%82%A3%E3%83%AB%E3%83%A0-%E3%81%8A%E3%81%99%E3%81%99%E3%82%81'>MacBook 保護フィルム おすすめ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%A4%9C%E7%B4%A2%E7%AA%93-%E5%B1%A5%E6%AD%B4-%E5%89%8A%E9%99%A4'>検索窓 履歴 削除</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Buffalo-%E3%83%96%E3%83%AA%E3%83%83%E3%82%B8%E3%83%A2%E3%83%BC%E3%83%89-%E7%B0%A1%E6%98%93NAS'>Buffalo ブリッジモード 簡易NAS</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Buffalo-%E3%83%96%E3%83%AA%E3%83%83%E3%82%B8%E3%83%A2%E3%83%BC%E3%83%89-%E7%B0%A1%E6%98%93NAS'>Buffalo ブリッジモード 簡易NAS</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BA%AC%E9%98%AA-%E4%BA%AC%E6%A9%8B-%E6%98%94'>京阪 京橋 昔</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%94%AF-%E6%84%8F%E5%91%B3-%E6%82%AA%E3%81%84'>唯 意味 悪い</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A4%E3%83%A9%E3%83%AC-%E6%96%87%E5%AD%97-%E8%A6%8B%E3%82%84%E3%81%99%E3%81%8F'>イラレ 文字 見やすく</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%B1%9A%E9%AA%A8-%E4%BB%95%E5%85%A5%E3%82%8C-%E5%80%8B%E4%BA%BA'>豚骨 仕入れ 個人</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Edge-deflector-GitHub'>Edge Deflector GitHub</a>,
+";s:7:"expired";i:-1;}

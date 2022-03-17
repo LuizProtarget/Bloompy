@@ -1,0 +1,81 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:3934:"<p>学習者向け！BBC Learning English「6 Minutes English」 本格的にイギリス英語を学びたいアナタには、BBC Learning English6 Minutes English がおすすめです。 6 Minutes Englishは、 6分間の映像を … 無料アプリで英語のリスニング力をつけましょう！BBC Learning Englishの6 Minute Englishを300時間以上聞いたボクがBBC Learning Englishとは何か、そしてその使い方を説明します。  英語の勉強法～BBC Learning English～先日、英語を勉強するのに適したサイトがBBC Learning Englishだと聞きました。このサイトはどういったものなのでしょうか？また、このサイトでの勉強法 … </p> <p>BBC Learning Englishでおすすめの学習コンテンツを探していますか？ 本記事では、英語中級者を対象に、BBC Learning English内のおすすめの学習コンテンツを5つ紹介します。 英語中級者で、更にレ … This website is designed for intermediate and advanced English learners to study English … 1.1 News Report（初心者向け） 1.2 6 Minute English（中級者向け） 1.3 English at Work（中～上級者向け） 1.4 Lingohack（中～上級者向け） 1.5 The English We Speak（中～上級者向け） 2 アプリを使ってBBC Learning Englishを学ぼう. bbcはイギリスの国営放送で、外国人の英語学習者に向けても積極的にコンテンツを発信しています。一方で、bbcのサイトや番組はすべて英語で作られているため、どう活用すればいいの？と迷ってしまうと思います。そこで、今回はbbcを使って英語学習を 中級レベルの英語力、英検2級レベルの英語力を持っている方で、無料の質の高い英語学習コンテンツを探している方はいませんか？今回紹介するBBC Learning EnglishはBBCが提供するとても質が高い英語学習ツールです。BBC Learning English … iPhoneのおすすめ無料英語リスニングアプリ、「BBC Learning English」を紹介します。 BBCとは、British Broadcasting Corporation（英国放送協会）のことで、イギリスの公共放送局になります。 BBC … BBC Learning English. 「VOA Learning English」は、アメリカ国営のラジオ局である「Voice of America」が運営するアメリカ英語の学習サイトだ。大人・社会人向け英語学習用素材として、「VOA Learning English」を徹底検 … 「6 minute English」などで有名な「BBC Learning English」を使った効率的な英語学習法を解説する。内容の詳細やアプリも紹介しよう。このコラムは、大人・社会人向け英語学習用素材として「BBC Learning English」を徹底検証することが目的だ。英語学習に役立てて頂きたい。 1 BBC Learning English. BBCはイギリスの公共放送局で、国内向けの報道番組などを広く発信していますが、英語学習者向けに「BBC英語講座」（BBC Learning English）という学習教材を配信しています。 BBC Learning English BBCの英語講座は世界の権威 BBC英語講座が提供する、質の高いニュース教材. Unfortunately, this website is a little bit difficult to use which means that it’s better for students with a higher level of English, not beginners. 『BBC Learning English』はニュース記事をリスニングすることで、英語を勉強する英語学習アプリです。使いやすい上に無料なのでぜひダウンロードしてみてください。今回は『BBC Learning English』 … BBC Learning Englishで一番お勧めなのは6 Minute Englishです。 6 Minute Englishは毎週木曜日に更新されます。 音声とスクリプトをダウンロードでき、重要英単語(Vocabulary)もわかりやすい英語で意 … </p>";s:7:"keyword";s:30:"bbc learning english 勉強法";s:5:"links";s:8540:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%B4%E3%82%A9%E3%82%AF%E3%82%B7%E3%83%BC-%E8%BB%8A%E4%B8%AD%E6%B3%8A-%E7%AA%93'>ヴォクシー 車中泊 窓</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=JAL-%E5%9B%BD%E9%9A%9B%E7%B7%9A-%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88%E3%82%AF%E3%83%A9%E3%82%B9%E8%B7%AF%E7%B7%9A'>JAL 国際線 ファーストクラス路線</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%AB%E3%82%93%E3%81%AB%E3%81%8F-%E3%81%BF%E3%81%98%E3%82%93%E5%88%87%E3%82%8A-%E6%B2%B9'>にんにく みじん切り 油</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B5%E3%83%B3%E3%82%A8%E3%83%BC-%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9-%E6%B1%82%E4%BA%BA'>サンエー メインプレイス 求人</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%AD%91%E6%B3%A2%E5%A4%A7%E5%AD%A6-%E6%95%B0%E5%AD%A6%E9%A1%9E-%E5%B0%B1%E8%81%B7'>筑波大学 数学類 就職</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AE%E3%83%A5%E3%83%83%E3%83%88%E3%82%A2%E3%83%8B%E3%83%BC%E3%82%BA-2020-%E9%81%95%E3%81%84'>ギュットアニーズ 2020 違い</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%9F%93%E5%9B%BD%E8%AA%9E-%E1%84%83-%E4%B8%8D-%E8%A6%8F%E5%89%87'>韓国語 ᄃ 不 規則</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E8%A9%A6%E9%A8%93-%E5%B9%B3%E5%9D%87%E7%82%B9-2019'>センター試験 平均点 2019</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%97%A5%E7%94%A3-%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%9A%E3%83%BC%E3%83%B3-%E6%A4%9C%E7%B4%A2'>日産 サービスキャンペーン 検索</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=100%E5%9D%87-%E3%82%BC%E3%83%AA%E3%83%BC-%E3%82%AB%E3%83%83%E3%83%97-%E8%93%8B%E4%BB%98%E3%81%8D'>100均 ゼリー カップ 蓋付き</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%B7%AF-%E3%83%89%E3%83%A9%E3%83%9E-%E3%82%A2%E3%83%BC%E3%83%AD%E3%83%B3'>路 ドラマ アーロン</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%9F%93%E5%9B%BD-%E5%85%8D%E7%A8%8E%E5%BA%97-%E8%B2%B7%E3%81%84%E6%96%B9'>韓国 免税店 買い方</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%96%B0%E6%BD%9F%E7%9C%8C-%E5%84%AA%E8%89%AF-%E4%BC%81%E6%A5%AD%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0'>新潟県 優良 企業ランキング</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%8C%BB%E7%99%82%E8%84%B1%E6%AF%9B-%E9%A1%94-%E7%AF%84%E5%9B%B2'>医療脱毛 顔 範囲</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9B%E3%83%86%E3%83%AB-%E6%B1%82%E4%BA%BA-%E3%82%A2%E3%83%AB%E3%83%90%E3%82%A4%E3%83%88'>ホテル 求人 アルバイト</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%9D%B1%E6%80%A5-%E9%9B%BB%E9%89%84-%E6%9D%B1%E5%A4%A7'>東急 電鉄 東大</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%8A%AC-%E7%94%9F%E7%90%86%E3%83%8A%E3%83%97%E3%82%AD%E3%83%B3-%E9%A3%9F%E3%81%B9%E3%82%8B'>犬 生理ナプキン 食べる</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%97%A5%E9%87%8E%E5%B8%82-%E5%B0%8F%E5%AD%A6%E6%A0%A1-%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0'>日野市 小学校 ランキング</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%A4%BF%E5%B1%B1%E8%8D%98-%E3%82%B7%E3%82%A7%E3%83%95%E3%82%BA%E3%83%86%E3%83%BC%E3%83%96%E3%83%AB-%E7%B5%90%E5%A9%9A%E5%BC%8F'>椿山荘 シェフズテーブル 結婚式</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9-%E3%82%A2%E3%82%A4%E3%82%B9-%E3%82%AE%E3%83%95%E3%83%88'>クリスマス アイス ギフト</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%8B%89%E5%BC%B7%E3%81%A7%E3%81%8D%E3%82%8B-%E3%82%AB%E3%83%95%E3%82%A7-%E7%BE%A4%E9%A6%AC'>勉強できる カフェ 群馬</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%8B%E3%83%88%E3%83%AA-%E3%83%A9%E3%82%BF%E3%83%B3%E3%83%90%E3%82%B9%E3%82%B1%E3%83%83%E3%83%88-%E8%99%AB'>ニトリ ラタンバスケット 虫</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%AD%E3%83%AB%E3%83%90%E3%83%BC%E3%83%B3-2020-%E3%82%B9%E3%83%AA%E3%83%A0'>ロルバーン 2020 スリム</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%8B%B1%E8%AA%9E-%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3-%E6%95%99%E6%9D%90-%E5%B0%8F%E5%AD%A6%E7%94%9F'>英語 オンライン 教材 小学生</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9B%E3%83%86%E3%83%AB-%E6%B1%82%E4%BA%BA-%E3%82%A2%E3%83%AB%E3%83%90%E3%82%A4%E3%83%88'>ホテル 求人 アルバイト</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AD%E3%83%BC%E3%83%AB%E3%82%BA-%E3%81%8A%E3%81%99%E3%81%99%E3%82%81-%E5%8C%96%E7%B2%A7%E6%B0%B4'>キールズ おすすめ 化粧水</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=2%E5%8F%B0%E6%8C%81%E3%81%A1-line-%E5%BC%95%E3%81%8D%E7%B6%99%E3%81%8E'>2台持ち Line 引き継ぎ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Https-uketsuke-form-jp-modules-uketsuke_z71'>Https Uketsuke Form Jp Modules Uketsuke_z71</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%85%90%E7%AB%A5%E6%89%B6%E9%A4%8A%E6%89%8B%E5%BD%93-%E8%A8%88%E7%AE%97-%E6%BA%90%E6%B3%89%E5%BE%B4%E5%8F%8E%E7%A5%A8'>児童扶養手当 計算 源泉徴収票</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%BB%A2%E8%81%B7-%E3%82%B3%E3%83%AD%E3%83%8A-%E5%BD%B1%E9%9F%BF'>転職 コロナ 影響</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Windows10-%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3%E7%94%BB%E9%9D%A2-%E5%87%BA%E3%81%AA%E3%81%84-%E5%8E%9F%E5%9B%A0'>Windows10 ログイン画面 出ない 原因</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BB%98%E7%AE%8B-%E3%82%A2%E3%83%97%E3%83%AA-%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E4%B8%8D%E8%A6%81'>付箋 アプリ インストール不要</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%AD%8C%E8%88%9E%E4%BC%8E-%E3%83%81%E3%82%B1%E3%83%83%E3%83%88-%E8%B2%B7%E3%81%84%E6%96%B9'>歌舞伎 チケット 買い方</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%95%E3%83%AB%E3%83%8F%E3%83%BC%E3%83%8D%E3%82%B9-%E8%AC%9B%E7%BF%92-%E6%A0%83%E6%9C%A8'>フルハーネス 講習 栃木</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=PHP-URL%E3%83%91%E3%83%A9%E3%83%A1%E3%83%BC%E3%82%BF-%E8%BF%BD%E5%8A%A0'>PHP URLパラメータ 追加</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-%E3%82%A2%E3%83%83%E3%83%97%E3%83%AD%E3%83%BC%E3%83%89-%E5%8F%8D%E6%98%A0%E3%81%95%E3%82%8C%E3%81%AA%E3%81%84'>サーバー アップロード 反映されない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A2%E3%82%AC%E3%83%83%E3%83%88-%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9-2017'>アガット クリスマス 2017</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%96%E3%83%AC%E3%82%B9%E3%83%AC%E3%83%83%E3%83%88-%E3%83%9E%E3%82%B0%E3%83%8D%E3%83%83%E3%83%88-%E4%BD%9C%E3%82%8A%E6%96%B9'>ブレスレット マグネット 作り方</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%90%8A%E3%82%8A-%E4%B8%8B%E3%81%92-%E3%82%AF%E3%83%BC%E3%83%A9%E3%83%BC-%E4%BF%AE%E7%90%86'>吊り 下げ クーラー 修理</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9E%E3%83%AB%E3%81%A1%E3%82%83%E3%82%93-%E9%8D%8B%E7%94%A8%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3-%E9%80%9A%E8%B2%A9'>マルちゃん 鍋用ラーメン 通販</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A9%89-%E7%84%B6-%E9%A1%9E%E8%AA%9E'>婉 然 類語</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Mac-%E3%83%8A%E3%83%B3%E3%83%90%E3%83%BC%E3%82%BA-%E9%96%A2%E6%95%B0'>Mac ナンバーズ 関数</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%80%80%E8%81%B7%E8%A8%BC%E6%98%8E%E6%9B%B8-pdf-%E4%BB%A4%E5%92%8C'>退職証明書 Pdf 令和</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%95%E3%81%95%E3%81%BF-%E3%81%AB%E3%82%93%E3%81%98%E3%82%93-%E7%8E%89%E3%81%AD%E3%81%8E'>ささみ にんじん 玉ねぎ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%97%E3%83%AD%E3%83%9A%E3%83%A9%E6%A9%9F-%E9%AB%98%E5%BA%A6-%E9%99%90%E7%95%8C'>プロペラ機 高度 限界</a>,
+";s:7:"expired";i:-1;}

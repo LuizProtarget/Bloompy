@@ -1,0 +1,71 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:6708:"<p>Windows7 SP1のWindows Updateで「更新プログラムの確認」が終わらない場合の対処方法を書いたページです。2016年2月に検証した内容を元に書いています。 「更新プログラムを確認しています」が終わらない問題、もう特定KBを先入れしなくても大丈夫かも . 2020年(令和2年)windows10のアップデートにどのぐらい時間がかかったのか？リアルな体験談。Windowsの更新プログラムは時間がかかりすぎていつも遅い！パソコンが使えないと仕事もできません。対策もチェック！ 対処方法. </p> <p> </p> <p>「更新プログラムを確認しています」が終わらない問題、もう特定kbを先入れしなくても大丈夫かも Windows7、8.1ともに、クリーンインストール直後の状態でもWindows Updateで「更新の確認」で進まない状態が解消されている事を確認しました </p> <p>Windows Updateの更新プログラムの確認が終わらない場合や、ダウンロードが進まない場合の対処方法を書いたページです。 ※このページの情報は古くなっています。 2017年7月12日以降の問題は 以下のページで取り扱っています。 </p> <p>win7をシャットダウン操作をするときに偶然LANケーブルを抜いてしまいました。ネットとつながってないのに更新プログラムをインストール中と表示が出ています。なぜなのかお教え下さい。更新が終わらないで電源が切れる理由もお教え </p> <p>lavieアップデートで更新プログラムが自動で適用できない場合は、「nec lavie公式サイト」のダウンロードコーナーから、インストールできない更新プログラムを手動でダウンロードして、インストールが可能か確認します。 2. Windows7、8.1ともに、クリーンインストール直後の状態でもWindows Updateで「更新の確認」で進まない状態が解消されている事を確認しました. モジュール詳細ページからダウンロードして手動で適用する. 更新プログラムをインストールしないでシャットダウンすることも可能ですが、更新プログラムの中にはパソコンのセキュリティを強化したり、問題を修正したりするプログラムが含まれています。 </p> <p>更新プログラムのアップデートが 0% から進まないのですね。 投稿からしばらく時間が経っていますが、現在も同じ状態でしょうか。 もし状況が変わらない場合、以下ページを参考に Windows Update の一般的なトラブルシューティングを行ってみてはいかがでしょう。 </p> <p>2点お聞きしたいことがあります。PCを起動するたびに 「LAVIEアップデート更新プログラムのご案内」っていう通知が右下あたりで表示されるのですが これは最近はやりの「更新詐欺」ではありませんよね？もITmediaのQ&Aサイト。IT関連を中心に皆さんのお悩み・疑問をコミュニティで解決。 Windows10の更新プログラムがなかなか終わらないのは原因があります。Windows10の更新プログラムは通常は数分で終了します。しかしパソコンに何か原因があると更新プログラムの処理が永遠と終わらないようになります。その原因と対処法を紹介していきます。 lavieアップデート 手動での適用が必要な「重要な更新プログラム」が未適用です。と出現しますが操作案内に進んでも問題ないですか？教えてください。更新は必ずやってください。案内の通りにね。 Windows10の更新プログラムがなかなか終わらないのは原因があります。Windows10の更新プログラムは通常は数分で終了します。しかしパソコンに何か原因があると更新プログラムの処理が永遠と終わらないようになります。その原因と対処法を紹介していきます。 重要な更新プログラムを適用する方法」を参照してください。 Windows Updateやウイルス対策ソフトなどで提供される更新プログラムは、LAVIEアップデートでは適用されません。 Windows 10のWindows Updateで更新プログラムが正常にインストールできない場合の対処方法 : Windows 10のWindows Updateで更新プログラムが正常にインストールできない場合の対処方法: Q&A番号：019478 更新日：2018/07/13. 「更新プログラムを確認しています」が終わらない問題はWindows 10/8/7でよく発生する一般的な問題です。今回の記事では、Windows Updateの更新プログラムの確認と有効な解決策について簡単に紹介したいと思います。 「Windows 更新プログラムの構成中 フリーズ」 等で検索すると、その中に、 「電源を強制終了してやりなおす」 というのがありました。 えー！ 『電源を切らないでください』 なのに強制終了しちゃっていいのー！？ って、思ったけど、それしかないわなぁ Windows10の更新・アップデートが終わらないときの状況 まず、パソコンはサブ機として使っているノートパソコンです。 windowsのアップデートや更新プログラムのインストールは、予想以上に時間がかかることが頻繁に起こります。 Lavieアップデートは、NECのオリジナルで、ご利用の機種で適用する必要がある更新を表示してくれる便利な機能ですが、更新するプログラムの中には、他の更新と一緒に行うことができないものもござい … </p> <p>※ 「重要な更新プログラム」を適用する方法については、「2. Windows 10では、パソコンのシャットダウンまたは起動時に、「更新プログラムを構成しています ％完了 コンピューターの電源を切らないでください」というメッセージが表示されることがあり … Windows Updateで更新プログラムが正常にインストールできない場合の対処方法 ... Q&A番号：017341 更新日：2019/11/26. ※ アンインストールする更新プログラムによっては表示されない場合があります。 以上で操作完了です。 再起動完了後、選択した更新プログラムがアンインストールされていることを確認してください。 </p>";s:7:"keyword";s:43:"lavie 更新プログラム 終わらない";s:5:"links";s:6660:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%B0%B4%E5%B3%B6-%E5%A4%A7-%E5%AE%99-%E5%AE%A3-%E6%9D%90'>水島 大 宙 宣 材</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=WN-dx1167r-vpn-%E6%8E%A5%E7%B6%9A'>WN Dx1167r Vpn 接続</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%9D%A9%E3%82%B7%E3%83%BC%E3%83%88-%E3%81%9F%E3%82%8B%E3%81%BF-%E8%A3%9C%E4%BF%AE'>革シート たるみ 補修</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A2%E3%83%AB%E3%83%86%E3%83%9F%E3%82%A2-%E8%B6%85%E8%B6%8A-%E5%8B%9D%E3%81%A6%E3%81%AA%E3%81%84'>アルテミア 超越 勝てない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%85%AC%E5%8B%99%E5%93%A1-%E9%9D%A2%E6%8E%A5-%E3%83%9C%E3%83%AD%E3%83%9C%E3%83%AD'>公務員 面接 ボロボロ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%8B%E3%83%88%E3%83%AA-%E3%83%90%E3%82%A4%E3%83%88-%E3%81%8D%E3%81%A4%E3%81%84'>ニトリ バイト きつい</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Windows10-%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%83%9D%E3%83%AA%E3%82%B7%E3%83%BC-Windows-%E3%82%B3%E3%83%B3%E3%83%9D%E3%83%BC%E3%83%8D%E3%83%B3%E3%83%88'>Windows10 グループポリシー Windows コンポーネント</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%B7%A1%E8%B7%AF%E5%B3%B6-%E7%8A%AC-%E9%9B%A8'>淡路島 犬 雨</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%8D%83%E8%91%89%E5%8A%B4%E5%83%8D%E5%B1%80-%E9%9B%87%E7%94%A8%E8%AA%BF%E6%95%B4%E5%8A%A9%E6%88%90%E9%87%91-%E7%AA%93%E5%8F%A3'>千葉労働局 雇用調整助成金 窓口</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AA%E3%83%9A%E3%83%A9-%E6%9D%A5%E6%97%A5-%E5%85%AC%E6%BC%94-2020'>オペラ 来日 公演 2020</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%90%E3%82%A4%E3%82%AF-%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3-%E9%81%A9%E5%90%88%E8%A1%A8'>バイク チェーン 適合表</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%9D%BE%E5%B1%B1%E5%B8%82-%E4%B8%AD%E7%B5%B6-%E5%8F%A3%E3%82%B3%E3%83%9F'>松山市 中絶 口コミ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%B0%8F%E5%85%90-%E8%84%B3%E8%85%AB%E7%98%8D-%E3%81%AB%E5%A5%87%E8%B7%A1%E3%82%92'>小児 脳腫瘍 に奇跡を</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%84%E3%82%A4%E3%83%B3-%E3%83%97%E3%83%A9%E3%83%8D%E3%83%83%E3%83%88-SHOWROOM'>ツイン プラネット SHOWROOM</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%BE%8E%E5%B0%91%E5%A5%B3%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%81%AE%E3%83%AA%E3%82%A2%E3%83%AB%E3%81%AA%E8%82%8C%E3%81%AE%E5%A1%97%E3%82%8A%E6%96%B9-%28%E8%B6%85%E6%8F%8F%E3%81%91%E3%82%8B%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-PDF%29'>美少女イラストのリアルな肌の塗り方 (超描けるシリーズ PDF)</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=El-Capitan-%E3%82%A2%E3%83%83%E3%83%97%E3%82%B0%E3%83%AC%E3%83%BC%E3%83%89'>El Capitan アップグレード</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%BF%E3%83%83%E3%83%81%E3%83%91%E3%83%83%E3%83%89-%E3%82%B9%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%AB-lenovo'>タッチパッド スクロール Lenovo</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%B6%8F%E8%82%89-%E6%BC%AC%E3%81%91%E8%BE%BC%E3%81%BF-%E3%82%B0%E3%83%AA%E3%83%AB'>鶏肉 漬け込み グリル</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%86%E3%82%A3%E3%83%95%E3%82%A1%E3%83%BC%E3%83%AB-%E3%82%B9%E3%83%81%E3%83%BC%E3%83%A0%E3%82%A2%E3%82%A4%E3%83%AD%E3%83%B3-%E9%9F%B3'>ティファール スチームアイロン 音</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A8%E3%83%96%E3%83%AA%E3%82%A4%E3%83%AF%E3%82%B4%E3%83%B3-da62w-%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3-%E4%B8%8D%E8%AA%BF'>エブリイワゴン Da62w エンジン 不調</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%80%E3%82%A4%E3%83%AF-%E6%97%A9%E6%98%A5-%E7%A1%AC%E8%AA%BF-70M'>ダイワ 早春 硬調 70M</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%AB%98-%E5%B0%BE%E5%B1%B1-%E5%A4%9C%E6%99%AF-%E5%A4%A7%E9%98%AA'>高 尾山 夜景 大阪</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=F-%E3%82%B3%E3%83%BC%E3%83%97-%E9%80%80%E4%BC%9A'>F コープ 退会</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=18%E3%82%B9%E3%83%86%E3%83%A9-%E3%83%A9%E3%82%A4%E3%83%B3-%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC-%E3%82%B0%E3%83%AA%E3%82%B9'>18ステラ ライン ローラー グリス</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%BB%E3%81%86%E3%82%8C%E3%82%93%E8%8D%89-%E7%85%AE%E7%89%A9-%E4%B8%8B%E3%82%86%E3%81%A7'>ほうれん草 煮物 下ゆで</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=html5-table-%E4%B8%AD%E5%A4%AE%E5%AF%84%E3%81%9B'>Html5 Table 中央寄せ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%97%E3%82%89%E3%81%99-%E3%81%AD%E3%81%8E-%E3%81%B5%E3%82%8A%E3%81%8B%E3%81%91'>しらす ねぎ ふりかけ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%83%96%E3%83%BC%E3%83%84-%E4%BD%9C%E3%82%8A%E6%96%B9-%E7%94%BB%E7%94%A8%E7%B4%99'>クリスマスブーツ 作り方 画用紙</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%A5%9D%E9%9B%BB-%E6%96%87%E4%BE%8B-%E5%8F%97%E8%B3%9E'>祝電 文例 受賞</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=24%E6%99%82%E9%96%93%E3%83%86%E3%83%AC%E3%83%93-%E3%83%81%E3%83%A3%E3%83%AA%E3%83%86%E3%82%A3%E3%83%BC-%E6%AD%B4%E4%BB%A3'>24時間テレビ チャリティー 歴代</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%8F%E3%82%A4%E3%82%BC%E3%83%83%E3%83%88-%E3%83%A8%E3%82%B7%E3%83%A0%E3%83%A9-%E3%83%9E%E3%83%95%E3%83%A9%E3%83%BC'>ハイゼット ヨシムラ マフラー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%8D%E3%81%AA%E7%B2%89-%E4%BD%9C%E3%82%8A%E6%96%B9-%E3%82%AA%E3%83%BC%E3%83%96%E3%83%B3'>きな粉 作り方 オーブン</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%99%82%E7%9F%AD-%E3%82%AA%E3%83%A0%E3%83%A9%E3%82%A4%E3%82%B9-%E3%83%92%E3%83%AB%E3%83%8A%E3%83%B3%E3%83%87%E3%82%B9'>時短 オムライス ヒルナンデス</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%9B%BD%E6%B0%91%E5%B9%B4%E9%87%91-%E5%85%8D%E9%99%A4%E7%94%B3%E8%AB%8B-%E6%9C%9F%E9%96%93'>国民年金 免除申請 期間</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%99%9A%E5%81%BD-%E5%98%98-%E9%81%95%E3%81%84'>虚偽 嘘 違い</a>,
+";s:7:"expired";i:-1;}

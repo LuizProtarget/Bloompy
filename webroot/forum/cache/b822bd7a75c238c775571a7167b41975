@@ -1,0 +1,77 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:4218:"<br>洗濯時のジーンズの色落ちは完全に防ぐことはできません。でも、極力ジーパンの色落ちを避けて洗う方法はあります。 それが手洗いです。 これから、できるだけ色落ちしない、ジーパンの手洗いの方法をお話ししていきます。 1）ジーパンを塩で浸け洗いする. の2点ですよね。 ジーンズは色落ち・色移りしやすいインディゴ染料というものを使っているためこれらは防ぐことができません。なんと、「水を通したら色落ちする」というレベルなんです。 さらに、ジーンズの素材は綿。柔らかい素材なので洗濯したら、縮んでしまった！ 【1】ジーンズを裏返しにする(不自然な色落ちを防ぐ為と洗濯槽・乾燥機内への色移り防止) 【2】ジッパー・ボタンを全て留める(金具でジーンズ本体を傷めないようにする) 【3】他の洗濯物を混ぜない( … 新しく買ったデニムを洗濯したら、お気に入りの服とすれて色移りしてしまった…。デニムがこすれて靴や鞄などに色移りした…。そんな経験したことありませんか？ 今回は、デニムの色移りでお困りの方のために、色移りが起きたときの対処法や予防する方法を紹介します。 ジーンズの洗濯方法に入る前に、みなさんが普段感じているであろう素朴な疑問に答えていただきました。ここで知識を深めておけば、ジーンズを洗うことが不安に感じられなくなりますよ。 ジーンズって色落ちしないの？ 「ジーンズは色落ちします。洗濯をしなくても日々の着用によって色� ジーンズではありませんが、以前いろんな物と一緒に色物の生地を洗って、すぐに干さずしばらく放置していたら、白いタオルに色移りしたことがありました。 なので、2回目以降の洗濯でも、洗い終わった後は必ずすぐに干すようにしています。 メールアドレスが公開されることはありません。 * が付いている欄は必須項目です. <br> <br>洗濯の際にジーンズから色が出るので、他のものと一緒に洗うと色移りする可能性があるためです。 洗濯の方法・手順としては、 ジーンズを裏返しにして → 洗濯ネットに入れて洗濯し → 裏返しのまま陰干し. ジーンズ・デニムジャケットの洗い方・洗濯方法を解説。ジーンズの色落ち・色移りを防ぐポイントは「裏返すこと」「汚れやすい裾などを表にしてたたんで中性洗剤で洗うこと」。さらに、干す時の一工夫で、色あせも防げます。デニム生地は洗う？洗わない？ ジーンズは色落ちがしやすい衣類だ。一緒に洗濯したらほかの衣服がうっすらと紺色に、といった失敗は多いだろう。濡れた状態でこすってしまうだけでも、衣服の色が移ることがある。この記事では、ジーンズからの色移りを落とす方法を解説しよう。 ジーンズの洗濯で色移りが！落とし方と予防法は？ コメントをどうぞ コメントをキャンセル. ジーンズは非常に色落ちしやすいもの。そして色移りしやすいものです。「洗濯したら他の服にジーンズの色が移ってしまった！」こういったトラブルを経験された方も多いのではないでしょうか？そんな方々に向けた、ジーンズの洗濯による色移りの落とし方と予防法をご紹介します。 このとき、洗濯ネットなどに入れなくてもokです。ただし、色移りを回避するため、ほかの衣類といっしょに洗わないようにしましょう。 ただしダメージジーンズなど、デザインの1つとしてこぶし1つ程度の穴があるタイプのものは洗濯ネットに入れてください。 step2 名前 * メールアドレス * サイト.  <br> <br>するのがオススメ。 使用する洗剤は？  人気記事. <br>";s:7:"keyword";s:29:"ジーンズ 洗濯 色移り";s:5:"links";s:7638:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%81%90%E7%AB%9C-%E8%A6%8B%E3%82%8B-%E3%81%AA%E3%82%89'>恐竜 見る なら</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%A6%99%E5%B7%9D-%E9%B6%8F%E8%82%89-%E9%80%9A%E8%B2%A9'>香川 鶏肉 通販</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%B5%90%E5%A9%9A%E5%BC%8F-%E8%8A%B1%E6%9D%9F%E8%B4%88%E5%91%88-%E7%88%B6%E8%A6%AA'>結婚式 花束贈呈 父親</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%A6%E3%83%8B%E3%82%AF%E3%83%AD-%E5%93%81%E8%B3%AA-%E8%90%BD%E3%81%A1%E3%81%9F'>ユニクロ 品質 落ちた</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%89%E3%83%AD%E3%83%83%E3%83%97%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9-%E5%86%99%E7%9C%9F-%E9%80%81%E3%82%8B'>ドロップボックス 写真 送る</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%97%E3%83%AD%E3%83%90%E3%82%A4%E3%83%80-id-%E3%83%91%E3%82%B9%E3%83%AF%E3%83%BC%E3%83%89-%E5%BF%98%E3%82%8C%E3%81%9F-ntt'>プロバイダ Id パスワード 忘れた Ntt</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A2%E3%82%AF%E3%82%A2-%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC-%E3%83%AA%E3%83%95%E3%83%AC%E3%83%83%E3%82%B7%E3%83%A5'>アクア バッテリー リフレッシュ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%A6%E3%83%8B%E3%82%AF%E3%83%AD-%E7%A4%BE%E9%95%B7-%E9%9F%93%E5%9B%BD'>ユニクロ 社長 韓国</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=North-Face-official-shop'>North Face Official Shop</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC-%E7%84%BC%E3%81%8D%E8%8A%8B-%E3%81%84%E3%81%A4%E3%81%BE%E3%81%A7'>スーパー 焼き芋 いつまで</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A6%E3%82%A3%E3%83%B3%E3%83%89%E3%82%A6-%E7%B8%AE%E5%B0%8F-%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%82%AB%E3%83%83%E3%83%88'>ウィンドウ 縮小 ショートカット</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A2%E3%83%AB%E3%83%95%E3%82%A1%E3%83%BC%E3%83%89-%E9%AB%98%E9%80%9F-%E7%87%83%E8%B2%BB'>アルファード 高速 燃費</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%87%E3%82%A3-%E3%82%AD%E3%82%B9-%E3%83%AC%E3%82%B7%E3%83%94'>キャンディ キス レシピ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%87%E3%82%B8%E3%82%AB%E3%83%A1-%E5%BB%83%E6%A3%84-%E3%83%A4%E3%83%9E%E3%83%80%E9%9B%BB%E6%A9%9F'>デジカメ 廃棄 ヤマダ電機</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B3%E3%83%B3%E3%83%93%E3%83%8B-%E6%8C%AF%E8%BE%BC%E7%94%A8%E7%B4%99-%E6%89%8B%E6%95%B0%E6%96%99'>コンビニ 振込用紙 手数料</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%BB%92%E3%81%84%E7%A0%82%E6%BC%A0-%E6%A0%BD%E5%9F%B9-%E5%8A%B4%E5%83%8D%E8%80%85-%E8%A1%8C%E5%8B%95%E5%8A%9B'>黒い砂漠 栽培 労働者 行動力</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%89%E3%82%89%E3%81%BD%E3%83%BC%E3%81%A8%E5%AF%8C%E5%A3%AB%E8%A6%8B-%E3%83%90%E3%82%B9-%E3%81%B5%E3%81%98%E3%81%BF%E9%87%8E-%E8%A1%8C%E3%81%8D'>ららぽーと富士見 バス ふじみ野 行き</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%8C%97%E4%B9%9D%E5%B7%9E%E5%B8%82-%E7%B5%A6%E4%BB%98%E9%87%91-%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3'>北九州市 給付金 オンライン</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=SHOWROOM-%E8%A4%87%E6%95%B0%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88-%E3%83%90%E3%83%AC%E3%82%8B'>SHOWROOM 複数アカウント バレる</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%B4%8D%E8%B1%86-%E5%A4%A7%E6%A0%B9%E3%81%8A%E3%82%8D%E3%81%97-%E3%81%94%E9%A3%AF'>納豆 大根おろし ご飯</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%A2%85%E9%9B%A8-%E5%AD%A3%E8%AA%9E-%E3%81%84%E3%81%A4'>梅雨 季語 いつ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=5%E5%B9%B4%E7%94%9F-%E7%A4%BE%E4%BC%9A-%E8%87%AA%E5%8B%95%E8%BB%8A%E3%82%92%E3%81%A4%E3%81%8F%E3%82%8B%E5%B7%A5%E6%A5%AD'>5年生 社会 自動車をつくる工業</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%BF%E3%83%BC%E3%82%B2%E3%83%83%E3%83%881000-%E8%8B%B1-%E6%A4%9C'>ターゲット1000 英 検</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%BF%91%E7%95%BF%E5%A4%A7%E5%AD%A6-%E9%81%8E%E5%8E%BB%E5%95%8F-%E6%9D%B1%E9%80%B2'>近畿大学 過去問 東進</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Sony-%E3%83%87%E3%82%B8%E3%82%AB%E3%83%A1-%E6%96%B0%E8%A3%BD%E5%93%81'>Sony デジカメ 新製品</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=t%E3%82%B7%E3%83%A3%E3%83%84-%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3-%E5%AE%89%E3%81%84'>Tシャツ デザイン 安い</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%8A%E8%8C%B6-%E3%81%A3%E8%91%89-%E8%82%A5%E6%96%99'>お茶 っ葉 肥料</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B1%E3%83%BC%E3%82%AD%E5%9E%8B-%E4%BB%A3%E7%94%A8-%E7%89%9B%E4%B9%B3%E3%83%91%E3%83%83%E3%82%AF'>ケーキ型 代用 牛乳パック</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B5%E3%83%90-%E3%83%81%E3%83%A3%E3%83%BC%E3%83%8F%E3%83%B3-%E3%83%AC%E3%83%B3%E3%82%B8'>サバ チャーハン レンジ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%BB%8A-%E3%83%A1%E3%83%BC%E3%82%BF%E3%83%BC-%E6%B6%88%E3%81%88%E3%82%8B'>車 メーター 消える</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%BB%8A-%E7%B6%AD%E6%8C%81%E8%B2%BB-%E7%AF%80%E7%B4%84'>車 維持費 節約</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%98%8E%E6%B2%BB-r-1-%E4%BE%A1%E6%A0%BC'>明治 R-1 価格</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%81%E3%82%AD%E3%83%B3%E3%82%BD%E3%83%86%E3%83%BC-%E4%BB%98%E3%81%91%E5%90%88%E3%82%8F%E3%81%9B-%E3%81%98%E3%82%83%E3%81%8C%E3%81%84%E3%82%82'>チキンソテー 付け合わせ じゃがいも</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%8F%B3%E3%82%AF%E3%83%AA%E3%83%83%E3%82%AF-%E9%80%81%E3%82%8B-%E3%82%B4%E3%83%9F%E7%AE%B1'>右クリック 送る ゴミ箱</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%B0%B4-%E5%AD%90%E4%BE%9B-%E9%A4%8A-%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC'>水 子供 養 パートナー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%AC%E3%83%A2%E3%83%B3-%E3%82%B9%E3%82%AB%E3%83%83%E3%82%B7%E3%83%A5-%E5%B1%8B%E5%8F%B0'>レモン スカッシュ 屋台</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%B2%B3%E5%90%88%E5%A1%BE-%E5%90%88%E6%A0%BC-2020'>河合塾 合格 2020</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B8%89%E4%BA%95%E7%89%A9%E7%94%A3-%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%E6%8E%A1%E7%94%A8-2019'>三井物産 キャリア採用 2019</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A2%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%9E%E3%83%B3-%E3%83%AD%E3%83%BC%E3%83%87%E3%82%A3-%E6%AD%BB%E4%BA%A1'>アイアンマン ローディ 死亡</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%B2%BC-%E3%82%B9%E3%83%BC%E3%83%97-%E3%83%80%E3%82%A4%E3%82%A8%E3%83%83%E3%83%88'>沼 スープ ダイエット</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A6%E3%83%BC%E3%83%90%E3%83%BC%E3%82%A4%E3%83%BC%E3%83%84-%E5%A4%B1%E6%A5%AD%E4%BF%9D%E9%99%BA-%E3%81%B0%E3%82%8C%E3%82%8B'>ウーバーイーツ 失業保険 ばれる</a>,
+";s:7:"expired";i:-1;}

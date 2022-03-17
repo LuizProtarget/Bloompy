@@ -1,0 +1,87 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:3778:"<p>神戸大学; </p> <p>神戸大学・文学部の試験科目・配点と倍率、合格最低点まとめ. 正解・配点一覧(速報) 2020年度大学入試センター試験の正解・配点一覧を掲載しております。自己採点にご利用ください。 ※「正解・配点一覧」は大学入試センターより発表された情報に基づき作成してい … 志望大学の入試配点表の作成、印刷！センター試験の換算得点の計算もできる！ ... センター試験 換算得点（傾斜配点）計算ツール. 傾斜配点も自動で計算してくれて、ざっくり色々な大学を調べたいなら、河合のバンザイシステムが一番便利だと思います。 バンザイシステムの傾向ですが、判定は甘めに出る印象です。 神戸大学計算科学教育センターは、シミュレーションを用いた研究教育を推進し、 全国の大学、研究機関及び企業等と連携することで 「将来を見据えた計算科学技術に関する人材育成」のための拠点となることを目指して設立されました。 国立大学にはセンターの点数での一次選抜と二次試験の二つの試験があります。 神戸大学の国際人間科学部で学べる学科・コースや特長などを紹介しています。他にも学部や学科の詳細や学費のこと、学校見学会、オープンキャンパス情報、入試情報などを掲載しています。大学・短大・専門学校の進学情報なら【スタディサプリ 進路（旧：リクナビ進学）】 英語が苦手な受験生で関関同立にどうしても行きたい受験生！ 貴方の志望校は関西大学で決まりです！ 英語が苦手だと、関西学院大学や同志社、立命館なんかは正直厳しいです！ しかし、関西大学ならば全然合格できます！！ 理由は大きく分けて4つあります。 </p> <p>神戸大学は関西地域を代表する国立大学です。 現在は11学部14研究科がある大規模な総合大学で、日本で唯一の海事科学部が設置されています。 建学の精神は「真摯」「自由」「協同」というもので、学校方針は「先端研究・文理融合研究で輝く卓越研究大学へ」というものです。 なお、計算ツールを利用するには、あらかじめ配点表が作成されている必要があります。 →気になる大学の配点表が登録されていない場合. 神戸大学 工学部 c判定 大阪市立大学 aに近いb判定 広島大学 aに近いb判定 神戸大学は、定員80名のうち、自分は84位でした。 今まで阪大二次対策をしていたので神戸大学の二次は一見簡単に見えますが、試験時間が短いので何とも言えません。 神戸大学・文学部の試験科目・配点と倍率、合格最低点まとめ. 国立大学の合格最低点について. 大学・短大 - 私は高校3年で、先日のセンター試験で大失敗をし、608点しか取れませんでした。 しかし、私はどうしても神戸大学の発達科学部の形成学科に入りたいです。 傾斜配点で換算する … センター試験 換算得点（傾斜配点）計算ツールの使い方 （例）熊本大学 工学部情報電気電子工学科 前期日程  他の難関大学の入試問題と違い、神戸大物理では難しい計算はまず出題されない。しかし、答えに至るまでの導出過程を記述しなければならない。このため、一般的な入試対策問題集で公式を用いて問題を解いていると太刀打ちできない可能性が高い。 </p>";s:7:"keyword";s:32:"神戸大学 傾斜配点 計算";s:5:"links";s:10306:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Replace-A-for-B'>Replace A For B</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%8C%A8%E6%9C%A8%E5%B8%82-%E7%A8%8E%E5%8B%99%E7%BD%B2-%E9%A7%90%E8%BB%8A%E5%A0%B4'>茨木市 税務署 駐車場</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%B0%8F%E6%9E%97%E7%9A%AE%E8%86%9A%E7%A7%91-%E6%9D%BF%E6%A9%8B-%E3%83%94%E3%82%A2%E3%82%B9'>小林皮膚科 板橋 ピアス</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%87%AA%E8%BB%A2%E8%BB%8A-%E3%83%9D%E3%83%BC%E3%83%88-%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%B3'>自転車 ポート コーナン</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%AF%9D%E5%B1%8B%E5%B7%9D-%E5%8B%95%E7%89%A9%E7%97%85%E9%99%A2-%E5%A4%9C%E9%96%93'>寝屋川 動物病院 夜間</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%8E%9A%E7%94%9F-%E5%8A%B4%E5%83%8D%E7%9C%81-%E5%B9%B4%E9%87%91%E5%B1%80%E4%BC%81%E6%A5%AD%E5%B9%B4%E9%87%91-%E5%80%8B%E4%BA%BA%E5%B9%B4%E9%87%91%E8%AA%B2'>厚生 労働省 年金局企業年金 個人年金課</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%BB%E3%83%AA%E3%83%BC%E3%83%8C-%E3%82%AB%E3%83%90-%E3%82%B9%E3%83%A2%E3%83%BC%E3%83%AB-%E3%82%B3%E3%83%BC%E3%83%87'>セリーヌ カバ スモール コーデ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%B6%8F%E3%82%80%E3%81%AD%E8%82%89-%E7%8E%89%E3%81%AD%E3%81%8E-%E7%82%8A%E9%A3%AF%E5%99%A8'>鶏むね肉 玉ねぎ 炊飯器</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A4%9A%E9%83%A8%E6%9C%AA%E8%8F%AF%E5%AD%90-cm-uq'>多部未華子 Cm Uq</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%AA%E3%83%BC%E3%83%90%E3%82%A4%E3%82%B9-701-702-%E9%81%95%E3%81%84'>リーバイス 701 702 違い</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%AE%AD-%E3%81%A1%E3%82%89%E3%81%97%E5%AF%BF%E5%8F%B8-%E3%81%8D%E3%81%AE%E3%81%86%E4%BD%95%E9%A3%9F%E3%81%B9%E3%81%9F'>鮭 ちらし寿司 きのう何食べた</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=t%E3%82%B7%E3%83%A3%E3%83%84-%E3%83%A1%E3%83%B3%E3%82%BA-%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88'>Tシャツ メンズ プリント</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%93%BA%E4%B9%B3%E7%93%B6-%E3%83%96%E3%83%A9%E3%82%B7-%E8%A5%BF%E6%9D%BE%E5%B1%8B'>哺乳瓶 ブラシ 西松屋</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%84%E3%82%8F%E3%81%97-%E7%94%98%E9%9C%B2%E7%85%AE-%E5%9C%A7%E5%8A%9B%E9%8D%8B%E3%81%AA%E3%81%97'>いわし 甘露煮 圧力鍋なし</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC-%E5%AD%90%E4%BE%9B-%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3%E3%83%88'>クリスマスパーティー 子供 プレゼント</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=AuthenTec-aes1660-fingerprint-Sensor-driver'>AuthenTec Aes1660 Fingerprint Sensor Driver</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A8%E3%82%A2%E3%82%A2%E3%82%B8%E3%82%A2-%E5%8F%97%E8%A8%97%E6%89%8B%E8%8D%B7%E7%89%A9-%E5%A4%A7%E3%81%8D%E3%81%95'>エアアジア 受託手荷物 大きさ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%87%8E%E6%9D%91-%E4%BF%A1%E8%A8%97%E9%8A%80%E8%A1%8C-%E5%AD%A6%E6%AD%B4'>野村 信託銀行 学歴</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=skype-%E7%94%BB%E9%9D%A2%E5%85%B1%E6%9C%89-%E9%81%85%E5%BB%B6'>Skype 画面共有 遅延</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%95%E3%82%A7%E3%83%AA%E3%83%BC-%E6%8A%98%E3%82%8A%E3%81%9F%E3%81%9F%E3%81%BF-%E8%87%AA%E8%BB%A2%E8%BB%8A'>フェリー 折りたたみ 自転車</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A2%E3%83%9C%E3%82%AB%E3%83%89-%E3%83%88%E3%83%9E%E3%83%88-%E3%83%AC%E3%82%BF%E3%82%B9'>アボカド トマト レタス</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B7%E3%83%AD%E3%82%A2%E3%83%AA-%E5%9F%BA%E7%A4%8E-%E9%AB%98%E3%81%95'>シロアリ 基礎 高さ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B8%E3%83%83%E3%83%97-%E3%83%AD%E3%83%83%E3%82%AF-%E3%82%B3%E3%83%B3%E3%83%86%E3%83%8A-%E3%82%AC%E3%83%88%E3%83%BC%E3%82%B7%E3%83%A7%E3%82%B3%E3%83%A9'>ジップ ロック コンテナ ガトーショコラ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9F%E3%83%8B%E3%82%B9%E3%83%88%E3%83%83%E3%83%97-%E3%81%AA%E3%82%81%E3%82%89%E3%81%8B%E3%83%97%E3%83%AA%E3%83%B3%E3%83%91%E3%83%95%E3%82%A7-2020'>ミニストップ なめらかプリンパフェ 2020</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%8F%B3%E3%82%AF%E3%83%AA%E3%83%83%E3%82%AF%E7%A6%81%E6%AD%A2-%E5%8B%95%E7%94%BB-%E4%BF%9D%E5%AD%98'>右クリック禁止 動画 保存</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%B0%82%E7%A7%91-%E3%82%AA%E3%82%A4%E3%83%AB%E3%82%AF%E3%83%AC%E3%83%B3%E3%82%B8%E3%83%B3%E3%82%B0-%E5%8F%A3%E3%82%B3%E3%83%9F'>専科 オイルクレンジング 口コミ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AD%E3%83%AA%E3%83%B3-%E7%82%8E%E4%B8%8A-%E3%83%A6%E3%83%BC%E3%83%81%E3%83%A5%E3%83%BC%E3%83%90%E3%83%BC'>キリン 炎上 ユーチューバー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B4%E3%83%BC%E3%82%B9%E3%83%88%E3%82%BF%E3%82%A6%E3%83%B3-%E6%97%A5%E6%9C%AC-%E5%BB%83%E5%A2%9F'>ゴーストタウン 日本 廃墟</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC%E4%BA%A4%E6%8F%9B-%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%88%E3%83%83%E3%83%97-%E3%81%97%E3%81%AA%E3%81%84'>バッテリー交換 アイドリングストップ しない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%94%BE%E8%AA%B2%E5%BE%8C-%E7%AD%89-%E3%83%87%E3%82%A4-%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9-vive'>放課後 等 デイ サービス Vive</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%97%A5%E6%9C%AC-%E7%94%A3%E5%A9%A6-%E4%BA%BA-%E7%A7%91%E5%AD%A6%E4%BC%9A-%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3'>日本 産婦 人 科学会 ガイドライン</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A6%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B0%E3%83%9D%E3%82%B9%E3%83%889-2020-%E3%82%A8%E3%83%AB%E3%82%B3%E3%83%B3%E3%83%89%E3%83%AB%E3%83%91%E3%82%B5%E3%83%BC'>ウイニングポスト9 2020 エルコンドルパサー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=don%27t-scare-me-%E6%84%8F%E5%91%B3'>Don't Scare Me 意味</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%9B%BD%E5%82%B5-%E5%88%A9%E5%AD%90-%E5%8F%97%E5%8F%96'>国債 利子 受取</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BA%AC%E9%83%BD%E9%8A%80%E8%A1%8C-%E5%B9%B4%E9%87%91-%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3%E3%83%88'>京都銀行 年金 プレゼント</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B9%E3%83%86%E3%83%BC%E3%82%AD-100%E3%82%B0%E3%83%A9%E3%83%A0-%E5%80%A4%E6%AE%B5'>ステーキ 100グラム 値段</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AD%E3%83%A3%E3%83%8E%E3%83%B3-%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF-%E3%82%BB%E3%83%83%E3%83%88%E3%82%A2%E3%83%83%E3%83%97'>キャノン プリンタ セットアップ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%94%E3%83%BC-%E3%83%AA%E3%82%A2%E3%82%B5%E3%82%B9-%E4%BA%A4%E6%8F%9B'>スクーピー リアサス 交換</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%96%8B%E5%BA%97-%E7%A5%9D%E3%81%84-%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8-%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E8%AA%9E'>開店 祝い メッセージ フランス語</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%89%8B%E4%BD%9C%E3%82%8A-%E5%91%B3%E5%99%8C-%E3%83%96%E3%83%AD%E3%82%B0'>手作り 味噌 ブログ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%B9%BF%E5%85%90%E5%B3%B6-%E9%86%A4%E6%B2%B9-%E5%A4%A7%E9%98%AA'>鹿児島 醤油 大阪</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B7%E3%83%A3%E3%83%88%E3%83%AB-%E3%83%8A%E3%83%93-%E3%82%AD%E3%83%A3%E3%83%B3%E3%82%BB%E3%83%A9%E3%83%BC-%E5%8F%96%E3%82%8A%E4%BB%98%E3%81%91'>シャトル ナビ キャンセラー 取り付け</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%8C%87%E5%AE%9A%E6%A0%A1%E6%8E%A8%E8%96%A6-%E6%A0%A1%E5%86%85%E9%81%B8%E8%80%83-%E6%80%96%E3%81%84'>指定校推薦 校内選考 怖い</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=S%E3%82%B5%E3%82%A4%E3%82%BA-%E3%82%B3%E3%83%BC%E3%83%88-%E3%83%AC%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B9'>Sサイズ コート レディース</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%95%B7%E8%B7%9D%E9%9B%A2-%E8%87%AA%E8%BB%A2%E8%BB%8A-%E3%81%8A%E3%81%99%E3%81%99%E3%82%81'>長距離 自転車 おすすめ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%82%BD%E3%83%95%E3%83%88-%E4%BD%93%E9%A8%93%E7%89%88-90%E6%97%A5'>セキュリティソフト 体験版 90日</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B8%89%E4%BA%95-%E4%B8%8D%E5%8B%95%E7%94%A3-%E5%B9%B4%E5%8F%8E'>三井 不動産 年収</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%A8%BA%E7%99%82%E6%94%BE%E5%B0%84%E7%B7%9A%E6%8A%80%E5%B8%AB-%E5%9B%BD%E5%AE%B6%E8%A9%A6%E9%A8%93-60%E5%9B%9E'>診療放射線技師 国家試験 60回</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=mac-%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF-%E4%B8%80%E6%99%82%E5%81%9C%E6%AD%A2%E4%B8%AD'>Mac プリンタ 一時停止中</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A2%E3%83%AB%E3%83%93%E3%82%AA%E3%83%B3-%E3%82%A2%E3%83%B3-%E3%83%95%E3%82%A3%E3%83%8D%E3%82%B9-%E3%83%AA%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%AB'>アルビオン アン フィネス リニューアル</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA-%E3%83%95%E3%82%A1%E3%83%B3%E3%82%AF%E3%83%A9%E3%83%96-%E7%B6%99%E7%B6%9A'>ライオンズ ファンクラブ 継続</a>,
+";s:7:"expired";i:-1;}

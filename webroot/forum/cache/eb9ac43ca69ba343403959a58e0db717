@@ -1,0 +1,85 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:2945:"Canonical releases new stable versions of Ubuntu every six months, and new Long Term Support versions every two years. <br> <br>Version Codename Package base Status 19.3: Tricia: Ubuntu Bionic: Long term support release (LTS), supported until April 2023. Red Hat's GTK+2 build of Firefox ESR is probably the last remaining regularly updated browser on RHEL 6/CentOS 6. As of Chrome 59, Linux Chrome defaults to GTK+3. Chrome OS is a versatile and mobile cloud-native operating system that is secure, easy to use and manage, and provides fast access to cloud apps, regardless of Chrome device or location. What if my enterprise line-of-business (LOB) application has a dependency on a version of Internet Explorer that reached end of support? Older versions of Linux, e.g. Yesterday I updated Java to "Version 8 Update 131 (build 1.8.0_131-b11)", and I can longer use Java plugins on any version of Firefox, which means I can no longer access the VPN. RHEL 6 or CentOS 6, with only GTK+2 support, are not able to run this version of Chrome. Bowing to pressure from enterprise administrators, Microsoft has extended its Windows 10 support cycle yet again.  This computer will no longer receive Google Chrome updates because Windows XP and Windows Vista are no longer supported. Upgrading web apps to modern web standards is the best long-term solution, but customers can use the backward compatibility in Internet Explorer 11 and upgrade web apps on their own schedules. 19.2: Tina: Ubuntu Bionic The latest non-LTS version of … Because of this, Lubuntu ha… ... (for a reason, it comes with long term support). For Windows 10/8.1/8/7 64-bit. <br> <br>Contact sales Learn more arrow_forward For Windows 10/8.1/8/7 32-bit. Finding the End of Life date The Jenkins project produces two release lines, LTS and weekly. It's also very short-term, typically only showing an expected EOL for a given Chromebook or Chrome OS gadget up to two releases in advance. The latest LTS version of Ubuntu is Ubuntu 18.04 LTS “Bionic Beaver,” which was released on April 26, 2018. Both release lines are distributed as .war files, native packages, installers, and Docker containers. Download lubuntu, a fast and lightweight Linux operating system. It focuses on speed and energy-efficiency. <br> <br>Supporting Internet Explorer 11 in 2019. It was my understanding that The ESR versions of Firefox would continue to support Java … Lubuntu uses LXDE/LXQT and a selection of light applications. Java SE 11 is an LTS release. For product releases after Java SE 8, Oracle will designate a release, every three years, as a Long-Term-Support (LTS) release. For the purposes of Oracle Premier Support, non‑LTS releases are considered a cumulative set of implementation enhancements of the most recent LTS release.  <br>Depending on your organization's needs, one may be preferred over the other. Packages with the gear icon are maintained by third parties. <br>";s:7:"keyword";s:32:"Chrome long term Support version";s:5:"links";s:9828:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%97%94-%E7%97%85%E9%99%A2-%E5%A5%B3%E6%80%A7-%E6%A8%AA%E6%B5%9C'>痔 病院 女性 横浜</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=B5-%E3%83%8E%E3%83%BC%E3%83%88-100%E6%9E%9A'>B5 ノート 100枚</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%8F%BE%E4%BB%A3-%E7%BE%8E%E8%A1%93%E9%A4%A8-%E3%83%96%E3%83%AD%E3%83%B3%E3%82%BA-%E5%83%8F'>東京都現代 美術館 ブロンズ 像</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%9F%93%E5%9B%BD-%E3%83%9B%E3%83%86%E3%83%AB-%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF%E3%82%A4%E3%83%B3-%E9%81%85%E3%82%8C%E3%82%8B'>韓国 ホテル チェックイン 遅れる</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9F%E3%83%83%E3%83%89%E3%83%8A%E3%82%A4%E3%83%88-%E3%82%B8%E3%82%A7%E3%83%83%E3%83%86%E3%82%A3%E3%83%BC-%E3%83%99%E3%82%A4%E3%83%88'>ミッドナイト ジェッティー ベイト</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%B5%90%E5%A9%9A%E5%BC%8F-%E3%83%89%E3%83%AC%E3%82%B9-%E5%A4%A7%E3%81%8D%E3%81%84%E3%82%B5%E3%82%A4%E3%82%BA-%E3%83%9E%E3%83%AB%E3%82%A4'>結婚式 ドレス 大きいサイズ マルイ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%8C%97%E8%A6%8B-%E8%BB%BD-%E8%87%AA%E5%8B%95%E8%BB%8A-%E6%A4%9C%E6%9F%BB%E5%8D%94%E4%BC%9A'>北見 軽 自動車 検査協会</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E4%BF%AE%E5%BE%A9-windows10-%E5%9B%9E%E5%BE%A9%E3%82%AD%E3%83%BC'>スタートアップ修復 Windows10 回復キー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%9D%91%E4%B8%8A%E8%8C%B6-PREMIUM-KANEEI'>村上茶 PREMIUM KANEEI</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AF%E3%83%AC%E3%82%B8%E3%83%83%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89-%E6%9A%97%E8%A8%BC%E7%95%AA%E5%8F%B7-%E3%81%84%E3%82%89%E3%81%AA%E3%81%84'>クレジットカード 暗証番号 いらない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%BE%E3%82%8A%E3%81%88-%E3%83%88%E3%83%9E%E3%83%88-%E3%83%84%E3%83%8A-%E3%83%91%E3%82%B9%E3%82%BF'>まりえ トマト ツナ パスタ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0-%E3%83%93%E3%83%BC%E3%83%81-%E3%83%80%E3%83%8A%E3%83%B3'>ベトナム ビーチ ダナン</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%9D%B1%E4%BA%AC-%E3%83%87%E3%82%A3%E3%82%BA%E3%83%8B%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89-%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6'>東京 ディズニーランド について</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%9D%B1%E6%80%A5-%E3%81%86%E3%81%97-%E9%9B%BB%E8%BB%8A'>東急 うし 電車</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B1%E3%83%B3%E3%82%BF%E3%83%83%E3%82%AD%E3%83%BC-%E5%BA%97%E8%88%97-%E5%B0%91%E3%81%AA%E3%81%84'>ケンタッキー 店舗 少ない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9B%E3%83%86%E3%83%AB-%E3%83%87%E3%83%A5%E3%82%AA-%E5%A4%A7%E6%A3%AE-%E6%96%99%E9%87%91'>ホテル デュオ 大森 料金</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%91%E3%83%8A%E3%82%BD%E3%83%8B%E3%83%83%E3%82%AF-%E6%A0%AA-%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9'>パナソニック 株 ニュース</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%96%E3%83%AC%E3%82%B9%E3%83%AC%E3%83%83%E3%83%88-%E3%83%9E%E3%82%B0%E3%83%8D%E3%83%83%E3%83%88-%E4%BD%9C%E3%82%8A%E6%96%B9'>ブレスレット マグネット 作り方</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%AA%E3%83%B3%E3%82%B0-%E3%83%AA%E3%83%9C%E3%83%B3-%E7%B5%90%E3%81%B3%E6%96%B9'>リング リボン 結び方</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%84%9B%E3%81%AE%E8%A8%80%E8%91%89-%E8%8B%B1%E8%AA%9E-%E3%81%8A%E3%81%97%E3%82%83%E3%82%8C'>愛の言葉 英語 おしゃれ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=safari-%E3%83%9D%E3%83%83%E3%83%97%E3%82%A2%E3%83%83%E3%83%97%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF-%E5%9B%9E%E9%81%BF'>Safari ポップアップブロック 回避</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=403-Forbidden-WordPress'>403 Forbidden WordPress</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%B2-%E3%81%BE%E3%82%8A-%E6%BC%A2%E5%AD%97-%E9%99%BD'>ひ まり 漢字 陽</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%AA%E3%83%83%E3%83%81%E3%83%BC-%E3%83%9E%E3%82%B3%E3%82%A6-%E6%98%A0%E7%94%BB'>リッチー マコウ 映画</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=gpa-3%E4%BB%A5%E4%B8%8A-%E5%89%B2%E5%90%88'>Gpa 3以上 割合</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%96%B0%E5%8D%83%E6%AD%B3%E7%A9%BA%E6%B8%AF-%E7%A5%9E%E6%88%B8%E7%A9%BA%E6%B8%AF-%E6%99%82%E5%88%BB%E8%A1%A8'>新千歳空港 神戸空港 時刻表</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%96%A2%E8%A5%BF%E5%A4%A7%E5%AD%A6-%E7%B7%8F%E5%90%88%E6%83%85%E5%A0%B1%E5%AD%A6%E9%83%A8-%E3%82%B5%E3%83%BC%E3%82%AF%E3%83%AB'>関西大学 総合情報学部 サークル</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%B9%BC%E5%85%90%E9%A3%9F-%E3%83%84%E3%83%8A-%E3%83%81%E3%83%A3%E3%83%BC%E3%83%8F%E3%83%B3'>幼児食 ツナ チャーハン</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9F%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%81%E3%83%AB%E3%83%89%E3%83%AC%E3%83%B3-others-%E6%AD%8C%E8%A9%9E'>ミスターチルドレン Others 歌詞</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%A3%AF-%E9%87%A3%E3%82%8A-%E3%83%AF%E3%83%BC%E3%83%A0'>磯 釣り ワーム</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%86%E3%83%B3%E3%83%AA%E3%83%A5%E3%82%A6-%E3%83%AC%E3%82%A4%E3%82%BA-78LML'>テンリュウ レイズ 78LML</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AA%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%89-%E3%83%95%E3%82%A1%E3%83%9F%E3%83%AA%E3%83%BC%E3%82%BB%E3%83%BC%E3%83%AB-%E6%88%A6%E5%88%A9%E5%93%81'>オンワード ファミリーセール 戦利品</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B1%E3%83%B3%E3%82%BF%E3%83%83%E3%82%AD%E3%83%BC-%E5%BA%97%E8%88%97-%E5%B0%91%E3%81%AA%E3%81%84'>ケンタッキー 店舗 少ない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A4%A7%E5%88%86%E7%9C%8C-%E6%95%99%E8%81%B7%E5%93%A1-%E4%BA%92%E5%8A%A9%E4%BC%9A-%E3%81%88%E3%82%89%E3%81%B9%E3%82%8B%E5%80%B6%E6%A5%BD%E9%83%A8'>大分県 教職員 互助会 えらべる倶楽部</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%99%BD%E8%8F%9C-%E3%82%B7%E3%83%81%E3%83%A5%E3%83%BC-%E6%B0%B4%E3%81%AA%E3%81%97'>白菜 シチュー 水なし</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A4%A7-%E7%9B%9B-%E3%82%BD%E3%83%BC%E3%82%B9-%E7%84%BC%E3%81%9D%E3%81%B0'>大 盛 ソース 焼そば</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=wxr-1750dhp2-%E3%82%A2%E3%83%B3%E3%83%86%E3%83%8A-%E4%BA%A4%E6%8F%9B'>Wxr-1750dhp2 アンテナ 交換</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%AD%91%E7%B4%AB%E9%87%8E%E5%B8%82-%E7%9C%BC%E7%A7%91-%E5%8F%A3%E3%82%B3%E3%83%9F'>筑紫野市 眼科 口コミ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%BF%BD%E6%89%8B%E9%96%80%E5%AD%A6%E9%99%A2%E5%A4%A7%E5%AD%A6-%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%88%A9%E7%94%A8-%E5%90%88%E6%A0%BC%E7%99%BA%E8%A1%A8'>追手門学院大学 センター利用 合格発表</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%81%E3%83%A3%E3%83%B3%E3%83%94%E3%82%AA%E3%83%B3-%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8A%E3%83%BC-%E9%BB%84%E7%B7%91'>チャンピオン トレーナー 黄緑</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%97%A4%E4%B8%89-%E6%B8%A9%E5%93%81-%E3%83%81%E3%83%A9%E3%82%B7'>藤三 温品 チラシ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%96%AC%E5%89%A4%E5%B8%AB%E5%9B%BD%E5%AE%B6%E8%A9%A6%E9%A8%93%E5%90%88%E6%A0%BC%E7%99%BA%E8%A1%A8-2020-%E5%90%88%E6%A0%BC%E7%82%B9'>薬剤師国家試験合格発表 2020 合格点</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%8C%B6%E8%8A%B1-%E6%95%99%E5%AE%A4-%E7%A6%8F%E5%B2%A1'>茶花 教室 福岡</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%87%91%E6%B2%A2-%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3-%E8%A6%B3%E5%85%89'>金沢 デザイン 観光</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%97%A5%E6%9C%AC%E8%A3%BD-4-%E2%84%83-%E3%81%AE-%E8%B6%85-%E7%99%BA%E7%86%B1-%E3%83%9C%E3%83%AA%E3%83%A5%E3%83%BC%E3%83%A0-3%E5%B1%A4-%E6%8E%9B%E3%81%91%E5%B8%83%E5%9B%A3'>日本製 4 ℃ の 超 発熱 ボリューム 3層 掛け布団</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%AD%E3%83%BC%E3%82%BD%E3%83%B3-%E3%82%AB%E3%83%BC%E3%83%93%E3%82%A3-%E3%82%B3%E3%82%B9%E3%83%A1'>ローソン カービィ コスメ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A4%A7%E5%92%8C%E8%A8%BC%E5%88%B8-%E5%85%A5%E7%A4%BE%E5%BC%8F-%E5%B8%9D%E5%9B%BD%E3%83%9B%E3%83%86%E3%83%AB'>大和証券 入社式 帝国ホテル</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B9%E3%82%AF%E3%82%A8%E3%83%8B-%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3%E5%88%B6%E9%99%90-%E8%A7%A3%E9%99%A4'>スクエニ ログイン制限 解除</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%91%E3%83%8A%E3%82%BD%E3%83%8B%E3%83%83%E3%82%AF-%E9%9B%BB%E5%8B%95%E8%87%AA%E8%BB%A2%E8%BB%8A-%E3%83%9F%E3%83%8B%E3%83%99%E3%83%AD-20%E3%82%A4%E3%83%B3%E3%83%81-%E3%82%AB%E3%82%B4%E4%BB%98%E3%81%8D-sw'>パナソニック 電動自転車 ミニベロ 20インチ カゴ付き Sw</a>,
+";s:7:"expired";i:-1;}

@@ -1,0 +1,61 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:4550:"<p>Windows10 バージョン1809以降でPhotoshop CS2を起動する方法です。Windows10をアップデート(Version 1809)したところPhotoshop CS2を起動すると画面が真っ白になってPhotoshop CS2が起動しなくなりました。コンパネの言語からアプリウィンドウごとに異なる入力方式を設定するをチェックして … イラストレーター10で作成したデータをcs6で開くと、二つ問題が起こっています。(1)開けないデータがある。（イラストレーター10では開くことができていました。）(2)開けたデータも文字が重なったり、行が増えてしまって元のレイアウ 問題点 イラストレーターのCCバージョンのファイルをCS6で開く と ... Adobeが、Photoshop CS2やIllustrator CS2などを無償提供！じゃなかった . Copied. 私が使っているWindows PCは最新版のAdobe CCアプリしかインストールされていないので、CCDA（Creative Cloud Desktop Application）を開いて、CS6のバージョンをインストールしてみましょう。 すると… Illustrator CCを使用しています。CS6で開くには、どうしたら良いでしょうか？ イワユキ. イラストレーターのccバージョンのファイルをcs6で開くと、アートボードのサイズが変わる？ イラストレーターの新しいバージョンで作ったデータを、古いバージョンで開こうとすると、アラートが表示 … たとえば、InDesign CS5で作成したドキュメントを、InDesign CS6で開いた場合、InDesign CS5では開けなくなります。 そのような意味からも、Mac環境であれば、ドキュメントごとに制作したバージョンで開くためのユーティリティ「InDesign Glee」は必須です。 PCの買い替えに伴いCS6を購入しました。そこでwinXP32bitPCで使っていたフォトショップCS2のデータをwin764bitPCのフォトショップCS6に移したいのです。今まで使っていたCS2のデータはCS6にそのまま移す事はできますか？ブラシやカス いまちょっとcs6で作られたaiファイルをcs2で開いてみたところ こんな警告が・・・ 警告だけでしたから、開く事は出来ました。 多分cs6の機能の一部が消えたから、 再度cs6で データ作成するときに 何かの設定が無くなっている可能性はありますけど。 </p> <p>Windows10 バージョン1809以降でPhotoshop CS2を起動する方法です。Windows10をアップデート(Version 1809)したところPhotoshop CS2を起動すると画面が真っ白になってPhotoshop CS2が起動しなくなりました。コンパネの言語からアプリウィンドウごとに異なる入力方式を設定するをチェックして … Copy link to clipboard.  高橋 慶彦. 旧cs2に入っていたソフト. 開いている画像を前面に表示するには、ウィンドウメニューの下部に表示されているファイル名を選択します。空きメモリ容量に応じて、1 つの画像で開くことのできるウィンドウの数が制限される場合も … 3323. 高橋 慶彦. Illustrator CCを使用しています。CS6で開くには、どうしたら良いでしょうか？ Highlighted. </p> <p>cs2と古いバージョンなのですが、色々いじってみましたら、元に戻りました。 開くを押した後に最大化の画面が出てくると思いますが、その画面上の左上の小さいイラストレーターのマークがありますので、そこをクリックできます。 本当にCS6がインストールできないのか. </p> <p>イラストレータでファイルを開くときに新しいバージョンで作っているファイルを開くとエラーになって開きませんよね。そこで旧バージョンのイラストレータでも新バージョンのファイルでも開く方法をご紹介します。 </p> <p>Illustratorチュートリアル：今更だけど知 … 8768. </p> <p></p> <p>Illustratorチュートリアル：今更だけど知らないと損をするカーソル移動の数値設定. 今は入手できなくなったcs2ですが、以前まとめたので、せっかくなので下記の表を残しておきます。単体ソフトは現在もありますし、今売られているcs2以降のパッケージの参考になるはずです。 </p> <p>Sep 19, 2014. </p>";s:7:"keyword";s:17:"CS6 CS2 で開く";s:5:"links";s:4672:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=xperia-z3-tablet-compact-sim%E3%83%95%E3%83%AA%E3%83%BC'>Xperia Z3 Tablet Compact Simフリー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Ford-Motor-Company-usa'>Ford Motor Company Usa</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=OCN-%E3%83%90%E3%83%AA%E3%83%A5%E3%83%BC%E3%83%97%E3%83%A9%E3%83%B3-%E3%82%BF%E3%82%A4%E3%83%9F%E3%83%B3%E3%82%B0'>OCN バリュープラン タイミング</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%BE%A1%E9%9C%8A%E7%A5%9E%E7%A4%BE%28%E9%8E%8C%E5%80%89-%E9%A7%90-%E8%BB%8A%E5%A0%B4%29'>御霊神社(鎌倉 駐 車場)</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B5%E3%83%BC%E3%83%90-%E3%83%A9%E3%83%83%E3%82%AF-%E7%95%AA%E5%8F%B7'>サーバ ラック 番号</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%A1%E3%83%AB%E3%82%AB%E3%83%AA-%E3%83%88%E3%83%A9%E3%83%96%E3%83%AB-%E3%82%AF%E3%83%AC%E3%83%BC%E3%83%A0'>メルカリ トラブル クレーム</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%93%E3%83%BC%E3%83%AB%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-%E9%83%A8%E5%93%81-%E5%90%8D%E5%89%8D'>ビールサーバー 部品 名前</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%90%E3%83%B3%E3%82%B3%E3%82%AF-%E9%A7%90%E5%9C%A8%E5%A6%BB-%E3%83%90%E3%83%83%E3%82%B0'>バンコク 駐在妻 バッグ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%AC%E3%82%AB%E3%83%AD-%E3%83%AA%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B0-%E3%83%AC%E3%83%90%E3%83%BC'>レカロ リクライニング レバー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%84%BC%E3%81%8D%E9%B3%A5-%E3%81%A1%E3%82%87%E3%81%86%E3%81%A1%E3%82%93-%E6%A8%AA%E6%B5%9C'>焼き鳥 ちょうちん 横浜</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A8%E3%82%AF%E3%82%BB%E3%83%AB-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC-%E6%94%B9%E8%A1%8C%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84'>エクセル エンター 改行できない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%BC%E3%83%88%E3%83%9B%E3%83%86%E3%83%AB-%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88-%E3%82%B5%E3%82%A4%E3%83%88'>コンフォートホテル ポイント サイト</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%B7%9D%E5%B4%8E%E5%A4%A7%E5%B8%AB-%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6-%E4%BA%88%E9%98%B2%E6%8E%A5%E7%A8%AE'>川崎大師 インフルエンザ 予防接種</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%85%AB%E9%87%8D%E5%B1%B1%E7%97%85%E9%99%A2-wi-fi'>八重山病院 Wi Fi</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%90%88%E6%8C%BD%E3%81%8D%E8%82%89-%E3%82%B9%E3%83%BC%E3%83%97-%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%A1'>合挽き肉 スープ コンソメ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Phpmyadmin-IIS-403'>Phpmyadmin IIS 403</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AA%E3%83%BC%E3%83%88%E3%83%9E-%E3%82%AE%E3%82%A2%E3%83%81%E3%82%A7%E3%83%B3%E3%82%B8-%E3%82%AC%E3%82%AF%E3%83%B3'>オートマ ギアチェンジ ガクン</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%A4%E3%82%8F%E3%82%8A-11%E9%80%B1-%E7%B5%82%E3%82%8F%E3%82%89%E3%81%AA%E3%81%84'>つわり 11週 終わらない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%8A%AC-%E9%A0%AD%E8%93%8B%E9%AA%A8-%E6%A7%8B%E9%80%A0'>犬 頭蓋骨 構造</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%B1%B3%E5%8E%9F-%E9%A7%85-%E6%A7%8B%E5%86%85-%E9%85%8D%E7%B7%9A-%E5%9B%B3'>米原 駅 構内 配線 図</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%97%A5-%E6%B8%85-%E9%A3%9F%E5%93%81-%E6%96%B0%E5%85%A5%E7%A4%BE%E5%93%A1'>日 清 食品 新入社員</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%AD%E3%83%BC%E3%82%BD%E3%83%B3-%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88-%E9%AC%BC-%E6%BB%85-%E3%81%AE%E5%88%83-%E7%AC%AC-2-%E5%BC%BE'>ローソン プリント 鬼 滅 の刃 第 2 弾</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%BF%E3%83%83%E3%83%91%E3%83%BC-%E3%81%8A-%E3%81%AB%E3%81%8E%E3%82%89-%E3%81%9A'>タッパー お にぎら ず</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9E%E3%82%B7%E3%83%A5-%E3%82%AA%E3%83%AB%E3%83%86%E3%83%8A%E3%82%A6%E3%82%B9-%E6%94%B9%E4%BF%AE'>マシュ オルテナウス 改修</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%A1%E3%83%B3%E3%82%BA-%E3%83%AA%E3%83%B3%E3%82%B0-2ch'>メンズ リング 2ch</a>,
+";s:7:"expired";i:-1;}

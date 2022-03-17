@@ -1,0 +1,56 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:4425:"<br>学校法人河合塾が運営する大学入試情報サイトKei-Netでは、センター試験の正解・配点・問題分析のほか、予想平均点・大学別ボーダーライン一覧など、センター試験に関する情報をいち早くお届けします。ここでは、平均点に関する情報をご提供します。 こんにちは、東大bkk編集部です。 今回のテーマは「センター試験で900点取ることの難しさ」についてです！みなさんは知っているでしょうか？ 今までもセンター試験の最高点として892点などは見たことがありましたが、満点をとった人はいるのでしょうか。 センター試験2020 平均点予想速報は下記から kasikoi.hatenablog.com センター試験2019 平均点予想速報 河合塾・ベネッセ・東進 難易度予想 【1/22修正版】 河合塾センター試験平均点予想 ベネッセセンター試験平均点予想 センター試験平均点予想 2019年センター試験、平均点はどうなるの… <br> <br>2019年1月19日・20日にかけて、大学入試センター試験が実施されました。2019年センター試験の出題や平均点をレポートします。 ベネッセ. <br> <br> センター試験平均点予想. <br> <br>2019年度センター試験結果. <br> <br>河合塾. 2019年1月20日に終了した2019年度（平成31年度）大学入試センター試験。本試験終了後から、大手予備校は各教科・科目の予想平均点を算出している。 2019年1月19・20日に実施された、センター試験の主要教科・科目別の出題の特徴、 平均点について、お伝えします。（分析：データネット実行委員会） 次の受験の参考にしてください。 出題の特徴 2019(平成31)年度のセンター試験(本試験)の平均点が確定したようです。今年度を含めてちょうど30年分になりましたので、各科目の30年推移を一挙掲載しています。 足切り突破者の平均点 理1 理2 理3 2019 800 787 802 2018 802 785 793 2017 795 778 797 ↑理系。 この点数は足切り突破者の合格平均点です。二次試験を含めた合格者平均点ではないので注意。 入試を突破した人たちのセンター平均点についての公式発表はありません。 <br> <br> 07日 15:40 平均点(最終発表) 公開 23日 17:13 2019年度 センター試験東進合否ライン(a,b,c,d)一覧及び二段階選抜予想得点 23日 16:46 二段階選抜予想ライン一覧 23日 16:45 平均点(中間集計) 公開 22日 19:05 東進予想平均点(第2版) 公開 21日 14:13 東進予想平均点(第1版) 公開 大学入試センター試験 平均点情報 2020年度大学入試センター試験 自己採点集計データネット ... 2019年度 548 570 理系5教科7科目 900点満点予想平均点 英語(200点）、国語(200点)､数学(1+2)(200点）､地歴or公民（100点）、理科(100点)×2 or 理科(100点)+理科基礎×2（100点 5教科7科目文系型 昨年度569点. <br> <br>ヨッシーこんにちは。管理人のヨッシーです。今回は大学入試センター試験（新：大学入学共通テスト）の平均点一覧を紹介します。センター試験（新：大学入学共通テスト）の平均点はもちろん年度によって異なります。志望大学や学部、学科によって目指すべき得 大学入試センターの過去の試験情報です。実施結果、本試験や追・再試験の問題・正解、志願者のデータ、試験問題評価委員会報告書、受験案内、受験上の注意、出願手続き方法、センター試験参加大学などに関する情報を掲載しています。 2018年度センター試験 予想平均点速報まとめ（河合・駿台・代ゼミ・東進） 2019年度の模試日程（河合塾・駿台・代ゼミ・東進）＜マーク・記述＞ 4浪目にして念願の北海道大学獣医学部に独学で合格！ <br> <br>過去のセンター試験の平均点推移と2020年センター試験の日程。独自に総合点も計算しているので難易度の変化がわかりやすく、他科目と比較しやすい表にしています。 センター試験平均点予想. 今年度速報⇒549点（-20） <br>";s:7:"keyword";s:33:"センター試験 平均点 2019";s:5:"links";s:3634:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%88%E3%83%A0%E3%83%95%E3%82%A9%E3%83%BC%E3%83%89-%E3%83%A1%E3%82%AC%E3%83%8D-%E5%BA%97%E8%88%97'>トムフォード メガネ 店舗</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Excel-%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB-%E3%83%91%E3%82%B9-%E6%96%87%E5%AD%97%E6%95%B0'>Excel ファイル パス 文字数</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%97%A5%E6%9C%AC-%E8%8B%B1%E8%AA%9E-%E6%95%99%E8%82%B2-%E6%98%94'>日本 英語 教育 昔</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%87%BD%E9%A4%A8-%E3%82%BF%E3%83%94%E3%82%AA%E3%82%AB-%E4%BA%94%E7%A8%9C%E9%83%AD'>函館 タピオカ 五稜郭</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%84%A1%E7%BD%AA-%E6%8B%98%E7%95%99-%E8%B3%A0%E5%84%9F%E9%87%91'>無罪 拘留 賠償金</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BF%9D%E8%82%B2%E5%9C%92-%E3%82%B7%E3%83%81%E3%83%A5%E3%83%BC-%E7%8C%AE%E7%AB%8B'>保育園 シチュー 献立</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9B%E3%83%83%E3%83%88%E3%82%B1%E3%83%BC%E3%82%AD%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-%E3%83%89%E3%83%BC%E3%83%8A%E3%83%84-%E3%82%AA%E3%83%BC%E3%83%96%E3%83%B3-%E3%81%AA%E3%81%97'>ホットケーキミックス ドーナツ オーブン なし</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%9B%A2%E4%B9%B3%E9%A3%9F-%E5%AE%8C%E4%BA%86%E6%9C%9F-%E9%BA%BA'>離乳食 完了期 麺</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A4%8F%E6%9C%8D-%E7%9D%80%E5%9B%9E%E3%81%97-%E3%83%AC%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B9'>夏服 着回し レディース</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%87%AA-%E9%96%89-%E7%97%87-%E6%B0%B4%E5%88%86-%E5%8F%96%E3%82%89-%E3%81%AA%E3%81%84'>自 閉 症 水分 取ら ない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%A4%BE-%E5%8F%B0-%E3%83%95%E3%82%A1%E3%83%BC%E3%83%A0-%E8%B3%87%E6%9C%AC-%E9%87%91'>社 台 ファーム 資本 金</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%96%8B%E8%85%B9%E6%89%8B%E8%A1%93-%E3%82%A2%E3%83%88-%E3%83%95%E3%82%A1%E3%82%A4%E3%83%B3'>開腹手術 アト ファイン</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Kick-the-bucket-%E6%84%8F%E5%91%B3'>Kick The Bucket 意味</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%9B%BD%E8%AA%9E-%E6%96%87%E6%B3%95-%E5%8B%89%E5%BC%B7%E6%B3%95'>国語 文法 勉強法</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%8C%BB%E5%AD%A6%E9%83%A8-%E7%B7%A8%E5%85%A5-%E7%A4%BE%E4%BC%9A%E4%BA%BA-%E9%9B%A3%E6%98%93%E5%BA%A6'>医学部 編入 社会人 難易度</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A2%E3%83%8A%E9%9B%AA-%E3%82%B0%E3%83%83%E3%82%BA-2019'>アナ雪 グッズ 2019</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%89%9B%E4%B9%B3%E5%AF%92%E5%A4%A9-%E3%82%BC%E3%83%A9%E3%83%81%E3%83%B3-%E5%9B%BA%E3%81%BE%E3%82%89%E3%81%AA%E3%81%84'>牛乳寒天 ゼラチン 固まらない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%8D%83%E8%91%89%E7%9C%8C-%E5%85%AB%E5%8D%83%E4%BB%A3%E5%B8%82-%E5%91%A8%E8%BE%BA-%E6%B1%82%E4%BA%BA'>千葉県 八千代市 周辺 求人</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%9D%B1%E6%B5%B7%E6%9D%91-%E3%82%B7%E3%83%8B%E3%82%A2-%E6%B1%82%E4%BA%BA'>東海村 シニア 求人</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B3%E3%83%BC%E3%83%88-%E6%AF%9B%E7%8E%89-%E3%82%AB%E3%83%9F%E3%82%BD%E3%83%AA'>コート 毛玉 カミソリ</a>,
+";s:7:"expired";i:-1;}

@@ -1,0 +1,60 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:3988:"<p>さまざまな契約の際に必要となってくる書類のひとつに、印鑑証明書（正式には印鑑登録証明書）があります。以前に取得したまま、ずっと手元にあるという人もいらっしゃるのではないでしょうか。そんなときに気になるのが有効期限。印鑑登録証明書の有効期限は3ヶ月? 有効期限内の在留カードまたは特別永住者証明書 （外国籍で永住権を得ている方は、必要となります） 預貯金通帳・証書 ご印鑑（横浜銀行の口座をご利用の場合には、通帳・預金届出印） 資金使途別確認資料・提出書 類は、右の区分によりご用意く 印鑑証明書を取得する際は、この印鑑手帳を役所に持参する必要がありますので、実印の印鑑と一緒に厳重保管をおすすめします。さて、住宅ローンの手続きの中でも実印を使用することがありますので簡単にご説明いたします。 印鑑証明書の有効期限はいつまで？ 実は、基本的に印鑑証明書の有効期限はありません。登録事項に変更がない限り使用できます。 ただ、車を購入するような大きな取引の場合、販売店側から「発行から3ヶ月以内のもの」と指定されます。 よくある質問で、不動産取引の際、印鑑証明は4枚も5枚も必要になるものなのでしょうか？といった声をよく聞きます。不動産売却か、購入かによって、またケースによって異なってくるので、一概には言えませんが、目安になる枚数はありますよ！ぜひ参考にしてみてくださいね。 新車にしても中古車にしても、現金一括の場合は別として、ローンで購入する場合は、印鑑証明が必要になるかどうかは、購入時の契約によって変わってくるのが現状です。 例えば、新車の所有者がディーラーの場合、本人の場合、ローン会社 … 不動産登記にはさまざまな種類があり、登記の際には必要書類を提出しなければなりません。 その中でよく使用される書類には「住民票」や「印鑑証明書」があげられます。 これらの書類を提出する際、「3ヶ月以内に発行したもの」という期限付きの場合もあります。 実は、印鑑証明書を発行してからの有効期限というものは明確に定められていません。つまり、10年前に発行した印鑑証明書でも、正式なものとして使用することはできます。 工事完了引渡証明書に添付する印鑑証明書（資格証明書）には有効期限が定められていませんので3ヶ月以内のものでなくても構いません。さすがに1年前に発行されたものは、新しく取り直しして欲しいと言 …  しかし印鑑証明書も有効期限があるので、手続きに数ケ月も戸惑っていれば、有効期限切れで再度顧客に依頼して取り直してもらわねばなりません。 そのため銀行によっては住宅ローンが認可後、契約時に初めて印鑑証明書を用意してもらう所もあります。 </p> <p></p> <p>個人ローンのお借り入れに必要な書類一覧表 ＜住宅ローン用＞ ... 有効期限内の在留カードまたは特別永住者証明書（写） （外国籍で永住権を得ている方は、必要となります） 返済予定表（お借り入れがほかにある場合） 国民健康保険料支払確認資料（直近3 か月分。期限後納付がある場合は1 また、印鑑証明書には住民票などと同じように、有効期限が決められており、作成後3か月以内でなければ効果を発揮しないので気を付けてください。 その他の印鑑との違い. 印鑑証明書の有効期限について. </p>";s:7:"keyword";s:35:"印鑑証明 有効期限 ローン";s:5:"links";s:4444:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=D%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89-%E4%BD%BF%E3%81%88%E3%82%8B-%E5%BA%97'>Dポイントカード 使える 店</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%8D%8A%E5%88%86%E9%9D%92%E3%81%84-%E5%86%8D%E6%94%BE%E9%80%81-2020'>半分青い 再放送 2020</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%95%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B4-%E6%AD%8C%E8%A9%9E-%E6%84%8F%E5%91%B3'>フラミンゴ 歌詞 意味</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=t%E3%82%B7%E3%83%A3%E3%83%84-%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89-%E3%83%A1%E3%83%B3%E3%82%BA-%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0'>Tシャツ ブランド メンズ ランキング</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%B1%B3%E7%B2%89-%E3%82%AB%E3%83%83%E3%83%97%E3%82%B1%E3%83%BC%E3%82%AD-%E3%83%AC%E3%82%B7%E3%83%94-%E4%BA%BA%E6%B0%97'>米粉 カップケーキ レシピ 人気</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%8B%89%E5%BC%B7%E6%9C%BA-%E3%81%8A%E3%81%97%E3%82%83%E3%82%8C-%E3%83%8B%E3%83%88%E3%83%AA'>勉強机 おしゃれ ニトリ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=EGF-FGF-%E9%81%95%E3%81%84'>EGF FGF 違い</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=K--BOOKS-%E8%A1%8C%E3%81%8D%E6%96%B9'>K- BOOKS 行き方</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%BD%E3%83%8B%E3%83%BC-%E3%82%A4%E3%83%A4%E3%83%9B%E3%83%B3-%E9%80%9A%E8%A9%B1'>ソニー イヤホン 通話</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BD%8F%E5%8F%8B%E4%B8%8D%E5%8B%95%E7%94%A3-%E3%82%A2%E3%83%95%E3%82%BF%E3%83%BC%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9-%E8%A9%95%E5%88%A4'>住友不動産 アフターサービス 評判</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9D%E3%82%B1%E3%83%A2%E3%83%B3go-%E3%82%A6%E3%83%A9%E6%8A%80-gps-iphone'>ポケモンgo ウラ技 Gps Iphone</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%88%E3%82%A4%E3%83%AC-%E3%82%BF%E3%83%B3%E3%82%AF-DIY-%E9%9A%A0%E3%81%99'>トイレ タンク DIY 隠す</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%8A%AC-%E8%AA%A4%E9%A3%B2-%E4%B8%8B%E7%97%A2'>犬 誤飲 下痢</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%AD%90%E5%AE%AE-%E7%97%9B%E3%81%BF-%E3%83%81%E3%82%AF%E3%83%81%E3%82%AF-%E5%B7%A6'>子宮 痛み チクチク 左</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%8C%96%E7%B2%A7%E5%93%81-%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB-%E8%B2%A9%E5%A3%B2'>化粧品 サンプル 販売</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%87%A3%E7%AB%BF-%E4%BF%AE%E7%90%86-%E3%82%AC%E3%82%A4%E3%83%89'>釣竿 修理 ガイド</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%8E%89%E3%81%AD%E3%81%8E-%E5%8D%B5%E3%82%B9%E3%83%BC%E3%83%97-%E3%83%AC%E3%83%B3%E3%82%B8'>玉ねぎ 卵スープ レンジ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%8C%97%E5%A4%A7-%E5%85%A5%E8%A9%A6-%E6%99%82%E9%96%93'>北大 入試 時間</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%A8%BA%E7%99%82%E6%94%BE%E5%B0%84%E7%B7%9A%E6%8A%80%E5%B8%AB-%E5%9B%BD%E5%AE%B6%E8%A9%A6%E9%A8%93-72%E5%9B%9E-%E6%AD%A3%E7%AD%94'>診療放射線技師 国家試験 72回 正答</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%91%E3%83%AF%E3%83%BC%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88-%E5%9B%B3%E5%BD%A2-%E5%87%B9'>パワーポイント 図形 凹</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%97%A5%E6%B8%85-%E3%81%8B%E3%82%89%E6%8F%9A%E3%81%92%E7%B2%89-%E3%82%AA%E3%83%BC%E3%83%96%E3%83%B3'>日清 から揚げ粉 オーブン</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%A5%BD-%E8%94%B5-%E9%9D%99%E5%B2%A1-%E3%83%9B%E3%83%83%E3%83%88%E3%83%9A%E3%83%83%E3%83%91%E3%83%BC'>楽 蔵 静岡 ホットペッパー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%99%BDT%E3%82%B7%E3%83%A3%E3%83%84-%E3%82%A4%E3%83%B3%E3%83%8A%E3%83%BC-%E8%A6%8B%E3%81%9B%E3%82%8B-%E3%83%AC%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B9'>白Tシャツ インナー 見せる レディース</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BA%AC%E9%83%BD-%E4%BC%8A%E4%B8%B9%E7%A9%BA%E6%B8%AF-%E3%82%BF%E3%82%AF%E3%82%B7%E3%83%BC'>京都 伊丹空港 タクシー</a>,
+";s:7:"expired";i:-1;}

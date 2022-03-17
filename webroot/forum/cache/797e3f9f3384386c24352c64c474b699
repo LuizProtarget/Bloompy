@@ -1,0 +1,60 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:5512:"<br>クロネコヤマトでおなじみ、ヤマト運輸のウェブサイトです 。荷物のお問い合わせ、集荷・再配達受付、個人のお客さま向けのサービスを紹介いたします。 English ... 豊富なオンライン決済 クロネコ メンバーズ限定. ドライバーがご自宅まで お伺いします. クロネコメンバーズにご入会いただくと、お荷物の発送や、受け取りに便利なサービスをご利用いただけます。また、宅急便運賃の割引もご利用いただけます。 新規登録. 宿泊施設に送る. ゴルフ宅急便・スキー宅急便・空港宅急便・宿泊施設向け往復宅急便は、一般の宅急便より1日多く日数がかかります。 ヤマト運輸（クロネコヤマト）で宅急便を出したい時、集荷に来てもらうと便利です。 個人でもインターネットや電話で集荷依頼ができますので利用してみましょう。 クロネコヤマト(ヤマト運輸)の宅配サービスのクロネコメンバーズ に登録してみたので、メリットや割引の種類・利用方法を紹介します。クロネコメンバー割では、宅急便が10％(bigは15％)割引で送ることが出来ます。その他にもデジタル割等のお得なサービスが受けられます。 ヤマトホールディングス ; Language.  ヤマトビジネスメンバーズへの登録がお済みの方は、ログインして集荷をお申し込みください。お電話でもお申し込みいただけます。 ヤマトビジネスメンバーズにログインする クロネコメンバーズにログインする. 宅急便をスマホで送る. ゴルフ場に送る. ヤマト運輸は、ウェブサイト上で提供している「荷物お問い合わせ」や「営業所検索」などのサービス機能をスマートフォンユーザーに、より便利に使いやすくご利用いただくために、平成24年1月にiPhone版「クロネコヤマト公式アプリ」の提供を開始しました。 空港に送る. 国内に送る. クロネコメンバーズ会員でeお知らせ設定済みのお客様 クロネコメンバーズ（登録無料）とは？ ご利用方法 「お届け予定eメール」または「ご不在連絡eメール」から受取場所を選択することができます。 詳 … インターネットで 集荷依頼. ヤマト運輸のサービスセンター一覧についてのページです。 個人のお客さま ... 0120-01 オーイ-9625 クロネコ. ヤマト便について詳しく見る（個人の方） 法人・個人事業主のお客さま. ※クロネコidとlineを連携しているお客様には配信されません。 詳細はこちらをご覧ください。 2018年2月26日 集荷受付の締切時間変更について お客様各位 いつもヤマト運輸をご利用いただきまして、ありがとうございます。 コンビニでもらった送り状（伝票）は「集荷」や「宅急便センターへの持ち込み」の場合も使うことはできますか？ 「ヤマト便」の送り状の書き方を教えてください。 クロネコメンバーズの持込割とは何で … スキー場に送る. 荷物を発送するならクロネコヤマト直営店が便利です。スマホアプリで「送り状」がかんたんに作れるので。今回はクロネコヤマトで荷物をかんたんに発送できる「送り状」の作り方を解説します。 <br> <br>クロネコメンバーズとは クロネコメンバーズ（登録無料）とは？ ご利用方法 「お届け予定eメール」 または 「ご不在連絡eメール」 から受取場所を選択することができます。 ヤマト運輸の荷物を送るについてのページです。 個人のお客さま ... 直営店・コンビニでスマホをかざして 発送できます. 荷物を発送するならクロネコヤマト直営店が便利です。スマホアプリで「送り状」がかんたんに作れるので。今回はクロネコヤマトで荷物をかんたんに発送できる「送り状」の作り方を解説します。 ドライバーがご自宅まで お伺いします. 前回の条件で集荷を申し込む. ※クロネコidとlineを連携しているお客様には配信されません。 詳細はこちらをご覧ください。 2018年2月26日 集荷受付の締切時間変更について お客様各位 いつもヤマト運輸をご利用いただきまして、ありがとうございます。 メンバーズ限定. 「集荷申し込み」のfaq一覧はこちら; ご注意事項. 電話で集荷依頼. ヤマト運輸「クロネコメンバーズ」のよくあるご質問（faq）「q:宅急便をスマホで送る手順がわかるマニュアルはありますか？ ヤマト運輸「クロネコメンバーズ」のよくあるご質問（faq）「q:スマホで宅急便を送るサービスを使ってコンビニで荷物を出す場合、デジタル割は適用されますか。  集荷依頼した時間を変更したい場合は、どうすればいいですか？ 複数の荷物を同じ宛先に送りたいのですが、まとめて送るサービスはありますか？ リース・レンタルや買取サイトなどで集荷依頼した荷物の数を変更したい場合は、どうすればいいですか？ <br>";s:7:"keyword";s:39:"クロネコ ヤマト 集荷 スマホ";s:5:"links";s:4332:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%8A%A9-%E5%85%AB-%E5%AE%AE%E5%B4%8E'>助 八 宮崎</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%9F%93%E5%9B%BD-%E3%81%BB%E3%81%8F%E3%82%8D%E9%99%A4%E5%8E%BB-%E8%85%95'>韓国 ほくろ除去 腕</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A4%A7%E4%BA%BA%E3%81%AE%E5%A5%B3%E6%80%A7-%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88-%E6%8F%8F%E3%81%8D%E6%96%B9'>大人の女性 イラスト 描き方</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Chrome-%E3%82%BF%E3%83%96-%E9%96%8B%E3%81%8D%E3%81%99%E3%81%8E-Android'>Chrome タブ 開きすぎ Android</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%A5%9E%E6%88%B8-%E3%83%87%E3%82%A3%E3%83%8A%E3%83%BC-%E3%81%8A%E3%81%99%E3%81%99%E3%82%81-%E5%AE%89%E3%81%84'>神戸 ディナー おすすめ 安い</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%90%E3%82%A4%E3%83%88-%E3%81%B0%E3%81%A3%E3%81%8F%E3%82%8C-%E9%9B%BB%E8%A9%B1-%E8%A6%AA'>バイト ばっくれ 電話 親</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=escape-r3-%E3%83%96%E3%83%AC%E3%83%BC%E3%82%AD%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%BC-%E4%BA%A4%E6%8F%9B'>Escape R3 ブレーキワイヤー 交換</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%BF%E3%82%AB%E3%83%A9%E3%83%88%E3%83%9F%E3%83%BC-%E3%83%92%E3%83%AD%E3%82%A2%E3%82%AB-%E3%83%95%E3%82%A3%E3%82%AE%E3%83%A5%E3%82%A2'>タカラトミー ヒロアカ フィギュア</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%BB%E3%83%96%E3%83%B3%E3%82%A4%E3%83%AC%E3%83%96%E3%83%B3-d%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88-%E6%89%95%E3%81%84'>セブンイレブン Dポイント 払い</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%AB%E3%83%96%E3%82%BF%E3%83%B3-%E3%83%A1%E3%83%B3%E3%82%BA-%E3%82%BB%E3%83%BC%E3%83%AB'>ルブタン メンズ セール</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%9C%8D-%E4%B8%80%E6%99%82%E7%BD%AE%E3%81%8D%E5%A0%B4-%E7%84%A1%E5%8D%B0'>服 一時置き場 無印</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%84%E3%82%A4%E3%83%B3-%E3%83%97%E3%83%A9%E3%83%8D%E3%83%83%E3%83%88-SHOWROOM'>ツイン プラネット SHOWROOM</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=hp-%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3-%E3%83%9E%E3%82%A6%E3%82%B9-%E6%8E%A5%E7%B6%9A'>Hp ノートパソコン マウス 接続</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%B2%A9%E6%89%8B%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6-%E8%96%AC%E5%AD%A6%E9%83%A8-%E5%85%A5%E8%A9%A6'>岩手医科大学 薬学部 入試</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%B5%90%E5%A9%9A%E6%8C%87%E8%BC%AA-%E3%81%8A%E3%81%97%E3%82%83%E3%82%8C-%E3%83%A1%E3%83%B3%E3%82%BA'>結婚指輪 おしゃれ メンズ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%9F%E3%82%89%E3%81%93-%E3%81%AD%E3%81%8E-%E3%81%94%E9%A3%AF'>たらこ ねぎ ご飯</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A2%E3%82%A4%E3%83%8A%E3%83%A1-%E9%A4%8C-%E8%B2%9D'>アイナメ 餌 貝</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B9%E3%83%86%E3%83%BC%E3%82%AD-%E5%88%87%E3%82%8A%E6%96%B9-%E6%96%9C%E3%82%81'>ステーキ 切り方 斜め</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%B6%8F%E3%81%B2%E3%81%8D%E8%82%89-%E3%83%8F%E3%83%B3%E3%83%90%E3%83%BC%E3%82%B0-%E5%A4%A7%E8%91%89'>鶏ひき肉 ハンバーグ 大葉</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B8%E3%83%BC%E3%83%B3%E3%82%BA-%E6%B4%97%E6%BF%AF-%E8%89%B2%E7%A7%BB%E3%82%8A'>ジーンズ 洗濯 色移り</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%9D%A2%E6%8E%A5-%E3%81%97%E3%81%AA%E3%81%84-%E3%81%A7%E6%8E%A1%E7%94%A8'>面接 しない で採用</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%89%8D-%E9%83%A8%E9%A6%96-%E3%81%8B%E3%82%93%E3%82%80%E3%82%8A'>前 部首 かんむり</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=wi-fi-%E5%9C%8F%E5%A4%96-%E5%AE%B6'>Wi-fi 圏外 家</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%B4%8D%E8%B1%86-%E5%86%B7%E5%87%8D-%E8%B3%9E%E5%91%B3%E6%9C%9F%E9%99%90'>納豆 冷凍 賞味期限</a>,
+";s:7:"expired";i:-1;}

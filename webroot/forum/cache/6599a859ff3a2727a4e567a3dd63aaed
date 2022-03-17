@@ -1,0 +1,78 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:7540:"<p>Macで作成した書類や写真などを印刷したいという場合にはプリンタを使うことになります。 プリンタ印刷したいけれどどうやってすればいいかわからないという方もいらっしゃるのではないでしょうか？ 今回はMacでのプリンタ設定方法と印刷手順についてご紹介していきたいと思います。 プリンターを無線（WiFi）で接続して、パソコンやスマホからプリントアウトしたいけど、設定方法が分からないという方。又は、設定してみたけど印刷できないという方。こちらのページにて無線プリンターの接続方法や、設定時の注意点についてまとめました MacをWi-Fiで接続する 無線LANを利用して印刷するには、まずMacと無線LANルーターをWi-Fiで接続する必要がある。以下にその方法を述べる。もちろん、Safariなどを起動して既にインターネットに接続できていれば、以下の設定は必要ない。 パソコンとプリンター接続できない時の対策 96,368件のビュー; スマホからプリンターへ接続する方法 73,826件のビュー; 最近の記事. 接続方法についての詳しい情報は、 次のリンクをご覧ください。 USB 接続 USB で接続する; Bluetooth 接続（PJ-763/PJ-763MFi のみ） Bluetooth で接続する（Windows向け） Bluetooth で接続する（Mac向け） モバイル端末で接続する; Wi-Fi 接続（PJ-773 のみ） Wi-Fi で接続する プリンターへは接続できません。 ウイルスソフトが遮断しているのでは？、とも言われたため、 ソフトを止めたり、友人の別のPC（Mac）から試したりもしましたが、 同じようにだめでした。 Wimaxのルーターでは、プリンターは接続できないのでしょうか？ </p> <p>6、接続するpcからプリンタメーカーのドライバとかソフトウェアを全てアンインストールして、そのプリンタ用最新ソフトウェアをフルパッケージで再インストール、無線lan接続を行います. アップデートの内容に、「一部の Mac における、接続した事の有る Wi-Fi ネットワークに自動的に接続出来ないと言う. ブラザー（brother）製プリンターを無線接続するための設定。プリンター機種ごとのWi-Fi設定の概要と具体的な設定方法を記述。プリンター以外に原因がある場合の対処方法も説明 </p> <p> </p> <p>パソコンに Wi-Fi インターフェースがない場合は、パソコンとプリンターを無線 LAN 接続することができません。 ... パソコンから無線 LAN 接続で、ラベルの編集や印刷ができます。 Mac . 最近ではデータのやり取りはネット経由が多くなり、Macに接続しているプリンターの出番も少なくなりました。しかし、それだけにいざ使おうとすると設定がわからなくて印刷できないこともあります。そんなときのためにMacからプリンターを設定する方法をお教えします。 この問題は、プリンタがノートン ファイアウォールにより遮断されている場合に発生することがあります。 プリンタを無線接続で使いたいけど、ドライバのセットアップで、プリンタを検索するも見つからないとメッセージが表示される。パソコンとプリンタは確かに無線で繋がっているのに、プリンタが見つからない理由が分からない。何とか解決できないかな？ 問題を修正します」と言う記述が有るのですが、もしまだならアップデートされて見ては如何でしょうか。 ブラザー（brother）製プリンターを無線接続するための設定。プリンター機種ごとのWi-Fi設定の概要と具体的な設定方法を記述。プリンター以外に原因がある場合の対処方法も説明 パソコンから無線 lan 接続で、ラベルの編集や印刷ができます。 プリンタードライバーがインストール済みで、手動で無線 LAN 接続を行なう（Mac） 無線 LAN 接続には、付属の AC アダプター、または、別売りの Li-ion（リチウムイオン）充電池が必要です。 mac アドレスのフィルタリング機能を使用していますか？ プリンターの mac アドレスがフィルターで許可されていることを確認してください。 mac アドレスは、 プリンター設定ツールの通信設定で確認できます。詳しくは以下のq&a をご参照ください。 Appleから発売されている「MacBookAir」や「iMac」向けにリリースされている最新バージョン「MacOSSierra」にアップデート後「特定のプリンターとパソコンを接続した時に『プリンタが見つかりません』や『プリンタは接続されていません』などのエラーコードが表示される」などのバグ不具合障 … プリンタが AirPrint に対応していて Mac や iOS デバイスからプリントできる機種の場合は、まずは、Mac や iOS デバイスで使われているのと同じ Wi-Fi ネットワークに接続されているか確認してください。 1. それでも接続できない場合は、以下の解決方法をお試しください。 </p> <p>マカフィー for ZAQインストール導入後からネットワーク対応プリンタで印刷ができなくりました | ご提供サービスの総合サポートサイトです。各サービス別のサポート情報やよくあるご質問、接続・設定方法、各種お手続き、お問い合わせなどについてご案内します。 brotherプリンターとMacが接続できません。brotherプリンターとMacが接続できません。プリンター:MFC-6940CNMAC:10.12.6無線LANでプリンターを使用したいのですがうまく接続できません。プリンターはWiFiに繋がっており、IPアドレスとサブネットマスクはPCとそろっています。何度いじって … 複合機本体と通信ボックスの接続ができない場合に、「通信ボックスと接続できません」 というエラーが表示されます。このエラーが時々表示される場合は、通信の電波状況が悪い可能性があります。 以下の確認を行なってください。 Appleから発売されている「MacBookAir」や「iMac」向けにリリースされている最新バージョン「MacOSSierra」にアップデート後「特定のプリンターとパソコンを接続した時に『プリンタが見つかりません』や『プリンタは接続されていません』などのエラーコードが表示される」などのバグ不具合障 … プリンターとパソコンが接続できない時の対処方法について解説をしていきます。プリンター本体の問題からパソコンの接続設定の問題など様々な原因で印刷が行えていない可能性がありますので、ひとつひとつ確認をしていく必要があります。 ノートンのインストール後、ネットワークプリンタやほかのデバイスを設定できない問題を解決する. 以上で多分長期間問題のない環境を構築できます。 </p>";s:7:"keyword";s:44:"Brother プリンタ mac 接続 できない";s:5:"links";s:8186:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B0%E3%83%BC%E3%82%B0%E3%83%AB-%E3%83%97%E3%83%AC%E3%82%A4-%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89%E6%95%B0'>グーグル プレイ ダウンロード数</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%97%A5%E6%9C%AC-%E7%94%A3%E5%A9%A6-%E4%BA%BA-%E7%A7%91%E5%AD%A6%E4%BC%9A-%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3'>日本 産婦 人 科学会 ガイドライン</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%95%E3%81%A4%E3%81%BE%E3%81%84%E3%82%82-%E7%94%9F%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0-%E3%82%B9%E3%83%BC%E3%83%97'>さつまいも 生クリーム スープ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%89%B5%E5%91%B3-%E3%82%B7%E3%83%A3%E3%83%B3%E3%82%BF%E3%83%B3-%E7%89%B9%E5%A3%B2'>創味 シャンタン 特売</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A2%E3%83%A1%E3%83%83%E3%82%AF%E3%82%B9-%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88-%E5%AF%84%E4%BB%98'>アメックス ポイント 寄付</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%9B%9B%E5%9B%BD%E4%B8%AD%E5%A4%AE%E5%B8%82-%E5%A4%9C-%E3%83%87%E3%83%BC%E3%83%88'>四国中央市 夜 デート</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=BanG-Dream-Girls-Band-Party-cover-Collection-Vol-1'>BanG Dream Girls Band Party Cover Collection Vol 1</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%B5%B1%E5%90%88%E5%A4%B1%E8%AA%BF%E7%97%87-%E8%87%AA%E5%8B%95%E8%BB%8A-%E4%BF%9D%E9%99%BA'>統合失調症 自動車 保険</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%AB%98%E8%A1%80%E5%9C%A7-%E5%85%A5%E9%99%A2-%E6%95%B0%E5%80%A4'>高血圧 入院 数値</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=XIXI-%E3%82%B3%E3%82%B9%E3%83%A1-%E8%AA%AD%E3%81%BF%E6%96%B9'>XIXI コスメ 読み方</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=ie-%E7%A9%BA%E7%99%BD%E3%81%AE%E3%83%9A%E3%83%BC%E3%82%B8-%E5%8B%9D%E6%89%8B%E3%81%AB%E9%96%8B%E3%81%8F'>Ie 空白のページ 勝手に開く</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%AF%E3%82%B4%E3%83%B3R-MC22S-%E3%83%AA%E3%83%AC%E3%83%BC'>ワゴンR MC22S リレー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%B0%B4%E8%8F%9C-%E3%82%AA%E3%83%AC%E3%83%B3%E3%82%B8-%E3%82%B5%E3%83%A9%E3%83%80'>水菜 オレンジ サラダ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%87%AA%E8%BB%A2%E8%BB%8A-%E3%83%96%E3%83%AC%E3%83%BC%E3%82%AD%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%BC-%E5%88%87%E3%82%8C%E3%82%8B'>自転車 ブレーキワイヤー 切れる</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=High-Sierra-%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3'>High Sierra セキュリティ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA-%E5%A6%8A%E5%A9%A6-%E3%83%9E%E3%82%B9%E3%82%AF'>世田谷区 妊婦 マスク</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%88%E3%83%BC%E3%83%88%E3%83%90%E3%83%83%E3%82%B0-%E5%A4%A7%E3%81%8D%E3%82%81-%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89'>トートバッグ 大きめ ブランド</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B8%AD-%E7%B5%B6%E5%BE%8C-%E3%82%A2%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%AB'>中 絶後 アルコール</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9F%E3%83%8E%E3%83%B3-%E5%85%A8%E8%BA%AB-%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC-%E3%81%95%E3%82%89%E3%81%A3-%E3%81%A8-%E3%82%BF%E3%82%A4%E3%83%97-450ml'>ミノン 全身 シャンプー さらっ と タイプ 450ml</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=BunBackup-%E3%83%95%E3%82%A9%E3%83%AB%E3%83%80-%E3%81%AE-%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF-%E3%81%AB-%E5%A4%B1%E6%95%97-%E3%81%97%E3%81%BE-%E3%81%97%E3%81%9F'>BunBackup フォルダ の チェック に 失敗 しま した</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B7%E3%83%9E%E3%83%8E-3000%E7%95%AA-%E7%B3%B8%E5%B7%BB%E3%81%8D%E9%87%8F'>シマノ 3000番 糸巻き量</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%8D%E3%83%83%E3%82%AF%E3%83%AC%E3%82%B9-%E5%88%BB%E5%8D%B0-%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89'>ネックレス 刻印 ブランド</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%91%E3%83%AF%E3%83%BC%E3%82%A6%E3%82%A3%E3%83%B3%E3%83%89%E3%82%A6-%E3%83%AA%E3%82%BB%E3%83%83%E3%83%88-%E3%83%9B%E3%83%B3%E3%83%80'>パワーウィンドウ リセット ホンダ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%95%E3%83%AA%E3%83%BC%E3%83%89-%E6%B0%B4%E6%B8%A9-%E8%A8%88'>フリード 水温 計</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%8B%E3%81%BC%E3%81%A1%E3%82%83-%E3%82%B0%E3%83%A9%E3%82%BF%E3%83%B3-%E3%83%8F%E3%82%A4%E3%83%B3%E3%83%84'>かぼちゃ グラタン ハインツ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%91%E3%83%AF%E3%83%BC%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88-%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B3%E7%B4%A0%E6%9D%90-%E3%83%95%E3%83%AA%E3%83%BC-%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9'>パワーポイント アイコン素材 フリー ビジネス</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=85-%E3%83%91%E3%83%BC%E3%82%BB%E3%83%B3%E3%83%88-%E5%85%85%E9%9B%BB'>85 パーセント 充電</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=vaio-%E8%B5%B7%E5%8B%95%E3%81%97%E3%81%AA%E3%81%84-%E7%9C%9F%E3%81%A3%E6%9A%97'>Vaio 起動しない 真っ暗</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%B6%8F%E8%83%B8%E8%82%89-%E5%8D%B5-%E7%85%AE%E7%89%A9'>鶏胸肉 卵 煮物</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%97%A4%E4%B8%89-%E6%B8%A9%E5%93%81-%E3%83%81%E3%83%A9%E3%82%B7'>藤三 温品 チラシ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%BE%B3-%E6%B4%B2-%E4%BC%9A-%E8%BE%BB%E5%A0%82-%E6%AF%8D%E8%A6%AA-%E5%AD%A6%E7%B4%9A'>徳 洲 会 辻堂 母親 学級</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=2020-%E6%98%A5%E3%82%B3%E3%83%BC%E3%83%87-40%E4%BB%A3'>2020 春コーデ 40代</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%86%E3%83%B3%E3%83%AA%E3%83%A5%E3%82%A6-%E3%83%AC%E3%82%A4%E3%82%BA-78LML'>テンリュウ レイズ 78LML</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A4%9A%E6%91%A9%E5%85%AD%E9%83%BD%E7%A7%91%E5%AD%A6%E9%A4%A8-%E3%83%97%E3%83%A9%E3%83%8D%E3%82%BF%E3%83%AA%E3%82%A6%E3%83%A0-%E3%81%8A%E3%81%99%E3%81%99%E3%82%81'>多摩六都科学館 プラネタリウム おすすめ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=t%E3%82%B7%E3%83%A3%E3%83%84-%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88-%E5%BE%8C%E3%82%8D'>Tシャツ イラスト 後ろ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B5%E3%82%AF%E3%83%A9%E3%83%9E%E3%82%B9-%E3%82%B9%E3%83%97%E3%83%BC%E3%83%B3-%E3%82%BF%E3%82%B3%E3%83%99%E3%82%A4%E3%83%88'>サクラマス スプーン タコベイト</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=b6-%E3%82%B9%E3%82%B1%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%E5%B8%B3-%E4%B8%AD%E8%BA%AB'>B6 スケジュール帳 中身</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%8F%88%E7%90%B2-%E5%B1%8B%E3%83%93%E3%83%BC%E3%83%B3%E3%82%BA-%E4%B8%8A%E5%B0%BE'>珈琲 屋ビーンズ 上尾</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=AirDrop-%E9%80%A3%E7%B5%A1%E5%85%88%E3%81%AE%E3%81%BF-%E9%81%B8%E6%8A%9E-%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84'>AirDrop 連絡先のみ 選択 できない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A4%E3%82%AA%E3%83%B3-%E5%8D%92%E6%A5%AD%E5%BC%8F-%E5%A5%B3%E3%81%AE%E5%AD%90-2019'>イオン 卒業式 女の子 2019</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%8E%E3%83%BC%E3%83%88%E3%83%B3-%E3%82%A2%E3%83%B3%E3%83%81%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9-mac'>ノートン アンチウイルス Mac</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A4%A7%E5%AD%A6-%E3%82%BC%E3%83%9F-%E4%BB%B2%E9%96%93'>大学 ゼミ 仲間</a>,
+";s:7:"expired";i:-1;}

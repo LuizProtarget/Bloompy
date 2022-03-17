@@ -1,0 +1,60 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:5478:"<br>やっておきたい英語長文は、河合出版から出されている英語の長文に特化した参考書です。 やっておきたい英語長文は、難易度によって300、500、700、1000の4冊に分かれています。以下で、それぞれの概要を紹介していきます。 やっておきたい英語長文300 やっておきたい英語長文のレベルを分かってもらえたかと思います。 やっておきたい英語長文のレビューです。この参考書ほどタチが悪いものはないです。「英語の成績を伸ばしたいならやるべき」という意味不明な風潮がありますが、この参考書は偏差値70以上の生徒向けです。逆にそれ以外の生徒はやってはいけません。 <br> <br>英語長文の参考書は世の中にたくさんあり、どれを用いれば良いのか迷いやすい。今回は、実際の大学入試から良問を厳選し、語数別にシリーズ化した「やっておきたい英語長文」シリーズの概要とそれを用いた勉強法について説明する。 そしてやっておきたい英語長文では1つのレベルに対して複数の長文が収録されているため、それが可能に、つまり1つのレベルの長文を何度も何度も復習して完璧に読めるようにすれば、それと同等レベルの長文を初見で読めるようになるのです！ こんにちは。一橋大学の笠原です。 今回はやっておきたい英語長文700についてその特徴から使い方まで紹介していきます。 やっておきたい英語長文シリーズは長年多くの受験生に使われている参考書です。皆さんも一度は耳にしたことがあると思います。   <br>英語長文の参考書は世の中にたくさんあり、どれを用いれば良いのか迷いやすい。今回は、実際の大学入試から良問を厳選し、語数別にシリーズ化した「やっておきたい英語長文」シリーズの概要とそれを用いた勉強法について説明する。 やっておきたい英語長文シリーズが終わった後に使うべき問題集. <br> <br>英語長文の学習を始めたい人にぴったりなのが、この『やっておきたい英語長文300』です。長文読解で気をつけたいことを交えながら、詳しい使い方について伝えます。 本番レベルの長文読解を身につけるために、「やっておきたい英語長文700」と「やっておきたい英語長文1000」は、冗談抜きでやっておきたいです。ここが制覇できるレベルになると初見の長文問題にも対応できるはずです。 リスニング対策編 <br> <br>やっておきたい英語長文300とのレベル差が激しいので注意！ やっておきたい英語長文シリーズは300・500・700・1000とあるので、やっておきたい英語長文シリーズを順番にやっていこうと思い立って、300をやった後に500に取り組むという人もいると思います。 やっておきたい英語長文1000は、今回紹介する中で最も難易度の高い参考書です。 読解するにはテーマに対する精通力も必要になります。 やっておきたい英語長文がおすすめな人. 「やっておきたい英語長文」は英語の長文問題集の中でもとくに有名な参考書だと思います。私は500、700、1000をやりましたが、使い方を間違えると大変なことになる問題集です。もちろん、良い問題集であることには変わりありませんが、用途をきちん やっておきたい英語長文のレビューです。この参考書ほどタチが悪いものはないです。「英語の成績を伸ばしたいならやるべき」という意味不明な風潮がありますが、この参考書は偏差値70以上の生徒向けです。逆にそれ以外の生徒はやってはいけません。 <br> <br>元塾講師が語る「やっておきたい英語長文」のレベル別詳細レビューです。結論は「500」が一番使い勝手が良いです。国立志望＆難関私大以外の受験生にはおすすめしません。どのレベルを選んだらいいか悩んでいる受験生は、ぜひ参考にしてください。 <br> <br>やっておきたい英語長文は音読するべき？ 英語長文の音読は重要だというのは、いたるところで耳にすると思います。 しかしやっておきたい英語長文はcdや音声がついていないので、正しい発音が分かりま … <br> やっておきたい英語長文シリーズは最終確認のための問題集です。 そのためこの問題集が終わったら1つ上のレベルの問題集に進みましょう。 具体的には以下の順番でやるのが良いでしょう。 やっておきたい英語長文500はMARCHレベルらしいんですが実際MARCHの長文ってもっとむずかしいですよね？ やておき500marchレベルもないと思いますよ。 英語が全くできません... やっておきたい英語長文500をやってたのですがまだ全然できなかったのでハイパートレーニングのセンターレベルを購入して今unit1をやってみました 5/13という正解数の 少なさに思わず泣いてしまいました <br>";s:7:"keyword";s:42:"やっておきたい 英語 長文 音読";s:5:"links";s:4190:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B8%AD-%E7%B5%B6%E5%BE%8C-%E3%82%A2%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%AB'>中 絶後 アルコール</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%BB%8A-%E8%B2%B7%E3%81%A3%E3%81%9F-%E8%8B%B1%E8%AA%9E'>車 買った 英語</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%8C%97%E5%A4%A7-%E7%94%9F%E5%8D%94-%E3%82%AB%E3%83%BC%E3%83%89'>北大 生協 カード</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=jal-%E9%96%A2%E7%A9%BA-%E3%83%90%E3%83%B3%E3%82%B3%E3%82%AF-%E6%A9%9F%E5%86%85%E9%A3%9F'>Jal 関空 バンコク 機内食</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%8D%E3%82%85%E3%81%86%E3%82%8A-%E5%A1%A9%E6%98%86%E5%B8%83-%E3%81%A4%E3%81%8F-%E3%81%8A%E3%81%8D'>きゅうり 塩昆布 つく おき</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=VBA-Join-%E5%9E%8B%E3%81%8C-%E4%B8%80%E8%87%B4-%E3%81%97%E3%81%BE-%E3%81%9B%E3%82%93'>VBA Join 型が 一致 しま せん</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=GoPro-MAX-%E9%98%B2%E6%B0%B4%E3%83%8F%E3%82%A6%E3%82%B8%E3%83%B3%E3%82%B0'>GoPro MAX 防水ハウジング</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%A6%AC%E5%88%BA%E3%81%97-%E7%9C%9F%E7%A9%BA%E3%83%91%E3%83%83%E3%82%AF-%E8%A7%A3%E5%87%8D%E5%BE%8C'>馬刺し 真空パック 解凍後</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A5%88%E8%89%AF-%E4%B8%89%E6%9D%A1%E9%80%9A%E3%82%8A-%E3%82%AB%E3%83%95%E3%82%A7'>奈良 三条通り カフェ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A6%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B0%E3%83%9D%E3%82%B9%E3%83%88-9-2020-%E3%82%82%E3%81%88%E3%81%8E'>ウイニングポスト 9 2020 もえぎ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%98%E3%83%83%E3%83%89%E3%83%8F%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0-%E9%9D%A2%E8%AB%87-%E6%8C%81%E3%81%A1%E7%89%A9'>ヘッドハンティング 面談 持ち物</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%87%BA%E7%94%A3%E3%83%AC%E3%83%9D-%E4%B8%89-%E4%BA%BA%E7%9B%AE'>出産レポ 三 人目</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%A6%E3%82%93%E3%81%8B%E3%82%93-%E7%A8%AE%E9%A1%9E-%E7%97%87%E7%8A%B6'>てんかん 種類 症状</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=olgou-%E4%B8%AD%E7%9B%AE%E9%BB%92-%E3%82%A4%E3%83%B3%E3%82%B9%E3%82%BF'>Olgou 中目黒 インスタ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%92%E3%83%AD%E3%82%A2%E3%82%AB-%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC-%E3%82%AC%E3%83%81%E3%83%A3'>ヒロアカ ポスター ガチャ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%AF%8C%E5%B2%A1-%E7%BE%A9%E5%8B%87-%E3%83%9E%E3%82%B9%E3%82%AF'>富岡 義勇 マスク</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%88%90%E4%BA%BA%E5%BC%8F-%E7%A7%81%E6%9C%8D-2ch'>成人式 私服 2ch</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%97%E3%83%AD%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9-%E9%9B%86%E4%B8%AD%E3%83%89%E3%82%A2%E3%83%AD%E3%83%83%E3%82%AF-%E6%95%85%E9%9A%9C'>プロボックス 集中ドアロック 故障</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=don%27t-scare-me-%E6%84%8F%E5%91%B3'>Don't Scare Me 意味</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%94%AF-%E6%84%8F%E5%91%B3-%E6%82%AA%E3%81%84'>唯 意味 悪い</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=web%E3%83%9A%E3%83%BC%E3%82%B8-%E4%BF%9D%E5%AD%98-chrome'>Webページ 保存 Chrome</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Gmail-%E7%A4%BE%E5%86%85-%E3%83%95%E3%82%A9%E3%83%AB%E3%83%80-%E3%83%AA%E3%83%B3%E3%82%AF'>Gmail 社内 フォルダ リンク</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B8%87%E6%AD%A9%E8%A8%88-%E8%85%95%E6%99%82%E8%A8%88-%E9%AB%98%E9%BD%A2%E8%80%85'>万歩計 腕時計 高齢者</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=macbook-air-sd%E3%82%AB%E3%83%BC%E3%83%89-%E8%AA%AD%E3%81%BF%E8%BE%BC%E3%81%BE%E3%81%AA%E3%81%84'>Macbook Air Sdカード 読み込まない</a>,
+";s:7:"expired";i:-1;}

@@ -1,0 +1,66 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:3952:"<br>ポリプロピレンというとあまりイメージが沸かないかもしれませんが、日本では年間300万トンもの量が消費されています。 家庭の中では食品を包装するためのラップや、ジュースキャップなどが代表的なポリプロピレン製の製品です。 今回はそんなポリプロピレンの特徴と耐熱温度の注意点について、詳しくご紹介したいと思います。 1 ポリプロピレン製品を電子レンジでチンしてもいいの？ 有害物質は出る？ 2 電子レンジでチンしたらプラスチック容器が溶けた！ 中の食品は食べても大丈夫？ 2.1 食品に使われるプラスチック製容器には厳しい基準があった！; 2.2 どういうときにポリプロピレンは溶けてしまうの？  <br> <br> スーパーのお惣菜って、いろいろな種類をちょっとずつ食べられるので便利ですよね。 先日、肉じゃがを買って温めようと思った時に、ふと 「発砲スチロールの容器を電子レンジで加熱しても大丈夫だったかな？」 と心配になりました。 スーパーやコンビニのお弁当は、パッケージに電子レンジでの加熱時間が書いてあります。 溶けたプラスチックを食べたことによる 体への影響はありますでしょうか？ 赤ちゃんは大丈夫でしょうか？ 材質はしゃもじに記入されていないのでわかりません。 （日本製としかかかれていませんでした） どなたか詳しい方、教えて下さい。お願致します。 ポリプロピレンがお湯に溶けて、何か成分が溶け出すことはありますか？その場合、有害なものでしょうか？ 2.もし何か成分が溶け出す場合、それが哺乳瓶に付着してしまう可能性はありますか？ よろしくお願いします。 目次. <br> <br>ポリプロピレンのタッパーは最大140度程度なので、おっしゃるとおり油との接触部分は溶けます。油は加熱し過ぎると200度300度とかに達しますから。ミートソースなどで油と食材が分離してしまっている場合は、一気に加熱せずに定期的に混ぜながら温めてやる必要があります。 ゴムベラが溶けた！食べたらヤバイ？使うなら耐熱のゴムベラで！ tomikm 2020年4月20日 \今月のオトク情報／ 無料で先着3000名プレゼント. 電子レンジで加熱した結果、熱でプラスチック容器が変形しても収縮しているのであり、プラスチックは食品に溶け込んでいませんので食べても大丈夫です。 <br> <br>お弁当やお惣菜などが入っているプラスチック容器！ そのままお皿に移さずに電子レンジで温めてよいのか気になったことはないでしょうか？ もしかしたら、プラスチック容器が溶けてしまって、それを食べてしまったら体に害を及ぼさないかという不安があると思います。 妊娠4ケ月の妊婦です。妊娠初期の頃（4週～10週）つわりが酷く、夫が時々食事を作ってくれたりしていたのですが、チャーハンなどの炒めものを作る時に、プラスチック製のしゃもじを使用していたことがわかりました。そのしゃもじを見 <br> <br>ポリプロピレンフィルムについての基礎知識から製造方法・用途についての情報、 またポリプロピレンフィルムについての一般的なご質問についてご紹介致します。 ポリプロピレンフィルムは、 透明性・光沢性・耐熱性等に優れ、防湿性も有しており、食品から産業用まで様々な用途に使用されている(包装用)フィルムです。 最も多く使用されている食品包装用にお� <br>";s:7:"keyword";s:41:"ポリプロピレン 溶けた 食べた";s:5:"links";s:5798:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A2%E3%83%AD%E3%83%BC%E3%82%BA-%E3%82%BF%E3%83%96%E3%83%AC%E3%83%83%E3%83%88-F-02F-%E4%B8%8D%E5%85%B7%E5%90%88'>アローズ タブレット F 02F 不具合</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%93%E3%83%83%E3%82%AF%E3%82%AB%E3%83%A1%E3%83%A9-%E6%A0%AA%E4%B8%BB%E5%84%AA%E5%BE%85-%E5%BB%B6%E9%95%B7'>ビックカメラ 株主優待 延長</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A4%A7%E7%9F%B3%E5%AF%BA-%E6%A1%9C-%E5%9C%9F%E6%97%A5'>大石寺 桜 土日</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AF%E3%83%AD%E3%83%A0%E3%83%8F%E3%83%BC%E3%83%84-%E4%B8%AD%E5%8F%A4-%E8%B2%A1%E5%B8%83'>クロムハーツ 中古 財布</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%94%9F%E6%B4%BB%E4%BF%9D%E8%AD%B7-%E6%94%AF%E7%B5%A6%E6%97%A5-%E9%B9%BF%E5%85%90%E5%B3%B6'>生活保護 支給日 鹿児島</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=windows-us%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89-%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3'>Windows Usキーボード ノートパソコン</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B9%E3%83%9E%E3%83%9B-100%25%E3%81%AB-%E3%81%AA%E3%82%89%E3%81%AA%E3%81%84'>スマホ 100%に ならない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=100%E5%9D%87-%E5%8A%A0%E6%B9%BF%E5%99%A8-%E7%89%9B%E4%B9%B3%E3%83%91%E3%83%83%E3%82%AF'>100均 加湿器 牛乳パック</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%9D%BE%E8%8C%B8%E3%81%AE%E3%81%8A-%E5%90%B8%E3%81%84%E7%89%A9-%E7%82%8A%E3%81%8D%E8%BE%BC%E3%81%BF%E3%81%94%E9%A3%AF-2%E5%90%88'>松茸のお 吸い物 炊き込みご飯 2合</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B8%8A%E9%87%8E%E3%83%9E%E3%83%AB%E3%82%A4-%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%E3%83%AB%E3%83%BC%E3%83%A0-%E3%82%B3%E3%83%B3%E3%82%BB%E3%83%B3%E3%83%88'>上野マルイ パウダールーム コンセント</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%BB%A2%E8%81%B7%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88-%E5%BD%B9%E3%81%AB%E7%AB%8B%E3%81%9F-%E3%81%AA%E3%81%84'>転職エージェント 役に立た ない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A6%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B0%E3%83%9D%E3%82%B9%E3%83%88-9-%E3%83%AD%E3%83%BC%E3%82%A8%E3%83%B3%E3%82%B0%E3%83%AA%E3%83%B3'>ウイニングポスト 9 ローエングリン</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%8A%97%E4%BD%93%E6%A4%9C%E6%9F%BB-%E5%80%A4%E6%AE%B5-%E3%82%B3%E3%83%AD%E3%83%8A'>抗体検査 値段 コロナ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%82%E3%81%A4%E6%A3%AE-%E3%83%9E%E3%82%A4%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3-%E6%9C%8D-id'>あつ森 マイデザイン 服 Id</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A4%A7%E6%9D%B1-%E3%83%A9%E3%83%B3%E3%83%81-%E5%AD%90%E9%80%A3%E3%82%8C'>大東 ランチ 子連れ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%A3%90%E8%B6%8A%E8%A5%BF%E7%B7%9A-%E5%BB%83-%E9%A7%85'>磐越西線 廃 駅</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%BF%E3%83%BC%E3%83%B3-%E3%82%B5%E3%83%BC%E3%82%B8%E3%83%A5-%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC'>ターン サージュ レビュー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%95%E3%82%A9%E3%83%BC%E3%83%88%E3%83%8A%E3%82%A4%E3%83%88-PC-%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC-PS3'>フォートナイト PC コントローラー PS3</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=36%E5%8D%94%E5%AE%9A-%E9%9B%BB%E5%AD%90%E7%94%B3%E8%AB%8B-API'>36協定 電子申請 API</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%82%E3%81%98-%E3%81%9F%E3%81%9F%E3%81%8D-%E3%83%95%E3%83%A9%E3%82%A4'>あじ たたき フライ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%A4%E3%83%9E%E3%83%8F-PAS-%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC-%E4%BA%A4%E6%8F%9B-%E6%99%82%E6%9C%9F'>ヤマハ PAS バッテリー 交換 時期</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Girls2-%E3%82%AA%E3%83%AA%E3%83%83%E3%82%AF%E3%82%B9-%E5%8A%87%E5%A0%B4-3-%E6%9C%88-7-%E6%97%A5'>Girls2 オリックス 劇場 3 月 7 日</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%AC%BC%E6%BB%85%E3%81%AE%E5%88%83-%E5%B9%95%E9%96%93%E7%94%BB%E9%9B%86-%E9%80%9A%E5%B8%B8%E7%89%88'>鬼滅の刃 幕間画集 通常版</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%BE%8E%E7%9A%84-3%E6%9C%88%E5%8F%B7-2020-%E8%B3%BC%E5%85%A5'>美的 3月号 2020 購入</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Safari-%E3%81%8A%E6%B0%97%E3%81%AB%E5%85%A5%E3%82%8A-%E9%96%8B%E3%81%8B%E3%81%AA%E3%81%84'>Safari お気に入り 開かない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%B2%A7%E8%A1%80%E7%97%85%E9%99%A2-%E3%81%8A%E3%81%99%E3%81%99%E3%82%81-%E6%A8%AA%E6%B5%9C'>貧血病院 おすすめ 横浜</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%94%E3%82%A2%E3%82%B9-%E4%BD%8D%E7%BD%AE-%E8%80%B3%E3%81%9F%E3%81%B6-2%E3%81%A4'>ピアス 位置 耳たぶ 2つ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%AF%9B%E7%A9%B4-%E5%9F%8B%E3%82%81%E3%82%8B-%E3%83%A1%E3%83%B3%E3%82%BA'>毛穴 埋める メンズ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=iphone-%E9%80%A3%E7%B5%A1%E5%85%88-%23%E3%81%AB%E5%88%86%E9%A1%9E'>Iphone 連絡先 #に分類</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%BF%E3%82%B3-%E3%83%91%E3%82%A8%E3%83%AA%E3%82%A2-%E7%82%8A%E9%A3%AF%E5%99%A8'>タコ パエリア 炊飯器</a>,
+";s:7:"expired";i:-1;}

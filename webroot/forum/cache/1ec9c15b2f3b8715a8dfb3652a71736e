@@ -1,0 +1,57 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:5581:"サブ3 練習 2019.3.3 【フルマラソン サブ3】一週間前の15kmペース走からゴールタイムを予測… サブ3 練習 2020.2.11 雪道で20kmジョギングをする利点 サブ3 練習 2018.12.22 【フルマラソン サブ3】ヤッソ800を3分でできればザブ3できるのか？ サブ3 練習 2019.1.5 ここではサブ3達成のための、インターバル走の練習方法についてお話します。 インターバル走の目的は、サブ3ペースで走り切るスピードを身につけることです。 スピードを身につけておくと、レース後半のペースアップで役立ちます。 サブ3はフルマラソンを3時間以内に完走する事を言います。 すなわち、ハーフマラソンを1時間30分、1km4分15秒ペースで42.195km走り切ると達成できます。 多くのサブ3達成ランナーさん達の練習法や達成までのプロセスを書いたブログだったりを読みました。  サブ3達成するための練習は、日々故障や免疫力の低下と隣合わせ。怪我や病気でサブ3に挑戦すら出来なくなったら元も子もありません。サブ3レベルの練習に取り組む際には、今まで以上に怪我や病気に注意を払ってください。 ネコ好き48歳／pb フル3:20:19（2013あいの土山マラソン）／現在はサブ5 ？／今から練習したらpb更新できるかな？挑戦（実験？）してみます／目標はサブ3.5 ⇒ 3ヵ月後の2019年12月22日加古川マラソン／サブ3.5（予定）までの軌跡を発信します！ ⇒ お問い合わせ 41歳の誕生日を迎えた翌日、俺は「サブ3宣言」した。 www.all-out-running.com 現在のフルマラソンのベストは、2018年12月の湘南国際マラソンで記録した、3時間24分07秒 ハーフのベストは、2018年12月の足立フレンドリーマラソンで記録した、1時間33分45秒 これから1年間かけて、フルマラ… 3回目のフルマラソンの練習でサブス … フルマラソンを走るランナーにとっての憧れが、3時間を切るタイムでゴールする通称「サブ3（サブスリー）」です。 何度かマラソンに出場し、完走することに慣れている人でも3時間の壁は厚くなかなか超えることが出来ないものです。 2シーズン目：サブスリーが見えてきた？ 練習のコツ(中期、フル3時間30分くらいから) 長い距離の練習(20-30km)をする; ハーフマラソンで足りない部分を発見; この後練習を続け、1シーズン目の終わりにはフルで3時間12分台を出すことが出来ました。 完走を目指すのか、サブ4を目指すのか、サブ3.5を目指すのかでは、具体的な練習内容が変わってきます。 前回の記事では、3ヶ月のトレーニングでフルマラソンサブ3.5を達成する超具体的プロセスと題して、フルマラソンでサブ3.5を目指すための全体像、そして「考え方」をお伝えしました。今回は「練習計画」という部分に絞って、3ヶ月でサブ3.5を達成する方法を考えていきましょう。 市民ランナーの3%と言われてるサブスリー（サブ3）を達成するには、具体的な練習方法の前に根本的にランニングとの向き合い方を変える必要があります。 ランナーにとって憧れであるサブスリーを達成する為に必要な考え方を紹介します。 練習でフルマラソンに挑戦してみる. フルマラソンサブ3 2017.12.18 マラソンサブ3達成練習ー20km以上走る時は事前の補給を忘れるな フルマラソンサブ3 2018.1.5 積雪時は陸上競技場がスケートリンクになる！スピード練習は危険 フルマラソンサブ3 2017.10.22 サブ3を達成する為に必要な事. フルマラソンを走る上で、最初にやらなければならないのは「目標設定」です。. 限りなく3時間に近いサブスリーを達成するために作成した、 大会22週前からはじめる「週4回フルマラソントレーニングメニュー」をご紹介いたします。 step 04 サブ3を目指そう！ 大会6ヶ月前からの週4回フルマラソントレーニングメニュー 【フルマラソン サブ3】インターバル走の練習方法. マラソンでサブ3を最短距離で達成するために。普段のトレーニングに加え、自宅で出来る効果的な筋力トレーニングを3つ厳選してご紹介していきます! マラソンシュミレーターを使い、達成可能なスピードに近づけていく ↓ フォームを再度見直し、軽さを意識したフォームに変える. !こちらの記事もどうぞ↓1．マラソンに筋トレは必要？そもそもマラソンという競技に筋トレは必要なのでし 】フルマラソンでサブ3.5を目指すための練習方法 2019/1/1 2020/2/11 マラソントレーニング サブ4を達成してから、次に狙うのは3時間30分を切る、サブ3.5です。 3/20の鳥取マラソンでサブ3達成。 記録2時間57分。 その後福岡国際マラソンに出たくて2時間40分切りを目指しますが、父親が白血病になって闘病の末に死んだり、勤めていた会社が倒産して起業の準備をしたりで練習どころではなくなって、走る習慣もなくなってしまいました。 ";s:7:"keyword";s:33:"フルマラソン 練習 サブ3";s:5:"links";s:4470:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%86%B7%E5%87%8D-%E7%94%9F%E3%81%97%E3%82%89%E3%81%99-%E9%A3%9F%E3%81%B9%E6%96%B9'>冷凍 生しらす 食べ方</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%AB%98%E5%B1%B1%E5%AF%BA-%E9%B3%A5%E7%8D%A3%E6%88%AF%E7%94%BB-%E5%99%A8'>高山寺 鳥獣戯画 器</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A6%E3%83%BC%E3%83%90%E3%83%BC%E3%82%A4%E3%83%BC%E3%83%84-%E4%BD%8D%E7%BD%AE%E6%83%85%E5%A0%B1-%E8%A8%AD%E5%AE%9A'>ウーバーイーツ 位置情報 設定</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B9%E3%83%AA%E3%83%A9%E3%83%B3%E3%82%AB-%E3%82%A2%E3%83%BC%E3%83%A6%E3%83%AB%E3%83%B4%E3%82%A7%E3%83%BC%E3%83%80-%E8%B3%87%E6%A0%BC'>スリランカ アーユルヴェーダ 資格</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B8%8A%E8%AB%8F%E8%A8%AA%E9%A7%85-%E6%99%82%E5%88%BB%E8%A1%A8-%E3%83%A4%E3%83%95%E3%83%BC'>上諏訪駅 時刻表 ヤフー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%AD%E3%83%B3%E3%82%B0-%E3%83%91%E3%83%AB%E3%82%B9-%E3%83%A4%E3%82%B0-%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC-%E3%82%A8%E3%83%AA%E3%83%BC%E3%83%88-%E5%90%8D%E5%8F%A4%E5%B1%8B'>ロング パルス ヤグ レーザー エリート 名古屋</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AB%E3%83%BC%E3%83%95%E3%82%A3%E3%83%AB%E3%83%A0-%E6%B4%97%E5%89%A4-%E5%BC%B1%E3%82%A2%E3%83%AB%E3%82%AB%E3%83%AA%E6%80%A7'>カーフィルム 洗剤 弱アルカリ性</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%A8%AA%E6%B5%9C-%E5%88%91%E5%8B%99%E6%89%80-%E4%BD%9C%E6%A5%AD%E8%A3%BD%E5%93%81'>横浜 刑務所 作業製品</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A4%E3%83%B3%E3%82%B9%E3%82%BF%E3%82%B0%E3%83%A9%E3%83%A0-%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B3-%E8%89%B2'>インスタグラム アイコン 色</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Firefox-%E3%83%9D%E3%83%83%E3%83%97%E3%82%A2%E3%83%83%E3%83%97-%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF-about%3Aconfig'>Firefox ポップアップ ブロック About:config</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=tmp%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB-%E5%BE%A9%E5%85%83-%E3%83%95%E3%83%AA%E3%83%BC%E3%82%BD%E3%83%95%E3%83%88'>Tmpファイル 復元 フリーソフト</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%87%8C%E5%B8%B0%E3%82%8A-%E5%87%BA%E7%94%A3-%E5%A6%8A%E5%A9%A6-%E5%81%A5-%E8%A8%BA'>里帰り 出産 妊婦 健 診</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AB%E3%83%AB%E3%83%87%E3%82%A3-%E6%9F%9A%E5%AD%90%E8%83%A1%E6%A4%92-%E3%83%89%E3%83%AC%E3%83%83%E3%82%B7%E3%83%B3%E3%82%B0'>カルディ 柚子胡椒 ドレッシング</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%85%90%E7%AB%A5%E6%89%B6%E9%A4%8A%E6%89%8B%E5%BD%93-%E8%A8%88%E7%AE%97-%E6%BA%90%E6%B3%89%E5%BE%B4%E5%8F%8E%E7%A5%A8'>児童扶養手当 計算 源泉徴収票</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Windows10-%E8%B5%B7%E5%8B%95%E6%99%82-%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%8E%A5%E7%B6%9A-%E9%81%85%E3%81%84'>Windows10 起動時 ネットワーク接続 遅い</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%AE%AE%E5%B4%8E-%E7%84%BC%E3%81%8D%E9%B3%A5-%E6%8C%81%E3%81%A1%E5%B8%B0%E3%82%8A'>宮崎 焼き鳥 持ち帰り</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%AC%E3%83%A2%E3%83%B3-%E6%A5%BD%E8%AD%9C-%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%BC%E3%83%B3'>レモン 楽譜 エレクトーン</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%99%E3%81%8E%E3%82%82%E3%81%A8%E3%81%BE%E3%81%95%E3%81%A8-%E7%B4%85%E3%81%84%E8%8A%B1-%E6%AD%8C%E8%A9%9E'>すぎもとまさと 紅い花 歌詞</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%87%E3%83%BC-%E3%83%90%E3%82%A4%E3%83%88-%E8%97%A4%E6%B2%A2'>ホワイトデー バイト 藤沢</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%A1%E3%82%85%E3%83%BC%E3%82%8B-%E8%A2%8B-%E9%A3%9F%E3%81%B9%E3%81%9F'>ちゅーる 袋 食べた</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%8E%9A%E6%8F%9A%E3%81%92-%E3%81%BB%E3%81%86%E3%82%8C%E3%82%93%E8%8D%89-%E3%82%AA%E3%82%A4%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BD%E3%83%BC%E3%82%B9'>厚揚げ ほうれん草 オイスターソース</a>,
+";s:7:"expired";i:-1;}

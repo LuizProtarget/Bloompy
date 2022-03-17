@@ -1,0 +1,56 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:3926:"ナイス 0; 違反報告. 2015/6/5 23:23:01. <br> <br>カテゴリ.  <br>ここでも、前回同様ドット絵作成ソフトを使いましょう。 今回動かすのは学ランの裾部分ですので、 そこに目立つ色(今回は蛍光緑)で 二枚目用の線画を上書きしています。 差分のドット絵を作るコツとしては、 完成時の動きを頭でイメージしておくと楽です。 頭でイメージするのが難しい場� いうなれば普通の絵画もドットの連続であり、影の付け方や絵のバランスなんかも同じです。 線で描くか、ドットで描くかの違いだけです。 ですが、それはドット数が多い、大きな画像を描くときの話になります。 ゲームで使用するような小さなドット絵（これをチップ（tip ドット絵の描き方について書いています。 < 初心者向けコンテンツ一覧; ドット絵の描き方～edgeを使って描いてみようz～ > 2011年01月01日 00:00. edgeを使ったアニメーションgifの作り方について説明します。 使用するツールは、これです。 まず、アニ … ドット画像を作成しよう2 ＜edge＞ 更新日：2013/9/26 どんどんいきます！ 百聞は一見に！ 百見は一行にしかず！ 前回の続きになります。  質問者. EDGE派ではないので詳細な使い方は分かりませんが 低解像度の画像しか読めないのであれば あらかじめペイントなどで編集してからコピペすればいいんじゃないでしょうか 自動減色とかあるんですかね そこもちょっと気になります. はじめてのEDGEはドット絵エディタ EDGE の使い方【はじめての描画から … 誰でもできるドット絵の書き方を現役ゲームクリエイターがレクチャーします。ドット絵専用のツール『edge』を使って、これまでドット絵を描いたことがない人でもできるようカンタン丁寧に説明します。アイコンから絵画風のものまで、いろいろなものが描けます。 カテゴリ. アニメーションの作り方. ドット絵の描き方について書いています。 < アニメーションの作り方; パレットについて > 2011年01月02日 00:00. EDGE2ご購入のメールをくださった方 2017/07/10 高機能ドット絵エディタ「EDGE2」 Ver.1.14 リリース 2015/08/15 高機能ドット絵エディタ「EDGE2」 Ver.1.13 リリース 2014/02/21 メールアドレス変更のお知らせ② 2013/11/19 高機能ドット絵エディタ「EDGE2」 Ver.1.12 リリース 2013/05/06 今回は、ドット絵作成ソフト「edge」のカラーパレットの使い方を紹介します。edgeはとても使いやすいソフトですが、操作がややこしい部分がいくつかあります。中でも「カラーパレット」はかなり特殊で、使い方に悩んでいる方もいるかと思います。とい ドット絵の描き方～edgeを使って描いてみようz～ 1、ツールのダウンロード ドット絵はパソコンに入っているペインターでも描けますが、専用のツールを使ったほうが効 … 今回は無料で使えるドット絵作成ツール「edge」の使い方を紹介します。edgeはリリースから10年以上経つフリーソフトですが、今も変わらぬ人気を誇るドット絵エディタです。無料ながら非常に使いやすく、ドット絵をはじめるのにおすすめのツールです EDGEはたかぼーこと飯田貴士により個人で開発されているMicrosoft Windows専用のグラフィックソフトウェアだ。公式サイトは高機能ドット絵エディタ EDGE | TAKABO SOFTでダウンロードもこちらからできるようになっている。. klq2344さん. <br>";s:7:"keyword";s:27:"edge 使い方 ドット絵";s:5:"links";s:3638:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%AD%A6%E5%AF%9F%E5%AE%98%E3%83%8D%E3%82%B3%E3%83%90%E3%83%90%E4%BA%8B%E4%BB%B6-%E7%8A%AF%E4%BA%BA-%E5%90%8D%E5%89%8D'>警察官ネコババ事件 犯人 名前</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BA-%E3%83%AC%E3%82%A4-pixiv'>スターウォーズ レイ Pixiv</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%97%E3%81%BE%E3%82%80%E3%82%89-%E3%82%B3%E3%83%BC%E3%83%87-30%E4%BB%A3'>しまむら コーデ 30代</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%AB%98%E6%89%80%E4%BD%9C%E6%A5%AD%E8%BB%8A-%E8%B3%87%E6%A0%BC-%E6%9C%AD%E5%B9%8C'>高所作業車 資格 札幌</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%84%82%E8%82%AA%E7%87%83%E7%84%BC%E3%82%B9%E3%83%BC%E3%83%97-%E7%99%BD%E8%8F%9C-%E4%BB%A3%E7%94%A8'>脂肪燃焼スープ 白菜 代用</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BA%AC%E6%80%A5-%E6%99%AE%E9%80%9A-%E6%89%80%E8%A6%81%E6%99%82%E9%96%93'>京急 普通 所要時間</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A4%A7%E5%92%8C-%E3%83%8F%E3%82%A4%E3%83%A4%E3%83%BC-%E6%B1%82%E4%BA%BA'>大和 ハイヤー 求人</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%AD%90%E5%AE%AE%E7%AD%8B%E8%85%AB-%E6%89%8B%E8%A1%93%E5%BE%8C-%E9%80%9A%E9%99%A2'>子宮筋腫 手術後 通院</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%86%B4%E3%81%88%E3%81%AA%E3%81%84%E5%BD%BC%E5%A5%B3%E3%81%AE%E8%82%B2%E3%81%A6-%E3%81%8B-%E3%81%9F-Fine-7%E9%80%B1%E7%9B%AE%E7%89%B9%E5%85%B8'>冴えない彼女の育て か た Fine 7週目特典</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B6-%E3%82%B3%E3%82%AB-%E3%82%B3%E3%83%BC%E3%83%A9-%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8B%E3%83%BC'>ザ コカ コーラ カンパニー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%86%E3%83%8B%E3%83%9F%E3%83%A5-%E3%83%89%E3%83%AA%E3%83%A9%E3%82%A4-2020-%E3%82%B2%E3%82%B9%E3%83%88'>テニミュ ドリライ 2020 ゲスト</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%8C%AB-%E8%85%B8%E9%96%89%E5%A1%9E-%E3%81%8A%E8%85%B9'>猫 腸閉塞 お腹</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=line-%E5%85%AC%E5%BC%8F%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88-%E5%89%8A%E9%99%A4%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84'>Line 公式アカウント 削除できない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A2%E3%82%B8-%E5%86%85%E8%87%93-%E9%A3%9F%E3%81%B9%E3%82%8B'>アジ 内臓 食べる</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%85%A5%E9%99%A2-%E9%9D%B4-%E3%82%B9%E3%83%8B%E3%83%BC%E3%82%AB%E3%83%BC'>入院 靴 スニーカー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%9D%E3%81%AE%E4%BB%96-%E3%81%AE%E5%BB%BA%E8%A8%AD%E4%BA%8B%E6%A5%AD-%E4%BF%9D%E9%99%BA%E6%96%99%E7%8E%87'>その他 の建設事業 保険料率</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%87%A8%E5%BA%8A%E6%A4%9C%E6%9F%BB%E6%8A%80%E5%B8%AB-%E6%A8%A1%E8%A9%A6-%E9%81%8E%E5%8E%BB-%E5%95%8F'>臨床検査技師 模試 過去 問</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Unicode-%E6%96%87%E5%AD%97%E5%8C%96%E3%81%91-%E4%B8%80%E8%A6%A7'>Unicode 文字化け 一覧</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=X-T1-xf27mm'>X T1 Xf27mm</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%9D%B1%E6%97%A5%E6%9C%AC-%E5%A4%A7%E9%9C%87%E7%81%BD-%E6%AE%BA%E4%BA%BA'>東日本 大震災 殺人</a>,
+";s:7:"expired";i:-1;}

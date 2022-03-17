@@ -1,0 +1,82 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:6191:"<p>左手が、臨床工学技士国家試験対策用に作ったものです。 要点しか書いてませんので、詳しい説明は専門書などをご参考下さい。 稚拙なノートですが、宜しければ見てやって下さい (_ _)>(_ _)> 【国家試験対策】まとめノート：検査機器総論.part1 (2010/12/24) 【国家試験対策】まとめノート：医用工学.part1 (2010/12/23) 第56回 臨床検査技師国家試験を振り返って part40 (2010/10/18) 本サイトについて 管理人が作成した診療放射線技師国家試験の対策ノートを公開してます この対策ノートは過去の国家試験（2008～2020）をもとに、必要最小限の知識で作成されています よってこのノートさえ丸暗記してしまえば、無駄なく効率よく国 これから臨床検査技師を目指そうと思っている学生さんへ！ みなさんは臨床検査技師になるにあたって「数学・化学・生物・物理はできなきゃダメなの？！」って気になりますよね？ これらの科目が必須かどうか、私の主観で説明していきますね！ 臨床検査技師の過去問題を年度ごとにクイズ形式で出題します。リアルタイムに ×の判定をするので緊張感を持って勉強ができます。間違えた問題のみを出題する復習機能で苦手な部分を克服することができます！ スポンサーリンク 臨床検査技師 過去問題 合格基準. 臨床検査技師と名前は似ていますが、仕事の内容は全く違います。 臨床工学技士はメディカルスタッフの一職種であり、現在の医療に不可欠な医療機器のスペシャリストです。今後益々増大する医療機器の安全確保と有効性維持の担い手としてチーム医療に貢献しています。 語呂で憶える臨床知識(25) 微生物学(45) 生理機能検査学(40) 遺伝子検査学(28) 血液学(33) 免疫学(42) 臨床化学(36) 解剖学(9) 細胞診(17) 生化学(11) 医用工学(32) 検査管理(13) 医学総論(14) 公衆衛生(14) 医動物学(8) 実験結果報告(17) 専門学生日記(12) </p> <p>臨床検査技師を目指すなら大学や短期大学、専門学校に進学します。 この記事では、臨床検査技師が 関東地方は学校の数が多いので2つに分けて記事にしています。 今回は東京・神奈川・千葉の3つの県の学校をみていきます。 その中でも私立大学10校を紹介します。 臨床検査技師を目指して大学へ行く方に向けて！ 先輩として、大学4年間の流れを簡単に説明していきますよ。 特に「大学1年生」の方には、学生生活の過ごし方で伝えたい事があります！ ... 医用工学概論 ( 1 ) 臨床化学 ( 23 ) 臨床検査総論 ( 12 ) 医動物学 ( 1 ) 関係法規 ( 1 ) 公衆衛生学 ( 3 ) フリースペース 最新cm 今回はみんな悩んでいるであろう医用工学のまとめをのせておきます。ここに書かれている内容を理解できれば国家試験や定期テストなどはクリアできるはずです。逆にこれ以上難しい内容が出た時はあきらめて捨てましょう。他のパーセンテージが高い教科を取り組 臨床工学技士（りんしょうこうがくぎし、英: Clinical Engineer, CE, Clinical Engineering Technologist, CET, Medical Engineer, ME ）は、医療に関する日本の国家資格の一つである。 英語表記については、多く存在するが職能団体である日本臨床工学技士会はClinical Engineerに統一している。  臨床検査技師を目指すなら大学や短期大学、専門学校に進学します。 この記事では、臨床検査技師が 関東地方は学校の数が多いので2つに分けて記事にしています。 今回は東京・神奈川・千葉の3つの県の学校をみていきます。 その中でも私立大学10校を紹介します。 今回は「臨床工学技士の業務」についてまとめていきます。臨床工学技士は医療機器の保守管理を業としていますが実際は臨床の関わりがとてもあります。そんなところが学生と臨床の相違に繋がっているように感じます。 実際の臨床 臨床工学技士で関わりが多いのは透析業務となります。透� 臨床工学技士、臨床検査技師、放射線技師の違いは？｜姫路医療専門学校のブログページです。学校・スタッフからのお知らせ、学科別のプロの声やオープンキャンパス等の最新情報を随時お届けしていま … </p> <p>臨床検査技師 国家試験対策 ... 医用工学まとめ. </p> <p>今回は「臨床工学技士の業務」についてまとめていきます。臨床工学技士は医療機器の保守管理を業としていますが実際は臨床の関わりがとてもあります。そんなところが学生と臨床の相違に繋がっているように感じます。 実際の臨床 臨床工学技士で関わりが多いのは透析業務となります。透� 優れた「臨床検査技師」や「臨床工学技士」をめざし、細やかな少人数教育を実践しています。神奈川県横浜市 桐蔭横浜大学医用工学部。学部の概要やカリキュラムを掲載。生命医工学科と臨床工学科の案内や入試情報も掲載。 臨床検査技師と名前は似ていますが、仕事の内容は全く違います。 臨床工学技士はメディカルスタッフの一職種であり、現在の医療に不可欠な医療機器のスペシャリストです。今後益々増大する医療機器の安全確保と有効性維持の担い手としてチーム医療に貢献しています。 また、臨床検査技師としての知識があれば、勉強はそこまで大変ではありません。国家試験も臨床検査技師に比べたらそこまで難しくないでしょう。 看護師の資格を取って働くデメリット. </p>";s:7:"keyword";s:41:"臨床検査技師 医用工学 まとめ";s:5:"links";s:9276:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Venchi-%E3%83%81%E3%83%A7%E3%82%B3-%E3%83%94%E3%82%B9%E3%82%BF%E3%83%81%E3%82%AA'>Venchi チョコ ピスタチオ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%A4%E3%81%8F%E3%82%82-%E3%81%AF-%E3%82%8B-%E3%83%9E%E3%82%AB%E3%83%AD%E3%83%8B-%E3%82%B5%E3%83%A9%E3%83%80-%E3%82%B0%E3%83%A9%E3%82%BF%E3%83%B3'>つくも は る マカロニ サラダ グラタン</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%8F%B3%E8%84%87%E8%85%B9-%E7%97%9B%E3%81%BF-%E3%82%BA%E3%82%AD%E3%82%BA%E3%82%AD'>右脇腹 痛み ズキズキ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%AE%AE%E5%9C%B0-%E8%80%B3%E9%BC%BB-%E7%A7%91'>宮地 耳鼻 科</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=LDL%E3%82%B3%E3%83%AC%E3%82%B9%E3%83%86%E3%83%AD%E3%83%BC%E3%83%AB-%E9%AB%98%E3%81%8F%E3%81%A6%E3%82%82%E5%95%8F%E9%A1%8C-%E3%81%AA%E3%81%84'>LDLコレステロール 高くても問題 ない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%B6%88%E5%8C%96%E5%99%A8%E5%86%85%E7%A7%91-%E6%9C%AD%E5%B9%8C-%E6%89%8B%E7%A8%B2%E5%8C%BA'>消化器内科 札幌 手稲区</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Cascade-to-your-team'>Cascade To Your Team</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%B5%90%E5%A9%9A%E5%BC%8F-%E8%8A%B1%E6%9D%9F%E8%B4%88%E5%91%88-%E7%88%B6%E8%A6%AA'>結婚式 花束贈呈 父親</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%A3%B4-%E9%A3%9F%E3%81%B9%E9%81%8E%E3%81%8E-%E8%85%B9%E7%97%9B'>飴 食べ過ぎ 腹痛</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%9B%A2%E4%B9%B3%E9%A3%9F-%E7%B0%A1%E5%8D%98-%E5%BE%8C%E6%9C%9F'>離乳食 簡単 後期</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%95%E3%81%95%E3%81%BF%E3%83%81%E3%83%BC%E3%82%BA-%E5%A4%A7%E8%91%89-%E3%83%88%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC'>ささみチーズ 大葉 トースター</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BE%BF%E7%AE%8B-%E3%83%86%E3%83%B3%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88-%E7%84%A1%E6%96%99-%E8%8A%B1'>便箋 テンプレート 無料 花</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A4%A7%E9%98%AA%E5%B8%82%E7%AB%8B%E5%A4%A7%E5%AD%A6-%E5%95%86%E5%AD%A6%E9%83%A8-%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC'>大阪市立大学 商学部 センター</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%B6%8F-%E7%94%9F%E3%83%8F%E3%83%A0-%E9%A3%9F%E4%B8%AD%E6%AF%92'>鶏 生ハム 食中毒</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%A2%BA%E5%AE%9A%E7%B5%A6%E4%BB%98%E4%BC%81%E6%A5%AD%E5%B9%B4%E9%87%91-%E7%A2%BA%E5%AE%9A%E7%94%B3%E5%91%8A-%E6%9B%B8%E3%81%8D%E6%96%B9'>確定給付企業年金 確定申告 書き方</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%BF%E3%82%AB%E3%83%A9%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%8C-%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3%E3%83%88-%E9%83%B5%E9%80%81'>タカラジェンヌ プレゼント 郵送</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B5%E3%82%AF%E3%83%A9%E3%83%9E%E3%82%B9-%E3%82%B9%E3%83%97%E3%83%BC%E3%83%B3-%E3%82%BF%E3%82%B3%E3%83%99%E3%82%A4%E3%83%88'>サクラマス スプーン タコベイト</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=mac-word-%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9-%E6%9E%A0%E7%B7%9A'>Mac Word テキストボックス 枠線</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB-%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF-%E5%BA%97%E8%88%97-%E5%8D%83%E8%91%89'>サイクル オリンピック 店舗 千葉</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A6%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B0%E3%83%9D%E3%82%B9%E3%83%889-2020-%E3%82%AF%E3%83%A9%E3%83%96%E7%89%A7%E5%A0%B4%E8%A8%AD%E7%AB%8B'>ウイニングポスト9 2020 クラブ牧場設立</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%80%E3%82%A4%E3%82%A2%E3%83%8A-%E3%82%BD%E3%83%AD%E3%83%B3-%E3%82%A6%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B0%E3%83%9D%E3%82%B9%E3%83%88-7'>ダイアナ ソロン ウイニングポスト 7</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%9D%A2%E6%8E%A5%E7%B5%90%E6%9E%9C-%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B%E3%83%A1%E3%83%BC%E3%83%AB-%E8%8B%B1%E8%AA%9E'>面接結果 問い合わせメール 英語</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Twitter-%E3%82%BB%E3%83%B3%E3%82%B7%E3%83%86%E3%82%A3%E3%83%96-%E5%A0%B1%E5%91%8A'>Twitter センシティブ 報告</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%8E%9A%E7%94%9F-%E5%8A%B4%E5%83%8D%E7%9C%81-%E7%B5%B1%E8%A8%88-%E6%83%85%E5%A0%B1%E7%B7%8F%E5%8B%99%E5%AE%A4'>厚生 労働省 統計 情報総務室</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BA%AC%E9%83%BD%E5%BA%9C%E7%AB%8B-%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E7%9C%8B%E8%AD%B7-%E9%9B%A3%E6%98%93%E5%BA%A6'>京都府立 医科大学看護 難易度</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A2%E3%83%B3%E3%83%86%E3%83%8A-%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB-Twitter'>アンテナ アメリカ Twitter</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%90%86%E5%AD%A6%E7%99%82%E6%B3%95%E5%A3%AB-%E4%B8%89-%E5%B9%B4%E5%88%B6'>理学療法士 三 年制</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%94%E3%83%B3%E3%82%B0%E3%83%88%E3%83%AC%E3%83%BC%E3%83%A9%E3%83%BC-%E5%B0%8F%E5%9E%8B-%E3%82%A8%E3%82%A2%E3%82%B3%E3%83%B3'>キャンピングトレーラー 小型 エアコン</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%97%A5%E5%85%89%E7%99%BD%E6%A0%B9%E5%B1%B1-%E5%8D%B1%E9%99%BA-%E7%AE%87%E6%89%80'>日光白根山 危険 箇所</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%8C%96%E7%B2%A7%E6%B0%B4-%E4%B9%B3%E6%B6%B2-%E3%83%97%E3%83%81%E3%83%97%E3%83%A9'>化粧水 乳液 プチプラ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A2%E3%83%BC%E3%83%A2%E3%83%B3%E3%83%89-%E3%83%80%E3%82%A4%E3%82%A8%E3%83%83%E3%83%88-%E4%BD%95%E7%B2%92'>アーモンド ダイエット 何粒</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%88%90%E4%BA%BA%E5%BC%8F-%E7%A7%81%E6%9C%8D-2ch'>成人式 私服 2ch</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AC%E3%83%A0%E3%83%A9%E3%83%B3-%E3%83%9C%E3%83%BC%E3%83%AB-%E6%96%B0%E5%AE%BF-%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84-%E3%83%90%E3%83%BC'>ガムラン ボール 新宿 スポーツ バー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%87%91%E6%B5%A6%E7%A9%BA%E6%B8%AF-%E7%BE%BD%E7%94%B0%E7%A9%BA%E6%B8%AF-%E4%B8%A1%E6%9B%BF'>金浦空港 羽田空港 両替</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%94%E3%82%BD%E3%83%A9-%E5%B2%A9%E5%87%BA-%E8%AA%95%E7%94%9F%E6%97%A5'>ピソラ 岩出 誕生日</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=gu-d%E6%89%95%E3%81%84-%E3%83%8D%E3%83%83%E3%83%88'>Gu D払い ネット</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%AF%9B%E7%A9%B4-%E7%BE%8E%E5%AE%B9%E6%B6%B2-%E3%83%89%E3%83%A9%E3%83%83%E3%82%B0%E3%82%B9%E3%83%88%E3%82%A2'>毛穴 美容液 ドラッグストア</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%A6%8F%E5%B2%A1-%E9%9D%99%E5%B2%A1-%E9%A3%9B%E8%A1%8C%E6%A9%9F-JAL'>福岡 静岡 飛行機 JAL</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Shangrila-golden-circle-jade'>Shangrila Golden Circle Jade</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=60%E4%BB%A3-%E7%94%B7%E6%80%A7-%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3%E3%83%88-3%E4%B8%87'>60代 男性 プレゼント 3万</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%B4%9B-%E5%8D%97-%E3%82%A4%E3%82%AA%E3%83%B3-%E3%82%BF%E3%83%94%E3%82%AA%E3%82%AB'>洛 南 イオン タピオカ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BB%96-18%E4%BB%B6%E5%B1%85%E5%BF%83%E5%9C%B0%E3%81%8C%E8%89%AF%E3%81%84%E3%83%AC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%B3%E3%82%A4%E3%83%AB%E3%83%BB%E3%83%87%E3%83%BB%E3%83%91%E3%83%B3%2C-%E6%89%8B%E6%89%93%E3%81%A1%E8%95%8E%E9%BA%A6-%E6%B1%90%E8%A6%8B%E3%81%AA%E3%81%A9'>他 18件居心地が良いレストランイル・デ・パン, 手打ち蕎麦 汐見など</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=ipv6-%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9%E3%81%AA%E3%81%97-windows8'>Ipv6 インターネットアクセスなし Windows8</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%BF%E3%82%B9%E3%82%AF-%E3%82%B9%E3%82%B1%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%A9-%E3%82%BF%E3%82%B9%E3%82%AF%E3%83%91%E3%82%B9'>タスク スケジューラ タスクパス</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%AE%89%E7%B4%8D%E8%8A%8B-%E8%82%B2%E3%81%A6%E6%96%B9-%E3%83%97%E3%83%A9%E3%83%B3%E3%82%BF%E3%83%BC'>安納芋 育て方 プランター</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%AB-%E3%82%AF%E3%83%AB%E3%83%BC%E3%82%BC-%E9%A3%9F%E6%B4%97%E6%A9%9F'>ル クルーゼ 食洗機</a>,
+";s:7:"expired";i:-1;}

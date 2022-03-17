@@ -1,0 +1,69 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:4885:"<br>恒川尚輝（静岡大），大川恭志（jaxa），加藤宙光（産総研），山極芳樹（静岡大） p61（jsass-2017-4697） 原子状酸素がtio2薄膜へ与える影響 江頭俊哉，下迫直樹，原 幸弘（上智大），島崎一紀，宮崎英治（jaxa），坂間 弘（上智大） p62（jsass-2017-4698） 配音員：水島大宙、花澤香菜〈幼年〉（日本）；陳彥鈞、林美秀〈幼年〉（台灣）；郭俊廷、朱碧怡〈幼年〉（香港） 現代映像研究同好會的成員之一，集的同學，17歲。擅長跟別人打交道，經常為集引發的誤會打圓場，是同學眼中的老好人。 論文名（和文）： 針葉樹材の高温乾燥に関する研究 論文名（欧文）： 著 者 名 ： 鷲見博史 学 位 番 号： 論農博 0232 授 与 年 月 日： 1984.3.1 専 攻： 林産学/Forest Products <br> 河相智哉／斎藤恵理／水島大宙 ＜日本語版制作スタッフ＞ 演出：佐々木由香 翻訳：四方保代 録音・調整：田場公 制作進行：丸山晋（東北新社） 日本語版制作：(株)東北新社. 【プログラム】研究発表 9.15～15.30学生会総会 12.10～12.30（リバティタワー10階1104番教室）特別講演 17.10～18.10（リバティタ  アクセルワン所属 男性タレントのご案内です。アクセルワン(axl-one)は、東京新宿にあるタレント・声優事務所・声優養成所です。アニメ・ナレーション・吹き替えなど。 UAG美術家研究所では、美術館所蔵品図録、各種人名辞典、作品集などを元に美術家のデータを収集。美術家の経歴を探す場合のインデックス、そして美術家の重要性を探る場合の指標となるように、随時データ収集とメンテナンスを行なっております。 水樹奈奈獻唱劇場版《大和號2199》最終章ed （2013.04.08）; 4月新番「進擊的巨人」確定為2章節7月發售bd\dvd （2013.04.08） 《白色相簿2》tv動畫官網上線預定今秋開播 （2013.04.08）; psp推理名作改編《彈丸論破》清晰版pv公開 （2013.04.08）; 同捆oad《南家三姐妹》漫畫第11卷8月發售 （2013.04.08） サミーとシェリー 七つの海の大 … 22154: 木造三段組筋かい壁の耐力と変形性能評価 岩井哲（広島工業大） 22155 情結》（日語：ココロコネクト）是日本的輕小說系列作品，作者為庵田定夏，插畫是白身魚。為第11屆Entame大獎小說部門特別賞的得主作品[1]。最初參賽時作品名為《人心相連、前往何方》（日語：ヒトツナガリテ、ドコへユク）。 第5部門 平成29年度土木学会全国大会 第72回年次学術講演会プログラム 平成29年9月11日（月） v-1会場 (九州大学伊都キャンパス センター2号館2204教室) 佐々木悠太，°水上成美，飯浜賢志，永沼 博，大兼幹彦，宮﨑照宣，安藤康夫（東北大） スピントルク 9月2日 15 : 45～16 : 45 D会場 萬代南夢宮娛樂旗下手機遊戲《時空幻境 鏡光傳奇（テイルズオブザレイズフェアリーズレクイエム）》，今日（1月10日）宣布將與人氣動畫《銀魂》展開聯乘合作，預計1月13日開始正式開催！ 聯動合作消息公開的同時，官方也一併釋出了合作劇情序章的部分片段影片，供玩家先行觀看。 22089: 全ねじボルト埋め込み接着接合の基本性状に関する研究 その29 張弦梁に適用した際の力学的挙動 実験結果と考察 数納宣吾（明治大）・野口弘行・内山善明 東北大金研 a ，物材機構 b 李徳新 a ，二森茂樹 b ，大田卓 a ，山村朝雄 a ，本間佳哉 a ，本多史憲 a ，青木大 a 56 弱いランダム異方性をもつa-(Zr 0.57 R 0.43 ) 36 Fe 64 (R=Nd,Sm)における交流磁化率の巨大な交流磁場応答 <br> <br>野口弘行（明治大）・内山善明・数納宣吾. 情結》（日語： ココロコネクト ）是日本的輕小說系列作品，作者為庵田定夏，插畫是白身魚。為第11屆Entame大獎小說部門特別賞的得主作品 。 最初參賽時作品名為《人心相連、前往何方》（日語： ヒトツナガリテ、ドコへユク ）。 日文名稱：《デート・ア・ライブ》 撥放時間：2013年04月05日，nico：2013年03月30日 動畫章節：全12話+1話 劇情簡介： 伴隨著謎樣生命體──精靈的出現而引起的大規模災害──空間震，在過往的30年間反覆地發生在此世間。 建築解体材の再利用を想定した木造耐震要素の開発に関する研究 その2 k型筋交いを対称に挿入した木造軸組の復元力特性と中間水平材の効果 桑田将弘（九州大）・山口謙太郎. ";s:7:"keyword";s:22:"水島 大 宙 宣 材";s:5:"links";s:6584:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=8%E6%9C%883%E6%97%A5-%E6%9D%BF%E6%A9%8B-%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A'>8月3日 板橋 花火大会</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%B7%9D%E5%B4%8E%E5%B8%82-%E4%BC%91%E6%97%A5-%E8%A8%BA%E7%99%82-%E6%AD%AF%E7%A7%91'>川崎市 休日 診療 歯科</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%A8%E3%83%89%E3%83%90%E3%82%B7-%E5%8D%9A%E5%A4%9A-%E6%99%82%E8%A8%88%E4%BF%AE%E7%90%86'>ヨドバシ 博多 時計修理</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=GS400-%E3%82%AD%E3%83%A3%E3%83%96%E3%83%AC%E3%82%BF%E3%83%BC-%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%E3%83%9B%E3%83%BC%E3%83%AB'>GS400 キャブレター オーバーホール</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%90%E3%82%A4%E3%83%88-%E8%87%AA%E5%B7%B1pr-%E7%9C%9F%E9%9D%A2%E7%9B%AE'>バイト 自己pr 真面目</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=D%26S-%E5%9C%A7%E5%8A%9B%E9%8D%8B-%E5%8F%A3%E3%82%B3%E3%83%9F'>D&S 圧力鍋 口コミ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=30%E4%BB%A3-%E3%83%A1%E3%83%B3%E3%82%BA-%E3%83%95%E3%82%A1%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3-%E6%98%A5'>30代 メンズ ファッション 春</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%96%AC%E5%89%A4%E5%B8%AB%E5%9B%BD%E5%AE%B6%E8%A9%A6%E9%A8%93-%E7%A6%81%E5%BF%8C%E8%82%A2-105'>薬剤師国家試験 禁忌肢 105</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%B5%B7-%E6%8F%8F%E3%81%8D%E6%96%B9-%E8%89%B2%E9%89%9B%E7%AD%86'>海 描き方 色鉛筆</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B3%E3%82%AA%E3%83%AA%E3%83%8A%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3-%E9%A7%90-%E8%BB%8A%E5%A0%B4'>コオリナステーション 駐 車場</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BF%9D%E8%82%B2%E5%9C%92-%E3%83%93%E3%83%8B%E3%83%BC%E3%83%AB%E8%A2%8B-%E5%8F%8E%E7%B4%8D'>保育園 ビニール袋 収納</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%AB%98%E6%A0%A1-%E8%8B%B1%E8%AA%9E-%E8%A6%9A%E3%81%88%E3%82%8B-%E3%81%B9%E3%81%8D-%E7%86%9F%E8%AA%9E'>高校 英語 覚える べき 熟語</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E8%B3%87%E6%A0%BC%E6%83%85%E5%A0%B1%E3%81%AE%E5%85%A5%E5%8A%9B-%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E5%90%8D%E3%81%BE%E3%81%9F%E3%81%AF%E3%83%91%E3%82%B9%E3%83%AF%E3%83%BC%E3%83%89%E3%81%8C%E6%AD%A3%E3%81%97%E3%81%8F-%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93'>ネットワーク資格情報の入力 ユーザー名またはパスワードが正しく ありません</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%B4%8D%E8%B1%86-%E3%83%91%E3%82%B9%E3%82%BF-%E3%83%9E%E3%82%B9%E3%82%AA'>納豆 パスタ マスオ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%89%E3%82%A2%E3%81%AE%E8%89%B2-%E7%B5%B1%E4%B8%80-%E3%81%97%E3%81%AA%E3%81%84'>ドアの色 統一 しない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=2015-%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC-%E8%8B%B1%E8%AA%9E-%E9%9B%A3%E6%98%93%E5%BA%A6'>2015 センター 英語 難易度</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%98%BC%E9%A3%9F-%E3%81%8A%E3%81%AB%E3%81%8E%E3%82%8A-%E3%83%90%E3%83%8A%E3%83%8A'>昼食 おにぎり バナナ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%85%AB%E9%87%8D%E5%B1%B1%E7%97%85%E9%99%A2-wi-fi'>八重山病院 Wi Fi</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%99%E3%82%A4%E3%83%88-%E3%83%95%E3%82%A3%E3%83%8D%E3%82%B9-%E7%99%BA%E6%A1%88-%E8%80%85'>ベイト フィネス 発案 者</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%8C%97%E6%B5%B7%E9%81%93-%E9%81%8E%E5%8E%BB-%E5%95%8F%E9%A1%8C'>北海道 過去 問題</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%B5%A6%E5%AE%89%E5%B8%82-%E3%82%B4%E3%83%9F-%E5%8F%B0%E9%A2%A8'>浦安市 ゴミ 台風</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A2%E3%83%83%E3%83%97%E3%83%AB%E3%83%91%E3%82%A4-%E3%83%95%E3%83%A9%E3%82%A4%E3%83%91%E3%83%B3-%E3%83%AC%E3%82%B7%E3%83%94'>アップルパイ フライパン レシピ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC%E3%83%81%E3%82%B1%E3%83%83%E3%83%88-%E3%82%B3%E3%83%B3%E3%83%93%E3%83%8B-%E8%B2%B7%E3%81%84%E6%96%B9'>サッカーチケット コンビニ 買い方</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%84%9B%E5%AE%95%E7%A5%9E%E7%A4%BE-%E5%8E%84%E9%99%A4%E3%81%91-%E6%B0%B7'>愛宕神社 厄除け 氷</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Mac-%E3%81%8B%E3%81%AA%E5%85%A5%E5%8A%9B-%E3%83%AD%E3%83%BC%E3%83%9E%E5%AD%97-%E5%85%A5%E5%8A%9B%E5%88%87%E3%82%8A%E6%9B%BF%E3%81%88-%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%82%AB%E3%83%83%E3%83%88'>Mac かな入力 ローマ字 入力切り替え ショートカット</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%84%BC%E3%81%8D%E9%B3%A5-%E3%81%A1%E3%82%87%E3%81%86%E3%81%A1%E3%82%93-%E6%A8%AA%E6%B5%9C'>焼き鳥 ちょうちん 横浜</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%99%BA%E6%B3%A8-%E4%BB%95-%E5%85%A5'>発注 仕 入</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%9D%B1%E4%BA%AC%E5%A4%A7%E5%AD%A6-%E5%A4%A7%E5%AD%A6%E9%99%A2-%E7%A4%BE%E4%BC%9A%E4%BA%BA-%E5%A4%9C%E9%96%93'>東京大学 大学院 社会人 夜間</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A2%E3%83%9C%E3%82%AB%E3%83%89-%E3%83%88%E3%83%9E%E3%83%88-%E3%83%81%E3%83%BC%E3%82%BA-%E3%83%90%E3%82%B8%E3%83%AB'>アボカド トマト チーズ バジル</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B8%AD%E8%8F%AF%E5%B1%85%E9%85%92%E5%B1%8B-%E7%BE%8E%E5%91%B3%E9%96%A3-%E5%85%AB%E4%B8%81%E5%A0%80%E5%BA%97'>中華居酒屋 美味閣 八丁堀店</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%AF%96%E7%BC%B6-%E5%B8%B8%E6%B8%A9-%E3%81%A7-%E9%A3%9F%E3%81%B9%E3%82%8B'>鯖缶 常温 で 食べる</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%86%E3%82%A3%E3%83%BC%E3%82%BF%E3%82%A4%E3%83%A0-%E3%81%8A%E8%8F%93%E5%AD%90-%E3%81%8A%E5%8F%96%E3%82%8A%E5%AF%84%E3%81%9B'>ティータイム お菓子 お取り寄せ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%80%E3%82%A4%E3%82%BD%E3%83%BC-%E8%A3%BD%E8%8F%93%E7%94%A8%E5%93%81-%E5%9E%8B'>ダイソー 製菓用品 型</a>,
+";s:7:"expired";i:-1;}

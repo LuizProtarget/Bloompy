@@ -1,0 +1,79 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:3587:"<p>個別の診療報酬の算定項目の分かる明細書の交付について、正当な理由があるため、無償交付できない場合の届出を掲載しています。 </p> <p>歯科では診療費用の明細が書かれた領収書をもらうことはできますか？ 相談者： アッキーナさん (27歳：女性) 投稿日時：2009-04-20 17:31:03 </p> <p>明細書発行について「正当な理由」に該当する旨の届出. 歯医者はどうして麻酔無しで歯（虫歯）を削るんですか？「痛かったら言ってください」って「痛い」って言っても我慢させられて削られ続けるのは何故ですか？ 私の通っている歯医者では、小さな虫歯で … </p> <p>診療明細書の発行は義務化されているのでしょうか。あなたが病院を受診すると、窓口で受け取る書類が数枚あると思います。その中の一つ、診療明細書を発行するのは当たり前のことなのか、どこの医療機関でも渡さなければならないのか、その内容についてお伝えします。 明細書再発行しますね」 と平謝りで、他にも質問したかったのですが、明細書をそのまま受け付けに持って行ってしまいました。 それから医院長先生が自ら受け付けに来て、色々作業し新しい明細書を発行して、お金を返金してくれました。 </p> <p>皆さんは歯医者に行ってますか？私は年に1度の頻度で行くようにしています。そのとき毎回思うのが「初回は高いな～」ということ。2回目以降は1,500円くらいなのですが、1回目は3,500円ほどかかります。今までは「歯医者は仕方ないか」と諦めてい  歯科では診療費用の明細が書かれた領収書をもらうことはできますか？ 相談者： アッキーナさん (27歳：女性) 投稿日時：2009-04-20 17:31:03 現在、子供が歯のトラブルを抱えていて、歯医者に通っている。でも、その歯医者では、なぜか領収書がもらえない。このように、領収書がもらえないと、「なぜ？」と、疑わしく思ってしまいますよね。それには、実は、驚きの理由が隠されていたんです。 </p> <p></p> <p>明細書、領収書を発行してくれない病院。 先週、とある病院にかかりました。会計の際、明細書はもちろん、領収書はおろか、金額だけ印字されたレシートすら頂けませんでした。保険適用で2,500円支 … 会社から給与明細をもらえないのですが，これは違法ではありませんか？給料明細を発行させる方法はありませんか？労働問題に関するq&aをまとめています。残業代請求などの労働問題に関する無料相談なら弁護士法人アディーレ法律事務所にお任せください。 受け取った領収書は、次のようなときに利用しましょう。 （1）「領収書」と「給付金支給決定通知書」と「医療費のお知らせ」を照らし合わせて、金額や 受診した内容等に間違いがないかをチェックしま … 明細書が下のものなのです。 どういう違いがあるかというと、領収書は診療項目がカテゴライズされていて、具体的に何の処置に何点の保険請求がされているかはわかりません。 おおまかにわかるというものです。 しかし、明細書は違います。 </p>";s:7:"keyword";s:32:"歯医者 明細書 くれない";s:5:"links";s:8434:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AA%E3%82%AA%E3%82%B5%E3%82%AB-%E5%A0%82-%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3'>オオサカ 堂 ログイン</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Photoshop-%E3%83%96%E3%83%A9%E3%82%B7-%E7%84%A1%E6%96%99-2020'>Photoshop ブラシ 無料 2020</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%98%E3%83%81-%E7%8E%8B%E5%BA%A7%E3%81%B8%E3%81%AE%E9%81%93-21'>ヘチ 王座への道 21</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A8%E3%83%AA%E3%82%A2%E3%83%88%E3%83%A9%E3%82%A6%E3%83%88-%E3%83%AD%E3%83%83%E3%83%89-%E3%82%A2%E3%82%B8%E3%83%B3%E3%82%B0'>エリアトラウト ロッド アジング</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A8%E3%83%96%E3%83%AA%E3%82%A3-%E3%83%AA%E3%83%95%E3%83%88%E3%82%A2%E3%83%83%E3%83%97-%E7%95%B0%E9%9F%B3'>エブリィ リフトアップ 異音</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%88%90%E7%94%B0%E5%AF%8C%E9%87%8C-%E5%BE%B3-%E6%B4%B2-%E4%BC%9A%E7%97%85%E9%99%A2-%E7%97%85%E5%BA%8A-%E6%95%B0'>成田富里 徳 洲 会病院 病床 数</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=MacBook-Twitter-%E3%83%87%E3%82%B9%E3%82%AF%E3%83%88%E3%83%83%E3%83%97'>MacBook Twitter デスクトップ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%A5%BD-%E8%94%B5-%E9%9D%99%E5%B2%A1-%E3%83%9B%E3%83%83%E3%83%88%E3%83%9A%E3%83%83%E3%83%91%E3%83%BC'>楽 蔵 静岡 ホットペッパー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=It-is-my-pleasure-to-work-with-you-%E6%84%8F%E5%91%B3'>It Is My Pleasure To Work With You 意味</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%85%B5%E5%BA%AB%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2-%E6%83%85%E5%A0%B1-%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC'>兵庫医科大学病院 情報 センター</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%9F%93%E5%9B%BD%E3%83%89%E3%83%A9%E3%83%9E-%E6%99%82%E4%BB%A3%E5%8A%87-%E4%BF%B3%E5%84%AA'>韓国ドラマ 時代劇 俳優</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A4%A7%E4%BA%BA-%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8A%E3%83%BC-%E3%83%A1%E3%83%B3%E3%82%BA'>大人 トレーナー メンズ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A4%96-%E4%BB%98%E3%81%91-ssd-%E3%83%A8%E3%83%89%E3%83%90%E3%82%B7-%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0'>外 付け Ssd ヨドバシ ランキング</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%9C%A7%E5%8A%9B%E9%8D%8B-%E8%82%89-%E3%82%B9%E3%83%BC%E3%83%97'>圧力鍋 肉 スープ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=biglobe-ipv6%E3%82%AA%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3-%E7%A2%BA%E8%AA%8D'>Biglobe Ipv6オプション 確認</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%97%E3%83%A9%E3%82%B6-%E3%83%9A%E3%83%B3%E3%82%B1%E3%83%BC%E3%82%B9-%E3%81%AC%E3%81%84%E3%81%90%E3%82%8B%E3%81%BF'>プラザ ペンケース ぬいぐるみ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BA%AC%E9%83%BD-%E6%98%8E%E6%B2%BB-%E6%99%82%E4%BB%A3-%E5%86%99%E7%9C%9F'>京都 明治 時代 写真</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%A8%E3%83%BC%E3%82%AF-%E5%B9%BC%E7%A8%9A%E5%9C%92-%E3%82%B3%E3%83%AD%E3%83%8A'>ニューヨーク 幼稚園 コロナ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BB%96-18%E4%BB%B6%E5%B1%85%E5%BF%83%E5%9C%B0%E3%81%8C%E8%89%AF%E3%81%84%E3%83%AC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%B3%E6%98%9F%E7%A6%8F-%E9%8A%80%E5%BA%A7%E6%9C%AC%E5%BA%97%2C-%E9%8A%80%E5%BA%A7-%E6%A5%BC%E8%98%AD%E3%81%AA%E3%81%A9'>他 18件居心地が良いレストラン星福 銀座本店, 銀座 楼蘭など</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%AE%89%E5%BF%83%E3%83%95%E3%82%A3%E3%83%AB%E3%82%BF%E3%83%BC-%E3%81%AB-%E3%81%8B%E3%81%8B%E3%82%89%E3%81%AA%E3%81%84-%E3%82%A2%E3%83%97%E3%83%AA'>安心フィルター に かからない アプリ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%B1%9A%E8%82%89-%E8%84%82%E8%BA%AB-%E7%B3%96-%E8%B3%AA'>豚肉 脂身 糖 質</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%8D%97%E6%B5%B7%E9%AB%98%E9%87%8E%E7%B7%9A-%E6%99%82%E5%88%BB%E8%A1%A8-%E9%87%91%E5%89%9B'>南海高野線 時刻表 金剛</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%A3%9F-%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88-%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84'>食 イラスト かわいい</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%9B%BD%E6%B0%91%E5%81%A5%E5%BA%B7%E4%BF%9D%E9%99%BA%E6%96%99-%E8%A8%88%E7%AE%97-%E3%82%B7%E3%83%A5%E3%83%9F%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3'>国民健康保険料 計算 シュミレーション</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%89%8B%E7%BE%BD%E5%85%83-%E3%83%AC%E3%82%B7%E3%83%94-%E5%A4%A7%E6%A0%B9'>手羽元 レシピ 大根</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B5%E3%83%BC%E3%83%A2%E3%82%B9-%E3%83%91%E3%83%83%E3%82%AD%E3%83%B3-%E4%BA%A4%E6%8F%9B%E6%99%82%E6%9C%9F'>サーモス パッキン 交換時期</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%A6%E3%83%8B%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0-%E3%82%B9%E3%82%BF%E3%83%83%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%9E%E3%82%B0-%E8%93%8B'>ユニフレーム スタッキングマグ 蓋</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Daiwa-spinning-reels'>Daiwa Spinning Reels</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B8%AD%E7%B5%B6%E5%BE%8C-%E3%83%94%E3%83%AB-%E3%81%AA%E3%81%9C'>中絶後 ピル なぜ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%80%E3%82%A4%E3%82%BD%E3%83%BC-%E3%82%AB%E3%83%BC%E3%83%89-%E7%B4%99'>ダイソー カード 紙</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3-%E3%83%A6%E3%83%BC%E3%83%81%E3%83%A5%E3%83%BC%E3%83%96-%E5%8B%95%E7%94%BB'>プレゼン ユーチューブ 動画</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%8A%E3%81%AB%E3%81%8E%E3%82%8A-%E3%81%BE%E3%81%9A%E3%81%84-%E5%AB%81'>おにぎり まずい 嫁</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%AD%E3%83%BC-%E9%9B%BB%E6%B1%A0%E5%88%87%E3%82%8C-%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3%E3%81%AE%E3%81%8B%E3%81%91%E6%96%B9'>スマートキー 電池切れ エンジンのかけ方</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%80%E3%82%A4%E3%82%BD%E3%83%BC-%E3%81%8A%E8%8F%93%E5%AD%90-%E9%A3%BE%E3%82%8A'>ダイソー お菓子 飾り</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%80%E3%82%B3%E3%82%BF-%E3%82%AB%E3%83%83%E3%82%B7%E3%83%BC%E3%83%8B-%E3%81%8C%E3%81%BE%E5%8F%A3'>ダコタ カッシーニ がま口</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%AA%AD%E6%9B%B8-%E5%BA%A7-%E6%A4%85-%E5%AD%90'>読書 座 椅 子</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=biglobe-ipv6%E3%82%AA%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3-%E7%A2%BA%E8%AA%8D'>Biglobe Ipv6オプション 確認</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=XF16-55-%E4%BD%9C%E4%BE%8B'>XF16 55 作例</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=office365-%E3%82%B5%E3%82%A4%E3%83%B3%E3%82%A2%E3%82%A6%E3%83%88-%E5%8B%9D%E6%89%8B%E3%81%AB'>Office365 サインアウト 勝手に</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%86%E3%82%BB%E3%82%A6%E3%82%B9-%E3%81%AE-%E8%88%B9-%E8%80%83%E5%AF%9F-8-%E8%A9%B1'>テセウス の 船 考察 8 話</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B3%E3%83%B3%E3%83%93%E3%83%8B-%E3%82%AB%E3%83%BC%E3%83%89%E6%89%95%E3%81%84-%E3%82%84%E3%82%8A%E6%96%B9'>コンビニ カード払い やり方</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AB%E3%83%AB%E3%83%86%E3%82%A3%E3%82%A8-%E3%83%8D%E3%83%83%E3%82%AF%E3%83%AC%E3%82%B9-%E3%83%80%E3%82%A4%E3%83%A4-%E3%83%8F%E3%83%BC%E3%83%88'>カルティエ ネックレス ダイヤ ハート</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Windows10-%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%83%A1%E3%83%8B%E3%83%A5%E3%83%BC-%E3%83%95%E3%82%A9%E3%83%AB%E3%83%80'>Windows10 スタートメニュー フォルダ</a>,
+";s:7:"expired";i:-1;}

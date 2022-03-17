@@ -1,0 +1,63 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:2437:"<p> 弘前大学教育推進機構キャリアセンターはキャリア教育，インターンシップ，就職ガイダンス，個別企業説明会，就職相談等を通じて弘大生が社会にはばたく支援を行っています。 弘前学院大学の看護学科で学べる学科・コースや特長などを紹介しています。他にも学部や学科の詳細や学費のこと、学校見学会、オープンキャンパス情報、入試情報などを掲載しています。大学・短大・専門学校の進学情報なら【スタディサプリ 進路（旧：リクナビ進学）】 〔看護学専攻〕 就職先名 人数 企業等 58 弘前大学医学部附属病院 11 IMSグループ 医療法人社団 明芳会 イムス三芳総合病院 6 東北大学病院 4 東京医科歯科大学医学部附属病院 3 医療法人 渓仁会 手稲渓仁会病院 3 慶応義塾大学病院 3 弘前大学医学部保健学科看護学専攻のホームページです。看護師・保健師・助産師などの資格取得や充実したカリキュラムで専門的実践力の基礎の教育・人材育成を行っております。また看護分野における研究や社会貢献にも尽力しています。 医学部保健学科は、国立大学法人として5専攻を有する我が国でも最大規模の医療専門職養成機関です。教育学部特別教科（看護）教員養成課程と医療技術短期大学部を前身とし、医療専門職教育における長い歴史と実績を有しています。 〔看護学専攻〕 就職先名 人数 企業等 62 弘前大学医学部附属病院 8 東北大学病院 6 北海道大学病院 5 秋田大学医学部附属病院 3 自治医科大学附属病院 2 慶応義塾大学病院 2 </p> <p>弘前大学教育推進機構キャリアセンターはキャリア教育，インターンシップ，就職ガイダンス，個別企業説明会，就職相談等を通じて弘大生が社会にはばたく支援を行っています。 弘前大学医学部保健学科看護学専攻の国家試験・資格・就職先に関する紹介です。看護師・保健師・助産師などの資格取得や充実したカリキュラムで専門的実践力の基礎の教育・人材育成を行っております。また看護分野における研究や社会貢献にも尽力しています。 </p> <p></p>";s:7:"keyword";s:30:"弘前大学 看護 就職 先";s:5:"links";s:5228:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%98%AA%E5%A4%A7-%E5%8C%BB%E5%AD%A6%E9%83%A8-%E9%9D%A2%E6%8E%A5'>阪大 医学部 面接</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=VBA-%E3%82%AA%E3%83%BC%E3%83%88%E3%82%B7%E3%82%A7%E3%82%A4%E3%83%97-%E7%B7%9A'>VBA オートシェイプ 線</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%91%89%E5%B1%B1-%E3%81%97%E3%81%8A%E3%81%95%E3%81%84-%E5%8D%9A%E7%89%A9%E9%A4%A8-%E7%A0%94%E7%A9%B6-%E5%A0%B1%E5%91%8A'>葉山 しおさい 博物館 研究 報告</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%A9%BA%E9%96%93%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3-%E6%9C%AC-%E3%81%8A%E3%81%99%E3%81%99%E3%82%81'>空間デザイン 本 おすすめ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=iPad-iPhone-Safari%E5%90%8C%E6%9C%9F%E3%81%95%E3%81%9B%E3%81%AA%E3%81%84'>IPad IPhone Safari同期させない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B8%80-%E7%95%AA-%E3%81%8F%E3%81%98-%E3%83%80%E3%83%96%E3%83%AB-%E3%83%81%E3%83%A3%E3%83%B3%E3%82%B9-%E5%BD%93%E3%81%9F%E3%81%A3-%E3%81%9F-%E3%81%93%E3%81%A8-%E3%81%82%E3%82%8B'>一 番 くじ ダブル チャンス 当たっ た こと ある</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A1%A9%E7%84%BC%E3%81%8D%E3%81%9D%E3%81%B0-%E3%82%A2%E3%83%AC%E3%83%B3%E3%82%B8-%E3%82%AB%E3%83%AB%E3%83%9C%E3%83%8A%E3%83%BC%E3%83%A9'>塩焼きそば アレンジ カルボナーラ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%B4%99%E3%83%91%E3%83%83%E3%82%AF-%E3%82%B3%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%BC%E3%83%97-%E3%81%8A%E3%81%84%E3%81%97%E3%81%8F'>紙パック コーンスープ おいしく</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%99%BA%E9%81%94%E9%9A%9C%E5%AE%B3-%E5%81%8F%E9%A3%9F-%E5%A4%A7%E4%BA%BA'>発達障害 偏食 大人</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%A1%E3%83%B3%E3%82%BA-%E3%83%AA%E3%83%B3%E3%82%B0-2ch'>メンズ リング 2ch</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=HW-02G-%E3%83%91%E3%82%B9%E3%83%AF%E3%83%BC%E3%83%89%E3%81%8C%E9%81%95%E3%81%84%E3%81%BE%E3%81%99'>HW 02G パスワードが違います</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A4%A7%E9%98%AA%E6%88%90%E8%B9%8A%E7%9F%AD%E6%9C%9F%E5%A4%A7%E5%AD%A6-%E7%B5%8C%E5%96%B6%E4%BC%9A%E8%A8%88-%E5%AD%A6%E7%A7%91'>大阪成蹊短期大学 経営会計 学科</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=lavie-%E6%9B%B4%E6%96%B0%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0-%E7%B5%82%E3%82%8F%E3%82%89%E3%81%AA%E3%81%84'>Lavie 更新プログラム 終わらない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Internet-Archive-Save-Page-Now'>Internet Archive Save Page Now</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BF%9D%E9%99%BA%E8%96%AC%E5%89%A4%E5%B8%AB-%E6%B0%8F%E5%90%8D%E5%A4%89%E6%9B%B4-%E8%A8%98%E5%85%A5%E4%BE%8B'>保険薬剤師 氏名変更 記入例</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%BA%83%E5%B3%B6-%E4%B8%8D%E5%A6%8A%E6%B2%BB%E7%99%82-%E5%8F%A3%E3%82%B3%E3%83%9F'>広島 不妊治療 口コミ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%B3%83%E8%B2%B8-%E5%BA%8A-%E5%82%B7'>賃貸 床 傷</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B8%80%E6%99%82%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB-%E8%A1%A8%E7%A4%BA-%E3%81%95%E3%82%8C%E3%81%AA%E3%81%84'>一時ファイル 表示 されない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%BF%E3%83%B3%E3%83%88-%E7%87%83%E6%96%99%E8%A8%88-%E6%95%85%E9%9A%9C'>タント 燃料計 故障</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%97%A5%E6%AF%94%E8%B0%B7%E8%8A%B1%E5%A3%87-%E3%83%8F%E3%83%8A%E3%83%8E%E3%83%92-%E5%8D%8A%E9%A1%8D'>日比谷花壇 ハナノヒ 半額</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A4%E3%83%A9%E3%83%AC-%E3%82%B0%E3%83%A9%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3-%E3%82%B6%E3%83%A9%E3%82%B6%E3%83%A9'>イラレ グラデーション ザラザラ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%A1%E3%83%AB%E3%82%AB%E3%83%AA-%E3%82%AF%E3%83%AC%E3%82%B8%E3%83%83%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89-%E7%99%BB%E9%8C%B2-%E5%A4%B1%E6%95%97'>メルカリ クレジットカード 登録 失敗</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%86%85%E5%AE%9A-%E5%85%88-%E3%82%B9%E3%83%BC%E3%83%84-%E3%82%B3%E3%83%BC%E3%83%88'>内定 先 スーツ コート</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%99%BA%E6%B3%A8-%E4%BB%95-%E5%85%A5'>発注 仕 入</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%8B%E3%82%B3%E3%83%8B%E3%82%B3-%E3%82%BF%E3%82%A4%E3%83%A0%E3%82%B7%E3%83%95%E3%83%88-%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3'>ニコニコ タイムシフト ログイン</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%87%91%E7%94%BA-%E6%97%A5%E6%9B%9C%E6%97%A5-%E7%97%85%E9%99%A2'>金町 日曜日 病院</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%B6%8F%E8%82%89-%E7%82%92%E3%82%81%E7%89%A9-%E3%83%9D%E3%83%B3%E9%85%A2'>鶏肉 炒め物 ポン酢</a>,
+";s:7:"expired";i:-1;}

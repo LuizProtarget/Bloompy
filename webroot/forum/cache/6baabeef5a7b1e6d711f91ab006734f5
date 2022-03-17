@@ -1,0 +1,72 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:4155:"写真にも著作権があります。取った人に無断で利用するわけにはいきません。たとえカメラマンにお金を払って撮影をしてもらった写真でも、著作権に関して譲渡の取り決めがされていない限り、著作権は撮影者のものとなります。 注目した文言： 1.公開されたサイトのキャプチャ、スクリーンショットであること(つまりオープンになってないモノの引用はしてはいけない) 参考サイト： サイトのキャプチャ(スクリーンショット)を使うのは著作権上okなのかをざっくりと . 著作権(著作財産権) Webデザイナーにとっては、Webサイトなど制作物に対しての権利です。 Webサイト制作の場合は「公衆送信権、送信可能化権」「公の伝達権」「譲渡権」が主になると思います。 著作権の保護期間. トラブル対策としてWeb（ホームページ）制作やシステム開発を発注や外注する際におさえておくべき著作権の重要ポイントを解説。著作権の基礎知識から著作権譲渡について、著作権法27条・28条、著作人格権の契約条項の解説まで咲くやこの花法律事務所の弁護士が詳しくご説明します。 著作権法に違反すると、民事的な請求のほか、刑事罰を科されることになります。 著作権の侵害をした者は10年以下の懲役または1000万円以下の罰金 に処せられ、懲役と罰金がともに科されることもあります（法119条）。 日本の著作権法は届出や許認可等をいっさい必要としない「無方式主義」を取っています。そのため著作権は著作物が創作された時点で発生します。 「引用」について. あなたはWebサイトのデザインやオリジナルのブログテーマ、それだけでなくコンテンツまで丸々コピーされて悩んだことはありますか？今回は、「Webサイトのデザインを丸々コピーされた時の対処法」と「Webサイトの著作権」についてご紹介します！ サイト運営をしていて迷うネットの著作権問題。キャプチャ画像の掲載、YouTube動画やSNSの埋め込みはどこまでオーケーなのか？ 引用するときはどんなタグをつければいい？ 気になる部分を実用的な観点で説明します。 「Webデザインの著作権は制作側に発生している」 ということです。 しかも法的な手続きは一切必要ありません。 例えレイアウトや配色に著作権は生じずとも、サイトデザインの中には「文章」もあり「写真」もあり「フォント」もあります。 著作権：WEBサイトのキャプチャ引用について "WEB担当者Forum"さんの "マンガでわかるWeb著作権（第3回） 権利の制限"を読み、これまで微妙に心配していた点が解消されました。心配というのは、ブログでサイト紹介をする場合に使わせてもらうキャプチャ画像について、果たして勝手に … 写真の著作権と肖像権 --- 「弁護士が教える！webに関わる法律講座」では、インターネットに関する著作権について、会話形式でわかりやすく解説しています。 漫画村など海賊版マンガサイトを規制し、漫画家などの著作者の利益を守ろうと始まった違法ダウンロードの罰則範囲の拡大具体的にどのようなダウンロード行為が違法となるのだろうか 著作権を侵害していると知りながら、インターネット上にある漫画や写真、論 webサイトやブログ、はたまたsnsでの情報発信を生業としている人々にとって「著作権」は知らないと怖い存在です。画像の無断転載が違法であることを多くの人は認識していますが、「画像って引用でき … では引用はいけないのでしょうか。著作権法には次の様に書かれています。 <br> <br> ";s:7:"keyword";s:38:"Webサイト キャプチャ 著作権";s:5:"links";s:7318:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%A8%E3%82%93%E3%81%93%E3%81%A4%E3%82%B9%E3%83%BC%E3%83%97-%E7%B0%A1%E5%8D%98-%E7%89%9B%E4%B9%B3'>とんこつスープ 簡単 牛乳</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A1%A9%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3-%E8%B1%86%E4%B9%B3-%E3%82%A2%E3%83%AC%E3%83%B3%E3%82%B8'>塩ラーメン 豆乳 アレンジ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%BF%8C%E5%BC%95%E3%81%8D-%E8%91%AC%E5%BC%8F-%E8%A1%8C%E3%81%8B%E3%81%AA%E3%81%84'>忌引き 葬式 行かない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=GUCCI-%E3%82%B5%E3%83%B3%E3%83%80%E3%83%AB-%E3%82%B3%E3%83%BC%E3%83%87'>GUCCI サンダル コーデ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%89%B2%E9%89%9B%E7%AD%86-%E9%87%8D%E3%81%AD%E5%A1%97%E3%82%8A-%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84'>色鉛筆 重ね塗り できない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%BB%E3%83%AA%E3%83%BC%E3%83%8C-%E3%83%88%E3%83%AA%E3%82%AA-%E6%97%A7%E3%83%AD%E3%82%B4'>セリーヌ トリオ 旧ロゴ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9E%E3%82%A6%E3%82%B9-%E9%9B%BB%E6%BA%90%E3%81%AE%E7%AE%A1%E7%90%86-%E8%A1%A8%E7%A4%BA%E3%81%95%E3%82%8C%E3%81%AA%E3%81%84-win10'>マウス 電源の管理 表示されない Win10</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=4%C2%B0c-%E3%83%8D%E3%83%83%E3%82%AF%E3%83%AC%E3%82%B9-%E9%AB%98%E6%A0%A1%E7%94%9F'>4°c ネックレス 高校生</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%B1%86%E8%85%90-%E3%82%AC%E3%83%88%E3%83%BC%E3%82%B7%E3%83%A7%E3%82%B3%E3%83%A9-%E3%82%AB%E3%83%AD%E3%83%AA%E3%83%BC'>豆腐 ガトーショコラ カロリー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Ajax-Safari-%E5%8B%95%E3%81%8B%E3%81%AA%E3%81%84'>Ajax Safari 動かない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BD%8F%E5%8F%8B%E4%B8%8D%E5%8B%95%E7%94%A3-%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%9A%E3%83%BC%E3%83%B3-2020'>住友不動産 キャンペーン 2020</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%82%E3%82%93%E3%82%B9%E3%82%BF-%E3%82%AA%E3%83%B3%E3%83%AA%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97-2019'>あんスタ オンリーショップ 2019</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%90%E3%83%B3%E3%82%B3%E3%82%AF-%E3%82%B3%E3%82%B9%E3%83%91-%E3%83%AC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%B3'>バンコク コスパ レストラン</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=line-%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3%E3%81%AE%E3%81%BF-%E6%96%B0%E8%A6%8F%E7%99%BB%E9%8C%B2%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84'>Line パソコンのみ 新規登録できない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3-%E6%96%87%E5%AD%97%E3%82%B5%E3%82%A4%E3%82%BA-%E5%A4%A7%E3%81%8D%E3%81%8F%E3%81%AA%E3%81%A3%E3%81%9F'>パソコン 文字サイズ 大きくなった</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=FK8-%E7%87%83%E6%96%99%E3%83%9D%E3%83%B3%E3%83%97-%E4%B8%8D%E5%85%B7%E5%90%88'>FK8 燃料ポンプ 不具合</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A4%8F%E4%BC%91%E3%81%BF-%E5%B7%A5%E4%BD%9C-100-%E5%9D%87-%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%89%E3%83%AB'>夏休み 工作 100 均 キャンドル</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%BE%BD-%E6%BC%A2%E5%AD%97-%E6%9B%B8%E3%81%8D%E6%96%B9'>羽 漢字 書き方</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%90%8C%E5%BF%97%E7%A4%BE-%E4%B8%AD%E5%AD%A6-%E9%A7%90-%E8%BB%8A%E5%A0%B4'>同志社 中学 駐 車場</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%97%A5%E6%B8%85-%E8%A3%BD-%E9%BA%BA'>日清 製 麺</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB-%E7%A7%BB%E5%8B%95-%E5%9B%BA%E3%81%BE%E3%82%8B'>ファイル 移動 固まる</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Galaxy-Gear-S3-%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC-%E6%B8%9B%E3%82%8A%E3%81%8C%E6%97%A9%E3%81%84'>Galaxy Gear S3 バッテリー 減りが早い</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%82%8C%E6%B0%B4-%E3%83%A1%E3%83%B3%E3%82%BA-%E3%83%87%E3%82%A3%E3%82%B9%E3%83%9A%E3%83%B3%E3%82%B5%E3%83%BC'>肌水 メンズ ディスペンサー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AD%E3%83%A3%E3%83%97%E3%83%86%E3%83%B3-%E3%82%B9%E3%82%BF%E3%83%83%E3%82%B0-%E3%82%AF%E3%83%83%E3%82%AB%E3%83%BC-%E3%82%BB%E3%83%83%E3%83%88-L-%E3%81%94%E9%A3%AF'>キャプテン スタッグ クッカー セット L ご飯</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AA%E3%82%B7%E3%82%A2-%E3%82%B3%E3%83%B3%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88ct-201pg'>オシア コンクエストct 201pg</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%BB%BD%E3%83%88%E3%83%A9-%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%9C-%E8%8D%B7%E5%8F%B0-%E5%AF%B8%E6%B3%95'>軽トラ ジャンボ 荷台 寸法</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=amazon-%E5%87%BA%E5%93%81%E8%80%85%E3%81%AB%E9%80%A3%E7%B5%A1-%E7%94%BB%E5%83%8F-%E6%B7%BB%E4%BB%98%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84-%E3%82%B9%E3%83%9E%E3%83%9B'>Amazon 出品者に連絡 画像 添付できない スマホ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%81%E3%83%A7%E3%82%B3-%E3%82%AF%E3%83%83%E3%82%AD%E3%83%BC-%E3%83%9B%E3%83%83%E3%83%88%E3%82%B1%E3%83%BC%E3%82%AD%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9'>ホワイトチョコ クッキー ホットケーキミックス</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%95%E3%82%A3%E3%83%83%E3%83%88-%E3%83%95%E3%83%AD%E3%83%B3%E3%83%88%E3%83%91%E3%83%8D%E3%83%AB-%E5%8F%96%E3%82%8A%E5%A4%96%E3%81%97'>フィット フロントパネル 取り外し</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B9%E3%82%B3%E3%83%83%E3%83%88-%E3%83%95%E3%83%A9%E3%82%A4-%E3%83%AD%E3%83%83%E3%83%89-%E4%B8%AD%E5%8F%A4'>スコット フライ ロッド 中古</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Web%E3%83%9A%E3%83%BC%E3%82%B8-%E4%B8%B8%E3%81%94%E3%81%A8%E4%BF%9D%E5%AD%98-Chrome'>Webページ 丸ごと保存 Chrome</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%A0%E3%81%84%E3%82%84%E3%82%81-%E7%84%BC%E9%85%8E-%E3%82%B3%E3%82%B9%E3%83%88%E3%82%B3'>だいやめ 焼酎 コストコ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A4%E3%83%A9%E3%83%AC-%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC-%E6%A4%9C%E7%B4%A2'>イラレ レイヤー 検索</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B5%E3%83%A9%E3%83%80%E3%83%81%E3%82%AD%E3%83%B3-%E8%BE%9B%E3%81%84-%E3%82%B9%E3%83%BC%E3%83%97'>サラダチキン 辛い スープ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=o2%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC-%E9%9B%BB%E5%9C%A7-%E9%AB%98%E3%81%84'>O2センサー 電圧 高い</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%B1%B3%E4%BB%A3-%E5%B7%9D-%E3%82%B5%E3%82%AF%E3%83%A9%E3%83%9E%E3%82%B9-%E3%83%95%E3%83%A9%E3%82%A4'>米代 川 サクラマス フライ</a>,
+";s:7:"expired";i:-1;}

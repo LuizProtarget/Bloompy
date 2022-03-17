@@ -1,0 +1,93 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:4930:"<p>件名の通りなのですが、異なるExcelファイルに数式をコピーすると元のExcelファイルへの参照も一緒にコピーされてしまいました。これを数式のみ参照する方法はあるでしょうか？ 手でやればいいけどかなりの数の数式があって何か方法があったら教えてください。 Aファイル（WordにExcelワークシートを埋め込み）と、Bファイル（Excel）があります。「Aファイルのセル（値）をコピー→Bファイルのセルに貼り付け」って、できませんか？やってみましたが、「貼り付けのオプション」に「値」が </p> <p>【Excel】数式をそのまま他のファイルにコピーする方法基本的なことかもしれませんが、エクセルのファイル間でSheet1からSheet2へA1に入力した「=Sheet2!A1+Sheet2!B1」という数式をそのままコピーしたいのですが、普通にコピーすると「=[Book2]Sheet2!A1+[Book2]Sheet2!B1」となってしまいます。新 … 別ブックから数式コピーをすると=A1が='[ブック名.xlsx]シート名!A1のように変換されてしまう。 これは使いにくいので、シンプルに=A1のような数式だけをコピーしたい(ブック名もシート名も付けたくない)という時のメモ。. Excel 別ファイルに自動的に反映させたい ... んが、エクセルのファイル間でSheet1からSheet2へA1に入力した「=Sheet2!A1+Sheet2!B1」という数式をそのままコピーしたいのですが、普通にコピーすると「=[Book2]Sheet2!A1+[Book2]Sheet2!B1」となってしまいます。 </p> <p>方法A. Excelを使っていると、セル内の数式をそのまま別ブックや別シートにコピペしたいことがよくあります。でも、通常の方法で貼り付けても、数式をそのまま貼り付けるオプションがないので、貼り付け後にコピー元ブックやコピー元シートのセルを参照したり、 通常の操作でコピーペーストを行う </p> <p>EXCELにて、（ブック名が付かない）式のみコピーする方法を教えてください。 あるブックで別シートを参照している式を、別ブックに式だけコピーしたいのです。 「形式を選択して貼り付け」の「数式」を選択すると、ブック名が付いてしまいます。 Excelのシートを別のファイル（ブック）に移動・コピーする方法のまとめ. Excel（エクセル）ではセルを参照することができます。 セルの参照の方法が知りたい 別のシートを参照したい 別のファイルを参照したい今回は、Excel（エクセル）でセルを参照する方法を紹介します！Office 365 2019 2016 Excelブック間で数式のコピー＆貼り付けを実行すると、数式の参照元がコピー元ブックを参照してしまう。 【再現方法】 book1.xlsx の Sheet1 シート の A1 セルに 「=Sheet2!A1」と入力する。book1.xlsx の Sheet1 シート の A1 セルをコピーする。book2.xlsx の Sheet1 シート の A1 セルに 表から、2行ごと3行ごとなどのように、n行おきに間隔を開けて値を抽出したいとき、データが多いと困ってしまいます。今回は、index関数とrow関数を使って、一定の行ごとに別シートのデータを抽出する方法を紹介します。 シートを別の文書ファイルに移動したり、コピーしたい！操作方法はとっても簡単なのですが、最初にするべき「あること」を忘れがち。Excel・エクセルの技！ </p> <p> 数式を移動またはコピーするときに、相対的なセル参照がどのように変化するかを理解しておくことが重要です。 数式の移動: 数式を移動すると、使用しているセル参照の種類に関係なく、数式内のセル参照は変更されません。 件名の通りなのですが、異なるExcelファイルに数式をコピーすると元のExcelファイルへの参照も一緒にコピーされてしまいました。これを数式のみ参照する方法はあるでしょうか？ 手でやればいいけどかなりの数の数式があって何か方法があったら教えてください。 数式を移動またはコピーするときに、相対的なセル参照がどのように変化するかを理解しておくことが重要です。 数式の移動: 数式を移動すると、使用しているセル参照の種類に関係なく、数式内のセル参照は変更されません。 というわけで、 用語の説明 ブックとは、シートとは; 別のファイル（ブック）に移動・コピーする方法 ドラッグ＆ドロップ版も; について画像つきでご紹介しました。 </p>";s:7:"keyword";s:37:"Excel数式 コピー 別ファイル";s:5:"links";s:11042:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%B5%90%E5%A9%9A%E5%BC%8F-%E3%81%8A%E5%91%BC%E3%81%B0%E3%82%8C-%E3%82%B7%E3%83%A3%E3%83%84-%E5%A5%B3%E6%80%A7'>結婚式 お呼ばれ シャツ 女性</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A8%E3%82%AF%E3%82%BB%E3%83%AB-%E3%83%95%E3%82%A9%E3%83%B3%E3%83%88-%E8%A9%B3%E7%B4%B0%E8%A8%AD%E5%AE%9A-%E3%81%AA%E3%81%84'>エクセル フォント 詳細設定 ない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%84%9B%E7%9F%A5%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6-%E5%B9%B4%E9%96%93-%E3%82%B9%E3%82%B1%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB'>愛知医科大学 年間 スケジュール</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%8A%E5%BC%81%E5%BD%93-%E3%82%AA%E3%83%A0%E3%83%A9%E3%82%A4%E3%82%B9-%E5%8D%B5-%E5%8D%8A%E7%86%9F'>お弁当 オムライス 卵 半熟</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%95%E3%82%A9%E3%83%AC%E3%82%B9%E3%83%88-%E3%82%A6%E3%82%A3%E3%83%86%E3%82%AB%E3%83%BC-%E6%81%AF%E5%AD%90'>フォレスト ウィテカー 息子</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=50-%E4%BB%A3-%E5%A5%B3%E6%80%A7-%E3%81%8A%E6%89%8B%E6%9C%AC-%E3%83%95%E3%82%A1%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E7%94%BB%E5%83%8F'>50 代 女性 お手本 ファッション画像</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9E%E3%83%84%E3%82%A8%E3%82%AF-%E9%95%B7-%E4%B8%8E'>マツエク 長 与</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%92%9F%E8%92%BB%E7%95%91-CM-%E6%AD%B4%E4%BB%A3'>蒟蒻畑 CM 歴代</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A4%A7%E4%BA%BA%E3%81%AE%E5%A5%B3%E6%80%A7-%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88-%E6%8F%8F%E3%81%8D%E6%96%B9'>大人の女性 イラスト 描き方</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=BitLocker-%E8%A7%A3%E9%99%A4-%E6%99%82%E9%96%93'>BitLocker 解除 時間</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%B2%96%E7%B8%84-%E5%85%AC%E5%8B%99%E5%93%A1-%E7%A8%AE%E9%A1%9E'>沖縄 公務員 種類</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%B5%90%E5%A9%9A%E5%BC%8F-%E4%BA%8C%E6%AC%A1%E4%BC%9A-%E3%82%BB%E3%83%BC%E3%82%BF%E3%83%BC'>結婚式 二次会 セーター</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B8%E3%83%BC%E3%83%B3%E3%82%BA-%E6%B4%97%E6%BF%AF-%E8%89%B2%E7%A7%BB%E3%82%8A'>ジーンズ 洗濯 色移り</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Chrome-Enterprise-Education'>Chrome Enterprise Education</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%84%E3%81%AA%E3%81%92%E3%82%84-%E9%9D%92%E6%9E%9C-%E3%83%90%E3%82%A4%E3%83%88'>いなげや 青果 バイト</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%BB%BD%E3%83%88%E3%83%A9-%E5%86%B7%E8%94%B5%E5%BA%AB-%E3%83%AD%E3%83%BC%E3%83%97-%E7%B5%90%E3%81%B3%E6%96%B9'>軽トラ 冷蔵庫 ロープ 結び方</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%BF%E3%82%A4%E3%83%A0-%E3%83%9B%E3%83%BC%E3%83%A0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC-%E5%B2%A1%E5%B1%B1'>タイム ホームセンター 岡山</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%91%E3%83%8A%E3%82%BD%E3%83%8B%E3%83%83%E3%82%AF-%E9%9B%BB%E5%8B%95%E8%87%AA%E8%BB%A2%E8%BB%8A-%E4%B8%8D%E5%85%B7%E5%90%88'>パナソニック 電動自転車 不具合</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%84%E3%82%A4%E3%83%83%E3%82%BF%E3%83%BC-%E9%A1%94-%E6%99%92%E3%81%95%E3%82%8C%E3%81%9F'>ツイッター 顔 晒された</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%80%E3%82%A4%E3%82%A2%E3%83%8A-%E3%83%92%E3%83%BC%E3%83%AB-%E3%82%AD%E3%83%A9%E3%82%AD%E3%83%A9'>ダイアナ ヒール キラキラ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B8%80%E7%B4%9A%E5%BB%BA%E7%AF%89%E5%A3%AB-%E5%A4%A7%E5%AD%A6-%E5%90%88%E6%A0%BC%E7%8E%87'>一級建築士 大学 合格率</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AA%E3%82%AF%E3%83%A9-E-%E3%83%AC%E3%82%B7%E3%83%94'>オクラ E レシピ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%87%A8%E5%BA%8A%E6%A4%9C%E6%9F%BB%E6%8A%80%E5%B8%AB-%E5%8C%BB%E7%94%A8%E5%B7%A5%E5%AD%A6-%E3%81%BE%E3%81%A8%E3%82%81'>臨床検査技師 医用工学 まとめ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=6%E6%9C%88-%E5%8C%97%E6%B5%B7%E9%81%93-%E6%B5%B7%E9%AE%AE'>6月 北海道 海鮮</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=outlook-%E8%A8%BC%E6%98%8E%E6%9B%B8-iphone'>Outlook 証明書 Iphone</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Buffalo-%E3%83%96%E3%83%AA%E3%83%83%E3%82%B8%E3%83%A2%E3%83%BC%E3%83%89-%E7%B0%A1%E6%98%93NAS'>Buffalo ブリッジモード 簡易NAS</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E7%AE%A1%E7%90%86%E8%B2%AC%E4%BB%BB%E8%80%85-%E6%B1%82%E4%BA%BA---%E7%A6%8F%E4%BA%95'>サービス管理責任者 求人 - 福井</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%BD%E3%83%BC-%E8%A3%9C%E8%AC%9B-%E9%9D%99%E5%B2%A1'>チェーンソー 補講 静岡</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB-%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BC-%E9%A3%BE%E3%82%8A%E6%96%B9'>アイドル カレンダー 飾り方</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%96%B0%E9%AE%AE-%E5%8D%B5-%E3%82%86%E3%81%A7%E5%8D%B5'>新鮮 卵 ゆで卵</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%A6%E3%83%8B%E3%82%AF%E3%83%AD-%E3%82%BB%E3%83%AB%E3%83%95%E3%83%AC%E3%82%B8-%E8%BF%94%E5%93%81'>ユニクロ セルフレジ 返品</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B9%85%E4%BF%9D%E7%94%B0-%E7%94%A3%E5%A9%A6-%E4%BA%BA-%E7%A7%91-Wi-Fi'>久保田 産婦 人 科 Wi Fi</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B8%89%E4%BA%95-%E4%B8%8D%E5%8B%95%E7%94%A3-%E5%8B%A4%E5%8B%99-%E6%99%82%E9%96%93'>三井 不動産 勤務 時間</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%AF%E3%83%BC%E3%83%89-%E3%82%A2%E3%83%97%E3%83%AA-%E3%82%B5%E3%82%A4%E3%83%B3%E3%82%A4%E3%83%B3'>ワード アプリ サインイン</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A4%A7%E5%AD%A6%E7%94%9F-%E6%9C%8D-%E7%9D%80%E3%81%BE%E3%82%8F%E3%81%97'>大学生 服 着まわし</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%B9%98%E5%8D%97%E7%BE%8E%E5%AE%B9%E5%A4%96%E7%A7%91-%E3%81%BB%E3%81%8F%E3%82%8D%E9%99%A4%E5%8E%BB-%E7%B5%82%E4%BA%86'>湘南美容外科 ほくろ除去 終了</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%8B%E3%83%99%E3%82%A2-%E6%97%A5%E7%84%BC%E3%81%91%E6%AD%A2%E3%82%81-%E3%83%9D%E3%83%B3%E3%83%97'>ニベア 日焼け止め ポンプ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=60%E4%BB%A3-%E5%A5%B3%E6%80%A7-%E3%82%B9%E3%83%8B%E3%83%BC%E3%82%AB%E3%83%BC-%E3%82%B3%E3%83%BC%E3%83%87'>60代 女性 スニーカー コーデ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%AB%E3%82%B8%E3%83%A5%E3%82%A2%E3%83%AB-%E5%A5%B3%E6%80%A7-%E5%86%AC'>スマートカジュアル 女性 冬</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AF%E3%83%AC%E3%83%B3%E3%82%B8%E3%83%B3%E3%82%B0-%E6%B4%97%E9%A1%94-%E3%81%A9%E3%81%A3%E3%81%A1'>クレンジング 洗顔 どっち</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%95%E3%81%A4%E3%81%BE%E3%81%84%E3%82%82-%E5%A4%A9%E3%81%B7%E3%82%89-%E6%B2%B9-%E5%B0%91%E3%81%AA%E3%82%81'>さつまいも 天ぷら 油 少なめ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89%E8%8A%B1-%E3%83%90%E3%83%AB%E3%83%BC%E3%83%B3-%E5%A4%A7%E9%98%AA'>スタンド花 バルーン 大阪</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%80%80%E8%81%B7%E5%B1%8A-%E8%8B%B1%E8%AA%9E-%E3%83%A1%E3%83%BC%E3%83%AB-%E3%82%BF%E3%82%A4%E3%83%88%E3%83%AB'>退職届 英語 メール タイトル</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=mac-%E3%83%91%E3%83%AF%E3%83%BC%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88-%E3%82%B3%E3%83%94%E3%83%9A%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84'>Mac パワーポイント コピペできない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%94%E3%83%B3%E3%82%B0%E3%82%AB%E3%83%BC-%E8%BB%BD%E8%87%AA%E5%8B%95%E8%BB%8A-%E4%BA%BA%E6%B0%97'>キャンピングカー 軽自動車 人気</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%97%A5%E6%9C%AC%E6%A9%8B%E5%86%85%E7%A7%91-%E3%82%A2%E3%83%AC%E3%83%AB%E3%82%AE%E3%83%BC%E7%A7%91%E3%82%AF%E3%83%AA%E3%83%8B%E3%83%83%E3%82%AF-%E5%8F%A3%E3%82%B3%E3%83%9F'>日本橋内科 アレルギー科クリニック 口コミ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C-%E6%B0%B4%E9%81%93%E6%96%99%E9%87%91-%E6%B8%9B%E5%85%8D'>神奈川県 水道料金 減免</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A4%E3%83%9C-%E6%B6%B2%E4%BD%93%E7%AA%92%E7%B4%A0-%E7%97%9B%E3%81%84'>イボ 液体窒素 痛い</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%AD%AF%E3%81%8E%E3%81%97%E3%82%8A-%E3%83%9C%E3%83%88%E3%83%83%E3%82%AF%E3%82%B9-%E5%A7%AB%E8%B7%AF'>歯ぎしり ボトックス 姫路</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A9%9A-%E6%B4%BB-%E5%9E%A2-%E3%83%B2%E3%83%81-65'>婚 活 垢 ヲチ 65</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A4%E3%82%B6%E3%83%99%E3%83%A9-%E3%83%90%E3%83%BC%E3%83%89%E3%81%AE%E9%81%93-%E6%AD%B4%E5%8F%B2%E6%8E%A2%E8%A8%AA%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%AF'>イザベラ バードの道 歴史探訪ウォーク</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=ana-%E7%AD%86%E9%A0%AD%E6%A0%AA%E4%B8%BB-%E5%90%8D%E9%89%84'>Ana 筆頭株主 名鉄</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%BB%E3%81%86%E3%82%8C%E3%82%93%E8%8D%89-%E3%81%97%E3%82%89%E3%81%99-%E3%83%91%E3%82%B9%E3%82%BF-%E9%9B%A2%E4%B9%B3%E9%A3%9F'>ほうれん草 しらす パスタ 離乳食</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%9D%B1%E4%BA%AC-%E7%84%BC%E8%82%89-%E3%82%A8%E3%83%AA%E3%82%A2'>東京 焼肉 エリア</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%97%E3%83%AD%E3%83%90%E3%82%A4%E3%83%80-id-%E3%83%91%E3%82%B9%E3%83%AF%E3%83%BC%E3%83%89-%E5%BF%98%E3%82%8C%E3%81%9F-ntt'>プロバイダ Id パスワード 忘れた Ntt</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%91%E3%83%8A%E3%82%BD%E3%83%8B%E3%83%83%E3%82%AF-%E6%A0%AA-%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9'>パナソニック 株 ニュース</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=firefox-%E5%88%9D%E6%9C%9F%E5%8C%96-%E5%AE%8C%E5%85%A8'>Firefox 初期化 完全</a>,
+";s:7:"expired";i:-1;}

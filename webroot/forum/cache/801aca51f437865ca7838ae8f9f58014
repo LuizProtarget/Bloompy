@@ -1,0 +1,80 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:4915:"<p>ゆうゆうメルカリ便で商品を発送したあとに、メルカリ事務局によって取引がキャンセルされました。 （赤ちゃん用のパンツが中古だとダメだったようです）商品が削除されたため、荷物の追跡状況は不明で、購入者様へ連絡をとることもできなくなりました。  メルカリで出品した商品が購入された後、購入者様と取引が開始します。 梱包をして商品を発送し、取引終了までを解説します。 メルカリの発送方法で、お勧めなのが、 らくらくメルカリ便・ゆうゆうメルカル便があります。 ①代金を支払わない; ②出品者が商品を発送しない; ③事務局へキャンセル依頼をする; 万が一出品者に取引のキャンセルを断られたら？ メルカリで購入後のキャンセルをすると悪い評価はつく？ メルカリで出品した商品が購入された後、購入者様と取引が開始します。 梱包をして商品を発送し、取引終了までを解説します。 メルカリの発送方法で、お勧めなのが、 らくらくメルカリ便・ゆうゆうメルカル便があります。 メルカリ発送後なので、キャンセルは無理だと言ってみた. メルカリでの購入後のキャンセルをする方法. 発送通知後はらくらくメルカリ便・ゆうゆうメルカリ便への変更、サイズを変更することができません。 らくらくメルカリ便・ゆうゆうメルカリ便は「発送通知」を押す前の状態で配送用2次元コードを発行していただく必要がございます。 メルカリで間違って購入してしまった場合にキャンセルする方法はあるのですが知らない方も多いので損をしている方もいます。取引をキャンセルしたい場合のキャンセル方法やペナルティについて解説し … </p> <p>メルカリの発送方法は変更できないのでしょうか？未定や着払い、匿名発送など、色々な送り方に分けて説明します。しかし、購入後に配送方法を変更すると、思わぬトラブルに巻き込まれるかもしれないので、注意ですね。 </p> <p>『メルカリ』で商品の購入手続き後に取引をキャンセルする方法をわかりやすく紹介！ どのような場合で利用制限などのペナルティを受けるのか、またペナルティを受けずに取引中止できるのか、皆さんの悩みを解消します。その他、返金・返品方法についても解説 発送通知後はらくらくメルカリ便・ゆうゆうメルカリ便への変更、サイズを変更することができません。 らくらくメルカリ便・ゆうゆうメルカリ便は「発送通知」を押す前の状態で配送用2次元コードを発行していただく必要がございます。 今日メルカリで売れたものをゆうゆうメルカリ便で発送 し ... メルカリ便で発送後 ... メルカリ便以外の発送方法に変更するか、メルカリ便を利用したいのであれば一旦キャンセルして再度購入してもらう必要があります。 ナイス 1; 違反報告. 「らくらくメルカリ便」や「ゆうゆうメルカリ便」は、宛名書き不要・全国一律の配送料・匿名配送・追跡可能などのたくさんのメリットがあります。送料は売上金から引かれるので、送るときに料金が発生しないのも 。そんなメリットの多いメルカリ便ですが、「 メルカリのゆうゆうメルカリ便をローソンから発送する時のスマホ操作（メルカリ取引画面）手順とローソンでのLoppi端末操作手順、荷物を渡すまでの発送方法を画像ありで詳しく解説します。. メルカリで出品した商品が売れた後の発送方法の変更のやり方を解説します。メルカリで商品を出品し、購入に至った場合には様々なな発送方法で商品を届けることが出来ます。しかし、売れた後に当初とは違う発送方法を採用しなくてはいけないケースが出てきますよね。 kuronecochieさん. メルカリには独自の配送方法があります。らくらくメルカリ便とゆうゆうメルカリ便です。それらは送料が安く全国一律というメリットがありますが、体系がちょっと複雑です。そこでこの記事でメルカリ便の送料比較とサイズ別のオススメ配送法をまとめます。 メルカリで商品を発送後にキャンセル依頼。 さすがに、普段は温厚なみれとも これには参りました(~_~;) 商品発送しちゃっているし、 今更どうすれば良いの？ って・・・。 </p>";s:7:"keyword";s:57:"ゆうゆう メルカリ 発送後キャンセル 送料";s:5:"links";s:8150:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%85%AC%E5%8B%99%E5%93%A1-%E8%A9%A6%E9%A8%93-%E5%8F%97-%E3%81%8B%E3%82%89-%E3%81%AA%E3%81%84%E4%BA%BA-%E7%89%B9%E5%BE%B4'>公務員 試験 受 から ない人 特徴</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%9A%9C%E5%AE%B3%E5%9F%BA%E7%A4%8E%E5%B9%B4%E9%87%91-%E7%94%B3%E8%AB%8B-%E7%9F%A5%E7%9A%84%E9%9A%9C%E5%AE%B3'>障害基礎年金 申請 知的障害</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=JavaScript-IE-%E8%87%AA%E5%8B%95%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3'>JavaScript IE 自動ログイン</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%AB%98%E9%87%8E%E8%B1%86%E8%85%90-%E3%82%AB%E3%83%AD%E3%83%AA%E3%83%BC-%E5%86%99%E7%9C%9F'>高野豆腐 カロリー 写真</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Mac-mini-2011-Catalina'>Mac Mini 2011 Catalina</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B1%E3%83%B3%E3%82%BF%E3%83%83%E3%82%AD%E3%83%BC-%E3%83%93%E3%82%B9%E3%82%B1%E3%83%83%E3%83%88-%E3%83%A1%E3%83%BC%E3%83%97%E3%83%AB-%E3%81%A4%E3%81%84%E3%81%A6%E3%81%AA%E3%81%84'>ケンタッキー ビスケット メープル ついてない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A6%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B0%E3%83%9D%E3%82%B9%E3%83%88-9-%E6%8C%81%E7%B6%9A'>ウイニングポスト 9 持続</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%9D%A5%E8%B3%93-%E9%80%80%E5%B8%AD-%E3%82%A2%E3%83%8A%E3%82%A6%E3%83%B3%E3%82%B9'>来賓 退席 アナウンス</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%86%E3%83%AC%E6%9D%B1news-youtube-%E3%82%A2%E3%83%8A%E3%82%A6%E3%83%B3%E3%82%B5%E3%83%BC'>テレ東news Youtube アナウンサー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=MotoGP-%E6%97%A5%E6%9C%AC-%E3%83%90%E3%82%B9'>MotoGP 日本 バス</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=MacBook-Air-2011-SSD'>MacBook Air 2011 SSD</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%AC%E3%83%B4%E3%82%A9%E3%83%BC%E3%82%B0-%E8%A9%95%E4%BE%A1-%E8%BE%9B%E5%8F%A3'>レヴォーグ 評価 辛口</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%B2%E3%82%89-%E3%81%9F%E3%81%91-%E7%84%BC%E3%81%8F-%E3%81%A0%E3%81%91'>ひら たけ 焼く だけ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%80%E3%82%A4%E3%83%AF-%E3%82%AB%E3%83%AB%E3%83%87%E3%82%A3%E3%82%A2-2004-%E4%B8%AD%E5%8F%A4'>ダイワ カルディア 2004 中古</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Replace-A-for-B'>Replace A For B</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A2%E3%83%87%E3%82%A3%E3%83%80%E3%82%B9-%E3%82%B8%E3%83%A3%E3%83%BC%E3%82%B8-%E3%82%B5%E3%82%A4%E3%82%BA-%E9%81%B8%E3%81%B3%E6%96%B9-%E3%83%AC%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B9'>アディダス ジャージ サイズ 選び方 レディース</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%8B%E3%83%88%E3%83%AA-A4-%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9'>ニトリ A4 カラーボックス</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A8%E3%83%BC%E3%82%B9%E3%83%AF%E3%83%B3-%E3%82%A8%E3%83%BC%E3%83%9E%E3%83%83%E3%82%AF%E3%82%B9-%E9%81%95%E3%81%84'>エースワン エーマックス 違い</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Url-validate-regex'>Url Validate Regex</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%89%AF%E6%A5%AD-%E3%81%B0%E3%82%8C%E3%81%AA%E3%81%84-%E5%A4%9C'>副業 ばれない 夜</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A4%A7%E4%BA%BA%E3%81%AE%E5%A5%B3%E6%80%A7-%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88-%E6%8F%8F%E3%81%8D%E6%96%B9'>大人の女性 イラスト 描き方</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%9D%BF%E6%A9%8B%E9%A7%85-%E3%81%8A%E3%81%97%E3%82%83%E3%82%8C-%E5%B1%85%E9%85%92%E5%B1%8B'>板橋駅 おしゃれ 居酒屋</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%BB%E3%83%AC%E3%83%8A-%E3%83%91%E3%83%AF%E3%83%BC%E3%82%A6%E3%82%A3%E3%83%B3%E3%83%89%E3%82%A6-%E3%83%AA%E3%82%BB%E3%83%83%E3%83%88'>セレナ パワーウィンドウ リセット</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%94%AF-%E6%84%8F%E5%91%B3-%E6%82%AA%E3%81%84'>唯 意味 悪い</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=ana-%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%82%AF%E3%83%A9%E3%82%B9-%E3%82%A2%E3%83%A1%E3%83%8B%E3%83%86%E3%82%A3-2019'>Ana ビジネスクラス アメニティ 2019</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Magic-Trackpad-2-Windows-10-Driver'>Magic Trackpad 2 Windows 10 Driver</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Windows10-%E3%83%90%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97-USB-%E5%AE%B9%E9%87%8F'>Windows10 バックアップ USB 容量</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%A6%8F%E5%B2%A1-%E3%83%A9%E3%82%B0%E3%83%93%E3%83%BC-%E3%83%81%E3%83%BC%E3%83%A0'>福岡 ラグビー チーム</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%BA%83%E5%B3%B6-%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%AB%E3%83%AB-%E5%85%AC%E6%BC%94'>広島 ミュージカル 公演</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AB%E3%83%83%E3%83%97-%E7%84%BC%E3%81%8D%E3%81%9D%E3%81%B0-%E3%81%A7%E3%81%9D%E3%81%B0%E3%82%81%E3%81%97'>カップ 焼きそば でそばめし</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%8C%BB%E5%B8%AB%E5%9B%BD%E5%AE%B6%E8%A9%A6%E9%A8%93-%E5%90%88%E6%A0%BC%E7%99%BA%E8%A1%A8-%E5%A0%B4%E6%89%80'>医師国家試験 合格発表 場所</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF-%E9%9B%BB%E6%B3%A2-%E7%B9%8B%E3%81%8C%E3%82%89%E3%81%AA%E3%81%84'>ソフトバンク 電波 繋がらない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%99%BD%E8%8F%9C-%E8%82%89%E5%9B%A3%E5%AD%90-%E3%82%B9%E3%83%BC%E3%83%97-%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%A1'>白菜 肉団子 スープ コンソメ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Nice-to-see-you-%E6%84%8F%E5%91%B3'>Nice To See You 意味</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=j%E3%83%AA%E3%83%BC%E3%82%B0-%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B5%E3%83%BC-%E8%A6%8F%E5%AE%9A'>Jリーグ スポンサー 規定</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%84%BC%E3%81%8D%E9%B3%A5-%E3%81%AD%E3%81%8E%E3%81%BE-%E3%82%AB%E3%83%AD%E3%83%AA%E3%83%BC'>焼き鳥 ねぎま カロリー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B0%E3%83%83%E3%83%81-%E8%B2%A1%E5%B8%83-%E6%B5%B7%E5%A4%96-%E9%99%90%E5%AE%9A'>グッチ 財布 海外 限定</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%BB%E3%81%86%E3%82%8C%E3%82%93%E8%8D%89-%E3%81%8A%E3%81%B2%E3%81%9F%E3%81%97-%E4%BD%9C%E3%82%8A%E7%BD%AE%E3%81%8D'>ほうれん草 おひたし 作り置き</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF-%E5%AF%BE%E9%98%AA%E7%A5%9E-%E3%83%81%E3%82%B1%E3%83%83%E3%83%88'>ソフトバンク 対阪神 チケット</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%89%E3%82%AF%E3%82%BF%E3%83%BC%E3%82%BA%E6%9C%80%E5%BC%B7%E3%81%AE%E5%90%8D%E5%8C%BB-2020-4%E6%9C%8826%E6%97%A5'>ドクターズ最強の名医 2020 4月26日</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BA%BA%E5%8F%82-%E3%81%8A%E3%81%8B%E3%81%9A-%E5%AD%90%E4%BE%9B'>人参 おかず 子供</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%9D%92%E5%B1%B1-30-%E4%BB%A3-%E3%82%B9%E3%83%BC%E3%83%84'>青山 30 代 スーツ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%98%E3%82%85-%E3%81%A8%E3%81%86-%E7%B1%B3%E6%B2%A2'>じゅ とう 米沢</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF-%E3%83%AD%E3%82%B4-%E9%81%B8%E8%80%83'>オリンピック ロゴ 選考</a>,
+";s:7:"expired";i:-1;}

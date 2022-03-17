@@ -1,0 +1,72 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:2181:"こんにちは！ 今回は東北学院大学「文学部」の評判について、在校生の方にインタビューをしてきました。 東北学院大学「文学部」の詳しい就職先や学生の雰囲気、学費や奨学金制度についてもっと知りたい方は東北学院大学のパンフレットを請求してみて下さい。 <br> <br>東北学院大学・大学院 . <br> <br>東北大学大学院文学研究科（とうほくだいがくだいがくいんぶんがくけんきゅうか、英称:Graduate School of Arts and Letters）は、東北大学 大学院に設置される研究科の一つである。 また、東北大学文学部（とうほくだいがくぶんがくぶ、英称:School of Arts and Letters）は、東北大学に設置される学部の …  <br>copyright DEPARTMENT OF ART HISTORY, GRADUATE SCHOOL OF ARTS AND LETTERS, TOHOKU UNIVERSITY 国立大学法人東北大学公式ウェブサイトです。東北大学は1907年（明治40年）に日本で3番目の帝国大学として創立しました。建学以来の伝統である「研究第一」と「門戸開放」の理念を掲げ、世界最高水準の研究・教育を創造します。 東北大学 ｜ 東北大学文学部 〒 980-8576 宮城県仙台市青葉 区川内27-1 東北大学大学院文学研究科・文学部 TEL/FAX: 022-795-6019 e-mail: tohoku.bigaku(at)gmail.com. 学長: 大西 晴樹: 副学長（総務担当） 菊地 雄介: 副学長（学務担当） 千葉 昭彦: 副学長（点検・評価担当） 中沢 正利: 学長特別補佐: 稲垣 忠: 大学院文学研究科長: 那須川 訓也: 英語英文学専攻主任: 豊島 孝之: ヨーロッパ文化史専攻主任: 櫻井 康人: アジア文化史専攻� 東北の文学・人文・人間・心理の学部学科がある大学・短期大学（短大）を15校掲載中。エリア、定員数、学費、学校の特長、学部・学科・コースの詳細で自分に合った大学・短期大学（短大）を絞り込めます。大学・短期大学（短大）選びなら【スタディサプリ 進路（旧：リクナビ進学）】  <br>";s:7:"keyword";s:26:"東北大学 文学 部長";s:5:"links";s:6640:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%BE%8E%E5%91%B3%E3%81%97%E3%81%84-%E5%91%B3%E5%99%8C%E6%B1%81-%E5%91%B3%E5%99%8C'>美味しい 味噌汁 味噌</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%94%B7%E3%81%AE%E5%AD%90-%E5%90%8D%E5%89%8D-%E6%BC%A2%E6%95%B0%E5%AD%97'>男の子 名前 漢数字</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B5%E3%83%A9%E3%83%80%E3%83%81%E3%82%AD%E3%83%B3-%E7%82%8A%E9%A3%AF%E5%99%A8-%E3%82%AF%E3%83%AC%E3%82%A4%E3%82%B8%E3%83%BC%E3%82%BD%E3%83%AB%E3%83%88'>サラダチキン 炊飯器 クレイジーソルト</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%B6%8F%E8%82%89-%E5%91%B3%E5%99%8C%E7%84%BC%E3%81%8D-%E3%82%B0%E3%83%AA%E3%83%AB'>鶏肉 味噌焼き グリル</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%A3%B4-%E9%A3%9F%E3%81%B9%E9%81%8E%E3%81%8E-%E8%85%B9%E7%97%9B'>飴 食べ過ぎ 腹痛</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%93%E3%83%BC%E3%83%89-%E3%83%96%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC-%E3%82%A4%E3%83%9E%E3%82%AB%E3%83%84'>ビード ブースター イマカツ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9C%E3%83%87%E3%82%A3%E3%83%94%E3%82%A2%E3%82%B9-%E9%80%9A%E8%B2%A9-%E3%81%8A%E3%81%99%E3%81%99%E3%82%81'>ボディピアス 通販 おすすめ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BB%99%E5%8F%B0-%E5%8D%98%E7%99%BA-%E3%83%90%E3%82%A4%E3%83%88-%E5%A4%8F%E4%BC%91%E3%81%BF'>仙台 単発 バイト 夏休み</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%AC%E3%83%83%E3%83%84%E3%83%8E%E3%83%BC%E3%83%88-%E3%82%BF%E3%83%83%E3%83%81%E3%83%91%E3%83%83%E3%83%89-%E3%82%B9%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%AB'>レッツノート タッチパッド スクロール</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AF%E3%83%AA%E3%82%B9%E3%82%BF-%E3%83%9A%E3%83%B3%E8%A8%AD%E5%AE%9A-%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89'>クリスタ ペン設定 ダウンロード</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A4%A7%E3%81%8D%E3%81%84%E3%82%B5%E3%82%A4%E3%82%BA-%E3%83%AF%E3%83%B3%E3%83%94%E3%83%BC%E3%82%B9-%E9%9F%93%E5%9B%BD'>大きいサイズ ワンピース 韓国</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%9C%8D-%E6%96%AD%E6%8D%A8%E9%9B%A2-%E5%BE%8C%E6%82%94'>服 断捨離 後悔</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%A1%A8%E6%83%85-%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88-%E4%B8%80%E8%A6%A7'>表情 イラスト 一覧</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=surface-pro-6-%E5%85%85%E9%9B%BB%E5%99%A8'>Surface Pro 6 充電器</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%A1%E3%83%AB%E3%82%AB%E3%83%AA-d%E6%89%95%E3%81%84-5%E6%9C%88'>メルカリ D払い 5月</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Macbook-Air-11-%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC%E4%BA%A4%E6%8F%9B'>Macbook Air 11 バッテリー交換</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%9D%B1%E5%8C%BA-%E6%A0%84%E7%94%BA-%E7%84%BC%E8%82%89'>東区 栄町 焼肉</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%BF%E3%83%9E%E3%83%9B%E3%83%BC%E3%83%A0-%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88-2020'>タマホーム イベント 2020</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%8D%81%E5%85%AD%E8%8C%B6-%E3%83%A0%E3%83%BC%E3%83%9F%E3%83%B3-%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B8'>十六茶 ムーミン スポンジ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=javascript-%E3%83%AA%E3%83%B3%E3%82%AF%E5%88%87%E3%82%8C-%E5%88%A4%E5%AE%9A'>Javascript リンク切れ 判定</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AB%E3%83%B3%E3%83%91%E3%83%81-%E3%82%B8%E3%82%AE%E3%83%B3%E3%82%B0-%E5%8D%83%E8%91%89'>カンパチ ジギング 千葉</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%80%E3%82%A4%E3%82%A8%E3%83%83%E3%83%88%E3%82%A2%E3%83%97%E3%83%AA-%E5%BA%83%E5%91%8A-%E3%81%AA%E3%81%97'>ダイエットアプリ 広告 なし</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A4%E3%82%AE%E3%83%AA%E3%82%B9-%E6%97%A5%E6%9C%AC-%E5%90%8C%E7%9B%9F'>イギリス 日本 同盟</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%84%E3%81%AA%E3%81%92%E3%82%84-%E7%A7%8B%E6%B4%A5-%E3%83%90%E3%82%A4%E3%83%88'>いなげや 秋津 バイト</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%EC%A7%80%EA%B8%88%EA%B9%8C%EC%A7%80-%EA%B3%A0%EB%A7%88%EC%9B%8C%EC%9A%94-%E6%84%8F%E5%91%B3'>지금까지 고마워요 意味</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%88%E3%83%A9%E3%83%AB-%E8%BB%8A-%E5%9D%82%E9%81%93'>ニュートラル 車 坂道</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%BB%E3%81%86%E3%82%8C%E3%82%93%E8%8D%89-%E3%82%B0%E3%83%A9%E3%82%BF%E3%83%B3-%E3%83%8F%E3%82%A4%E3%83%B3%E3%83%84'>ほうれん草 グラタン ハインツ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%94%90-%E7%84%A1-%E5%9B%9B%E5%AD%97%E7%86%9F%E8%AA%9E'>唐 無 四字熟語</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A2%E3%83%AB%E3%83%93%E3%82%AA%E3%83%B3-%E5%85%8D%E7%A8%8E%E5%BA%97-%E7%BE%BD%E7%94%B0'>アルビオン 免税店 羽田</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%8D%B5%E3%83%91%E3%83%83%E3%82%AF-%E7%B4%99-%E9%98%B2%E9%9F%B3'>卵パック 紙 防音</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%8F%E3%82%A6%E3%82%B9-%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%83%93%E3%83%AB%E3%83%88-%E3%83%9D%E3%83%8B%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%8B%E3%82%AA%E3%83%B3'>ハウス ジャックビルト ポニーキャニオン</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%85%8D%E9%81%94-%E5%93%A1-%E7%8B%A9%E3%82%8A'>配達 員 狩り</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Uber-%E4%BD%BF%E3%81%84%E6%96%B9-%E3%83%AD%E3%82%B5%E3%83%B3%E3%82%BC%E3%83%AB%E3%82%B9'>Uber 使い方 ロサンゼルス</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%95%E3%81%95%E3%81%BF-%E4%B8%8B%E5%91%B3-%E5%86%B7%E5%87%8D-%E6%A2%85'>ささみ 下味 冷凍 梅</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%84%BC%E9%85%8E-%E3%82%B0%E3%83%A9%E3%82%B9-100%E5%9D%87'>焼酎 グラス 100均</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%AD%90%E4%BE%9B-%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%BC%E3%83%88-%E6%A8%AA%E6%B5%9C'>子供 コンサート 横浜</a>,
+";s:7:"expired";i:-1;}

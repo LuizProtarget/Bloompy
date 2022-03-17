@@ -1,0 +1,73 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:1863:"<p>iPadでのGoogle検索履歴の消し方を学んで安心 . </p> <p>目次.  </p> <p>閲覧データを削除する. </p> <p>iPhone または iPad で Chrome アプリ を開きます。; その他アイコン 履歴 をタップします。 2015年09月19日（土） ツイート; iPadからは、主にSafariなどを使って、インターネットにアクセスしていると思います。 検索サイトも、パソコンを利用しているのと同じように様々なサイトを利用できます。 スポンサーリンク . 履歴の一部のみを削除することもできます。特定の履歴を検索するには、上部の検索バーを使用します。 iPhone または iPad で Chrome アプリ を開きます。; 右下のその他アイコン 履歴 をタップします。; 一番下の [編集] をタップします。削除する項目のチェックボックスをオンにします。 どのように、簡単かつ効率的にiPadから履歴を削除したらいいですか？何かの理由で検索と閲覧履歴などを他の人に見せたくない場合はあります。iPadから検索履歴と閲覧履歴を削除するには、この記事を読んでください。 特定タイプのデータを同期している場合、iPhone または iPad で該当のデータを削除すると、すべての同期先（他の端末と Google アカウント）からそのデータが削除されます。. 今回は、Google検索履歴ページから検索履歴を一括で削除する方法をご紹介します。 先日の記事でiPhoneやiPadの設定からは閲覧履歴の削除が出来ない、Google検索履歴（History）ページの存在をお伝えしました。（リンク後述） Google検索履歴ページの履歴は、WEB上で操作をして削除する必要があり … </p>";s:7:"keyword";s:31:"google 検索履歴 削除 ipad";s:5:"links";s:7110:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%84%A1%E5%8D%B0%E8%89%AF%E5%93%81-%E3%82%B9%E3%82%AD%E3%83%B3%E3%82%B1%E3%82%A2-%E9%A0%86%E7%95%AA'>無印良品 スキンケア 順番</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%8E%A5%E7%B6%9A%E3%81%AE%E5%BE%A9%E5%85%83-%E3%81%93%E3%81%AE-%E6%8E%A5%E7%B6%9A%E3%81%AF%E5%BE%A9%E5%85%83-%E3%81%95%E3%82%8C-%E3%81%BE%E3%81%9B-%E3%82%93%E3%81%A7-%E3%81%97%E3%81%9F'>ネットワーク接続の復元 この 接続は復元 され ませ んで した</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%AD%E3%83%B3%E3%82%B7%E3%83%A3%E3%83%B3-%E3%81%9F%E3%81%9F%E3%82%81-%E3%81%AA%E3%81%84'>ロンシャン たため ない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Pixiv-%E8%BB%A2%E8%81%B7-%E9%9D%A2%E6%8E%A5'>Pixiv 転職 面接</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B9%E3%82%AF%E3%82%A8%E3%83%8B-%E3%83%87%E3%83%BC%E3%82%BF%E9%80%A3%E6%90%BA-%E8%A7%A3%E9%99%A4'>スクエニ データ連携 解除</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%92%8C%E7%99%BD%E7%97%85%E9%99%A2-%E4%BA%BA%E9%96%93%E3%83%89%E3%83%83%E3%82%AF-%E5%8F%A3%E3%82%B3%E3%83%9F'>和白病院 人間ドック 口コミ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=iphone11-pro-%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC%E8%A1%A8%E7%A4%BA'>Iphone11 Pro バッテリー表示</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B9%9D%E5%B7%9E%E5%A4%A7%E5%AD%A6-%E7%B5%8C%E6%B8%88%E5%AD%A6%E9%83%A8-%E3%82%AB%E3%83%AA%E3%82%AD%E3%83%A5%E3%83%A9%E3%83%A0'>九州大学 経済学部 カリキュラム</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%84%BC%E8%82%89-%E5%BD%A6-%E6%8E%A5%E5%AE%A2'>焼肉 彦 接客</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%8A%E3%82%A4%E3%82%AD-%E3%83%AC%E3%82%AE%E3%83%B3%E3%82%B9-%E5%A4%A7%E3%81%8D%E3%81%84%E3%82%B5%E3%82%A4%E3%82%BA'>ナイキ レギンス 大きいサイズ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B8%AD%E7%B5%B6%E5%BE%8C-%E3%83%94%E3%83%AB-%E3%81%AA%E3%81%9C'>中絶後 ピル なぜ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B6-%E3%82%B3%E3%82%AB-%E3%82%B3%E3%83%BC%E3%83%A9-%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8B%E3%83%BC'>ザ コカ コーラ カンパニー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A4%E3%83%B3%E3%83%89-%E3%83%87%E3%82%A3%E3%83%BC%E3%83%97-%E3%82%B9%E3%83%9D%E3%83%83%E3%83%88'>インド ディープ スポット</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%A9%E3%82%B0%E3%83%93%E3%83%BC-%E9%9D%A2%E7%99%BD%E3%81%84-%E3%81%AA%E3%82%93J'>ラグビー 面白い なんJ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=WiMAX-%E6%A9%9F%E7%A8%AE%E5%A4%89%E6%9B%B4-%E5%9C%8F%E5%A4%96-W06'>WiMAX 機種変更 圏外 W06</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Windows10-%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88-%E9%AB%98%E9%80%9F%E5%8C%96'>Windows10 アップデート 高速化</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%90%88%E5%AE%BF%E5%85%8D%E8%A8%B1-%E7%A9%BA%E3%81%8D%E7%8A%B6%E6%B3%81-3%E6%9C%88'>合宿免許 空き状況 3月</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%8F%E3%83%8E%E3%82%A4-Grab-%E7%A9%BA%E6%B8%AF'>ハノイ Grab 空港</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9A%E3%83%9A%E3%83%AD%E3%83%B3%E3%83%81%E3%83%BC%E3%83%8E-%E3%82%AA%E3%82%A4%E3%83%AB-%E4%BD%9C%E3%82%8A%E7%BD%AE%E3%81%8D'>ペペロンチーノ オイル 作り置き</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%BC%E3%82%B8%E3%83%93%E3%83%AB%E3%83%80%E3%83%BC-%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97-%E3%83%87%E3%83%BC%E3%82%BF%E7%A7%BB%E8%A1%8C'>ホームページビルダー バージョンアップ データ移行</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=FK8-%E7%87%83%E6%96%99%E3%83%9D%E3%83%B3%E3%83%97-%E4%B8%8D%E5%85%B7%E5%90%88'>FK8 燃料ポンプ 不具合</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=AQUOS-%E9%9B%BB%E8%A9%B1-%E3%82%B9%E3%83%94%E3%83%BC%E3%82%AB%E3%83%BC'>AQUOS 電話 スピーカー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%A0%97%E6%AF%9B-%E9%A6%AC-%E6%9C%89%E5%90%8D'>栗毛 馬 有名</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9F%E3%83%8B%E3%82%AD%E3%83%A3%E3%83%A9-%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88-%E7%B0%A1%E5%8D%98'>ミニキャラ イラスト 簡単</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AB%E3%82%A4%E3%83%B3%E3%82%BA%E3%82%AB%E3%83%BC%E3%83%89-%E3%82%A2%E3%83%97%E3%83%AA-%E5%BC%95%E3%81%8D%E7%B6%99%E3%81%8E'>カインズカード アプリ 引き継ぎ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%97%E3%83%AA%E3%83%BC%E3%83%84-%E7%B6%B2%E6%88%B8-%E3%83%AD%E3%83%83%E3%82%AF'>プリーツ 網戸 ロック</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%B6%8F%E8%82%89-%E3%82%B9%E3%83%BC%E3%83%97-%E3%82%AF%E3%83%83%E3%82%AF%E3%83%91%E3%83%83%E3%83%89'>鶏肉 スープ クックパッド</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=USJ-%E5%A4%A9%E6%B0%97-%E3%83%AA%E3%82%A2%E3%83%AB%E3%82%BF%E3%82%A4%E3%83%A0'>USJ 天気 リアルタイム</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%80%86%E5%AD%90-%E8%83%8E%E5%8B%95-%E7%97%9B%E3%81%84'>逆子 胎動 痛い</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%99%82%E7%9F%AD-%E3%81%8A-%E3%81%AB%E3%81%8E%E3%82%89-%E3%81%9A'>時短 お にぎら ず</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B0%E3%83%A9%E3%83%B3-%E3%82%A4%E3%83%AB%E3%83%9F-%E6%8B%9B%E5%BE%85%E5%88%B8'>グラン イルミ 招待券</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=g%E3%82%AF%E3%83%A9%E3%83%95%E3%83%88-%E3%83%AD%E3%83%83%E3%83%89-%E4%B8%AD%E5%8F%A4'>Gクラフト ロッド 中古</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AB%E3%83%BC%E3%83%9E-%E8%87%AA%E8%BB%A2%E8%BB%8A-%E4%BF%9D%E9%99%BA'>カーマ 自転車 保険</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A4%A9%E7%AA%93-%E3%82%AB%E3%83%BC%E3%83%86%E3%83%B3-100-%E5%9D%87'>天窓 カーテン 100 均</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%BB%9F%E9%AA%A8%E3%83%94%E3%82%A2%E3%82%B9-%E5%8F%AF%E6%84%9B%E3%81%84-amazon'>軟骨ピアス 可愛い Amazon</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AB%E3%83%AB%E3%83%9C%E3%83%8A%E3%83%BC%E3%83%A9-%E7%94%9F%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0%E3%81%AA%E3%81%97-%E7%B2%89%E3%83%81%E3%83%BC%E3%82%BA%E3%81%AA%E3%81%97'>カルボナーラ 生クリームなし 粉チーズなし</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=bts-%E3%82%B3%E3%83%B3%E3%83%93%E5%90%8D-%E3%83%8F%E3%83%B3%E3%82%B0%E3%83%AB'>Bts コンビ名 ハングル</a>,
+";s:7:"expired";i:-1;}

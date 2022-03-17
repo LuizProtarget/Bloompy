@@ -1,0 +1,70 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:7191:"<br>ここでは石垣島やその周辺の離島への移住を考えている人に向けて、「これからは石垣島へ移住がおすすめ！」な理由をご紹介します。 同時に移住に対する不安や疑問も解消できると思いますので、ぜひ参考にしてください。  <br>石垣島は女子でも安心して行ける場所がいっぱい！ そのオススメ情報を石垣島が好きで移住してしまった筆者がお教えします♪ 旅行って一緒に行く人と思い出を共有するのが楽しいけれど・・・一人旅にも良さが沢山あるんですよ！ 夢にまでみた石垣島に夫婦2人で移住。 川平湾に近い山原(やまばれ)集落内で小さな宿を7年間運営。 その後、自然を求め北部に引越し。石垣生活第2章が始まりました。 年は重ねてますが、まだまだ未熟な二人・・・奮闘中です！ 石垣島には石垣島のモノサシが存在する。 良いとか悪いでなく、比較するものでもない。この島ではごくごくあたりまえのこと。 移住した私が驚いた数々を紹介してみたい。これらはきっと石垣島が育んだ愛おしく愛くるしい、石垣島ならではのあるあるなのであ ・石垣島へ移住する目的・生活環境を明確にすることが1番大事です。 ・単身移住の場合でもご家族と話し合いをしましょう。 ・ご家族で移住の場合はご家族の意見も聞きながら慎重に話し合いをしま … まずは、よくある目的を挙げてみたいと思います。 石垣島に移住しました♪. 石垣島に移住する目的. 友人が沖縄本島から石垣島に移住していた！ 沖縄本島で生まれ育った友人が、2013年から2016年まで石垣島に移住していました。 ヒロヒロ どうも！このブログの管理人をしている沖縄人のヒロヒロと申します。今日は幼いころからの親友の話です。 yさんは、東京から石垣島に移住した 40代の女性。 国内外を旅行していて、石垣島に 行ったとき、「ここに住みたい！」と 直感的に思ったんだそうです。 そしてすぐに移住！ 移住当初はレンタカー店のアルバイト。 今はさとうきび収穫の手伝いや、バー 石垣島には石垣島のモノサシが存在する。 良いとか悪いでなく、比較するものでもない。この島ではごくごくあたりまえのこと。 移住した私が驚いた数々を紹介してみたい。これらはきっと石垣島が育んだ愛おしく愛くるしい、石垣島ならではのあるあるなのであ ここでは石垣島やその周辺の離島への移住を考えている人に向けて、「これからは石垣島へ移住がおすすめ！」な理由をご紹介します。 同時に移住に対する不安や疑問も解消できると思いますので、ぜひ参考にしてください。 石垣島は女子でも安心して行ける場所がいっぱい！ そのオススメ情報を石垣島が好きで移住してしまった筆者がお教えします♪ 旅行って一緒に行く人と思い出を共有するのが楽しいけれど・・・一人旅にも良さが沢山あるんですよ！ 石垣島に移住してわかるのが、たまに、都会に戻るとかなり都会も楽しく感動します！ でも、数日いるとすぐ疲れちゃうんですけどね。 なので朝から海入ってボーとしちゃったりね。 移住にともなうお役所手続き＆荷物の輸送について 移住 2018.6.13 ランサーズ＆クラウドワークスのトラブル回避！ 良質クライアント&案件の見… 移住 2016.5.16 石垣島の車事情。中古自動車を手に入れた！ 移住 2018.2.8 移住で車はどうする？石垣で買うなら？ 本島以外で一番人気なのは石垣島だ。 移住先としては石垣島は13%台だが、 他は割合では1桁台と差がある。 石垣島は移住先に人気であり、 大阪などからの直行便も運行されるなど利便性もいい。 おすすめの地域のひとつであるのだ。 石垣島に移住する目的. <br> とにかく石垣島に移住したいんだ！ 移住する目的や理由は人それぞれですが、一度決めてしまったから意固地になってないか、現状から逃げたくてそれが目的になってないか、冷静に考えてみましょう。. 移住にともなうお役所手続き＆荷物の輸送について 移住 2018.6.13 ランサーズ＆クラウドワークスのトラブル回避！ 良質クライアント&案件の見… 移住 2016.5.16 石垣島の車事情。中古自動車を手に入れた！ 移住 2018.2.8 移住で車はどうする？石垣で買うなら？  とにかく石垣島に移住したいんだ！ 移住する目的や理由は人それぞれですが、一度決めてしまったから意固地になってないか、現状から逃げたくてそれが目的になってないか、冷静に考えてみましょう。. 宮古島と石垣島は人口規模も面積もほぼ同じ。沖縄の離島に移住を考える人は、それぞれの島がどう違うか気になるところです。私は宮古島に5年住み、石垣島には旅行で2度行った程度ですが、宮古島にいると石垣島の評判について聞くことが多くあります。 石垣島に移住してわかるのが、たまに、都会に戻るとかなり都会も楽しく感動します！ でも、数日いるとすぐ疲れちゃうんですけどね。 なので朝から海入ってボーとしちゃったりね。 まだ石垣島に来て1年半くらいなんですけど、島の人たちはみんな優しいし、何かに急かされることもないし、一切ストレスを感じる事がありません。だから、人間関係に疲れたなー。っていう方は、石垣島に移住される事をおススメしますよ！ 宮古島と石垣島は人口規模も面積もほぼ同じ。沖縄の離島に移住を考える人は、それぞれの島がどう違うか気になるところです。私は宮古島に5年住み、石垣島には旅行で2度行った程度ですが、宮古島にいると石垣島の評判について聞くことが多くあります。 友人が沖縄本島から石垣島に移住していた！ 沖縄本島で生まれ育った友人が、2013年から2016年まで石垣島に移住していました。 ヒロヒロ どうも！このブログの管理人をしている沖縄人のヒロヒロと申します。今日は幼いころからの親友の話です。 まずは、よくある目的を挙げてみたいと思います。 石垣島に恋した移住者たち 地元で長く暮らす人々とは違った視点を持つ移住者。移住者の視点で石垣を見ると新たな魅力に出会うもの。移住者が営む宿や飲食店、プログラムなどに参加することで、新しい感覚を_共有できる。 <br>";s:7:"keyword";s:23:"石垣島 移住 女性";s:5:"links";s:6204:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BF%9D%E8%82%B2-%E9%81%8A%E3%81%B3-%E3%81%AD%E3%82%89%E3%81%84'>保育 遊び ねらい</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=8-%E3%83%B6%E6%9C%88-%E3%81%8A%E5%A5%BD%E3%81%BF%E7%84%BC%E3%81%8D'>8 ヶ月 お好み焼き</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%AF%8E%E6%97%A5-%E3%81%BC%E3%81%A3-%E3%81%A1'>毎日 ぼっ ち</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%87%91%E5%B1%B1-%E9%9F%93%E5%9B%BD-%E8%8B%97%E5%AD%97'>金山 韓国 苗字</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%BD%E3%83%AA%E3%82%AA%E3%81%A8%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B7%E3%82%A2-%E7%A8%8E%E9%87%91-%E3%81%AE%E6%AF%94%E8%BC%83'>ソリオとスペーシア 税金 の比較</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B8%8A%E5%8F%B8-%E7%84%A1%E8%A6%96-%E6%B0%97%E3%81%AB-%E3%81%97%E3%81%AA%E3%81%84'>上司 無視 気に しない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3-%E6%9C%8D-%E5%8B%89%E5%BC%B7'>パターン 服 勉強</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%BB%8A%E3%82%A8%E3%82%A2%E3%82%B3%E3%83%B3-%E8%A9%B0%E3%81%BE%E3%82%8A-%E5%8E%9F%E5%9B%A0'>車エアコン 詰まり 原因</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Mac-DVD%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96-%E8%AA%8D%E8%AD%98-%E3%81%97%E3%81%AA%E3%81%84'>Mac DVDドライブ 認識 しない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A4%A7%E9%98%AA%E5%BA%9C-%E6%95%99%E8%81%B7%E5%93%A1-%E5%85%B1%E6%B8%88%E7%B5%84%E5%90%88'>大阪府 教職員 共済組合</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%92%8C%E6%AD%8C%E5%B1%B1-%E5%9C%92%E9%95%B7-%E5%8B%9F%E9%9B%86'>和歌山 園長 募集</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%9B%A2%E4%B9%B3%E9%A3%9F-%E6%99%82%E9%96%93-%E6%9C%9D8%E6%99%82'>離乳食 時間 朝8時</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Javascript-server-file'>Javascript Server File</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%80%E3%82%A4%E3%83%AF-%E3%83%86%E3%83%B3%E3%83%A4-%E3%82%B1%E3%83%9F%E3%83%9B%E3%82%BF%E3%83%AB'>ダイワ テンヤ ケミホタル</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%96%8B%E8%85%B9%E6%89%8B%E8%A1%93-%E3%82%A2%E3%83%88-%E3%83%95%E3%82%A1%E3%82%A4%E3%83%B3'>開腹手術 アト ファイン</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9-%E6%97%A5%E6%9C%AC-%E3%83%8F%E3%83%BC%E3%83%95-%E5%90%8D%E5%89%8D'>フランス 日本 ハーフ 名前</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=word-%E6%95%B0%E5%BC%8F-%E5%85%A5%E5%8A%9B%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84'>Word 数式 入力できない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%A6%E3%83%8B%E3%82%AF%E3%83%AD-%E3%83%96%E3%83%A9%E3%83%88%E3%83%83%E3%83%97-%E3%82%B3%E3%83%BC%E3%83%87'>ユニクロ ブラトップ コーデ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3-%E8%8B%B1%E8%AA%9E-%E7%99%BA%E9%9F%B3'>バドミントン 英語 発音</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%80%E3%82%A4%E3%82%BD%E3%83%BC-%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%83%9E%E3%83%BC%E3%82%AB%E3%83%BC-%E3%82%AF%E3%83%AA%E3%82%A2%E3%83%96%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BC-%E4%BD%BF%E3%81%84%E6%96%B9'>ダイソー イラストマーカー クリアブレンダー 使い方</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=3%E6%9C%8815%E6%97%A5-%E5%A4%A9%E6%B0%97-%E4%BA%88%E5%A0%B1'>3月15日 天気 予報</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%80%8F-%E6%B9%BF%E6%80%A7-%E9%98%B2%E6%B0%B4%E3%82%B7%E3%83%BC%E3%83%88-100-%E5%9D%87'>透 湿性 防水シート 100 均</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%95%99%E7%BF%92%E6%89%80-%E3%82%AD%E3%83%A3%E3%83%B3%E3%82%BB%E3%83%AB%E5%BE%85%E3%81%A1-%E3%81%A9%E3%81%AE%E3%81%8F%E3%82%89%E3%81%84'>教習所 キャンセル待ち どのくらい</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%B5%B7%E5%A4%96-%E7%94%B7%E3%81%AE%E5%AD%90-%E5%90%8D%E5%89%8D'>海外 男の子 名前</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%AE%B1%E6%A0%B9-%E3%81%8A%E5%9C%9F%E7%94%A3-%E3%82%B3%E3%83%AD%E3%83%8A'>箱根 お土産 コロナ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%BE%8E%E5%AE%B9-%E5%A4%96%E7%A7%91%E5%8C%BB-%E7%B5%90%E5%A9%9A%E7%9B%B8%E6%89%8B'>美容 外科医 結婚相手</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%A5%AD%E5%8B%99%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC-%E5%B1%B1%E8%8F%9C-%E6%B0%B4%E7%85%AE'>業務スーパー 山菜 水煮</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%9F%93%E5%9B%BD%E5%AD%90%E4%BE%9B%E6%9C%8D-%E3%82%A2%E3%83%87%E3%82%A3%E3%83%80%E3%82%B9-%E3%83%91%E3%83%AD%E3%83%87%E3%82%A3'>韓国子供服 アディダス パロディ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Twitter-account-recovery'>Twitter Account Recovery</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9E%E3%82%A4%E3%83%8A%E3%83%93-CM-%E6%9B%B2-2020'>マイナビ CM 曲 2020</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%B7%BB-%E3%81%8B%E3%81%AA%E3%81%84-%E3%83%AD%E3%83%BC%E3%83%AB%E3%82%AD%E3%83%A3%E3%83%99%E3%83%84-4-%E5%88%86-%E3%81%AE1'>巻 かない ロールキャベツ 4 分 の1</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%9D%B1%E4%BA%AC%E6%97%85%E8%A1%8C-%E4%BA%88%E7%AE%97-%E5%A4%A7%E9%98%AA%E3%81%8B%E3%82%89'>東京旅行 予算 大阪から</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%B2%B3%E5%90%88%E5%A1%BE-%E5%8C%BB-%E9%80%B2-%E9%A4%A8-%E5%90%88%E6%A0%BC%E4%BD%93%E9%A8%93%E8%A8%98'>河合塾 医 進 館 合格体験記</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%BC%E3%83%8B%E3%82%B9-%E3%82%B7%E3%83%A5%E3%83%AC%E3%83%A0-%E3%82%A4%E3%83%B3%E3%83%97%E3%83%AC'>ゼニス シュレム インプレ</a>,
+";s:7:"expired";i:-1;}

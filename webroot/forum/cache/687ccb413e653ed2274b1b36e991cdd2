@@ -1,0 +1,65 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:5181:"ソウルの地下鉄の乗り方、路線図、値段 、営業時間、注意点などの情報をどこよりも徹底解説！国内最大級の旅行情報サイトHowTravel（ハウトラベル）で最新情報をチェックしよう！ 韓国の地下鉄では進行方向により改札が分かれている場合があります。  釜山の地下鉄の乗り方、路線図、値段 、営業時間、注意点などの情報をどこよりも徹底解説！国内最大級の旅行情報サイトHowTravel（ハウトラベル）で最新情報をチェックしよう！ 韓国の地下鉄路線図。ソウル、釜山、大邱、大田、光州の地下鉄を網羅。料金・乗り換え・ルート・所要時間の検索も可能。 | 完全日本語版の韓国地図サイト。ソウル、釜山、慶州、済州島など全国を網羅。地下鉄路線図や空港の案内図、不動産、求人情報も。 韓国旅行で地下鉄を利用すれば、ソウルの主要な観光地にスムーズに行くことが出来ます。 ただ、日本とは違う部分もあるので、難しいと感じる方もいらっしゃるのではないでしょうか？そんな方にソウルの地下鉄の乗り方を徹底解説いたします！ 【韓国・ソウル在住者執筆】韓国旅行前に読めば安心！ソウル観光中の移動に役立つ「地下鉄」を徹底解説します。 最新の路線図や乗り換えアプリ、交通カード、料金、具体的な電車の乗り方を分かりやすくまとめました。 韓国のソウルの地下鉄は路線も多く安いのでとても便利です。 私もソウルに行く度に必ず地下鉄に乗りますが、そんな地下鉄の車内やホームなどで日本との違いに驚いたこともしばしばあります。 外国なので当然文化の違いはありますが、あ ソウル地下鉄の乗り方・注意点. ソウルの地下鉄や空港からの鉄道など、日本の電車と比べて利用の仕方で違うことあるので、事前に確認しておくといいでしょう。実際に韓国旅行で経験したことを基に、ソウルの地下鉄の乗り方などをこちらのページでまとめました！ という方も安心です。今回は、市内 を回る環状線でさまざまな観光スポットに行ける駅が多い地下鉄2号線をピックアップしてみました。ソウルの地下鉄の乗り方をマスターしておけば、韓国の観光がスムーズに楽しめること、間違いありません！ 韓国タクシーの料金や乗り方は？種類や見分け方ってあるの？ 2016年9月4日 韓国タクシー、ぼったくりなどの注意点は？予約はできる？ 2016年9月10日 韓国地下鉄、路線図や料金、始発終電は？カード（T-money）で乗れる？ 2018年7月2日 今回は、『ソウル市内の地下鉄【지하철チハチョル】の乗り方』についてまとめていきます。 ソウル市民だけでなく、観光客にとっても便利な足となっている《ソウル地下鉄》、各路線にはシンボルカラーがあり、路線番号がついているので、初めて訪れる観光客にもわかりやすいんですよ。 韓国の地下鉄に乗るのに不安はありませんか？この記事ではあなたの不安を解消すべく韓国の地下鉄乗り方ガイドを解説しています。具体的な乗り方の他に地下鉄路線図がひと目でわかるおすすめアプリや持っておくと便利な地下鉄カードなども紹介しています。 交通カードが買えたら早速地下鉄に乗ってみましょう。 進行方向により改札が別の場合は目的地の進行方向を必ず確認. 初めて行く外国で電車に乗る時って不安になることがありますよね。 私も初めて一人で韓国に行った時に、初めてだけにすごく不安でした。パック旅行や団体旅行と違って、一人旅でしたからね。 ただソウルに行ってみて思ったのが、地下鉄 交通カード機能：該当期間、1日最大20回まで乗り放題。ソウル地下鉄1～9号線、空港鉄道(直通列車は除く)、仁川地下鉄などの首都圏電鉄で利用可。「T-money」機能にも対応しており、地下鉄駅などで現金をチャージすると一般交通カードとして利用可能。 韓国の地下鉄の乗り方って初めてだと不安ですよね。 ... #韓国 #地下鉄 #韓国地下鉄 #簡単便利 #乗り方 #動画 #seoulsouthkorea #韓国旅行 #韓国情報 #韓国好きな人と繋がりたい #韓国好きなひとと仲良くなりたい 韓国の地下鉄って難しくないの？ 韓国・ソウル市内を移動する手段で便利なのが電車や地下鉄です。ソウルでは地下鉄が発達していて、市内を縦横無尽に路線が広がっています。ただ、海外で電車に乗るのって少し不安ですよね。案内はハングルだし電車の乗り方や切符の買い方などわからないことだらけ。 ";s:7:"keyword";s:26:"韓国 地下鉄 乗り方";s:5:"links";s:5514:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%9F%BC%E7%8E%89%E7%9C%8C-%E6%9C%80%E4%BD%8E%E8%B3%83%E9%87%91-%E6%8E%A8%E7%A7%BB'>埼玉県 最低賃金 推移</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%8A%E3%81%86-%E3%81%8E-%E5%BD%A2-%E4%B8%AD%E5%BF%83%E8%A7%92-%E5%95%8F%E9%A1%8C'>おう ぎ 形 中心角 問題</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%9B%A8%E3%81%8C%E6%AD%A2%E3%82%80%E3%81%BE%E3%81%A7-kashicomi-%E6%AD%8C%E8%A9%9E'>雨が止むまで Kashicomi 歌詞</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%9F%93%E5%9B%BD-%E5%85%8D%E7%A8%8E%E5%BA%97-%E8%B2%B7%E3%81%84%E6%96%B9'>韓国 免税店 買い方</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%9B%A2%E8%81%B7%E7%A5%A8-4D-%E7%89%B9%E5%AE%9A%E7%90%86%E7%94%B1%E9%9B%A2%E8%81%B7%E8%80%85'>離職票 4D 特定理由離職者</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Amazon-%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB-%E9%85%8D-%E9%80%81%E6%96%99'>Amazon アメリカ 配 送料</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Msn-%E3%83%88%E3%83%83%E3%83%97%E3%82%B5%E3%82%A4%E3%83%88-%E9%9D%9E%E8%A1%A8%E7%A4%BA'>Msn トップサイト 非表示</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%8C%AF%E6%9B%BF%E4%BC%91%E6%97%A5-%E8%8B%B1%E8%AA%9E-observed'>振替休日 英語 Observed</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%9F%93%E5%9B%BD%E7%B3%BB-%E3%83%94%E3%82%A2%E3%82%B9-%E3%83%AC%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B9'>韓国系 ピアス レディース</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%91%B3%E5%99%8C-%E6%97%A9%E3%81%8F-%E6%BA%B6%E3%81%8B%E3%81%99'>味噌 早く 溶かす</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%A4%E3%83%9E%E3%83%8F-%E9%9B%BB%E5%8B%95%E8%87%AA%E8%BB%A2%E8%BB%8A-%E5%85%85%E9%9B%BB%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84'>ヤマハ 電動自転車 充電できない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%84%BC%E8%82%89-%E3%82%84%E3%81%A3%E3%81%A1%E3%82%83%E3%82%93-%E3%82%AF%E3%83%AC%E3%82%B8%E3%83%83%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89'>焼肉 やっちゃん クレジットカード</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A2%E3%82%AF%E3%83%86%E3%82%A3%E3%83%96%E3%82%A8%E3%82%A4%E3%82%B8-%E3%81%A8-%E3%81%AF'>アクティブエイジ と は</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B9%E3%83%9E%E3%83%9B-%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC-%E6%AE%8B-%E9%87%8F-%E8%A1%A8%E7%A4%BA-%E3%81%8A%E3%81%8B%E3%81%97%E3%81%84'>スマホ バッテリー 残 量 表示 おかしい</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9E%E3%82%AF%E3%83%89%E3%83%8A%E3%83%AB%E3%83%89-%E3%82%A6%E3%83%BC%E3%83%90%E3%83%BC%E3%82%A4%E3%83%BC%E3%83%84-%E5%8D%8A%E9%A1%8D'>マクドナルド ウーバーイーツ 半額</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%80%E3%82%A4%E3%83%AF-BG-%E3%83%A9%E3%82%A4%E3%83%B3-%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC'>ダイワ BG ライン ローラー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B7%E3%83%BC%E3%83%A4-%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%82%A6%E3%82%A7%E3%82%A2-%E8%A9%95%E5%88%A4'>シーヤ スポーツウェア 評判</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%96%B0%E5%8D%83%E6%AD%B3-%E7%BE%BD%E7%94%B0-jal'>新千歳 羽田 Jal</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%9B%A2%E4%B9%B3%E9%A3%9F%E4%B8%AD%E6%9C%9F-%E3%81%8A%E3%81%8B%E3%82%86-%E9%87%8F'>離乳食中期 おかゆ 量</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%81%E3%83%A7%E3%82%B3%E3%83%81%E3%83%83%E3%83%97-100-%E5%9D%87'>ホワイトチョコチップ 100 均</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%95%E3%81%95%E3%81%BF-%E4%B8%8B%E5%91%B3%E5%86%B7%E5%87%8D-%E3%82%A4%E3%83%B3%E3%82%B9%E3%82%BF'>ささみ 下味冷凍 インスタ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=windows10-%E8%B5%B7%E5%8B%95%E3%81%97%E3%81%AA%E3%81%84-%E9%9D%92%E3%81%84%E7%94%BB%E9%9D%A2'>Windows10 起動しない 青い画面</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%BB%E3%83%96%E3%83%B3%E3%82%A4%E3%83%AC%E3%83%96%E3%83%B3-%E3%83%AC%E3%82%B8-%E3%81%8A%E3%82%82%E3%81%A1%E3%82%83'>セブンイレブン レジ おもちゃ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%80%E3%82%A4%E3%82%AD%E3%83%B3-%E3%82%A8%E3%82%B3%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%88-AI'>ダイキン エコキュート AI</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B5%E3%83%A9%E3%83%B3%E3%83%A9%E3%83%83%E3%83%97-%E3%82%B1%E3%83%BC%E3%82%B9-%E4%BD%9C%E3%82%8A%E6%96%B9'>サランラップ ケース 作り方</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%99%BD-%E9%BE%8D-%E5%9B%9B%E5%AD%97%E7%86%9F%E8%AA%9E'>白 龍 四字熟語</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%AB-%E3%82%AF%E3%83%AB%E3%83%BC%E3%82%BC-%E9%A3%9F%E6%B4%97%E6%A9%9F'>ル クルーゼ 食洗機</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=mac-mini-%E3%83%A1%E3%83%A2%E3%83%AA%E5%A2%97%E8%A8%AD-2019'>Mac Mini メモリ増設 2019</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B8%89%E4%BA%95-%E4%B8%8D%E5%8B%95%E7%94%A3-%E5%8B%A4%E5%8B%99-%E6%99%82%E9%96%93'>三井 不動産 勤務 時間</a>,
+";s:7:"expired";i:-1;}

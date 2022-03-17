@@ -1,0 +1,58 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:2558:"<p>色部分の面積は？（大阪星光学院中学 2014年） 色のついた部分の面積は？（慶應義塾普通部 2008年） 緑から黄を引いた面積は？（明治大学付属明治中学 2012年） 色部分の面積は？（渋谷教育学園渋谷中 … q 三角形の面積の求め方について（ちょうちょ型？） ある学 校の入 試問 題です。 「ab＝12㎝、ad＝24㎝の長方形abcdがある。 図の点e、fはそれぞれ辺ad、bcの中点であり、 pq＝10㎝、rs＝2㎝です。 色のついた部分の面積を求めなさい。 至急!! </p> <p>円とおうぎ形のいろいろな面積の問題です。 学習のポイント 正方形とおうぎ形を合わせた形の面積を素早く求められるようにしましょう。 ＊色のついた部分の面積を求めます。 4分の1のおうぎ形2つから正方形をひく、4分の1のおうぎ形から直角三角形をひくなどいろいろな求めかたがあります。 扇（おうぎ）形の面積の求め方の公式を簡単に覚えたい！ こんにちは、この記事をかいているKenだよー。コーヒーは何度飲んでもうまいね。 「円とおうぎ形」という単元では、 円; おうぎ形（扇形） という2つの図形について勉強していくよ。 前回まで、 画像でかげを付けた部分の面積の求め方を詳しく教えて下さい。 まずこの図形を縦2つ横2つの計4つ並べて下さい。正方形の中に円が入っているような形になります。正方形の面積から円の面積をひきます … 《色のついた部分の面積の求め方》 上の三角形の1辺の長さはそれぞれ6cmであることから、この三角形は正三角形であることがわかります。 正三角形のそれぞれの角の大きさはみな等しく60°なので、正三角形の中にあるおうぎ形の1つの角の大きさは60°です。  !数学の正方形とおうぎ形の問題を教えてください。 辺が4cmの正方形の中にある色のついた部分の面積を求めるという問題です。お礼が少なくて申し訳ないです。。。どうかよろしくお願いします。  … 色のついた部分の面積は？（2015年 同志社中学） 色のついた部分の面積は？（2015年 慶應義塾中等部） 円周の長さを説明して！（東京学芸大学附属世田谷中学 2014年） 影部分と同じ面積はどこ？（ 2015年 聖ヨゼフ学園中学） </p>";s:7:"keyword";s:36:"おう ぎ 形 色のついた面積";s:5:"links";s:4192:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BA%94%E6%89%80%E5%B7%9D%E5%8E%9F-%E6%B1%82%E4%BA%BA-%E7%9F%AD%E6%9C%9F'>五所川原 求人 短期</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%96%B0-%E6%9C%A8-%E8%80%B3%E9%BC%BB%E5%92%BD%E5%96%89%E7%A7%91-%E6%B1%82%E4%BA%BA'>新 木 耳鼻咽喉科 求人</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A4%A9%E7%A5%9E-%E8%8A%B1%E5%B1%8B-%E5%AE%89%E3%81%84'>天神 花屋 安い</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%8F%E3%83%B3%E3%83%89%E3%82%BD%E3%83%BC%E3%83%97-%E9%99%A4-%E8%8F%8C-%E5%8D%B1%E9%99%BA'>ハンドソープ 除 菌 危険</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%A0%97%E5%8E%9F%E3%81%AF%E3%82%8B%E3%81%BF-%E3%83%91%E3%82%B9%E3%82%BF-%E6%98%8E%E5%A4%AA%E5%AD%90'>栗原はるみ パスタ 明太子</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%97%A5%E6%9C%AC%E4%BA%BA%E5%AD%A6%E6%A0%A1-%E5%B9%BC%E7%A8%9A%E5%9C%92-%E6%B1%82%E4%BA%BA'>日本人学校 幼稚園 求人</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BA%BA%E5%8F%82-%E7%8E%89%E3%81%AD%E3%81%8E-%E3%83%99%E3%83%BC%E3%82%B3%E3%83%B3-%E3%83%81%E3%83%A3%E3%83%BC%E3%83%8F%E3%83%B3'>人参 玉ねぎ ベーコン チャーハン</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%A6%E3%82%93%E3%81%8B%E3%82%93-%E7%AA%81%E7%84%B6%E6%AD%BB-%E7%9F%A5%E6%81%B5%E8%A2%8B'>てんかん 突然死 知恵袋</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%AD%E3%83%BC%E3%82%BA%E3%83%9E%E3%83%AA%E3%83%BC-%E3%83%AC%E3%82%B7%E3%83%94-%E4%BA%BA%E6%B0%97'>ローズマリー レシピ 人気</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%A6%E3%83%8B%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0-T%E3%82%B7%E3%83%A3%E3%83%84-%E6%BF%80%E5%AE%89'>ユニフォーム Tシャツ 激安</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%83%93%E3%83%87%E3%82%AA-%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB-%E8%A1%A8%E7%A4%BA%E3%81%95%E3%82%8C%E3%81%AA%E3%81%84'>プライムビデオ ジャンル 表示されない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%88%E3%83%9E%E3%83%88%E3%82%AB%E3%83%AC%E3%83%BC-%E3%83%AC%E3%82%B7%E3%83%94-%E6%9C%AC%E6%A0%BC'>トマトカレー レシピ 本格</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%B0%B4%E8%99%AB-%E5%90%8D%E5%8C%BB-%E7%A5%9E%E5%A5%88%E5%B7%9D'>水虫 名医 神奈川</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%B9%BF%E5%85%90%E5%B3%B6%E4%BF%A1%E7%94%A8%E9%87%91%E5%BA%AB-%E6%8C%AF%E8%BE%BC-%E6%99%82%E9%96%93'>鹿児島信用金庫 振込 時間</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%BB%E3%82%AC-%E3%83%A9%E3%83%83%E3%82%AD%E3%83%BC%E3%81%8F%E3%81%98-%E3%82%B3%E3%83%8A%E3%83%B3'>セガ ラッキーくじ コナン</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AB%E3%83%AC%E3%83%BC-%E3%83%91%E3%82%B9%E3%82%BF-%E7%B5%A6%E9%A3%9F'>カレー パスタ 給食</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%8F%E3%82%A4%E3%82%A8%E3%83%BC%E3%82%B9-%E3%83%92%E3%83%BC%E3%82%BF%E3%83%BC-%E3%83%91%E3%82%A4%E3%83%97'>ハイエース ヒーター パイプ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=NV350-%E3%82%A8%E3%82%A2%E3%82%B3%E3%83%B3-%E3%83%80%E3%82%A4%E3%83%A4%E3%83%AB-%E5%A4%96%E3%81%97-%E6%96%B9'>NV350 エアコン ダイヤル 外し 方</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%8D%B5%E3%83%91%E3%83%83%E3%82%AF-%E7%B4%99-%E9%98%B2%E9%9F%B3'>卵パック 紙 防音</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BC%9A%E7%A4%BE-%E3%81%AE%E5%88%A4%E6%96%AD-%E8%8B%B1%E8%AA%9E'>会社 の判断 英語</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=illustrator-%E9%81%A0%E8%BF%91%E3%82%B0%E3%83%AA%E3%83%83%E3%83%89-%E3%83%AA%E3%82%BB%E3%83%83%E3%83%88'>Illustrator 遠近グリッド リセット</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%84%BC%E8%82%89-%E9%96%A2%E6%9D%B1-%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0'>焼肉 関東 ランキング</a>,
+";s:7:"expired";i:-1;}

@@ -1,0 +1,66 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:3793:"<p>自分好みの設定にカスタマイズしていってくださいね(*’ω’*) 個人的にこれだけは押さえておきたいショートカットキー.  </p> <p>[4]ショートカットの保存、読み込み. </p> <p>本日（2015-06-30）リリースされたclip studio（ver.1.1.9）より、clip studio paintのソフトウェア設定が「clipクラウド」上に保存できるようになりました。 「clip studio」と「clip studio paint」は紛らわしいですが、前者はclip ずいぶん前から、clip studio paint pro（クリスタ）を使い始めた人にとって、バックアップ機能が邪魔だなっと感じる人がどれだけいるか知りませんが、自分は結構早くに不要だなと感じていましたので、自動保存の設定をオフにしています。 というショートカットだけをこの記事で紹介したいと思います。 ちなみに僕はショートカットをデフォルトからいじってないのでクリスタを使ってるあなたにもちゃんと使えると思います。 超絶使えるやつは こんな風に赤と黄色にマーカーします share. バックアップ設定に関する記事です。短め。イラストデータはもちろん、素材やウィンドウ、筆設定など、どれも大切なデータです。確実に保存しておくようにしましょう。バックアップデータの保存方法クリスタのデータはここに入っています。私はWindows 先日「ゲームパッドでイラスト制作ソフトのショートカットを操作する」というのを見かけた。ツールの切り替えが楽になり作業効率が上がるという内容だ。有用だったのでJoyToKeyを使ってゲームパッドにクリスタのショートカットを割り当てる方法をメモしておく。 【クリスタ】clip studio paint起動ショートカットですぐに制作開始できる！！（windows） 2019年8月27日 2020年5月16日. 左上にあるクリップマーク→ショートカット設定をタップします。 お好みのショートカットを割り当て、保存すれば設定は完了。 テンキーをBluetoothで繋いだ時のキーボード表示の仕方. 登録したショートカットは、[ショートカット設定]ダイアログの下部にある[読み込み][書き出し]ボタンで、ショートカット設定ファイルの[書き出し(保存)]と[読み込み]が … </p> <p>クリスタのショートカット設定・クイックアクセス設定して活用するとちょっとのことでかなり使用感が改善されるのでポイントに感じるとことややり方などを綴って見ました。 というショートカットだけをこの記事で紹介したいと思います。 ちなみに僕はショートカットをデフォルトからいじってないのでクリスタを使ってるあなたにもちゃんと使えると思います。 超絶使えるやつは こんな風に赤と黄色にマーカーします イラストをファイル保存します。新規で保存する場合は[保存]ダイアログが表示されます。2回目以降は、ダイアログは表示されずに上書き保存されます。 作業の要所要所で、ファイルを保存しておくとよいでしょう。頻繁に使いたいショートカットです。 クリスタって結構いろんな機能があるものです。今回は使える便利な機能を10個紹介していきます。コピペの便利な使い方、レイヤーごと保存する方法など、便利な機能を知っていると時短につながるので … iPad版クリスタのショートカット設定の仕方 . </p>";s:7:"keyword";s:47:"クリスタ ショートカット設定 保存";s:5:"links";s:5588:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A4%E3%83%B3%E3%83%86%E3%83%83%E3%82%AF%E3%82%B9%E5%A4%A7%E9%98%AA-%E3%83%90%E3%82%B9%E4%B9%97%E3%82%8A%E5%A0%B4-%E5%A4%A7%E9%98%AA%E9%A7%85'>インテックス大阪 バス乗り場 大阪駅</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%8F%E3%83%B3%E3%82%B0%E3%82%A2%E3%82%A6%E3%83%88-%E7%94%BB%E9%9D%A2%E5%85%B1%E6%9C%89-%E9%9F%B3'>ハングアウト 画面共有 音</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A4%AA%E5%88%80%E9%AD%9A-%E5%85%A8-%E8%AA%98%E5%B0%8E'>太刀魚 全 誘導</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=JavaScript-%E6%9C%89%E5%8A%B9-%E3%82%B9%E3%83%9E%E3%83%9B'>JavaScript 有効 スマホ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%87%8C%E5%B8%B0%E3%82%8A%E5%87%BA%E7%94%A3-%E3%81%84%E3%81%A4%E3%81%8B%E3%82%89-%E8%BB%A2%E9%99%A2'>里帰り出産 いつから 転院</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%9F%93%E5%9B%BD%E8%AA%9E-%E5%94%90-%E6%8F%9A%E3%81%92'>韓国語 唐 揚げ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%97%E3%82%93%E3%81%AB%E3%82%87%E3%81%86-%E3%81%AF-%E4%BD%95-%E3%81%AB-%E9%96%A2%E4%BF%82-%E3%81%8C-%E3%81%82%E3%82%8B'>しんにょう は 何 に 関係 が ある</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B9%E3%83%91%E3%82%A4%E3%82%B9-%E9%87%8E%E8%8F%9C-%E3%83%AC%E3%82%B7%E3%83%94'>スパイス 野菜 レシピ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A2%E3%83%91%E3%83%9B%E3%83%86%E3%83%AB-%E3%81%8B%E3%82%89-%E5%90%8D%E5%8F%A4%E5%B1%8B%E3%83%89%E3%83%BC%E3%83%A0'>アパホテル から 名古屋ドーム</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AF%E3%83%A9%E3%83%96%E3%83%8F%E3%83%AA%E3%82%A8-%E3%83%91%E3%83%B3-%E3%81%8A%E3%81%99%E3%81%99%E3%82%81'>クラブハリエ パン おすすめ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%90%E3%82%B9%E3%82%BF%E3%82%AA%E3%83%AB-%E3%81%8A%E3%81%99%E3%81%99%E3%82%81-%E5%BA%97'>バスタオル おすすめ 店</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%99%E3%82%B9%E3%83%88-%E3%82%B1%E3%83%B3%E3%82%B3%E3%83%BC-%E3%82%A2%E3%83%90%E3%83%8A'>ベスト ケンコー アバナ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%9C%AB%E6%9C%9F%E3%81%8C%E3%82%93-%E6%B2%BB%E7%99%82%E8%B2%BB-%E5%8E%9A%E7%94%9F%E5%8A%B4%E5%83%8D%E7%9C%81'>末期がん 治療費 厚生労働省</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%86%B7%E5%87%8D-%E3%81%9F%E3%81%93%E7%84%BC%E3%81%8D-%E5%86%B7%E8%94%B5%E5%BA%AB'>冷凍 たこ焼き 冷蔵庫</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A3%81%E7%B4%99-%E3%83%95%E3%83%AA%E3%83%BC-%E5%92%8C%E9%A2%A8'>壁紙 フリー 和風</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%BE%8E%E5%AE%B9%E5%B8%AB-%E6%A5%AD%E5%8B%99%E5%A7%94%E8%A8%97-%E6%BA%90%E6%B3%89%E5%BE%B4%E5%8F%8E'>美容師 業務委託 源泉徴収</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A4%96%E4%BB%98%E3%81%91-dvd-%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96-%E8%AA%AD%E3%81%BF%E8%BE%BC%E3%81%BE%E3%81%AA%E3%81%84'>外付け Dvd ドライブ 読み込まない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%B0%8F%E3%82%A2%E3%82%B8-%E5%94%90%E6%8F%9A%E3%81%92-%E4%B8%8B%E5%87%A6%E7%90%86'>小アジ 唐揚げ 下処理</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%B0%8F%E6%B1%A0%E7%97%85%E9%99%A2-%E3%81%8A%E7%9B%86-%E4%BC%91%E3%81%BF'>小池病院 お盆 休み</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%99%E3%82%A4%E3%83%88%E3%83%AD%E3%83%83%E3%83%89-%E3%82%AA%E3%83%95%E3%82%BB%E3%83%83%E3%83%88-%E3%82%B0%E3%83%AA%E3%83%83%E3%83%97'>ベイトロッド オフセット グリップ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Thank-you-mail-after-business-meeting'>Thank You Mail After Business Meeting</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Eclipse-Delete%E3%82%AD%E3%83%BC-%E5%8A%B9%E3%81%8B-%E3%81%AA%E3%81%84'>Eclipse Deleteキー 効か ない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%87%AA%E8%BB%A2%E8%BB%8A-%E3%83%AD%E3%83%B3%E3%82%B0%E3%83%A9%E3%82%A4%E3%83%89-%E3%82%B3%E3%83%84'>自転車 ロングライド コツ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A4%A7%E5%92%8C-%E8%89%A6%E3%81%93%E3%82%8C-%E3%83%AC%E3%82%B7%E3%83%94'>大和 艦これ レシピ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%A5%BD%E5%99%A8-%E9%9B%A3%E6%98%93%E5%BA%A6-2ch'>楽器 難易度 2ch</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%80%E3%83%BC%E3%83%AA%E3%83%B3-%E3%83%9C%E3%82%AB%E3%83%AD-%E3%82%AB%E3%83%A9%E3%82%AA%E3%82%B1'>ダーリン ボカロ カラオケ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%98%E3%82%BF%E3%83%AA%E3%82%A2-%E6%97%A5%E6%9C%AC-%E5%A6%96%E6%80%AA'>ヘタリア 日本 妖怪</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%8A%B1%E6%9D%9F-%E4%BF%9D%E5%AD%98-%E5%8A%A0%E5%B7%A5-%E8%87%AA%E5%88%86%E3%81%A7'>花束 保存 加工 自分で</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Windows-PowerShell-%E3%82%BF%E3%82%B9%E3%82%AF%E3%83%9E%E3%83%8D%E3%83%BC%E3%82%B8%E3%83%A3%E3%83%BC'>Windows PowerShell タスクマネージャー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A1%A9-%E7%84%BC%E3%81%8D%E3%81%9D%E3%81%B0-%E6%89%8B%E4%BD%9C%E3%82%8A'>塩 焼きそば 手作り</a>,
+";s:7:"expired";i:-1;}

@@ -1,0 +1,110 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:7869:"ロードバイク初心者が目指す速度のまとめ. 世の中どの雑誌でもロードバイクでヒルクライムでどれだけタイムを縮めるかばかりの記事が目立ちませんか。今回は平地の練習方法について書きたいと思います。 平地がいくら速くても順位につながることは稀ですが、単独で巡航することは … 正しいギア比に合わせる ロードバイクは、いかなる時でも正しいギアに合わせることが重要です。 パワーが半端ではないプロスプリンターは、スプリント時にフロントが53Tか54T、リヤが11Tの組み合わせを使っています。 <br> <br>平地巡航速度35kmを目指そう！通常の平均時速はどれくらい？通常平均スピードはというと、ママチャリでだいたい14～16kmくらい。ロードバイクで22～30kmくらいが一般的な速度です。 ロードバイクで滑らかな路面で専用のウェアを着ているとしたときの、 平地での速度とワット数を算出してみました。（身長170cm 体重65kg 自転車の重量は10kgと設定) 体重によって前方投影面積が変わりワット数が変化するのですがそこは割愛します。 理想のケイデンスとは？クロスバイクやロードバイクなどスポーツバイクに乗るサイクリストなら、一度は耳にするキーワードだし、誰もが気にする話題だと思います。職人気質の多い自転車業界。ケイデンスについても、誰もが独自の理論や見解を持っていて「ケイ ロードバイクを楽しむ上でクランクセットとカセットスプロケットの組み合わせをどうするか？という部分は、ひじょうに重要なポイントとなります。 なぜなら、走る環境によって適切なギア比が違うから。 例えば… 平地で最高速ヒャッハーwww 祭りがした 今後、12速化が進み、さらに快適なロードバイクライフを送れるようになるといいですね。 記事にある、速度などの情報は多摩の坂様の計算ツールを使用させてもらいました。ありがとうございます。 多摩の坂：ロードバイク ギア比・速度計算ツール. このロードバイク用トリプルクランクのギア比は50-39-26t。 一番重い50Tは発進が重く、巡航用しか使えないが今まで使用した感覚では、公道でのサイクリングで50Tを使う場面は殆ど無かった。 <br> <br>私は最近憧れだったロードバイクを購入しました。楽しくサイクリングをしているのですが、重いギアが踏めません。なので平地の速度がどうしても頭打ちになってしまいます。 筋力をつけて重いギアに負けないようにしたいのですが、どうすればいいでしょうか？  平地巡航など通常時はアウターに入れておいて、坂を上るときインナーに入れるのが基本的な使い方です。. こんにちは、坂バカ理学療法士のわさおです。ギアの歯数選びって悩ましいですよね。フロントは大きく3種類、リアは何十種類もありますから、悩むのは当然です。自分に合うギア比を見つけるために重要なのが、自分の使う速度域。ロードバイクの乗り方によって ロードバイクを始めとした自転車のギア比や速度を計算するツールです。 現在のギアの選択肢は、2014年のシマノロードバイクコンポのみですが、 Rear/Frontのギア歯数を入力して「再計算」ボタンを押せば、他コンポやオリジナルスプロケも計算できます。 しかし、ロードレースではスプリントは必要です。特に日本のアマチュアレースでは短い平地 ... 正しいギア比に合わせる. ロードバイクを始めとした自転車のギア比や速度を計算するツールです。 現在のギアの選択肢は、2014年のシマノロードバイクコンポのみですが、 Rear/Frontのギア歯数を入力して「再計算」ボタンを押せば、他コンポやオリジナルスプロケも計算できます。 ロードバイクでも上り坂であれば軽いギアに、平地であればある程度重いギアに入れます。 ギアの枚数が違うと、変速時の選択肢の数に違いが出てきます。 つまりはより体力に合うギア比が選べるというこ …  <br>ロードバイクのギア比とは何でしょう？フロントチェーンリングとリアスプロケットによるギア比の計算表やギア比による速度の違いなどを徹底紹介。ヒルクライムにおすすめのギア比は？ギアの歯数は？ギア比によって出せる速度は変わるのか？などなど、ギアの知識と疑問をまとめました。 <br> <br>ロードバイクやクロスバイクなどのスポーツ自転車で疲れずに長時間にわたって高速巡行できるコツ、やり方を紹介します。簡単で誰でもできる方法なので気軽にスピードアップに取り組めます。効率的なペダリングの参考にもなると思います。 <br> <br>ロードバイクを始めたばかりでまだ脚力がついていないときは、インナーがメインになることもありますが、筋力がついてくると自然とアウター中心になっていくと思います。 ロードバイクだからママチャリより劇的に速度が速く変わるものではありません。 あくまでロードバイクを走らせるのは人力です。 ロードバイク初心者でもプロ選手でも変わらず、動力は人間だけ。 <br> <br>もうちょっと重たいギアで踏める方がロードバイクらしいと思います。 カセット交換・・・ 平地巡航という意味では全く逆です。 巡航速度を落とした上、 ギア比の変化が大きいと「平地巡航能力はいつまで経っても鍛えられない」です。 このホイールの回転数は前後のギア比によって進む距離が決まってきます。 スタンダードなロードバイクでは前のギアが53t、後ろのギアが11tというのが最速の組み合わせで、クランクを1回転させるとホイールは4.82回転します（ギア比：4.82）。 ロードバイク初心者が目指す速度のまとめ. ロードバイクだからママチャリより劇的に速度が速く変わるものではありません。 あくまでロードバイクを走らせるのは人力です。 ロードバイク初心者でもプロ選手でも変わらず、動力は人間だけ。 正しいギア比に合わせる ロードバイクは、いかなる時でも正しいギアに合わせることが重要です。 パワーが半端ではないプロスプリンターは、スプリント時にフロントが53Tか54T、リヤが11Tの組み合わせを使っています。 ロードバイクやクロスバイクなどのスポーツ自転車で疲れずに長時間にわたって高速巡行できるコツ、やり方を紹介します。簡単で誰でもできる方法なので気軽にスピードアップに取り組めます。効率的なペダリングの参考にもなると思います。 自転車に乗っていると、行き当たる上り坂。 いっそ自転車を降りて、歩いて上ってしまおうかとも思います。 しかし、そんなときに使いこなしたいのが自転車のギアです。 坂道でのギア変速は、重いほうがいいのか軽いほうがいいのか、坂道での自転車の漕ぎ方など調べてみました。 参考 <br>";s:7:"keyword";s:35:"ロードバイク ギア比 平地";s:5:"links";s:14330:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Mac-Firefox-%E5%8F%B3%E3%82%AF%E3%83%AA%E3%83%83%E3%82%AF'>Mac Firefox 右クリック</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A2%E3%83%9E%E3%82%BE%E3%83%B3%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0-%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84-%E8%8B%B1%E8%AA%9E'>アマゾンプライム ログインできない 英語</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%8F%E3%82%A4%E3%82%A8%E3%83%BC%E3%82%B9-%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%AD%E3%83%B3%E3%82%B0-%E3%83%96%E3%83%AD%E3%82%B0'>ハイエース スーパーロング ブログ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B8%89%E4%BA%95-%E4%B8%8D%E5%8B%95%E7%94%A3-%E8%B2%A1%E5%8B%99'>三井 不動産 財務</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%AF%92%E3%81%84%E3%81%AE-%E5%AB%8C%E3%81%84-%E9%9F%93%E5%9B%BD%E8%AA%9E'>寒いの 嫌い 韓国語</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%94%90-%E6%8F%9A%E3%81%92-%E4%B8%8B%E5%91%B3-%E3%82%B8%E3%83%83%E3%83%97-%E3%83%AD%E3%83%83%E3%82%AF'>唐 揚げ 下味 ジップ ロック</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%9D%B1%E4%BA%AC%E4%BA%94%E8%BC%AA-%E9%89%84%E9%81%93-%E6%B7%B7%E9%9B%91'>東京五輪 鉄道 混雑</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%B6%8F%E8%82%89-%E3%81%AA%E3%81%99-%E3%82%AD%E3%83%A3%E3%83%99%E3%83%84-%E3%83%9D%E3%83%B3%E9%85%A2'>鶏肉 なす キャベツ ポン酢</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B5%E3%82%AF%E3%83%A9%E3%82%A8%E3%83%87%E3%82%A3%E3%82%BF-%E6%96%87%E5%AD%97%E3%82%B3%E3%83%BC%E3%83%89-%E5%85%A5%E5%8A%9B'>サクラエディタ 文字コード 入力</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC-%E5%8C%96%E5%AD%A6%E5%9F%BA%E7%A4%8E-2018-%E8%A7%A3%E8%AA%AC'>センター 化学基礎 2018 解説</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BA%AC%E9%83%BD-%E5%B8%9D%E5%9B%BD%E3%83%9B%E3%83%86%E3%83%AB-%E4%BA%88%E7%B4%84'>京都 帝国ホテル 予約</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Word-%E5%B7%AE%E3%81%97%E8%BE%BC%E3%81%BF%E5%8D%B0%E5%88%B7-MERGEFIELD'>Word 差し込み印刷 MERGEFIELD</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B5%E3%82%AF%E3%83%A9%E3%83%9E%E3%82%B9-%E3%82%B9%E3%83%97%E3%83%BC%E3%83%B3-%E3%82%BF%E3%82%B3%E3%83%99%E3%82%A4%E3%83%88'>サクラマス スプーン タコベイト</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%9D%B4-%E3%82%B5%E3%82%A4%E3%82%BA-%E5%B9%85-F'>靴 サイズ 幅 F</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%80%E3%82%A4%E3%82%BD%E3%83%BC-%E3%82%B7%E3%83%AA%E3%82%B3%E3%83%B3%E3%83%9E%E3%83%83%E3%83%88-%E3%83%AC%E3%82%B8%E3%83%B3'>ダイソー シリコンマット レジン</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%B6%8F%E8%83%B8%E8%82%89-%E3%83%8F%E3%83%A0-%E3%83%A9%E3%83%83%E3%83%97'>鶏胸肉 ハム ラップ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=ocn-%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB-one-%E6%9C%80%E4%BD%8E%E5%88%A9%E7%94%A8%E6%9C%9F%E9%96%93'>Ocn モバイル One 最低利用期間</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%8A%E3%81%8B%E3%81%82%E3%81%95%E3%82%93%E3%81%A8%E3%81%84%E3%81%A3%E3%81%97%E3%82%87-dvd-%E8%B2%A9%E5%A3%B2%E5%BA%97'>おかあさんといっしょ Dvd 販売店</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AF%E3%83%AC%E3%82%B8%E3%83%83%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89-%E6%9A%97%E8%A8%BC%E7%95%AA%E5%8F%B7-%E3%81%84%E3%82%89%E3%81%AA%E3%81%84'>クレジットカード 暗証番号 いらない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%81%E3%82%AD%E3%83%B3%E3%83%A9%E3%82%A4%E3%82%B9-%E6%AD%8C%E8%A9%9E-%E6%B7%BB%E5%89%8A%E5%89%8D'>チキンライス 歌詞 添削前</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%9B%AA-%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88-%E7%99%BD%E9%BB%92'>雪 イラスト 白黒</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%B5%B1%E5%90%88%E5%A4%B1%E8%AA%BF%E7%97%87-%E5%BC%81%E8%AD%B7%E5%A3%AB-%E3%81%AB-%E3%81%AA%E3%82%8B%E3%81%AB%E3%81%AF'>統合失調症 弁護士 に なるには</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%BB%8A%E6%A4%9C-%E8%B2%BB%E7%94%A8-%E7%9B%B8%E5%A0%B4-3%E3%83%8A%E3%83%B3%E3%83%90%E3%83%BC'>車検 費用 相場 3ナンバー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%AB%98%E6%A0%A1%E5%8F%97%E9%A8%93-%E3%82%A2%E3%83%97%E3%83%AA-%E7%84%A1%E6%96%99-%E3%82%A2%E3%83%B3%E3%83%89%E3%83%AD%E3%82%A4%E3%83%89'>高校受験 アプリ 無料 アンドロイド</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AF%E3%83%AA%E3%82%B9%E3%82%BF-%E6%BC%AB%E7%94%BB-%E5%8D%B0%E5%88%B7'>クリスタ 漫画 印刷</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=powershell-%E5%AE%9F%E8%A1%8C%E3%83%9D%E3%83%AA%E3%82%B7%E3%83%BC-%E7%A2%BA%E8%AA%8D'>Powershell 実行ポリシー 確認</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B9%E3%83%90%E3%83%AB-%E3%83%91%E3%83%AF%E3%83%BC%E3%82%A6%E3%82%A3%E3%83%B3%E3%83%89%E3%82%A6-%E6%8C%9F%E3%81%BF%E8%BE%BC%E3%81%BF'>スバル パワーウィンドウ 挟み込み</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BB%96-18%E4%BB%B6%E8%BB%BD%E9%A3%9F%E3%83%A1%E3%83%8B%E3%83%A5%E3%83%BC%E6%9D%B1%E4%BA%AC%E4%BB%8A%E4%BA%95%E5%B1%8B%E6%9C%AC%E5%BA%97%2C-%E3%81%A4%E3%82%8B%E3%81%A8%E3%82%93%E3%81%9F%E3%82%93-BIS-TOKYO-%E4%B8%B8%E3%81%AE%E5%86%85%E5%BA%97%E3%81%AA%E3%81%A9'>他 18件軽食メニュー東京今井屋本店, つるとんたん BIS TOKYO 丸の内店など</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%8F%E3%82%BA%E3%82%AD%E3%83%AB%E3%83%BC%E3%83%9A-CM-%E9%81%95%E5%92%8C%E6%84%9F'>ハズキルーペ CM 違和感</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AD%E3%83%BC%E3%83%AB%E3%82%BA-%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0-%E4%BC%BC%E3%81%A6%E3%82%8B'>キールズ クリーム 似てる</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BD%BF%E3%81%84%E3%82%84%E3%81%99%E3%81%84-%E9%8D%8B-%E3%83%96%E3%83%AD%E3%82%B0'>使いやすい 鍋 ブログ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%96%B0-%E5%B7%9D%E6%A9%8B-%E7%97%85%E9%99%A2-%E9%9D%A2%E4%BC%9A'>新 川橋 病院 面会</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9E%E3%82%B0%E3%83%AD-%E7%85%AE%E4%BB%98%E3%81%91-%E5%B9%BC%E5%85%90%E9%A3%9F'>マグロ 煮付け 幼児食</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%B5%90%E5%A9%9A%E6%8C%87%E8%BC%AA-%E3%81%8A%E3%81%97%E3%82%83%E3%82%8C-%E3%83%A1%E3%83%B3%E3%82%BA'>結婚指輪 おしゃれ メンズ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Excel-%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB-%E3%83%91%E3%82%B9-%E6%96%87%E5%AD%97%E6%95%B0'>Excel ファイル パス 文字数</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=MacBook-Air-iFixit'>MacBook Air IFixit</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AB%E3%83%BC%E3%83%87%E3%82%A3%E3%83%8A%E3%83%AB-44-%E3%82%B5%E3%82%AF%E3%83%A9%E3%83%9E%E3%82%B9'>カーディナル 44 サクラマス</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%A9%E3%82%B0%E3%83%93%E3%83%BC-b%27z-%E5%B5%90'>ラグビー B'z 嵐</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%8A-%E3%81%8B%E3%81%A8%E3%81%86-%E8%80%B3%E9%BC%BB%E5%92%BD%E5%96%89-%E7%A7%91-%E9%99%A2%E9%95%B7'>お かとう 耳鼻咽喉 科 院長</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%96%A2%E8%A5%BF%E5%A4%A7%E5%AD%A6-%E6%8C%87%E5%AE%9A%E6%A0%A1%E6%8E%A8%E8%96%A6-%E8%8B%B1%E6%A4%9C'>関西大学 指定校推薦 英検</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=wordpress-%E3%83%A1%E3%83%8B%E3%83%A5%E3%83%BC-%E3%83%95%E3%82%A9%E3%83%B3%E3%83%88%E5%A4%89%E6%9B%B4'>Wordpress メニュー フォント変更</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B3%E3%83%AD%E3%83%8A-%E9%A3%9B%E8%A1%8C%E6%A9%9F-%E3%82%BB%E3%83%BC%E3%83%AB'>コロナ 飛行機 セール</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%95%E3%82%A1%E3%83%B3%E3%82%B1%E3%83%AB-%E5%8F%A3%E3%82%B3%E3%83%9F-%E3%83%8B%E3%82%AD%E3%83%93'>ファンケル 口コミ ニキビ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%9F%E3%81%93%E7%84%BC%E3%81%8D-%E6%A9%9F-%E9%81%8A%E3%81%B3'>たこ焼き 機 遊び</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9A%E3%83%9A%E3%83%AD%E3%83%B3%E3%83%81%E3%83%BC%E3%83%8E-%E3%82%AA%E3%83%AA%E3%83%BC%E3%83%96%E3%82%AA%E3%82%A4%E3%83%AB-%E3%81%8A%E3%81%99%E3%81%99%E3%82%81'>ペペロンチーノ オリーブオイル おすすめ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%80%E3%82%A4%E3%82%BD%E3%83%BC-%E3%81%8A%E8%8F%93%E5%AD%90-%E3%82%AB%E3%83%83%E3%83%97'>ダイソー お菓子 カップ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Windows10-%E3%83%AD%E3%83%83%E3%82%AF%E7%94%BB%E9%9D%A2-%E3%82%B9%E3%83%9D%E3%83%83%E3%83%88%E3%83%A9%E3%82%A4%E3%83%88-%E5%A4%89%E6%9B%B4-%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84'>Windows10 ロック画面 スポットライト 変更 できない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%B5%A6%E4%BB%98%E5%9E%8B%E5%A5%A8%E5%AD%A6%E9%87%91-%E3%81%A3-%E3%81%A6-%E4%BD%95'>給付型奨学金 っ て 何</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%8A%E5%BC%81%E5%BD%93-%E3%82%B9%E3%83%97%E3%83%BC%E3%83%B3-%E3%82%B1%E3%83%BC%E3%82%B9-100-%E5%9D%87'>お弁当 スプーン ケース 100 均</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%8E-%E3%83%9E%E3%82%B9%E3%82%AF-jan'>トランシーノ マスク Jan</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%B0%B1%E6%B4%BB-%E9%9B%BB%E8%A9%B1-%E6%99%82%E9%96%93'>就活 電話 時間</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%8F%8E%E7%B4%8D%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9-%E3%81%8A%E3%81%97%E3%82%83%E3%82%8C-%E7%99%BD'>収納ボックス おしゃれ 白</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%91%82%E6%B4%A5-%E6%9C%AC%E5%B1%B1-%E7%9A%AE%E8%86%9A%E7%A7%91'>摂津 本山 皮膚科</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%9D%B1%E4%BA%AC%E5%8C%BB%E7%A7%91%E6%AD%AF%E7%A7%91%E5%A4%A7%E5%AD%A6-%E5%8F%A3%E8%85%94%E5%A4%96%E7%A7%91-%E4%BA%8B%E4%BB%B6'>東京医科歯科大学 口腔外科 事件</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%B5%B7-%E5%80%92-%E5%BC%8F%E3%82%B9%E3%83%88%E3%83%83%E3%83%91%E3%83%BC'>起 倒 式ストッパー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%8E%A8%E8%96%A6-%E4%BD%95%E4%BA%BA-%E3%81%8F%E3%82%89%E3%81%84'>推薦 何人 くらい</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=asus-%E3%83%91%E3%82%B9%E3%83%AF%E3%83%BC%E3%83%89-%E5%85%A5%E5%8A%9B%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84'>Asus パスワード 入力できない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%80%E3%82%A4%E3%82%A8%E3%83%83%E3%83%88%E3%82%B9%E3%83%BC%E3%83%97-%E4%B8%80%E4%BA%BA-%E5%88%86'>ダイエットスープ 一人 分</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%AD%86%E7%AE%B1-%E9%BB%92-%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5'>筆箱 黒 メッシュ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Big-fish-%E6%84%8F%E5%91%B3'>Big Fish 意味</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AF%E3%83%AA%E3%82%A2-%E3%82%B2%E3%83%AB-%E3%82%AF%E3%83%AC%E3%83%B3%E3%82%BA-%E3%81%8A%E9%A2%A8%E5%91%82'>クリア ゲル クレンズ お風呂</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%9F%93%E5%9B%BD%E3%82%B3%E3%82%B9%E3%83%A1-%E7%BE%8E%E7%99%BD-%E3%83%96%E3%83%AD%E3%82%B0'>韓国コスメ 美白 ブログ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%9F%B3%E5%9E%A3%E5%B3%B6-%E3%82%B7%E3%83%BC%E3%82%B5%E3%82%A4%E3%83%89-%E3%83%9B%E3%83%86%E3%83%AB-%E3%83%9E%E3%83%83%E3%82%B5%E3%83%BC%E3%82%B8'>石垣島 シーサイド ホテル マッサージ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%9B%A2%E4%B9%B3%E9%A3%9F-%E4%B8%AD%E6%9C%9F-%E5%8D%B5%E9%BB%84'>離乳食 中期 卵黄</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%8B%A4-%E4%BC%BC-%E3%81%A6%E3%82%8B-%E6%BC%A2%E5%AD%97'>勤 似 てる 漢字</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=TSUTAYA-%E4%B8%80-%E7%95%AA-%E3%81%8F%E3%81%98-%E8%B2%B7%E3%81%84%E6%96%B9'>TSUTAYA 一 番 くじ 買い方</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%87%8E%E6%9D%91-%E4%BF%A1%E8%A8%97%E9%8A%80%E8%A1%8C-%E5%AD%A6%E6%AD%B4'>野村 信託銀行 学歴</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%AC%E3%82%A4-%E6%AD%A3%E4%BD%93-%E3%82%A8%E3%83%B4%E3%82%A1'>レイ 正体 エヴァ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Hana-%E3%83%8D%E3%82%B3-%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9'>Hana ネコ ボックス</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=skype-%E7%94%BB%E9%9D%A2%E5%85%B1%E6%9C%89-%E9%81%85%E5%BB%B6'>Skype 画面共有 遅延</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AF%E3%83%AD%E3%83%A0%E3%83%8F%E3%83%BC%E3%83%84-%E4%B8%AD%E5%8F%A4-%E3%83%96%E3%83%AC%E3%82%B9%E3%83%AC%E3%83%83%E3%83%88'>クロムハーツ 中古 ブレスレット</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%A8%E3%83%BC%E3%82%B0%E3%83%AB%E3%83%88-%E3%83%81%E3%83%BC%E3%82%BA%E3%82%B1%E3%83%BC%E3%82%AD-%E3%82%AA%E3%83%BC%E3%83%96%E3%83%B3%E3%81%AA%E3%81%97'>ヨーグルト チーズケーキ オーブンなし</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%AF%80%E5%88%86%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88-%E6%9D%B1%E4%BA%AC-%E5%AD%90%E4%BE%9B'>節分イベント 東京 子供</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%9C%82%E8%9C%9C-%E7%9B%AE%E3%81%AE%E8%89%B2-%E9%87%8F'>蜂蜜 目の色 量</a>,
+";s:7:"expired";i:-1;}

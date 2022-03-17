@@ -1,0 +1,60 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:2363:"対象端末 Android9.0以上のスマートフォン A. Android9.0以上のスマホの場合、ANY接続拒否 … Bluetoothについてです。ウォッチ型の通知機器「W8」を購入し、ペアリングしようと思いましたが、認識はしますが、「W8に拒否されました」と表示されます。どうにか接続の方法はありますか？ちなみにスマホはau Xperia XZS となります。 昨日L-05D（android4)を購入しました！ 自宅の無線ランルーターにwifi設定で接続しようとしたところ、詳細設定画面にあるIPアドレスという項目が「使用不可」と出て、タッチしても反応しません。 「接続が拒否されました」なので、おそらく後者だと思います。 `iptables -nvL` を見直すと、何かわかるかもしれません。 また、Windows 側のフィルタリング設定も確認ください。 投稿 2020/04/04 12:04. 回答の評価を上げる. 編集 2020/04/04 12:08. add高評価 0. 今日の昼頃からWifi接続ができなくなっていました。ネット接続もできないからツライでです。 Wifi設定自体はオンになってます。無線ルーターと端末の再起動はすでに試して効果なし。 再接続も試みたんですが、"ネットワークへのアクセスが拒否されました"とでてしまいます。  Wi-FiルーターのSSIDが検索されないようにする設定を行いましたが、Androidスマホから接続できなくなりました . Q スマホから自宅無線ランルーターへの接続ができない. ケーブルレスで音楽を楽しむために必要不可欠な「bluetooth」。この機能を愛用しているという方も、今では多くなってきています。 Androidのbluetooth機能を使うためには、2台のbluetoothデバイスを接続する「ペアリング」という手順が必要。ですが、「Xperiaではペアリング接続ができない！ スマホとヘッドフォンやキーボードを無線で接続できるBluetooth。便利ですが無線ならではの設定や接続確認のわかりにくさもあるものです。そんな悩みがなくなる6のポイントを、最初の設定時と、急に接続が出来なくなったときのシーンに分けて解説します。 ";s:7:"keyword";s:42:"接続が拒否 され ました スマホ";s:5:"links";s:4740:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=javascript-onclick-%E5%8B%95%E3%81%8B%E3%81%AA%E3%81%84'>Javascript Onclick 動かない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=K-BOOKS-%E5%90%8C%E4%BA%BA-%E8%B2%B7%E5%8F%96'>K-BOOKS 同人 買取</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%A5%9E%E6%88%B8%E5%A4%A7%E5%AD%A6-%E8%A9%95%E5%88%A4-%E6%82%AA%E3%81%84'>神戸大学 評判 悪い</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=NEC-%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC-%E7%B9%8B%E3%81%8C%E3%82%89%E3%81%AA%E3%81%84-%E3%82%B9%E3%83%9E%E3%83%9B'>NEC ルーター 繋がらない スマホ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%AB%E3%83%BC%E3%83%89-%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%89-%E5%88%87%E3%82%8A%E6%9B%BF%E3%81%88'>イオンカード ゴールド 切り替え</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%87%E3%82%B9%E3%82%AF%E3%83%88%E3%83%83%E3%83%97-%E3%83%95%E3%82%A9%E3%83%AB%E3%83%80-%E7%A7%BB%E5%8B%95'>デスクトップ フォルダ 移動</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%BB%E3%81%86%E3%82%8C%E3%82%93%E8%8D%89-%E5%8D%B5-%E3%81%97%E3%82%81%E3%81%98'>ほうれん草 卵 しめじ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9B%E3%83%83%E3%83%88%E3%82%B1%E3%83%BC%E3%82%AD%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-%E5%B0%91%E9%87%8F-%E8%B2%A9%E5%A3%B2'>ホットケーキミックス 少量 販売</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=AD-%E5%90%8D%E5%89%8D%E8%A7%A3%E6%B1%BA-%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84'>AD 名前解決 できない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%A6%E3%83%8B%E3%82%AF%E3%83%AD-%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC-%E3%83%8E%E3%83%B3%E3%82%A2%E3%82%A4%E3%83%AD%E3%83%B3-%E3%83%AC%E3%82%AE%E3%83%A5%E3%83%A9%E3%83%BC%E3%82%AB%E3%83%A9%E3%83%BC'>ユニクロ スーパー ノンアイロン レギュラーカラー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%91%E3%83%AF%E3%83%BC%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88-%E7%99%BA%E8%A1%A8%E8%80%85%E3%83%93%E3%83%A5%E3%83%BC%E3%81%8C%E8%A1%A8%E7%A4%BA-%E3%81%95%E3%82%8C-%E3%82%8B'>パワーポイント 発表者ビューが表示 され る</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%B8%9D%E4%BA%AC%E5%A4%A7%E5%AD%A6-%E7%9C%8B%E8%AD%B7-%E5%AD%A6%E9%83%A8-%E5%AD%A6%E8%B2%BB'>帝京大学 看護 学部 学費</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BD%8F%E6%B0%91%E7%A8%8E-%E6%8E%A7%E9%99%A4-%E7%B5%A6%E4%B8%8E'>住民税 控除 給与</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B8%89%E8%8F%B1UFJ%E3%83%A2%E3%83%AB%E3%82%AC%E3%83%B3-%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%AC%E3%83%BC%E8%A8%BC%E5%88%B8-%E3%82%B5%E3%82%A4%E3%83%AC%E3%83%B3%E3%83%88'>三菱UFJモルガン スタンレー証券 サイレント</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%95%E3%82%A7%E3%82%A4%E3%82%B9%E3%82%AC%E3%83%BC%E3%83%89-%E9%87%8E%E7%90%83-%E9%BC%BB'>フェイスガード 野球 鼻</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%B8%82%E8%B2%A9-%E8%82%89%E5%9B%A3%E5%AD%90-%E3%82%B9%E3%83%BC%E3%83%97'>市販 肉団子 スープ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=o%E3%83%A9%E3%82%A4%E3%83%B3-%E8%84%B1%E6%AF%9B-%E4%BD%93%E9%A8%93%E8%AB%87'>Oライン 脱毛 体験談</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%91%E3%83%BC%E3%83%88-%E7%B5%90%E5%A9%9A-%E7%94%B7'>パート 結婚 男</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%90%E3%82%A4%E3%83%88-%E4%BA%A4%E9%80%9A%E8%B2%BB-%E8%A8%BC%E6%98%8E'>バイト 交通費 証明</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B3%E3%83%A1%E3%83%80%E7%8F%88%E7%90%B2-%E9%AB%98%E7%9F%A5-%E6%8C%81%E3%81%A1%E5%B8%B0%E3%82%8A'>コメダ珈琲 高知 持ち帰り</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Mac-%E3%82%BA%E3%83%BC%E3%83%A0-%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF-%E3%83%91%E3%83%83%E3%83%89'>Mac ズーム トラック パッド</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%B5%90%E5%A9%9A%E5%BC%8F-%E3%83%91%E3%83%B3%E3%83%84%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB-%E5%86%AC'>結婚式 パンツスタイル 冬</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%9D%BE%E5%B1%B1-%E6%B9%AF%E5%B8%83%E9%99%A2-%E3%83%84%E3%82%A2%E3%83%BC'>松山 湯布院 ツアー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%A5%BD-%E8%94%B5-%E9%9D%99%E5%B2%A1-%E3%83%9B%E3%83%83%E3%83%88%E3%83%9A%E3%83%83%E3%83%91%E3%83%BC'>楽 蔵 静岡 ホットペッパー</a>,
+";s:7:"expired";i:-1;}

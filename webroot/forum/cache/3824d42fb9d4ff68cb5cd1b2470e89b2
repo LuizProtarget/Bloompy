@@ -1,0 +1,98 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:6546:"<p>今回は高雄にある台湾茶の名店をご紹介します。1922年創業で、なんと90年以上もの歴史を誇る「李家茶店」。歴史ある老舗の台湾茶には、南投県、嘉義県、台中県の茶園から厳選したよいお茶のみを高雄へ運んできていているというこだわりがあります。 お茶で600gって、なかなかのボリュームですよ。 買ってみて実際物を見たら共感できると思います。 烏龍茶と珈琲紅茶を購入、1個100nt$で合計200nt$となりました。 珈琲紅茶って何でしょ？紅茶が香ばし過ぎて、珈琲みたいになってるということかな？ お茶で600gって、なかなかのボリュームですよ。 買ってみて実際物を見たら共感できると思います。 烏龍茶と珈琲紅茶を購入、1個100nt$で合計200nt$となりました。 珈琲紅茶って何でしょ？紅茶が香ばし過ぎて、珈琲みたいになってるということかな？ 台湾には数多くのお茶の品種があり、お土産にしても自分用にしても購入するときに迷ってしまいます。この記事では迷ったときにでも安心して購入できるように、おすすめのお茶の特徴や購入できるスポットを台湾・台北在住の筆者がご紹介します。 【オットギ三和】蜂蜜柚子茶-7 1kg お得12本セット（韓国飲料、お茶） 5つ星のうち4.6 32 ￥7,100 ￥7,100 (￥592/1商品あたりの価格) 高雄、台南での御茶購入: 2014-09-29: 来年、1月に高雄、台南へ2泊3日します。 地元スーパーマーケットや家楽福でのお茶購入もできますが、交通の便がいいオススメのお茶屋があれば、是非情報をお願 … 東方美人茶はランクが4種類。「2,400」と「1,000」を150gずつ購入してみました。 包装も至ってシンプルな袋詰め。あくまでも茶葉が主役ということなのでしょう。 見た目にこだわるのであれば、別売りで素敵な茶缶も販売しています。 購入した台湾茶 ギャラリーのようなティーショップ、小茶栽堂（Zenique）を訪れました。自然農法栽培されたオーガニックティーが人気。華やかパッケージの台湾茶や、カラフルなマカロンヌガーも詳しくご紹介します。 スーパーではお手軽に飲めるティーバッグの台湾茶のみ購入しました。 前回も購入した台湾茶で有名な天仁茗茶のものです。 このパッケージがなんか好きなんですよね。 家に並べて飾っています。 値段はひとつ125元（約440円）でした。 まず、「市販のお茶を購入するか」について調査しました。 10代、20代、30代とすべての年代において、 8割以上 の人が市販のお茶を購入することが判明しました。 また、お茶を購入する人の割合は年代が上がるにつれ、徐々に増えていることもわかりました。 東方美人茶はランクが4種類。「2,400」と「1,000」を150gずつ購入してみました。 包装も至ってシンプルな袋詰め。あくまでも茶葉が主役ということなのでしょう。 見た目にこだわるのであれば、別売りで素敵な茶缶も販売しています。 購入した台湾茶 「ちょっと良いモノ」をテーマに心ときめくアイテムをぎゅっと詰め込んでみた台湾のお土産特集です。定番人気、美味しい＆かわいいもの、ばらまき用のプチプラアイテム、台湾コスメなど「これは買うべき！」おすすめ台湾土産について、台北のお買い物スポット情報付きでお届けします。 ギャラリーのようなティーショップ、小茶栽堂（Zenique）を訪れました。自然農法栽培されたオーガニックティーが人気。華やかパッケージの台湾茶や、カラフルなマカロンヌガーも詳しくご紹介します。 台湾で美味しい台湾茶を購入するには お茶の文化が根付いた台湾、せっかくなら旅の思い出と帰国の際のお土産に美味しい台湾茶を購入したと思われている方も多いかと思います。 台湾茶. 2018年10月に3泊4日で高雄・台中・台北と台湾縦断の旅をしました。 高雄空港に無事に到着し、現地通貨も無事にゲット。 gino10.hatenablog.com 目指すは高雄の観光地、龍虎塔。 ってその前に空港ですることがもう一つあった。 悠遊カードの購入しないと。 悠遊カードって何？ 高雄に初上陸！台北旅行の際に購入した交通icカード「悠遊カード」を使って高雄観光を満喫してきました(*^_^*)が！しかし高雄で悠遊カードを使用する場合は注意することもありました。実際に高雄で悠遊カード使ってみてわかった注意点や割引などまとめておきたいと思います。  </p> <p>【トラベルコまとめ】高雄のおさえておくべき人気のお土産・ショッピング情報をご紹介！パイナップルケーキが買える老舗店や地元民が集う夜市など、高雄を知り尽くしたプロのクチコミを元に、厳選したお土産・ショッピング情報をまとめました。 台湾茶. 「台湾で良質なお茶を良心的な価格で購入したい！」こんな時は台北におけるお茶の老舗卸問屋として長い歴史を持つ林華泰茶行がおすすめです。質の良いお茶を割と手頃な価格で購入することができる同店の詳細＆お茶の購入方法およびロケーション＆アクセス方法についてご紹介します。 お茶系飲料の購入者調査. スーパーではお手軽に飲めるティーバッグの台湾茶のみ購入しました。 前回も購入した台湾茶で有名な天仁茗茶のものです。 このパッケージがなんか好きなんですよね。 家に並べて飾っています。 値段はひとつ125元（約440円）でした。 台湾旅行で考えるのがお茶のお土産。お茶は値段の安いものから高いものまでさまざま、また種類もメーカーも豊富でどこで買ったら良いのか難しいものです。今回はお茶の購入に有名メーカーである「天仁茗茶（テンレンミンチャ）」を紹介します。 </p>";s:7:"keyword";s:20:"高雄 お茶 購入";s:5:"links";s:11898:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BD%93%E9%87%8D%E8%A8%88-%E3%82%BF%E3%83%8B%E3%82%BF-%E3%82%B9%E3%83%9E%E3%83%9B'>体重計 タニタ スマホ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=iphone-wifi-%E8%87%AA%E5%8B%95%E6%8E%A5%E7%B6%9A%E3%81%97%E3%81%AA%E3%81%84'>Iphone Wifi 自動接続しない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%A1%E3%82%A4%E3%82%AF-%E3%81%8A%E3%81%99%E3%81%99%E3%82%81-10%E4%BB%A3'>メイク おすすめ 10代</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%90%8A%E3%82%8A-%E4%B8%8B%E3%81%92-%E5%BC%8F%E3%82%AF%E3%83%BC%E3%83%A9%E3%83%BC%E3%82%AD%E3%83%83%E3%83%88'>吊り 下げ 式クーラーキット</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%82%AD%E7%81%AB-%E7%84%BC%E9%B3%A5-%E5%AE%AE%E5%B4%8E'>炭火 焼鳥 宮崎</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%9A%96%E9%BE%8D-%E7%BE%8E%E3%81%97%E3%81%8C%E4%B8%98%E5%BA%97-%E3%83%A1%E3%83%8B%E3%83%A5%E3%83%BC'>暖龍 美しが丘店 メニュー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%84%BC%E3%81%8D%E9%B3%A5-%E7%BC%B6%E8%A9%B0-%E5%BC%81%E5%BD%93'>焼き鳥 缶詰 弁当</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AA%E3%83%BC%E3%83%88%E3%83%9E-%E3%82%AE%E3%82%A2%E3%83%81%E3%82%A7%E3%83%B3%E3%82%B8-%E3%82%AC%E3%82%AF%E3%83%B3'>オートマ ギアチェンジ ガクン</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%90%E3%82%8B%E3%81%AA%E3%81%B3-%E8%8F%AF-%E5%91%B3-%E9%B3%A5-%E5%BF%83%E6%96%8E%E6%A9%8B'>ぐるなび 華 味 鳥 心斎橋</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B8%AD%E7%B5%B6%E8%B2%BB%E7%94%A8-%E5%AE%89%E3%81%84-%E5%A4%A7%E9%98%AA'>中絶費用 安い 大阪</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%B7%A5%E5%A0%B4-%E3%81%84%E3%81%98%E3%82%81-%E3%83%91%E3%83%AF%E3%83%8F%E3%83%A9'>工場 いじめ パワハラ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=lightning---usb-3%E3%82%AB%E3%83%A1%E3%83%A9%E3%82%A2%E3%83%80%E3%83%97%E3%82%BF-%E7%B4%94%E6%AD%A3'>Lightning - Usb 3カメラアダプタ 純正</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B3%E3%83%B3%E3%83%93%E3%83%8B-%E3%82%AB%E3%83%BC%E3%83%89%E6%89%95%E3%81%84-%E3%82%84%E3%82%8A%E6%96%B9'>コンビニ カード払い やり方</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%97%E3%81%BE%E3%82%80%E3%82%89-%E3%83%97%E3%83%AA%E3%82%AD%E3%83%A5%E3%82%A2-%E3%83%91%E3%82%B8%E3%83%A3%E3%83%9E'>しまむら プリキュア パジャマ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A6%8A%E5%A8%A0%E4%B8%AD-%E9%99%B0%E6%AF%9B-%E7%97%92%E3%81%84'>妊娠中 陰毛 痒い</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%AD%E3%83%BC%E3%82%AB%E3%83%AB%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%81%A8%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97-%E3%83%89%E3%83%A1%E3%82%A4%E3%83%B3-%E8%A1%A8%E7%A4%BA-%E3%81%95%E3%82%8C%E3%81%AA%E3%81%84'>ローカルユーザーとグループ ドメイン 表示 されない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AB%E3%82%A4%E3%83%B3%E3%82%BA%E3%82%AB%E3%83%BC%E3%83%89-%E3%82%A2%E3%83%97%E3%83%AA-%E5%BC%95%E3%81%8D%E7%B6%99%E3%81%8E'>カインズカード アプリ 引き継ぎ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88-%E5%88%9D%E5%BF%83%E8%80%85-ipad'>デジタルイラスト 初心者 Ipad</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=18%E3%82%AB%E3%83%AB%E3%83%87%E3%82%A3%E3%82%A2-%E3%82%B7%E3%83%A7%E3%82%A2%E3%82%B8%E3%82%AE-%E3%83%B3%E3%82%B0'>18カルディア ショアジギ ング</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%96%B0%E5%A4%A7%E9%98%AA-%E3%83%A6%E3%83%8B%E3%82%AF%E3%83%AD-%E5%A0%B4%E6%89%80'>新大阪 ユニクロ 場所</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%9C%A7%E5%8A%9B%E9%8D%8B-%E8%92%B8%E3%81%97%E5%99%A8-%E3%83%AC%E3%82%B7%E3%83%94'>圧力鍋 蒸し器 レシピ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%AF%A0%E3%83%8E%E4%BA%95-%E3%83%A9%E3%83%B3%E3%83%81-%E5%92%8C%E9%A3%9F'>篠ノ井 ランチ 和食</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC-%E4%BA%BA%E6%B0%97%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89-%E3%83%AC%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B9'>パーカー 人気ブランド レディース</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%90%8D%E9%89%84-%E5%BF%98%E3%82%8C%E7%89%A9-%E3%82%A2%E3%83%97%E3%83%AA'>名鉄 忘れ物 アプリ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%9F%E3%82%89%E3%81%93-%E3%81%AD%E3%81%8E-%E3%81%94%E9%A3%AF'>たらこ ねぎ ご飯</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%94%A3%E5%BE%8C-%E5%AE%89%E9%9D%99-%E3%81%AB%E3%81%97-%E3%81%99%E3%81%8E'>産後 安静 にし すぎ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%BA%83%E5%B3%B6-%E3%83%A9%E3%83%B3%E3%83%81-%E9%A7%90-%E8%BB%8A%E5%A0%B4'>広島 ランチ 駐 車場</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%93%E3%83%AA%E3%83%BC%E3%82%A2%E3%82%A4%E3%83%AA%E3%83%83%E3%82%B7%E3%83%A5-%E3%83%90%E3%83%83%E3%83%89%E3%82%AC%E3%82%A4-cm'>ビリーアイリッシュ バッドガイ Cm</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%B8%83%E5%B7%BE-%E8%87%AD%E3%81%84-%E9%9B%BB%E5%AD%90%E3%83%AC%E3%83%B3%E3%82%B8'>布巾 臭い 電子レンジ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%80%81%E4%BA%BA-%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B3-%E3%83%95%E3%83%AA%E3%83%BC'>老人 アイコン フリー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%98%AA%E6%80%A5%E7%99%BE%E8%B2%A8%E5%BA%97-%E3%82%AB%E3%82%BF%E3%83%AD%E3%82%B0%E3%82%AE%E3%83%95%E3%83%88-%E9%A6%99%E5%85%B8%E8%BF%94%E3%81%97'>阪急百貨店 カタログギフト 香典返し</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%B2%E3%82%89-%E3%81%9F%E3%81%91-%E3%81%8B%E3%82%89%E3%81%82%E3%81%92'>ひら たけ からあげ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A8%E3%82%AE%E3%83%B3%E3%82%B0-%E3%83%AA%E3%83%BC%E3%83%AB-%E3%83%96%E3%83%AD%E3%82%B0'>エギング リール ブログ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B8%AD%E5%9B%BD%E4%BA%BA-%E6%97%A5%E6%9C%AC%E3%81%AE-%E6%BC%A2%E5%AD%97'>中国人 日本の 漢字</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%90%E3%82%A4%E3%82%AF-%E3%83%8F%E3%83%B3%E3%83%89%E3%83%AB%E3%83%AD%E3%83%83%E3%82%AF-%E8%A7%A3%E9%99%A4-%E9%8D%B5%E3%81%AA%E3%81%97'>バイク ハンドルロック 解除 鍵なし</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A2%E3%83%8B%E3%83%A1%E3%82%A4%E3%83%88-%E4%BA%88%E7%B4%84-%E9%AC%BC%E6%BB%85%E3%81%AE%E5%88%83'>アニメイト 予約 鬼滅の刃</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=What-have-you-done-until-now'>What Have You Done Until Now</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%9D%99%E5%B2%A1%E5%A4%A7%E5%AD%A6-%E7%89%A9%E7%90%86-%E5%82%BE%E5%90%91'>静岡大学 物理 傾向</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%80%80%E8%81%B7%E8%A8%BC%E6%98%8E%E6%9B%B8-pdf-%E4%BB%A4%E5%92%8C'>退職証明書 Pdf 令和</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%95%E3%83%A9%E3%82%A4%E3%83%91%E3%83%B3-%E8%93%8B-%E5%B0%8F%E3%81%95%E3%81%84'>フライパン 蓋 小さい</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%9F%B3%E5%9E%A3%E5%B3%B6-%E7%A7%BB%E4%BD%8F-%E5%A5%B3%E6%80%A7'>石垣島 移住 女性</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AD%E3%83%83%E3%82%BA-%E3%83%80%E3%83%B3%E3%82%B9-%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%83%91%E3%83%B3%E3%83%84'>キッズ ダンス ショートパンツ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A6%8A%E5%A8%A0%E4%B8%AD-%E9%99%B0%E6%AF%9B-%E7%97%92%E3%81%84'>妊娠中 陰毛 痒い</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%84%E3%81%8D-%E3%81%86-%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB'>やき う ドラゴンボール</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%8F%E3%82%A4%E3%82%A8%E3%83%BC%E3%82%B9-%E8%8D%B7%E5%AE%A4-%E6%A3%9A'>ハイエース 荷室 棚</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=mac-%E5%8D%8A%E8%A7%92%E8%8B%B1%E6%95%B0%E5%AD%97-%E6%89%93%E3%81%A6%E3%81%AA%E3%81%84'>Mac 半角英数字 打てない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BB%96-18%E4%BB%B6%E5%B1%85%E5%BF%83%E5%9C%B0%E3%81%8C%E8%89%AF%E3%81%84%E3%83%AC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%B3%E3%82%A4%E3%83%AB%E3%83%BB%E3%83%87%E3%83%BB%E3%83%91%E3%83%B3%2C-%E6%89%8B%E6%89%93%E3%81%A1%E8%95%8E%E9%BA%A6-%E6%B1%90%E8%A6%8B%E3%81%AA%E3%81%A9'>他 18件居心地が良いレストランイル・デ・パン, 手打ち蕎麦 汐見など</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%B3%95%E6%94%BF%E5%A4%A7%E5%AD%A6-%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC-ob%E8%A8%AA%E5%95%8F'>法政大学 キャリアセンター Ob訪問</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%82%8C-%E8%82%9D-%E8%82%A9-%E8%85%95-%E8%85%B8-%E3%81%AB-%E5%85%B1%E9%80%9A-%E3%81%99%E3%82%8B-%E9%83%A8-%E9%A6%96-%E3%81%AF'>肌 肝 肩 腕 腸 に 共通 する 部 首 は</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%A4%BE%E4%BC%9A%E4%BF%9D%E9%99%BA-%E5%8A%A0%E5%85%A5%E7%BE%A9%E5%8B%99-%E3%82%A2%E3%83%AB%E3%83%90%E3%82%A4%E3%83%88'>社会保険 加入義務 アルバイト</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%A8%E3%82%8A%E3%81%9B%E3%82%93-%E3%81%A4%E3%81%8F%E3%81%B0-%E3%83%81%E3%83%A9%E3%82%B7'>とりせん つくば チラシ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=vba-%E5%8F%B3%E3%82%AF%E3%83%AA%E3%83%83%E3%82%AF%E3%83%A1%E3%83%8B%E3%83%A5%E3%83%BC-%E8%BF%BD%E5%8A%A0%E3%81%95%E3%82%8C%E3%81%AA%E3%81%84'>Vba 右クリックメニュー 追加されない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%97%A5%E6%9C%AC-%E3%83%8F%E3%83%A0-nr503'>日本 ハム Nr503</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%AD%AF%E5%8C%BB%E8%80%85-%E6%98%8E%E7%B4%B0%E6%9B%B8-%E5%86%8D%E7%99%BA%E8%A1%8C'>歯医者 明細書 再発行</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Luna-display-beta'>Luna Display Beta</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AA%E3%83%A0%E3%83%AD%E3%83%B3-%E4%BD%93%E9%87%8D%E8%A8%88-hbf214'>オムロン 体重計 Hbf214</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%80%80%E8%81%B7%E7%A5%9D%E3%81%84-%E6%99%82%E8%A8%88-%E5%A5%B3%E6%80%A7'>退職祝い 時計 女性</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%AE%95%E9%9D%A2-%E3%83%87%E3%82%A3%E3%83%8A%E3%83%BC-%E5%80%8B%E5%AE%A4'>箕面 ディナー 個室</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Mac-%E7%94%BB%E5%83%8F-%E9%80%8F%E3%81%8B%E3%81%97'>Mac 画像 透かし</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%84%E3%81%95%E3%81%97%E3%81%8F-%E3%81%8A%E3%81%84%E3%81%97%E3%81%8F%E6%B0%B4%E5%88%86%E8%A3%9C%E7%B5%A6-%E3%82%BC%E3%83%AA%E3%83%BC'>やさしく おいしく水分補給 ゼリー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%82%BA%E7%82%8E-%E3%81%A7%E4%BA%A1%E3%81%8F%E3%81%AA%E3%81%A3%E3%81%9F-%E8%8A%B8%E8%83%BD%E4%BA%BA'>肺炎 で亡くなった 芸能人</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A4%E3%83%B3%E3%83%89-%E7%B4%85%E8%8C%B6-%E9%A3%B2%E3%81%BF%E6%96%B9'>インド 紅茶 飲み方</a>,
+";s:7:"expired";i:-1;}

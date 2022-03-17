@@ -1,0 +1,73 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:3477:"<br>更年期症状の対策は、クリニックでの治療からサプリ・漢方まで様々な方法があります。今回は更年期にあらわれやすい症状と、それをラクにする対策方法をご紹介します。 更年期症状のあらわれ方は人そ … ＜更年期障害の治療＞ 漢方医学の視点.  更年期症状には、衝任虚寒・瘀血阻滞、肝鬱化火、胃寒、肝鬱血虚、肝腎陰虚のタイプがあります。「気」「血」「水」のバランスを整えるのは漢方が最適。 ぜひ自分にあった漢方を見つけて楽に更年期を乗り切ってくださいね。 1.1 当帰芍薬散（とうきしゃくやくさん）：ツムラ23; 1.2 桂枝茯苓丸（けいしぶくりょうがん）：ツムラ25; 1.3 加味逍遙散（かみしょうようさん）：ツムラ24; 1.4 半夏厚朴湯（はんげこうぼくとう）：ツムラ16; 1.5 温清飲（うんせいいん）：ツムラ57 <br> <br>更年期障害に特に効く5つの漢方薬. <br> <br>不定愁訴の治療は漢方治療がもっとも得意とするところです。したがって、更年期障害は漢方治療のよい適用となり、漢方薬が使われる頻度も高い疾患の一つといえ … そこで気になるのは、生薬や漢方を配合した市販薬と更年期障害に効くサプリです。漢方などを主成分とした市販薬は、過ぎたものを抑えて不足したものを補い特定の症状を軽くします。 サプリメントは女性ホルモンの働きを助ける成分が配合されていますので、自分に合ったものを選ぶと同� 50代からの美容と健康. 更年期は病気じゃない と言うけれど、だからこそ周りにわかってもらえないつらさもあるというものですよね。. <br> <br>目次. コンテンツへスキップ ナビゲーションに移動.  1 更年期障害におすすめの漢方薬～女性編～. 更年期にオススメな漢方薬とサプリ / 最終更新日時 : ゆう 50代からの美容と健康 汗をかきやすく、上半身がのぼせやすい、末端の手足は痛いほど冷たい。 そんな更年期症状を軽減するため、みんなはどんサプリを服用してるの？漢方薬？それともサプリ？ 更年期障害の症状を和らげるために、できるだけ薬を使わずにオーガニックなもので緩和しながら付き合っていきたい。そんなあなたには漢方薬を検討してみることをおすすめします。効果のある漢方薬や漢方薬の種類を紹介しているサイトです。 次に特に更年期にオススメの漢方薬で代表的なものを5つご紹介します。 それぞれに人気がある漢方薬の商品も紹介しているので、気になる人は試してみてください。 当帰芍薬散（とうきしゃくやくさん） 次に特に更年期にオススメの漢方薬で代表的なものを5つご紹介します。 それぞれに人気がある漢方薬の商品も紹介しているので、気になる人は試してみてください。 当帰芍薬散（とうきしゃくやくさん） 更年期障害に特に効く5つの漢方薬. 更年期症状を改善すべく、漢方薬とサプリメントで不定愁訴にアプローチ。 更年期の症状改善に漢方薬漢方薬はご自身に合ったものにカスタ . <br>";s:7:"keyword";s:26:"更年期 サプリ 漢方";s:5:"links";s:7010:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%80%E3%82%A4%E3%83%AF-%E3%83%AA%E3%83%BC%E3%83%AB-%E3%83%8F%E3%83%B3%E3%83%89%E3%83%AB-%E3%83%8E%E3%83%96'>ダイワ リール ハンドル ノブ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=BunBackup-%E3%83%95%E3%82%A9%E3%83%AB%E3%83%80-%E3%81%AE-%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF-%E3%81%AB-%E5%A4%B1%E6%95%97-%E3%81%97%E3%81%BE-%E3%81%97%E3%81%9F'>BunBackup フォルダ の チェック に 失敗 しま した</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%BF%91%E7%95%BF-%E9%81%8A%E3%81%B3-%E5%A4%A7%E4%BA%BA'>近畿 遊び 大人</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%82%E3%82%84%E3%81%97-%E5%8D%B5-%E3%83%99%E3%83%BC%E3%82%B3%E3%83%B3'>もやし 卵 ベーコン</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B8%89%E9%87%8D%E7%9C%8C-%E3%83%A4%E3%83%B3%E3%82%AD%E3%83%BC-%E4%B8%AD%E5%AD%A6%E6%A0%A1'>三重県 ヤンキー 中学校</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A4%A7%E7%89%9F%E7%94%B0%E5%B8%82-%E5%85%AC%E5%AE%B3-%E8%AB%8B%E6%B1%82-%E6%9B%B8'>大牟田市 公害 請求 書</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=a1-%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0-%E6%9C%A8%E8%A3%BD'>A1 ポスターフレーム 木製</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%86%B4%E3%81%88%E3%81%AA%E3%81%84%E5%BD%BC%E5%A5%B3%E3%81%AE%E8%82%B2%E3%81%A6-%E3%81%8B-%E3%81%9F-Fine-7%E9%80%B1%E7%9B%AE%E7%89%B9%E5%85%B8'>冴えない彼女の育て か た Fine 7週目特典</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%86%9D%E3%81%AE%E7%97%9B%E3%81%BF-%E3%83%86%E3%83%8B%E3%82%B9-%E3%83%9C%E3%83%BC%E3%83%AB'>膝の痛み テニス ボール</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=jal-%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%82%AF%E3%83%A9%E3%82%B9-%E3%82%A2%E3%83%A1%E3%83%8B%E3%83%86%E3%82%A3-2019'>Jal ビジネスクラス アメニティ 2019</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Mac-%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%A8%E3%83%97%E3%83%A9%E3%82%A4%E3%83%90%E3%82%B7%E3%83%BC-%E5%89%8A%E9%99%A4'>Mac セキュリティとプライバシー 削除</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%B6%8F%E3%81%B2%E3%81%8D%E8%82%89-%E3%83%8F%E3%83%B3%E3%83%90%E3%83%BC%E3%82%B0-%E5%A4%A7%E8%91%89'>鶏ひき肉 ハンバーグ 大葉</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%A1%80-%E6%B5%81-%E3%82%92%E8%89%AF%E3%81%8F%E3%81%99%E3%82%8B%E3%83%8F%E3%83%BC%E3%83%96'>血 流 を良くするハーブ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AD%E3%83%A9%E3%82%AD%E3%83%A9%E3%83%8D%E3%83%BC%E3%83%A0-%E5%AE%9F%E5%9C%A8-%E8%A8%BC%E6%8B%A0'>キラキラネーム 実在 証拠</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=t%E3%82%B7%E3%83%A3%E3%83%84-%E6%96%87%E5%AD%97%E5%85%A5%E3%82%8C-%E3%82%B7%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3'>Tシャツ 文字入れ シミュレーション</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=iPhone-XR-wi--Fi-%E7%B9%8B%E3%81%8C%E3%82%89%E3%81%AA%E3%81%84'>IPhone XR Wi -Fi 繋がらない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%8A%AC-%E7%A5%9E%E7%A4%BE-%E9%95%B7%E9%87%8E'>犬 神社 長野</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=18%E3%82%AB%E3%83%AB%E3%83%87%E3%82%A3%E3%82%A2-%E3%82%B7%E3%83%A7%E3%82%A2%E3%82%B8%E3%82%AE-%E3%83%B3%E3%82%B0'>18カルディア ショアジギ ング</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%B2-%E3%81%BE%E3%82%8A-%E6%BC%A2%E5%AD%97-%E9%99%BD'>ひ まり 漢字 陽</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%90%B9%E5%A5%8F%E6%A5%BD-%E5%85%88%E7%94%9F-%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8'>吹奏楽 先生 メッセージ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B9%E3%83%A2%E3%83%83%E3%82%AF-%E8%A3%BE%E4%B8%8A%E3%81%92-%E3%81%BE%E3%81%A4%E3%82%8A%E7%B8%AB%E3%81%84'>スモック 裾上げ まつり縫い</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%A1%E3%81%B5%E3%82%8C-%E7%BE%8E%E7%99%BD%E5%8C%96%E7%B2%A7%E6%B0%B4-%E8%A7%A3%E6%9E%90'>ちふれ 美白化粧水 解析</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%99%E3%81%97%E9%85%A2-%E9%B6%8F-%E5%8D%97%E8%9B%AE%E6%BC%AC%E3%81%91'>すし酢 鶏 南蛮漬け</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9B%E3%83%86%E3%83%AB-%E3%82%A8%E3%83%9F%E3%82%AA%E3%83%B3-%E6%9D%B1%E4%BA%AC-%E3%83%99%E3%82%A4%E3%83%90%E3%82%B9'>ホテル エミオン 東京 ベイバス</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%A5%AD%E5%8B%99%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC-%E3%83%9E%E3%83%83%E3%82%B7%E3%83%A5%E3%83%9D%E3%83%86%E3%83%88-%E3%82%B3%E3%83%AD%E3%83%83%E3%82%B1'>業務スーパー マッシュポテト コロッケ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B7%E3%82%A8%E3%83%B3%E3%82%BF-%E5%BE%8C%E9%83%A8%E5%BA%A7%E5%B8%AD-%E6%9A%91%E3%81%84'>シエンタ 後部座席 暑い</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%8F%E3%82%A4%E3%82%A8%E3%83%BC%E3%82%B9-%E8%8D%B7%E5%AE%A4-%E6%A3%9A'>ハイエース 荷室 棚</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=DS-3dw300-windows10'>DS 3dw300 Windows10</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=i%27d-like-to'>I'd Like To</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%B8%9D%E7%8E%8B%E5%88%87%E9%96%8B-%E7%99%BA%E9%81%94%E9%9A%9C%E5%AE%B3-%E9%96%A2%E4%BF%82'>帝王切開 発達障害 関係</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%8D%B5%E3%82%A2%E3%83%AC%E3%83%AB%E3%82%AE%E3%83%BC-%E9%9B%A2%E4%B9%B3%E9%A3%9F-%E3%83%AC%E3%82%B7%E3%83%94'>卵アレルギー 離乳食 レシピ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BC%9A%E7%A4%BE-Gmail-%E8%87%AA%E5%AE%85'>会社 Gmail 自宅</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B9%E3%82%AB%E3%82%A4-%E3%83%94%E3%83%BC%E3%82%B9-%E3%83%80%E3%83%B3%E3%82%B9'>スカイ ピース ダンス</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%88%E3%83%A9%E3%82%A6%E3%83%88-%E3%83%AA%E3%83%BC%E3%83%AB-%E3%83%99%E3%82%A4%E3%83%88'>トラウト リール ベイト</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%B5%A4%E6%B2%A2-%E6%B8%A9%E6%B3%89-%E3%83%9B%E3%83%86%E3%83%AB-%E3%82%B3%E3%83%AD%E3%83%8A'>赤沢 温泉 ホテル コロナ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9E%E3%82%B0%E3%83%AD-%E7%85%AE%E4%BB%98%E3%81%91-%E5%B9%BC%E5%85%90%E9%A3%9F'>マグロ 煮付け 幼児食</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=U42T-%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3-%E3%81%8B%E3%81%8B%E3%82%89%E3%81%AA%E3%81%84'>U42T エンジン かからない</a>,
+";s:7:"expired";i:-1;}

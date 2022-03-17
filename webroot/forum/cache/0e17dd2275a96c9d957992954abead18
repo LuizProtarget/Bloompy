@@ -1,0 +1,75 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:4642:"<br>センター地理で8割取る勉強法｜正しい解き方3ステップ 英単語の効率的な覚え方「1単語x回」←New! センター79％から京大法学部に現役合格！ 2017年10月19日 2020年1月17日 卒業生インタビュー第2弾！ 今回は、非常にドラマチックな受験を経て見事京大に現役合格した卒業生のお話を聞いてきたよ。 近しいセンター8割から9割を取るならこれぐらいの勉強の話でも充分です。 もちろんセンター過去問は完璧になるまで何回も何回も反復するべきです。参考書の冊数のイメージよりも多いかもしれません。 センター総合9割の分布は、東大と医学部合格者の半分＝約4，000人。 京大一橋東工大の3割＝約1，500人、その他旧帝大の1割＝約2，000人。 それ以外の最上位層で約1，000人、あと（上記に不合格になる）浪人1，000人。 センター爆死した受験生に諦めてほしくないので建てた 全部 … 【大阪大学院生:男性】センター試験で8割取ることはそんなに難しくありません。今回は、私が受けた「物理Ⅰ」「化学Ⅰ」「数学Ⅰa」「数学Ⅱb」「英語」「国語」「地理b」（「現代社会」）の5教科7科目の対策方法について解説します。 【悲報】京大入試英語、英検1級講師でも8割しか取れない模様 51件のビュー 鉄壁で英検準一級の語彙って合格レベルまでカバー出来る？ 41件のビュー 英検2級を高卒程度と言うのやめろ。大学中級程度や 36件のビュー 英検準一級の 京大生協の住まい探し ; メルマガ登録 ... 派遣、④受験生弁当）は、京大生協で行っていますが、宿泊の申込は（株）大学生協事業センター京都支店「宿泊予約センター」で受け付けています。 お申込はこちらから. これ一冊でセンター試験の過去問で7~8割は狙えます。直前期でどうしても時間が無いという方はこの参考書にかけてみてもいいと思います。私の勉強法を紹介しま … センター試験での良問の蓄積を 活かして問題を作成すると 公言しています。 つまり、地理に限って言えば 従来通りの対策を行えば 大きくコケることはないでしょう。 サクッと8割に到達する地理勉強法 先述した通り 地理では知識の活用が センター古文を今から8割～満点取る読み方！【完全版】数学の勉強法！0から東大・京大レベルまでの参考書ルートを大公開！ ※より詳しく書いた記事はこちら。【2017年版】0からセンター地理を3ヶ月で8割まで伸ばす勉強法の5つの手順！（画像をクリックするとリンクに飛びます）センター地理のオススメ参考書6冊を、ランキング形式で大公開！ ＝＝＝以下本文＝＝＝どうも、sinです。  センター英語9割を目指して勉強を進め、安定していつでも9割をとれるようになれたら、「京大英語」のスタートラインに立てます。 それぐらいの基準を持って勉強を続けていってほしいと思います。 2.京大英語8割突破するための勉強法とオススメの参考書. 1 センター数学で8割は暗記で簡単だ！ 2 数学は暗記科目と同じ！？ 3 なぜ、暗記をしておかないとセンター数学で8割取れないのか？ 4 センター数学に青チャートは必要か？ 5 センター数学で8割を狙うための、オススメ参考書・問題集！ センター8割切っても京大受かったんだけど質問ある？ 60コメント ; 16KB; 全部; 1-100; 最新50; ★スマホ版★; 掲示板に戻る ★ULA版★; このスレッドは過去ログ倉庫に格納されています. 「センター7割とったらどこ行けるの？？」 国公立 理系学部編です！！これらは自分が本番どれだけ取れたかによって 志望校を組みてていく際にやはり、必要になってくる知識です。 7割だったらどこにいけるんだろう？ 1 名無しなのに合格 2018/01/16(火) 19:43:19.29 ID:Ka2psZmC.  センター数学は高校までの数学の教科書レベルの内容がしっかり身についていて正確に素早く解けるようになっていることを要求しています。だから8割取れないのは本当は甘えなんですよ！！（ごめんなさい。調子に乗りました。 <br>";s:7:"keyword";s:24:"京大 センター 8割";s:5:"links";s:7434:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=windows7-%E3%82%BF%E3%82%B9%E3%82%AF%E3%82%B9%E3%82%B1%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%A9-%E3%83%90%E3%83%83%E3%83%81%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB'>Windows7 タスクスケジューラ バッチファイル</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B7%E3%82%A8%E3%83%B3%E3%82%BF-%E5%BE%8C%E9%83%A8%E5%BA%A7%E5%B8%AD-%E6%9A%91%E3%81%84'>シエンタ 後部座席 暑い</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%90%E3%82%B9%E3%82%B1-%E3%82%AF%E3%83%A9%E3%83%96%E3%83%81%E3%83%BC%E3%83%A0-%E5%A4%A7%E4%BC%9A'>バスケ クラブチーム 大会</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A4%A7%E5%AD%A6%E7%94%9F-%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3-%E4%BF%9D%E8%A8%BC'>大学生 パソコン 保証</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%BB%E3%83%96%E3%83%B3%E3%82%A4%E3%83%AC%E3%83%96%E3%83%B3-d%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88-%E6%89%95%E3%81%84'>セブンイレブン Dポイント 払い</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%91%8A%E8%A8%B4%E7%8A%B6-%E6%9B%B8%E3%81%8D%E6%96%B9-%E7%AA%83%E7%9B%97'>告訴状 書き方 窃盗</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A4%A7%E8%85%B8%E7%99%8C-%E8%85%B9%E6%B0%B4-%E3%83%96%E3%83%AD%E3%82%B0'>大腸癌 腹水 ブログ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Xperia-%E3%82%B9%E3%83%9D%E3%83%83%E3%83%88-%E3%83%A9%E3%82%A4%E3%83%88'>Xperia スポット ライト</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%8C%BB%E7%99%82%E4%BA%8B%E5%8B%99-%E6%B1%82%E4%BA%BA-%E7%A5%9E%E6%88%B8'>医療事務 求人 神戸</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%B1%A0%E8%A2%8B-%E5%8A%87%E5%A0%B4-%E3%82%BF%E3%82%A4%E3%83%AB'>池袋 劇場 タイル</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%B5%84%E5%8C%96%E6%A7%BD-%E3%82%A8%E3%82%A2%E3%83%BC%E3%83%9D%E3%83%B3%E3%83%97-%E3%81%86%E3%82%8B%E3%81%95%E3%81%84'>浄化槽 エアーポンプ うるさい</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%8F%E3%83%B3%E3%82%B0%E3%82%A2%E3%82%A6%E3%83%88-%E3%82%AB%E3%83%A1%E3%83%A9-%E5%88%87%E3%82%8A%E6%9B%BF%E3%81%88'>ハングアウト カメラ 切り替え</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=t%E3%82%B7%E3%83%A3%E3%83%84-%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%E3%82%B5%E3%82%A4%E3%82%BA-%E3%83%80%E3%82%B5%E3%81%84'>Tシャツ オーバーサイズ ダサい</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%AB%E3%83%96%E3%82%BF%E3%83%B3-%E3%83%A1%E3%83%B3%E3%82%BA-%E3%82%BB%E3%83%BC%E3%83%AB'>ルブタン メンズ セール</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9-%E5%B7%A5%E4%BD%9C-%E5%A4%A7%E4%BA%BA'>クリスマス 工作 大人</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BC%8A%E8%B1%86%E6%A0%84-%E4%B8%8D%E5%BF%8D%E4%BA%AD-%E3%83%A1%E3%83%8B%E3%83%A5%E3%83%BC'>伊豆栄 不忍亭 メニュー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%B5%A4%E3%81%A1%E3%82%83%E3%82%93-%E5%B8%BD%E5%AD%90%E3%82%AF%E3%83%AA%E3%83%83%E3%83%97-100%E5%9D%87'>赤ちゃん 帽子クリップ 100均</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%B0%8F%E6%9D%BE%E8%8F%9C-%E3%81%97%E3%82%89%E3%81%99-%E3%83%81%E3%83%A3%E3%83%BC%E3%83%8F%E3%83%B3-%E5%B9%BC%E5%85%90%E9%A3%9F'>小松菜 しらす チャーハン 幼児食</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BA%80%E5%B2%A1-%E5%9C%B0%E9%9C%87-%E6%96%AD%E5%B1%A4'>亀岡 地震 断層</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%86%E3%83%86-%E5%82%B7%E3%81%A4%E3%81%8D-%E3%82%84%E3%81%99%E3%81%84'>テテ 傷つき やすい</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AF%E3%83%AA%E3%83%83%E3%83%97-%E3%82%A2%E3%83%BC%E3%83%88-%E5%86%AC'>クリップ アート 冬</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A4%E3%83%A9%E3%83%AC-%E6%9B%B8%E3%81%8D%E5%87%BA%E3%81%97-%E6%96%87%E5%AD%97-%E3%81%BC%E3%82%84%E3%81%91%E3%82%8B'>イラレ 書き出し 文字 ぼやける</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%84%A1%E5%A4%89%E6%8F%9B%E3%82%AD%E3%83%BC-%E5%89%B2%E3%82%8A%E5%BD%93%E3%81%A6-windows10'>無変換キー 割り当て Windows10</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Edge-%E5%8F%B3%E3%82%AF%E3%83%AA%E3%83%83%E3%82%AF-%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%9E%E3%82%A4%E3%82%BA'>Edge 右クリック カスタマイズ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BA%AC%E6%A9%8B-%E3%81%8B-%E3%81%AB-%E9%8D%8B'>京橋 か に 鍋</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AB%E3%83%96-%E3%82%A8%E3%83%B3%E3%82%B9%E3%83%88-%E3%81%8B%E3%81%8B%E3%82%89%E3%81%AA%E3%81%84'>カブ エンスト かからない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=18k-%E3%83%94%E3%82%A2%E3%82%B9-%E5%AE%89%E3%81%84'>18k ピアス 安い</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%AD%90%E5%AE%AE-%E7%97%9B%E3%81%BF-%E3%83%81%E3%82%AF%E3%83%81%E3%82%AF-%E5%B7%A6'>子宮 痛み チクチク 左</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%B1%8A%E6%A9%8B-%E8%B1%8A%E5%B7%9D-%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%AF%E3%83%BC%E3%82%AF-%E4%BB%95%E4%BA%8B-%E6%8E%A2%E3%81%97'>豊橋 豊川 ハローワーク 仕事 探し</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A1%A9-%E5%94%90-%E6%8F%9A%E3%81%92-%E5%B0%8F%E9%BA%A6%E7%B2%89'>塩 唐 揚げ 小麦粉</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%B2%B3%E5%90%88%E5%A1%BE-%E5%8C%BB%E9%80%B2%E9%A4%A8-%E5%85%A5%E5%A1%BE-%E3%83%86%E3%82%B9%E3%83%88'>河合塾 医進館 入塾 テスト</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%8A%80%E8%83%BD%E5%AE%9F%E7%BF%92%E7%94%9F-%E5%A4%B1%E8%B8%AA-%E3%83%9A%E3%83%8A%E3%83%AB%E3%83%86%E3%82%A3'>技能実習生 失踪 ペナルティ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Let%27s-Encrypt-%E3%82%AA%E3%83%AC%E3%82%AA%E3%83%AC%E8%A8%BC%E6%98%8E%E6%9B%B8'>Let's Encrypt オレオレ証明書</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%84%9B-%E7%92%B0-%E6%99%82%E5%88%BB%E8%A1%A8-%E6%96%B0%E8%B1%8A%E7%94%B0'>愛 環 時刻表 新豊田</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=iPhone-XR-wi--Fi-%E7%B9%8B%E3%81%8C%E3%82%89%E3%81%AA%E3%81%84'>IPhone XR Wi -Fi 繋がらない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=mac-%E3%82%A2%E3%82%AF%E3%83%86%E3%82%A3%E3%83%93%E3%83%86%E3%82%A3%E3%83%A2%E3%83%8B%E3%82%BF-%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC'>Mac アクティビティモニタ エネルギー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AA%E3%83%AA%E3%83%BC%E3%83%96%E3%82%AA%E3%82%A4%E3%83%AB-%E9%B7%B9%E3%81%AE%E7%88%AA-%E3%81%AB%E3%82%93%E3%81%AB%E3%81%8F'>オリーブオイル 鷹の爪 にんにく</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%9F%B3%E5%9E%A3%E5%B3%B6-%E3%82%84%E3%81%BE%E3%82%82%E3%81%A8-%E3%82%B3%E3%83%AD%E3%83%8A'>石垣島 やまもと コロナ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%8F%E3%83%8E%E3%82%A4-%E6%99%82%E9%96%93-%E9%A3%9B%E8%A1%8C%E6%A9%9F'>ハノイ 時間 飛行機</a>,
+";s:7:"expired";i:-1;}

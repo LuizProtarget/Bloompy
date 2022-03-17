@@ -1,0 +1,66 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:7536:"<br>クリップスタジオの使い方を、初心者に分かりやすく説明します。ダウンロードや起動方法、基本的な画面の見方、キャンバスや操作画面などの設定やツールをご紹介しています。これを読めば、クリップスタジオの使い方がよくわかります。見方が分かればとても使いやすいです。 イラスト・マンガの作品制作に役立つ講座を公開中。はじめてデジタルで描く方のための初心者向け講座から、clip studio paintなどのソフトの便利な使い方、プロのクリエイターのメイキングなど、上達にあわせて学べます。 ブラシ素材の使い方と素材置き場をツールパレットに作る方法～clip studio～ Macの場合 ドラッグ＆ドロップで追加する場合は、クリスタ画面で隠れない位置に先にフォルダを開いてからサブツールパレットが消える前にドラッグします。 他のサイトではない視点で、ipad版（ios版）CLIP STUDIOを導入して、大好きになるために最初にやるべき4つの設定を解説します！これさえすればクリスタがスムーズに始められます！！ 初心者にオススメの本や素材・ブラシもわかりやすく説明します！ 使用したい素材をサブツールパレットへドラッグ＆ドロップで移動します。 ブラシツール以外の素材についてはこちら。 クリスタでダウンロードした素材の種類別の使い方〜clip studio〜 ドラッグ＆ドロップで移動する方法. clip studio paint(略クリスタ)で使える最強のブラシをご存知ですか？素材やテクスチャ、油彩や水彩等の塗り用に様々な種類・特徴のものが配布されています。本記事はclip studio paint(略クリスタ)で使える最強のブラシをご紹介します。 iPad用お絵かきアプリ「Procreate（プロクリエイト）」をご紹介します。↓歪んだ線を補正してくれる機能（QuickShape）などがある、とても便利なお絵描きアプリです。※この記事は、自分の備忘録としても記載しているので、項目が多い  3％がぎりぎりくらい。他のブラシを普通のサイズで使っているときは気にならないのですが線画を描く際などに気になりました。 2017年11月8日追記。 いよいよiPadアプリ版のクリスタが登場しました！！ただし月額制 ‎「CLIP STUDIO PAINT for iPad」のレビューをチェック、カスタマー評価を比較、スクリーンショットと詳細情報を確認することができます。「CLIP STUDIO PAINT for iPad」をダウンロードしてiPhone、iPad、iPod touchでお楽しみください。 イラスト・マンガ制作に役立つトーン、ブラシ、3dデータなどの素材をダウンロードしたり、自作の素材をアップロードしたりできます。clip studio paintなどのグラフィックソフトに読み込んで使えます。 他のサイトではない視点で、ipad版（ios版）CLIP STUDIOを導入して、大好きになるために最初にやるべき4つの設定を解説します！これさえすればクリスタがスムーズに始められます！！ 初心者にオススメの本や素材・ブラシもわかりやすく説明します！ クリスタには有料無料問わず様々な「素材」と呼ばれるものがあります。素材のダウンロード方法と使い方について、パソコン・iPad Proそれぞれで詳しくまとめます。 クリスタの買い方は全部で4つ。ダウンロード版・パッケージ版・バリュー版・サブスクリプション型です。本記事では各クリスタの購入方法を詳しく紹介しています。一番お得なのはダウンロード版です。それでは見ていきましょう！ イラスト・マンガ制作に役立つトーン、ブラシ、3dデータなどの素材をダウンロードしたり、自作の素材をアップロードしたりできます。clip studio paintなどのグラフィックソフトに読み込んで使えます。 3.CLIP STUDIO ASSETSからブラシをダウンロードする "【iPad】描きやすいブラシを見つける・調整する #3" by ClipStudioOfficial - CLIP STUDIO PAINTのペン・ブラシは、初期状態で収録されているものがありますが、どんなブラシが自分に合っているのか、まずは他の人が作ったツール設定を使ってみる … dlした素材の使い方（ブラシの設定） お世話になっております。 クリスタ体験版をDLして色々いじっているところなのですが、虎の巻やよくある質問、ヘルプなどを検索しても理解ができなかったためこちらで質問させていただきます。  クリスタは定番のお絵描きソフトであり、PC版が主流です。現在ではiPadでの利用も可能となり、魅力的な特長を多数兼ね備えています。iPad版のクリスタの特徴を細部まで知り、タブレットを使ったイラスト制作を楽しみましょう。 シリーズ "【iPad】描きやすいブラシを見つける・調整する" by ClipStudioOfficial のTIPS一覧 iPad版のCLIP STUDIO PAINTでペンやブラシなどの描画するための道具(ツール)を使用する方法を紹介します。また、自分に合うペン・ブラシの探し方、設定の調整方法なども合わせて解説します。 イラストソフトclip studio（クリップスタジオ）の使い方を解説します！クリスタは絵師御用達のイラスト用ソフト！起動、キャンバス表示、ツール配置、ペン設定、レイヤー操作、絵の出力まで説明します！ デジタルで絵を描くペイントソフトの大きなシェアを握る「クリスタ(CLIP STUDIO PAINT)」、2019年末には新たにiPhone版アプリのクリスタも登場しました。使い心地は？おすすめな人や、メリットデメリットは？実際に使用した感想も交え、詳しくレビューします！ ‎「CLIP STUDIO PAINT for iPad」のレビューをチェック、カスタマー評価を比較、スクリーンショットと詳細情報を確認することができます。「CLIP STUDIO PAINT for iPad」をダウンロードしてiPhone、iPad、iPod touchでお楽しみください。 マンガ制作ソフトで有名なクリスタ(clip studio paint)では、フリーフォントを使うことができます。クリスタのシリアルナンバーを入力してフォントをダウンロードする方法や、フリーフォントの追加方法、エラーが出た時の対処法について解説します。 クリスタは定番のお絵描きソフトであり、PC版が主流です。現在ではiPadでの利用も可能となり、魅力的な特長を多数兼ね備えています。iPad版のクリスタの特徴を細部まで知り、タブレットを使ったイラスト制作を楽しみましょう。 3％がぎりぎりくらい。他のブラシを普通のサイズで使っているときは気にならないのですが線画を描く際などに気になりました。 2017年11月8日追記。 いよいよiPadアプリ版のクリスタが登場しました！！ただし月額制 <br>";s:7:"keyword";s:56:"クリスタ ダウンロード ブラシ 使い方 iPad";s:5:"links";s:5786:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%A1%E3%83%AB%E3%82%AB%E3%83%AA-%E6%A8%AA%E5%8F%96%E3%82%8A-%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8'>メルカリ 横取り メッセージ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9C%E3%83%BC%E3%82%A4%E3%83%B3%E3%82%B0777-300-%E5%BA%A7%E5%B8%AD-JAL'>ボーイング777 300 座席 JAL</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%8A%E5%B9%B4%E7%8E%89-%E5%88%87%E6%89%8B%E3%82%B7%E3%83%BC%E3%83%88-%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB'>お年玉 切手シート ファイル</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A4%A7%E9%98%AA-%E5%81%A5%E5%BA%B7%E8%A8%BA%E6%96%AD-%E5%9C%9F%E6%9B%9C%E6%97%A5'>大阪 健康診断 土曜日</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%8D%83%E8%91%89-%E5%8F%97%E4%BB%98%E6%B1%82%E4%BA%BA-%E6%AD%A3%E7%A4%BE%E5%93%A1'>千葉 受付求人 正社員</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%BB%8A%E8%BC%89%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC-%E3%81%8A%E3%81%99%E3%81%99%E3%82%81-2019'>車載ホルダー おすすめ 2019</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%90%E3%82%B9%E3%83%88%E3%83%BC%E3%83%88%E3%83%90%E3%83%83%E3%82%B0-2way-amazon'>キャンバストートバッグ 2way Amazon</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%8A%E6%B0%97%E3%81%AB%E5%85%A5%E3%82%8A-%E6%B6%88%E3%81%88%E3%81%9F-windows10'>お気に入り 消えた Windows10</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%A9%E3%82%A4%E3%83%96-%E4%B8%BB%E5%82%AC-%E4%BC%9A%E7%A4%BE'>ライブ 主催 会社</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%86%E3%83%AC%E3%83%93%E6%9D%B1%E4%BA%AC-you%E3%81%AF%E4%BD%95%E3%81%97%E3%81%AB%E6%97%A5%E6%9C%AC%E3%81%B8-%E8%A6%96%E8%81%B4%E7%8E%87'>テレビ東京 Youは何しに日本へ 視聴率</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%A2%E3%83%B3%E3%82%B5%E3%83%B3%E3%83%9F%E3%83%83%E3%82%B7%E3%82%A7%E3%83%AB-%E3%83%9B%E3%83%86%E3%83%AB-%E3%83%96%E3%83%AD%E3%82%B0'>モンサンミッシェル ホテル ブログ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8B%E3%83%A7%E3%83%BC%E3%83%AD-%E3%82%B3%E3%83%B3%E3%83%9D-%E3%82%B0%E3%83%AC%E3%83%BC%E3%83%89'>カンパニョーロ コンポ グレード</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%82%E3%82%84%E3%81%97-%E5%A4%A7%E6%A0%B9-%E3%82%B9%E3%83%BC%E3%83%97'>もやし 大根 スープ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=A3-%E3%83%8E%E3%83%BC%E3%83%88-%E3%81%8A%E3%81%99%E3%81%99%E3%82%81'>A3 ノート おすすめ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%AB%98%E6%A0%A1%E5%85%A5%E8%A9%A6-%E8%8B%B1%E7%86%9F%E8%AA%9E-%E3%81%8A%E3%81%99%E3%81%99%E3%82%81'>高校入試 英熟語 おすすめ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A2%E3%83%97%E3%83%AA-%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89%E6%95%B0-%E3%83%AA%E3%82%BB%E3%83%9E%E3%83%A9'>アプリ ダウンロード数 リセマラ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%9B%BB%E8%BB%8A-%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88-%E6%AD%A3%E9%9D%A2'>電車 イラスト 正面</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%8D%8A%E5%88%86%E9%9D%92%E3%81%84-%E5%86%8D%E6%94%BE%E9%80%81-2020'>半分青い 再放送 2020</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%A4%E3%82%B5%E3%82%AB-%E3%82%BF%E3%82%AF%E3%82%B7%E3%83%BC-%E8%B2%B8%E5%88%87'>ヤサカ タクシー 貸切</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%9B%BD%E5%A3%AB%E8%88%98%E5%A4%A7%E5%AD%A6-%E5%A4%9A%E6%91%A9%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%91%E3%82%B9-%E9%A7%90%E8%BB%8A%E5%A0%B4'>国士舘大学 多摩キャンパス 駐車場</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Windows-Server-2016-%E5%85%B1%E6%9C%89%E3%83%95%E3%82%A9%E3%83%AB%E3%83%80-%E3%83%91%E3%82%B9%E3%83%AF%E3%83%BC%E3%83%89%E3%81%AA%E3%81%97'>Windows Server 2016 共有フォルダ パスワードなし</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%B1%A0%E8%A2%8B-%E4%B8%80%E8%BC%AA-%E9%96%89%E5%BA%97'>池袋 一輪 閉店</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%B1%A5%E6%AD%B4%E6%9B%B8-%E5%B8%8C%E6%9C%9B%E8%81%B7%E7%A8%AE-%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC'>履歴書 希望職種 スーパー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%A1%E3%82%93%E3%81%99%E3%81%93%E3%81%86-%E3%83%A9%E3%83%BC%E3%83%89-%E4%BB%A3%E7%94%A8'>ちんすこう ラード 代用</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%BE%9B%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3-%E5%8D%B5-%E3%83%8D%E3%82%AE'>辛ラーメン 卵 ネギ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%90%E3%83%B3%E3%82%B3%E3%82%AF-%E3%82%B4%E3%83%A4%E3%83%BC%E3%83%AB-%E3%82%B3%E3%83%94%E3%83%BC'>バンコク ゴヤール コピー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%81%E3%82%BF%E3%83%B3-%E3%82%BF%E3%83%B3%E3%83%96%E3%83%A9%E3%83%BC-%E8%93%8B%E4%BB%98%E3%81%8D'>チタン タンブラー 蓋付き</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Ubuntu-JavaScript-%E9%96%8B%E7%99%BA%E7%92%B0%E5%A2%83'>Ubuntu JavaScript 開発環境</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%A9%E3%83%A0%E3%83%BC-%E5%A4%A7%E6%9D%B1-%E6%96%B0-%E7%94%B0-%E3%83%81%E3%83%A9%E3%82%B7'>ラムー 大東 新 田 チラシ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%8A%E8%85%B9-%E3%82%AC%E3%82%B9%E6%8A%9C%E3%81%8D-%E8%96%AC'>お腹 ガス抜き 薬</a>,
+";s:7:"expired";i:-1;}

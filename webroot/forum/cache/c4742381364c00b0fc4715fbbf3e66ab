@@ -1,0 +1,71 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:2231:"<p>異動届出書（PDF/358KB） （注）添付書類が不要ですので、e-Taxでの提出が便利です。 [提出先] 異動前の納税地の所轄税務署長（税務署の所在地については、国税庁ホームページの「組織（国税局・税務署等）」の「税務署の所在地などを知りたい方」をご覧下さい。 消費税異動届出書（pdfファイル/106kb） [提出先] 納税地を所轄する税務署長（税務署の所在地については、国税庁ホームページの「組織（国税局・税務署等）」の「税務署の所在地などを知りたい方」をご覧下さい。 ）に提出してください。 </p> <p>消費税関係.  消費税課税期間特例選択不適用届出書(第14号様式) 課税期間の特例の適用をやめようとするとき(注5) 適用をやめようとする課税期間の初日の前日まで(注6) 消費税の新設法人に該当する旨の届出書(第10-(2)号様式) 消費税の新設法人に該当することとなったとき 国税庁e-Taxホームページは2019年9月17日、法人に関する届出がe-Taxソフト（WEB版）から可能になったことを発表しました。この点に関する実務の影響もあわせてお伝えします。説明のポイント e-Taxソフト（WEB版）で、法人に関 確定申告書・添付書類（消費税及び地方消費税） 消費税及び地方消費税の確定申告書の書き方; 消費税のあらまし; 非営利法人. 西宮市より大阪・兵庫を中心に展開している税理士事務所です。消費税の届出判定の確認方法について掲載しております。消費税に関する届出及び変更に関して、事業年度開始の前日までに行い、手続きを … 異動届出書といって設立届出書以外にも届出書の提出が必要なときがあります。 事業を継続していると法人でも個人であっても税務署に届出が必要なケースがあります。 期限があるものはちゃんと提出しないと余計な税金を払うようなことにもなりかねません。 認定npo法人制度; 一般的な税の取扱いを調べる. </p>";s:7:"keyword";s:42:"異動届 法人税 消費税 チェック";s:5:"links";s:6490:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Xperia-Z2-Tablet-LCD'>Xperia Z2 Tablet LCD</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Windows10-%E3%82%A8%E3%82%AF%E3%82%BB%E3%83%AB-%E7%84%A1%E6%96%99'>Windows10 エクセル 無料</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%AF%92%E3%81%84%E3%81%AE-%E5%AB%8C%E3%81%84-%E9%9F%93%E5%9B%BD%E8%AA%9E'>寒いの 嫌い 韓国語</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Vektron-S10-%E3%83%A8%E3%83%89%E3%83%90%E3%82%B7'>Vektron S10 ヨドバシ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%99%AE%E6%AE%B5-%E4%BD%BF%E3%81%86-%E6%BC%A2%E5%AD%97'>普段 使う 漢字</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%A2%E3%83%8E-%E3%83%9E%E3%83%83%E3%82%AF%E3%82%B9-8%E6%9C%88%E5%8F%B7-%E4%BB%98%E9%8C%B2'>モノ マックス 8月号 付録</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%97%E3%83%AD%E3%83%9A%E3%83%A9%E6%A9%9F-%E9%AB%98%E5%BA%A6-%E9%99%90%E7%95%8C'>プロペラ機 高度 限界</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AB%E3%83%AB%E3%82%AB%E3%83%83%E3%82%BF-%E3%82%B3%E3%83%B3%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88-BFS-%E3%83%9E%E3%82%B0%E3%83%8D%E3%83%83%E3%83%88-%E8%BF%BD%E5%8A%A0'>カルカッタ コンクエスト BFS マグネット 追加</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=uber-%E3%83%81%E3%83%83%E3%83%97-%E6%89%95%E3%82%8F%E3%81%AA%E3%81%84'>Uber チップ 払わない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%9F%93%E5%9B%BD%E3%81%A7-%E3%83%A9%E3%82%A4%E3%83%B3-%E4%BD%BF%E3%81%88%E3%82%8B'>韓国で ライン 使える</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%B6%8F%E3%81%A4%E3%81%8F%E3%81%AD-%E7%85%A7%E3%82%8A%E7%84%BC%E3%81%8D-%E3%83%AC%E3%82%B7%E3%83%94'>鶏つくね 照り焼き レシピ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A2%E3%82%B8-%E9%96%8B%E3%81%8D-%E3%83%A0%E3%83%8B%E3%82%A8%E3%83%AB'>アジ 開き ムニエル</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=1%E6%AD%B3-%E3%81%BE%E3%81%90%E3%82%8D-%E7%AB%9C%E7%94%B0%E6%8F%9A%E3%81%92'>1歳 まぐろ 竜田揚げ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%8D%83%E8%91%89%E5%B8%82-%E5%9B%BD%E6%B0%91%E5%B9%B4%E9%87%91-%E4%BF%9D%E9%99%BA%E6%96%99'>千葉市 国民年金 保険料</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%B9%B4%E8%B3%80%E7%8A%B6-%E6%A7%8B%E5%9B%B3-%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88'>年賀状 構図 イラスト</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A4%A7%E9%82%B1-%E7%BE%8E%E4%BA%BA-%E5%BA%8A%E5%B1%8B'>大邱 美人 床屋</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%88%E3%83%9E%E3%83%88%E3%82%BD%E3%83%BC%E3%82%B9-%E4%BD%9C%E3%82%8A%E7%BD%AE%E3%81%8D-%E5%86%B7%E5%87%8D'>トマトソース 作り置き 冷凍</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%87%BA%E7%94%BA%E6%9F%B3-%E9%A7%85-%E3%81%8A%E5%9C%9F%E7%94%A3'>出町柳 駅 お土産</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%BB%E3%83%B3%E3%83%A0%E3%83%AB-%E5%BA%97%E8%88%97-%E6%9D%B1%E4%BA%AC'>ジョンセンムル 店舗 東京</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B8%89%E4%BA%95-%E4%B8%8D%E5%8B%95%E7%94%A3-%E3%83%AA%E3%82%A2%E3%83%AB-%E3%83%86%E3%82%A3-%E6%B5%B7%E5%A4%96-%E4%B8%8D%E5%8B%95%E7%94%A3'>三井 不動産 リアル ティ 海外 不動産</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=origin-%E3%82%AF%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%88-%E5%86%8D%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB'>Origin クライアント 再インストール</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Xperia-Wi-Fi-%E5%BC%B1%E3%81%84'>Xperia Wi-Fi 弱い</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%87%E3%82%A3%E3%82%A2-%E3%82%A6%E3%82%A7%E3%83%AB%E3%82%BA-%E3%82%A8%E3%83%AA%E3%82%B6%E3%83%99%E3%82%B9-%E3%82%B7%E3%83%A5%E3%83%BC'>クラウディア ウェルズ エリザベス シュー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B9%9D%E5%B7%9E%E5%A4%A7%E5%AD%A6-%E6%8E%88%E6%A5%AD%E6%96%99%E5%85%8D%E9%99%A4-web%E5%85%A5%E5%8A%9B'>九州大学 授業料免除 Web入力</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%8A%E3%82%B5%E3%82%A4%E3%83%95%E3%82%B1%E3%83%BC%E3%82%BF%E3%82%A4-edy-%E7%95%AA%E5%8F%B7-%E5%A4%89%E6%9B%B4'>おサイフケータイ Edy 番号 変更</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%97%E3%83%83%E3%83%81%E3%83%B3%E3%83%97%E3%83%AA%E3%83%B3-%E3%81%AE-%E3%82%AB%E3%83%A9%E3%83%A1%E3%83%AB%E3%82%BD%E3%83%BC%E3%82%B9%E3%81%AE-%E4%BD%9C%E3%82%8A%E6%96%B9'>プッチンプリン の カラメルソースの 作り方</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%A4%E3%81%8F%E3%81%AD-%E3%81%9F%E3%82%8C-%E3%83%9D%E3%83%B3%E9%85%A2'>つくね たれ ポン酢</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%B5%A6%E5%AE%89%E5%B8%82-%E9%81%BF%E9%9B%A3-%E7%8A%B6%E6%B3%81'>浦安市 避難 状況</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A6%8A%E5%A9%A6-%E4%BB%95%E4%BA%8B-%E3%82%B9%E3%83%88%E3%83%AC%E3%82%B9-%E8%A8%BA%E6%96%AD%E6%9B%B8'>妊婦 仕事 ストレス 診断書</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%80%E3%83%83%E3%83%81%E3%82%AA%E3%83%BC%E3%83%96%E3%83%B3-%E4%B8%B8%E9%B6%8F-%E7%B1%B3'>ダッチオーブン 丸鶏 米</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=au-wimax-%E6%A9%9F%E7%A8%AE%E5%A4%89%E6%9B%B4'>Au Wimax 機種変更</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%9F%E3%81%8B%E3%81%AF%E3%81%97%E5%BD%A2%E6%88%90%E5%A4%96%E7%A7%91-%E3%82%B7%E3%83%9F%E5%8F%96%E3%82%8A%E6%94%BE%E9%A1%8C-%E5%8F%A3%E3%82%B3%E3%83%9F'>たかはし形成外科 シミ取り放題 口コミ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B8%AD%E5%9B%BD-%E8%8A%B8%E8%83%BD%E4%BA%BA-%E6%AD%BB%E5%88%91'>中国 芸能人 死刑</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B8%B8%E9%A6%96-V%E3%83%8D%E3%83%83%E3%82%AF-%E3%81%8A%E7%9B%B4%E3%81%97'>丸首 Vネック お直し</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BA%BA%E5%8F%82-%E3%81%8A%E3%81%8B%E3%81%9A-%E5%AD%90%E4%BE%9B'>人参 おかず 子供</a>,
+";s:7:"expired";i:-1;}

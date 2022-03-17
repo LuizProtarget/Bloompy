@@ -1,0 +1,74 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:2825:"定常的に微小地震活動が活発な地域のひとつである。 (片尾，2002) この地域には亀岡断層，三峠断層， 花折断層など多くの活断層が存在するが，微小地震 は特定の活断層に沿って線上に分布するのではなく、 小さなクラスターを形成しつつ比較的広範囲に面的 主要活断層一覧表 この1週間で、国内で観測された地震回数は前週よりも少なくなっています。京都では26日(土)夜に連続で地震が発生。断層に挟まれた京都盆地は地震リスクの高いエリアで、今後も要注意です。（10月21～26日の集計）  キーワード: 亀岡断層帯, 亀岡盆地, 伏在活断層, 反射法地震探査, 最新活動時期, 平均変位速度 ジャーナル フリー 2005 年 2005 巻 25 号 p. 93-108 起震断層は 三木(1979) 亀岡断層あるいは神吉・越畑断層 宇佐見ほか(1994) 亀岡盆地北東部 松田(1990) 京都西山断層群、三峠断層群 地震で、周辺には東西方向に延びる有馬―高槻断層帯、および南北方向に延びる生駒断 層帯と上町断層帯などが存在している。 その後7月10日16時までに発生した最大の地震は、6月19日に発生した m4.1の地 震で、最大震度4を観測した。 <br> <br>宇佐美は、震央を京都府 亀岡市付近と推定し、地震規模はm6.5±0.2とした 。 また被害状況は、1662年寛文近江・若狭地震と似ているとしている 。. 概要.  <br>このページの一覧表と位置図は地震調査研究推進本部（文部科学省に設置された政府の機関）によって公表された資料を基に編集したものです。 詳しくは地震調査研究推進本部のこちらのページへ. 断層，中山断層は右横ずれ活断層です．このうち郷 村断層は，1927年（昭和2年）北丹後地震（マグニチ ュード7.3） の震源となった活断層として有名で，この 断層に沿って最大3m以上もの左横ずれが生じました （岡田・松田, 1997）．この地震の際には，約3,000名 28日04時09分ころ、地震がありました。 震源地は、釧路沖（北緯42．5度、東経145．1度）で、震源の深さは約50km、地震の規模（マグニチュード）は3．5と推定されます。 この地震による津波の心配は … 今後30年の間に地震が発生する確率は、 南東部では高いグループになっています。 このほか、小野市に影響を及ぼす活断層 として、加東市三草から篠山市古市にかけ てある御所谷断層、御所谷断層の南に並行 する大谷断層、加西市青野町から加東市河 京都府の主要活断層帯. <br>";s:7:"keyword";s:20:"亀岡 地震 断層";s:5:"links";s:7252:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=1%E6%AD%B3-%E8%AA%95%E7%94%9F%E6%97%A5%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88-%E7%84%A1%E6%96%99'>1歳 誕生日イラスト 無料</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B9%E3%83%9E%E3%83%9B-100%25%E3%81%AB-%E3%81%AA%E3%82%89%E3%81%AA%E3%81%84'>スマホ 100%に ならない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%8B%B1%E8%AA%9E-%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3-%E6%95%99%E6%9D%90-%E5%B0%8F%E5%AD%A6%E7%94%9F'>英語 オンライン 教材 小学生</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%BF%91%E7%95%BF%E5%A4%A7%E5%AD%A6-%E9%81%8E%E5%8E%BB%E5%95%8F-%E6%9D%B1%E9%80%B2'>近畿大学 過去問 東進</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%A5%AD%E5%8B%99%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC-%E3%83%A9%E3%83%BC%E3%83%89-900g'>業務スーパー ラード 900g</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B8%8D%E5%A6%8A-%E5%8F%8B%E4%BA%BA-%E5%A6%8A%E5%A8%A0%E5%A0%B1%E5%91%8A'>不妊 友人 妊娠報告</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%AB%98%E5%B3%B6%E5%B1%8B-%E4%B8%80-%E7%95%AA%E9%A4%A8'>高島屋 一 番館</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%8B%E3%83%99%E3%82%A2-Q10-%E3%83%A1%E3%83%B3%E3%82%BA'>ニベア Q10 メンズ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF-%E3%83%97%E3%83%AA%E3%83%9A%E3%82%A4%E3%83%89-%E3%82%B9%E3%83%9E%E3%83%9B-%E6%A9%9F%E7%A8%AE%E5%A4%89%E6%9B%B4'>ソフトバンク プリペイド スマホ 機種変更</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=canon-eos-kiss-%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%90%E3%83%AB%E6%92%AE%E5%BD%B1'>Canon Eos Kiss インターバル撮影</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Luna-display-beta'>Luna Display Beta</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A6%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B0%E3%83%9D%E3%82%B9%E3%83%88-9-2020-%E5%88%9D%E6%9C%9F-%E7%B9%81%E6%AE%96-%E7%89%9D%E9%A6%AC'>ウイニングポスト 9 2020 初期 繁殖 牝馬</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%87%8D%E6%9B%B9-%E3%83%91%E3%83%B3-%E8%8B%A6%E3%81%84'>重曹 パン 苦い</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%B5%A4%E8%A5%BF%E4%BB%81-%E3%83%8F%E3%83%AF%E3%82%A4-%E8%B1%AA%E9%82%B8'>赤西仁 ハワイ 豪邸</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%BC%E3%83%A9%E3%83%81%E3%83%B3-5g-%E5%9B%BA%E3%81%BE%E3%82%8B%E9%87%8F'>ゼラチン 5g 固まる量</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%BA%90%E6%B3%89%E5%BE%B4%E5%8F%8E%E7%A5%A8-%E9%80%80%E8%81%B7%E6%97%A5-%E8%A8%98%E8%BC%89%E3%81%AA%E3%81%97'>源泉徴収票 退職日 記載なし</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%B7%A5%E5%AD%A6%E9%83%A8-%E5%B0%B1%E6%B4%BB-%E6%A5%BD'>工学部 就活 楽</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%89%84%E5%88%86-%E3%82%B5%E3%83%97%E3%83%AA-%E9%A3%B2%E3%81%BF%E5%90%88%E3%82%8F%E3%81%9B'>鉄分 サプリ 飲み合わせ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%8E%E3%83%BC%E3%82%AB%E3%83%A9%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%84-%E4%BC%BC%E5%90%88%E3%81%86-%E4%BA%BA'>ノーカラーシャツ 似合う 人</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%96-ja10-%E4%B8%8D%E8%A9%95'>スーパーカブ Ja10 不評</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%99%8C-%E7%A8%AE%E9%A1%9E-%E7%8F%8D%E3%81%97%E3%81%84'>癌 種類 珍しい</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%8C%97%E6%B5%B7%E9%81%93%E3%82%B7%E3%83%B3%E3%83%88%E3%82%AF%E7%94%BA-%E5%A1%9A%E7%94%B0%E8%BE%B2%E5%A0%B4-%E7%A7%8B%E8%91%89%E5%8E%9F%E4%B8%87%E4%B8%96%E6%A9%8B%E5%BA%97'>北海道シントク町 塚田農場 秋葉原万世橋店</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%A4%87%E6%95%B0-%E7%94%BB%E5%83%8F-PDF-%E3%81%BE%E3%81%A8%E3%82%81%E3%82%8B-Mac'>複数 画像 PDF まとめる Mac</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A8%E3%82%B3%E3%83%90%E3%83%83%E3%82%B0-%E4%B8%88%E5%A4%AB-%E3%81%9F%E3%81%9F%E3%82%81%E3%82%8B'>エコバッグ 丈夫 たためる</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%9D%B1%E4%BA%AC%E5%8A%B4%E7%81%BD-%E4%B8%80%E4%BA%BA-%E8%A6%AA%E6%96%B9%E9%83%A8%E4%BC%9A'>東京労災 一人 親方部会</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%A6%E3%83%8B%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0-%E3%83%A9%E3%82%A4%E3%82%B9-%E3%82%AF%E3%83%83%E3%82%AB%E3%83%BC-%E8%87%AA%E5%8B%95%E7%82%8A%E9%A3%AF'>ユニフレーム ライス クッカー 自動炊飯</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BB%8B%E8%AD%B7-%E6%9C%80%E4%BD%8E%E8%B3%83%E9%87%91-%E6%99%82%E7%B5%A6'>介護 最低賃金 時給</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A4%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%88-%E7%84%BC%E3%81%8D%E3%81%9D%E3%81%B0-%E3%81%8A%E5%BC%81%E5%BD%93'>インスタント 焼きそば お弁当</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B9%E3%82%B3%E3%83%83%E3%83%88%E3%83%A9%E3%83%B3%E3%83%89-%E3%83%A6%E3%83%8B%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0-%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC'>スコットランド ユニフォーム サッカー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%97%A5%E6%9C%AC-%E6%AD%AF%E7%A7%91%E5%8C%BB%E5%B8%AB%E5%85%8D%E8%A8%B1-%E9%9F%93%E5%9B%BD'>日本 歯科医師免許 韓国</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%AD%90%E4%BE%9B-%E8%B6%B3%E3%81%AB-%E3%81%97%E3%81%8C%E3%81%BF%E3%81%A4%E3%81%8F-%E5%BF%83%E7%90%86'>子供 足に しがみつく 心理</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%9D%B1%E6%B5%B7-%E5%A4%A7-%E5%8C%BB%E5%AD%A6%E9%83%A8-%E8%A3%9C%E6%AC%A0'>東海 大 医学部 補欠</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%9D%B1%E5%BA%83%E5%B3%B6-%E9%AB%98%E5%B1%8B-%E6%B1%82%E4%BA%BA'>東広島 高屋 求人</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%90%E3%83%AC%E3%83%B3%E3%82%BF%E3%82%A4%E3%83%B3-%E3%82%AC%E3%83%88%E3%83%BC%E3%82%B7%E3%83%A7%E3%82%B3%E3%83%A9-%E7%B0%A1%E5%8D%98'>バレンタイン ガトーショコラ 簡単</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%8B%89%E5%BC%B7%E6%9C%BA-%E3%81%8A%E3%81%97%E3%82%83%E3%82%8C-%E3%83%8B%E3%83%88%E3%83%AA'>勉強机 おしゃれ ニトリ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%B5%B8%E5%87%BA%E6%B6%B2-%E8%86%BF-%E8%A6%8B%E5%88%86%E3%81%91%E6%96%B9'>浸出液 膿 見分け方</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A4%E3%83%A9%E3%83%AC-%E7%94%BB%E5%83%8F%E3%83%88%E3%83%AC%E3%83%BC%E3%82%B9-%E4%B8%8D%E6%98%8E%E3%81%AA%E3%82%A8%E3%83%A9%E3%83%BC'>イラレ 画像トレース 不明なエラー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=anydesk-%E6%97%A5%E6%9C%AC%E8%AA%9E%E5%85%A5%E5%8A%9B-mac'>Anydesk 日本語入力 Mac</a>,
+";s:7:"expired";i:-1;}

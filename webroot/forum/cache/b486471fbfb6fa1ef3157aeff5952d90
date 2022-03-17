@@ -1,0 +1,57 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:2758:"<p> </p> <p>児童発達支援、放課後デイサービスの開業を計画中のあなた。1日、1か月の事業所の収入がどのくらいの金額になるのか気になることだろう。このコラムでは福祉事業開業の専門家が、児童発達支援、放課後デイサービスの基本報酬算定の仕組みについて、詳しく解説する。 ※児童福祉法第21条の5の15の第5項に基づき「児童発達支援事業(主として重症心身障害児を通わせる事業を除く）」「放課後等デイサービス (主として重症心身障害児を通わせる事業を除く） 」については、令和元年度に引き続き、令和2年度も総量規制を行うため、指定申請は出来ません。 （6）放課後等デイサービス（主たる対象が重症心身障害児の場合）…11．14円 （7）保育所等訪問支援…10．93円 （8）障害児相談支援…10．90円 児童発達支援、放課後等デイサービスでの看護職員加配加算とは、医療的ケアが必要な障害児を受け入れるために、事業所内で一定の取り組みを行い、 看護職員を特別に配置 している場合に、その取り組み内容に応じて（Ⅰ）～（Ⅲ）の加算を算定することができる。 告示 児童福祉法 平成24年3月14日 厚生労働省告示第128号「厚生労働大臣が定める一単位の単価」 pdf 平成28年3月24日 厚生労働省告示第84号「厚生労働大臣が定める一単位の単価の一部を改正する件」 pdf 報酬算定時の計算方法 【1】単位数 × 10円 × 事業所が所在する地域区分に応じた割合 </p> <p>障害者手帳がなくても受けられるサービスを一挙にご紹介; 放課後等デイサービスの送迎加算が廃止へ？障害報酬改定で、厚生労働省方針 【神奈川・千葉・栃木・大阪】いま空きがある放課後等デイサービス・児童発達支援施設をピックアップ！ 放課後等デイサービスとは、学校に就学している障害児における学童保育のようなもので、授業の後や学校が休日の時に障害のあるお子さまが通い、専門職による生活活動動作の訓練を受けたり、集団生活での適応能力を養ったりするための障害児通所支援事業です。 2．看護職員加配加算. 障害児通所支援事業 人員基準の概要 ≪放課後等デイサービス≫ 児童指導員、保育士又は障 害福祉サービス経験が2年 以上注1の者 1人以上は常勤 合計数が以下の区分に応じてそれぞれに定める数以上 1）障害児の数が10人まで 2人以上 </p>";s:7:"keyword";s:60:"放課後 等デイサービス 重症心身障害児 加算";s:5:"links";s:3994:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Qnap-firmware-fw004'>Qnap Firmware Fw004</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%8B%B1%E4%BD%9C%E6%96%87-%E7%90%86%E7%94%B1-3%E3%81%A4'>英作文 理由 3つ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%B9%B2%E3%81%97%E8%8A%8B-%E8%8C%A8%E5%9F%8E-%E9%80%9A%E8%B2%A9'>干し芋 茨城 通販</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%9A%9C%E5%AE%B3%E5%9F%BA%E7%A4%8E%E5%B9%B4%E9%87%91-%E7%94%B3%E8%AB%8B-%E7%9F%A5%E7%9A%84%E9%9A%9C%E5%AE%B3'>障害基礎年金 申請 知的障害</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%87%A8%E6%9C%88-%E3%81%8A%E3%81%BE%E3%81%9F-%E9%81%95%E5%92%8C%E6%84%9F'>臨月 おまた 違和感</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%94%B7%E3%81%AE%E5%AD%90-%E7%BF%92%E3%81%84%E4%BA%8B-%E3%83%80%E3%83%B3%E3%82%B9'>男の子 習い事 ダンス</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%94%E3%81%BC%E3%81%86-%E4%BF%9D%E5%AD%98-%E5%9F%8B%E3%82%81%E3%82%8B'>ごぼう 保存 埋める</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%AB%E3%82%A4%E3%83%B4%E3%82%A3%E3%83%88%E3%83%B3-%E3%82%B9%E3%83%8B%E3%83%BC%E3%82%AB%E3%83%BC-%E3%82%B3%E3%83%94%E3%83%BC'>ルイヴィトン スニーカー コピー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%80%80%E8%81%B7-%E6%AE%8B%E5%BF%B5%E3%81%A7%E3%81%99-%E8%8B%B1%E8%AA%9E'>退職 残念です 英語</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%B4%85%E8%8C%B6-%E5%87%BA%E3%81%8C%E3%82%89%E3%81%97-%E8%8A%B3%E9%A6%99%E5%89%A4'>紅茶 出がらし 芳香剤</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=iphone-%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC%E3%82%BB%E3%83%BC%E3%83%90%E3%83%BC-%E8%A8%AD%E5%AE%9A'>Iphone バッテリーセーバー 設定</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9E%E3%83%BC%E3%83%AB%E3%83%9E%E3%83%BC%E3%83%AB-%E3%82%B9%E3%82%BF%E3%82%A4-%E6%B4%97%E6%BF%AF'>マールマール スタイ 洗濯</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%80%92-252-0024-%E7%A5%9E%E5%A5%88%E5%B7%9D-%E7%9C%8C-%E5%BA%A7%E9%96%93-%E5%B8%82-%E5%85%A5%E8%B0%B7-5-%E4%B8%81%E7%9B%AE-1684-%E2%88%92-3-%E5%BA%A7%E9%96%93-%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AB-%E3%82%AF%E3%83%AA%E3%83%8B%E3%83%83%E3%82%AF'>〒 252 0024 神奈川 県 座間 市 入谷 5 丁目 1684 − 3 座間 メンタル クリニック</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%95%E3%81%A4%E3%81%BE%E3%81%84%E3%82%82-%E9%87%8E%E8%8F%9C-%E3%83%AC%E3%82%B7%E3%83%94'>さつまいも 野菜 レシピ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%96%84%E5%85%89%E5%AF%BA-%E6%B0%B4-%E5%AD%90%E4%BE%9B-%E9%A4%8A-%E3%81%8A%E6%9C%AD'>善光寺 水 子供 養 お札</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%AF%9B%E7%A9%B4-%E5%B0%8F%E3%81%95%E3%81%8F%E3%81%99%E3%82%8B-%E7%94%B7'>毛穴 小さくする 男</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%B4%97%E5%89%A4-%E6%8C%81%E3%81%A1%E9%81%8B%E3%81%B3-%E5%AE%B9%E5%99%A8'>洗剤 持ち運び 容器</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%89%E3%83%AA%E3%83%B3%E3%82%AF-%E5%86%B7%E8%94%B5%E5%BA%AB-%E3%82%AC%E3%83%A9%E3%82%B9'>ドリンク 冷蔵庫 ガラス</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%BF%E3%83%83%E3%83%81%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC-100-%E5%9D%87'>タッチセンサー 100 均</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A4%A7%E5%88%86-%E4%BA%A4%E9%80%9A-%E4%BA%BA%E4%BA%8B-%E7%95%B0%E5%8B%95'>大分 交通 人事 異動</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Net-user-%E3%82%A8%E3%83%A9%E3%83%BC%E3%81%A7%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89%E3%81%8C%E7%B5%82%E4%BA%86-%E3%81%97%E3%81%BE-%E3%81%97%E3%81%9F'>Net User エラーでコマンドが終了 しま した</a>,
+";s:7:"expired";i:-1;}

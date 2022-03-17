@@ -1,0 +1,70 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:2773:"<p>今年に入って、ユニクロのセルフレジが続々と導入され、実際に体験された方も多いのでは？ 今までのセルフレジは、正直操作がわかりづらく、結局有人レジを選択してしまうことが多かったのですが、今回のユニクロのセルフレジは別格！ セルフレジの支払い方法. ハンガーを外してセルフレジ内のボックスに商品を投げ込むと、一瞬で商品点数と会計金額が表示される。これによって精算所用時間が有人レジと比較して、最大約3分の1に短縮されるという。 では、実際にユニクロのタグを見てみよう。 ユニクロの公式通販サイト。大きいサイズやオンラインストア特別商品も揃えた世界最大のユニクロ。初回ご利用の方は送料無料！株式会社ユニクロ(uniqlo co., ltd.)からお届けする旬な情報が満載！ uniqloの完全無人セルフレジが結構すごい、これどんな技術？ 2019年6月 5日; コンテンツのニュース; 先日、uniqloの創業祭があったので久しぶりに店舗に行った所、レジが完全に無人のセルフレジに変わって … </p> <p></p> <p> ユニクロでセルフレジが導入されていたので、試しに使ってみました。セルフレジに興味はあるけどまごついたら面倒臭いから手を出せない二千円の服を買うのに30分も行列に並んでいられない早く精算しないと次の予定に間に合わないそんな人は絶対セルフレジを ユニクロのセルフレジを使ってみました。めっちゃ楽〜！早い〜！！しかも簡単！少量の買い物であれば断然セルフレジの方が早いです。商品が多い場合は有人のレジの方が楽かもしれません。セルフレジの使い方を写真付きでレポートします！ ユニクロでの買い物に私は以前からストレスを感じていた。レジでの待ち時間が私にとってのユニクロの買い物での最大の障壁だったのだが、今回のセルフレジの導入で、この待ち時間が大幅に解消された。 今回はユニクロのセルフレジの使い方を、豊富な画像と共にお伝えします。現金以外の支払い方法や、商品読み取りの仕組みや認識間違いへの対処法、さらには導入店舗の調べ方についても触れています。 ユニクロは現在続々とセルフレジを導入しています。icタグを利用したセルフレジをほぼ全店で導入される予定です。既に姉妹店のguでは導入されている仕組みで、都内の店舗を中心に導入が進んでいます。 </p>";s:7:"keyword";s:35:"ユニクロ セルフレジ 返品";s:5:"links";s:6658:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%8D%B5-%E3%81%8C%E9%A3%9F%E3%81%B9%E3%81%9F%E3%81%84%E6%99%82-%E4%B8%8D%E8%B6%B3'>卵 が食べたい時 不足</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%8C%97%E6%B5%B7%E9%81%93%E7%A7%91%E5%AD%A6%E5%A4%A7%E5%AD%A6-%E5%BB%BA%E7%AF%89-%E5%AD%A6%E7%A7%91-%E5%B0%B1%E8%81%B7-%E5%85%88'>北海道科学大学 建築 学科 就職 先</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%8D%8B-%E3%81%93%E3%82%93%E3%81%AB%E3%82%83%E3%81%8F-%E5%88%87%E3%82%8A%E6%96%B9'>鍋 こんにゃく 切り方</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%8C%87-%E5%8E%9F-%E3%82%AD%E3%83%AA%E3%83%B3'>指 原 キリン</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B7%E3%83%A7%E3%83%AB%E3%83%80%E3%83%BC%E3%83%90%E3%83%83%E3%82%B0-%E3%83%A1%E3%83%B3%E3%82%BA-%E6%A9%9F%E8%83%BD%E7%9A%84'>ショルダーバッグ メンズ 機能的</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%85%8D%E8%A8%B1%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC-%E9%81%A9%E6%80%A7%E8%A9%A6%E9%A8%93-%E6%99%82%E9%96%93'>免許センター 適性試験 時間</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Twitter-%E3%83%AA%E3%82%B9%E3%83%88-%E5%AB%8C%E3%81%8C%E3%82%89%E3%81%9B'>Twitter リスト 嫌がらせ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=L900-%E3%83%A0%E3%83%BC%E3%83%B4-%E3%83%96%E3%83%AD%E3%82%A2%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E4%BA%A4%E6%8F%9B'>L900 ムーヴ ブロアモーター交換</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%88%E3%83%AC%E3%82%A4%E3%83%AB-%E3%83%87%E3%82%A3%E3%83%BC%E3%82%BC%E3%83%AB-%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AA%E3%83%B3%E3%82%B0'>エクストレイル ディーゼル アイドリング</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=canon-%E5%8D%B0%E5%88%B7%E3%82%B8%E3%83%A7%E3%83%96-%E5%89%8A%E9%99%A4%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84'>Canon 印刷ジョブ 削除できない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BD%90%E9%87%8E%E5%B8%82-%E7%9A%AE%E8%86%9A%E7%A7%91-%E9%A6%AC%E5%A0%B4%E5%8C%BB%E9%99%A2'>佐野市 皮膚科 馬場医院</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%BB%9F%E9%AA%A8%E3%83%94%E3%82%A2%E3%82%B9-%E5%8F%AF%E6%84%9B%E3%81%84-amazon'>軟骨ピアス 可愛い Amazon</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%BC%AB%E7%94%BB-%E8%83%8C%E6%99%AF-%E6%8F%8F%E3%81%91%E3%81%AA%E3%81%84'>漫画 背景 描けない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A2%E3%83%AB%E3%83%91%E3%82%A4%E3%83%B3%E3%82%AF%E3%83%83%E3%82%AB%E3%83%BC-%E3%83%87%E3%82%A3%E3%83%BC%E3%83%97-11%2B13-%E3%82%BB%E3%83%83%E3%83%88'>アルパインクッカー ディープ 11+13 セット</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A8%E3%82%B3%E3%83%90%E3%83%83%E3%82%B0-%E4%BD%9C%E3%82%8A%E6%96%B9-%E8%A3%8F%E5%9C%B0%E3%81%AA%E3%81%97'>エコバッグ 作り方 裏地なし</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%9A%E3%83%AA%E3%82%A2-XZ3-SD%E3%82%AB%E3%83%BC%E3%83%89-%E4%BF%9D%E5%AD%98'>エクスペリア XZ3 SDカード 保存</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=windows-%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89-%E9%9B%BB%E6%BA%90%E3%82%AA%E3%83%B3'>Windows キーボード 電源オン</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A8%E3%83%BC%E3%82%B9%E3%82%92%E3%81%AD%E3%82%89%E3%81%88-%E5%8A%87%E5%A0%B4%E7%89%88-%E7%84%A1%E6%96%99'>エースをねらえ 劇場版 無料</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%B1%9A%E3%83%AD%E3%83%BC%E3%82%B9-%E4%B8%8B%E5%91%B3%E5%86%B7%E5%87%8D-%E5%A1%A9%E9%BA%B9'>豚ロース 下味冷凍 塩麹</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%AE%AD-%E7%82%8A%E3%81%8D%E8%BE%BC%E3%81%BF%E3%81%94%E9%A3%AF-%E7%84%BC%E3%81%84%E3%81%A6%E3%81%8B%E3%82%89'>鮭 炊き込みご飯 焼いてから</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9C%E3%83%87%E3%82%A3%E3%83%94%E3%82%A2%E3%82%B9-%E9%80%9A%E8%B2%A9-%E3%81%8A%E3%81%99%E3%81%99%E3%82%81'>ボディピアス 通販 おすすめ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%82%AB%E3%83%83%E3%83%97-%E8%B3%9E%E9%87%91-%E9%A8%8E%E6%89%8B'>ジャパンカップ 賞金 騎手</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%A8-%E3%81%AD-%E7%9A%AE%E8%86%9A%E7%A7%91-%E5%8F%97%E4%BB%98-%E6%99%82%E9%96%93'>と ね 皮膚科 受付 時間</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%97%E3%83%A9%E3%82%B0%E4%BA%A4%E6%8F%9B-%E5%B7%A5%E8%B3%83-%E3%82%AA%E3%83%BC%E3%83%88%E3%83%90%E3%83%83%E3%82%AF%E3%82%B9'>プラグ交換 工賃 オートバックス</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A4%A7%E6%A0%B9-%E3%83%9D%E3%83%88%E3%83%95-%E5%9C%A7%E5%8A%9B%E9%8D%8B'>大根 ポトフ 圧力鍋</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%99%E3%83%BC%E3%82%B3%E3%83%B3-%E3%81%BB%E3%81%86%E3%82%8C%E3%82%93%E8%8D%89-%E3%82%AD%E3%83%83%E3%82%B7%E3%83%A5%E3%83%AC%E3%82%B7%E3%83%94'>ベーコン ほうれん草 キッシュレシピ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%9F%93%E5%9B%BD-%E6%9C%80%E4%BD%8E%E8%B3%83%E9%87%91-%E6%97%A5%E6%9C%AC%E5%86%86'>韓国 最低賃金 日本円</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%8D%97%E4%BA%AC%E7%94%BA-%E9%A7%90-%E8%BB%8A%E5%A0%B4-%E4%BA%88%E7%B4%84'>南京町 駐 車場 予約</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Mac-%E5%A4%96%E9%83%A8%E3%83%9E%E3%82%A4%E3%82%AF-%E9%8C%B2%E9%9F%B3'>Mac 外部マイク 録音</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BB%8A%E5%BA%A6-%E9%9B%BB%E8%A9%B1-%E3%81%97%E3%82%88%E3%81%86-%E9%9F%93%E5%9B%BD%E8%AA%9E'>今度 電話 しよう 韓国語</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%B3%A5%E5%8F%96-%E9%81%93%E3%81%AE%E9%A7%85-%E9%96%89%E9%8E%96'>鳥取 道の駅 閉鎖</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%9F%A2%E5%B4%8E-%E5%8C%BB%E9%99%A2-%E4%B8%AD%E7%B5%B6'>矢崎 医院 中絶</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9D%E3%82%B1%E3%82%AB-%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB-100-%E5%9D%87'>ポケカ ファイル 100 均</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%89%84-%E5%A1%97%E8%A3%85-%E3%82%A2%E3%83%B3%E3%83%86%E3%82%A3%E3%83%BC%E3%82%AF'>鉄 塗装 アンティーク</a>,
+";s:7:"expired";i:-1;}

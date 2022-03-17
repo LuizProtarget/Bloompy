@@ -1,0 +1,74 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:7643:"<p>メルカリでは双方のキャンセル意思が揃った場合、取引キャンセルができる。 しかし、円満なキャンセルに至らないケースも多い。 片方はキャンセルを主張するが、片方はそれを受け入れてくれない。そういった時にメルカリではどのような判断になるのか？ メルカリでは、商品説明と違うものが届いたり、破損したものが届いた時に、購入者から返品を言ってくることがあります。頻繁にある訳ではないので、どう対応していいのか焦ってしまいますよね。そこで今回は、返品や返金の方法や送料負担についてまとめてみました。 メルカリではいったん取引を開始すると、基本的にはキャンセルすることはできません。しかし、いろんな理由からキャンセルする場合もでてきてしまいます。そこで今回は、メルカリでキャンセル申請や返金の方法、ペナルティ・評価についても説明していきますね。 メルカリでキャンセル申請を受けた場合はどのような対応ができるのだろうか？ 貴重な？経験だと思うが、過去に購入者の立場から一度だけ出品者にキャンセル申請をされたことがある。 その時の経験談を交えてキャンセル申請を受けた際に購入者がどう動くのかということを紹介していく。 </p> <p>キャンセル理由にチェックをし、理由を記入して「キャンセル申請」します。 「本当にキャンセル申請するか」確認されるので「はい」をクリックします。 キャンセル申請しました。と表示されました。 すると、すぐにメルカリから下記のメッセージが送られてきました。 双方の合意があっ� メルカリがキャンセル手続きを進めてくれるのは、 「 出品者、購入者、どちらも納得して同意している場合 」が条件です。 仕方ないかと思わせる理由がない場合、同意なしのキャンセルは認めていません。 キャンセル理由によっては、ペナルティがあるかもしれません。 繰り返したり、悪質と判断されたりすると、アカウントを凍結される恐れがあります。 この記事では、メルカリでキャンセルする方法について、実体験も踏まえて、まとめています。 購入者から返品したい理由を必ず聞き出そう！ 取引画面で購入者から「返品したいです。」というメッセージだけでは返品はできません。 なぜなら、 どちらに非があるのかわからないのと、最終的に返金処理を行う際に事務局へ問い合わせをします。その時点で必ず取引画面でのやり取りを事 メルカリがキャンセル手続きを進めてくれるのは、 「 出品者、購入者、どちらも納得して同意している場合 」が条件です。 仕方ないかと思わせる理由がない場合、同意なしのキャンセルは認めていません。 </p> <p>メルカリで間違って購入してしまった場合にキャンセルする方法はあるのですが知らない方も多いので損をしている方もいます。取引をキャンセルしたい場合のキャンセル方法やペナルティについて解説し … つまり、 出品者側がキャンセルを同意 ... しかし、 メルカリ側はキャンセル処理をするときに取引画面を確認します。嫌なことされて感情的になるのはわかりますが、冷静に対応していきましょう。 メルカリでキャンセル後は再出品しよう！ メルカリでキャンセルした（になった）後は、もう メルカリでは双方のキャンセル意思が揃った場合、取引キャンセルができる。 しかし、円満なキャンセルに至らないケースも多い。 片方はキャンセルを主張するが、片方はそれを受け入れてくれない。そういった時にメルカリではどのような判断になるのか？ 正当な理由として、返品がメルカリに認められれば、出品者へ商品を着払いで返送します。 届いたことが確認されると、メルカリから返金処理が無事終了。 メルカリでキャンセルの返金は現金？いつ戻る？ 受け取り評価後. たぶんその理由ですと『独自ルールのキャンセル』になりますから・・・・・。 今後独自ルールのキャンセルでも『同意』を強要したり勝手な同意申請もできなくなったということかもしれません。 ・・・・あくまでも予想ですけどね。 </p> <p>「商品発送前にキャンセルの話があったらどうしよう？」 「商品発送後でもキャンセルはできるの？」 「キャンセルしたらペナルティはあるのかな？」 メルカリで上記のような疑問をお持ちの方に分かりやすく解説します。 </p> <p>評価後は基本できない メルカリで間違って購入してしまった場合にキャンセルする方法はあるのですが知らない方も多いので損をしている方もいます。取引をキャンセルしたい場合のキャンセル方法やペナルティについて解説し … 『メルカリ』で商品の購入手続き後に取引をキャンセルする方法をわかりやすく紹介！ どのような場合で利用制限などのペナルティを受けるのか、またペナルティを受けずに取引中止できるのか、皆さんの悩みを解消します。その他、返金・返品方法についても解説 キャンセルに「同意しない」場合、事務局に理由を書いて送信したら、「取引メッセージが使えなくなる」と出たので、送信するのをやめたのですが、どれか選ばないと24時間でキャンセルになりますよね？ 同意したくない場合、このあとどうすれば良いのでしょうか？ メルカリは、個人と個人の売買をつなぐ｢フリマアプリ｣です。そのため、お店で購入する場合と違って、基本的にはキャンセルができません。メルカリでの取引は、慎重に行う必要があります。ですが、そうはいっても、さまざまな都合でキャンセルをしなければならないこともありますよね。 この場合、過失は購入者。 キャンセル理由によっては、ペナルティがあるかもしれません。 繰り返したり、悪質と判断されたりすると、アカウントを凍結される恐れがあります。 この記事では、メルカリでキャンセルする方法について、実体験も踏まえて、まとめています。 メルカリキャンセル例 〜出品者編〜 出品者の場合、キャンセル理由は以下の3つ。 支払いされない; 商品がなくなった; 商品に不備があった; それぞれのケースで、詳しく見てみよう。 メルカリキャンセル ケース④ 支払いされない . フリマアプリのメルカリですが、事務局キャンセルで困っている方がいらっしゃるようです。 事務局キャンセルとは？そして、そのキャンセルの理由は？ その辺を調べてまとめてみましたので参考にしてみてくださいね(^_^)/ メルカリの事務局キャンセルとは？  </p>";s:7:"keyword";s:51:"メルカリ キャンセル同意 しない 理由";s:5:"links";s:7102:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%9A%9C%E5%AE%B3%E5%B9%B4%E9%87%91-%E6%89%80%E5%BE%97%E5%88%B6%E9%99%90-%E6%89%B6%E9%A4%8A'>障害年金 所得制限 扶養</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%B1%86%E4%B9%B3-%E8%83%B8-%E7%97%9B%E3%81%84'>豆乳 胸 痛い</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BD%90%E6%B8%A1%E3%81%AE-%E5%A4%95-%E7%AC%9B'>佐渡の 夕 笛</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%97%E3%83%AD%E3%83%95%E3%82%A7%E3%83%83%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB-%E4%BB%95%E4%BA%8B%E3%81%AE%E6%B5%81%E5%84%80-%E8%A6%8B%E9%80%83%E3%81%97'>プロフェッショナル 仕事の流儀 見逃し</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%AB%98%E7%94%B0%E9%A6%AC%E5%A0%B4-%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3-%E6%9C%AB%E5%BB%A3'>高田馬場 ラーメン 末廣</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%8A%AC-%E8%AA%A4%E9%A3%B2-%E3%83%93%E3%83%8B%E3%83%BC%E3%83%AB'>犬 誤飲 ビニール</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%90%E3%83%8A%E3%83%8A-%E3%82%AB%E3%83%AD%E3%83%AA%E3%83%BC-%E5%86%99%E7%9C%9F'>バナナ カロリー 写真</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%B1%86%E4%B9%B3-%E6%B3%A8%E3%81%8E%E5%8F%A3-%E3%82%AB%E3%83%93'>豆乳 注ぎ口 カビ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=windows7-%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%82%B3%E3%83%94%E3%83%BC-%E9%80%94%E4%B8%AD%E3%81%A7%E6%AD%A2%E3%81%BE%E3%82%8B'>Windows7 ファイルコピー 途中で止まる</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A4%A9%E7%84%B6%E6%B0%B4-%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%86%E3%82%A3%E3%83%BC-%E7%BE%8E%E5%91%B3%E3%81%97%E3%81%84'>天然水 グリーンティー 美味しい</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%AD%8C%E8%88%9E%E4%BC%8E-%E3%83%81%E3%82%B1%E3%83%83%E3%83%88-%E8%B2%B7%E3%81%84%E6%96%B9'>歌舞伎 チケット 買い方</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%89%B2%E7%B4%A0%E6%B2%88%E7%9D%80-%E3%83%AA%E3%83%83%E3%83%97-%E3%81%8A%E3%81%99%E3%81%99%E3%82%81'>色素沈着 リップ おすすめ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=imac-2011-ssd-%E5%A4%96%E4%BB%98%E3%81%91'>Imac 2011 Ssd 外付け</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%B4%80%E5%B7%9E%E9%87%A3%E3%82%8A-%E3%81%8A-%E3%81%8B%E3%82%89'>紀州釣り お から</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%86%E3%82%A3%E3%83%95%E3%82%A1%E3%83%BC%E3%83%AB-%E5%9C%A7%E5%8A%9B%E9%8D%8B-%E8%92%B8%E3%81%97%E9%B6%8F'>ティファール 圧力鍋 蒸し鶏</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%90%E3%83%B3%E3%82%B3%E3%82%AF-%E9%A7%90%E5%A6%BB-%E8%8B%B1%E8%AA%9E'>バンコク 駐妻 英語</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A2%E3%82%B8-%E5%86%85%E8%87%93-%E9%A3%9F%E3%81%B9%E3%82%8B'>アジ 内臓 食べる</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%B4%8B%E6%9C%8D%E3%81%AE%E9%9D%92%E5%B1%B1-%E5%8F%97%E3%81%91%E5%8F%96%E3%82%8A-%E6%9C%9F%E9%96%93'>洋服の青山 受け取り 期間</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%89%E3%82%AF%E3%82%BF%E3%83%BC%E3%83%9E%E3%83%BC%E3%83%81%E3%83%B3-1461-pw'>ドクターマーチン 1461 Pw</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=ana-%E6%B5%B7%E5%A4%96%E3%83%84%E3%82%A2%E3%83%BC-%E3%83%9E%E3%82%A4%E3%83%AB'>Ana 海外ツアー マイル</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%9C%8D-%E6%96%AD%E6%8D%A8%E9%9B%A2-%E5%BE%8C%E6%82%94'>服 断捨離 後悔</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%87%AA%E8%BB%A2%E8%BB%8A-%E3%83%AD%E3%83%B3%E3%82%B0%E3%83%A9%E3%82%A4%E3%83%89-%E3%82%B3%E3%83%84'>自転車 ロングライド コツ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%92%E3%83%AB%E3%83%8A%E3%83%B3%E3%83%87%E3%82%B9-%E5%86%B7%E5%87%8D-%E3%81%86%E3%81%A9%E3%82%93-%E6%8B%85%E3%80%85%E9%BA%BA'>ヒルナンデス 冷凍 うどん 担々麺</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%96%E3%83%A9%E3%82%A6%E3%82%B6-PDF-%E8%A1%A8%E7%A4%BA%E3%82%B5%E3%82%A4%E3%82%BA'>ブラウザ PDF 表示サイズ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A8%E3%83%83%E3%83%95%E3%82%A7%E3%83%AB%E5%A1%94-%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88-%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84'>エッフェル塔 イラスト かわいい</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Amazon-%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%9E%E3%83%BC%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9-%E3%83%A1%E3%83%BC%E3%83%AB'>Amazon カスタマーサービス メール</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%8F%E3%82%BF%E3%82%B1%E3%83%A4%E3%83%9E-%E7%A1%AC%E5%BC%8F-%E3%82%AD%E3%83%A3%E3%83%83%E3%83%81%E3%83%A3%E3%83%BC-%E3%83%9F%E3%83%83%E3%83%88'>ハタケヤマ 硬式 キャッチャー ミット</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9A%E3%83%83%E3%83%88%E3%83%91%E3%83%A9%E3%83%80%E3%82%A4%E3%82%B9-%E3%82%B9%E3%83%8C%E3%83%BC%E3%83%94%E3%83%BC-%E3%82%B9%E3%83%AA%E3%83%B3%E3%82%B0'>ペットパラダイス スヌーピー スリング</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=OneNote-for-Windows-10'>OneNote For Windows 10</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%97%A5%E6%9C%AC%E4%BA%BA-%E4%BD%95%E3%81%AB-%E3%81%8A%E9%87%91-%E3%82%92%E4%BD%BF%E3%81%86'>日本人 何に お金 を使う</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%91%9E%E7%89%86-%E5%B1%B1%E8%8D%98-%E9%87%91-%E5%B3%B0%E5%B1%B1'>瑞牆 山荘 金 峰山</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Eclipse-JavaScript-Resources'>Eclipse JavaScript Resources</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%9C%9D-%E3%82%B9%E3%82%AD%E3%83%B3%E3%82%B1%E3%82%A2-%E9%A0%86%E7%95%AA'>朝 スキンケア 順番</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=100%E5%9D%87-%E3%82%BC%E3%83%AA%E3%83%BC-%E3%82%AB%E3%83%83%E3%83%97-%E8%93%8B%E4%BB%98%E3%81%8D'>100均 ゼリー カップ 蓋付き</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BD%93%E9%87%8D%E8%A8%88-%E3%82%BF%E3%83%8B%E3%82%BF-%E3%82%B9%E3%83%9E%E3%83%9B'>体重計 タニタ スマホ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%8B%B1%E8%AA%9E-%E8%AA%AD%E3%81%BF%E8%81%9E%E3%81%8B%E3%81%9B-%E3%83%87%E3%82%A3%E3%82%BA%E3%83%8B%E3%83%BC'>英語 読み聞かせ ディズニー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%8D%E3%82%A4%E3%83%93%E3%83%BC%E3%82%B8%E3%83%A3%E3%82%B1%E3%83%83%E3%83%88-%E3%82%B3%E3%83%BC%E3%83%87-%E3%83%A1%E3%83%B3%E3%82%BA-%E5%A4%8F'>ネイビージャケット コーデ メンズ 夏</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A8%E3%83%99%E3%83%AC%E3%82%B9%E3%83%88-%E6%B0%B7-%E6%BC%AC%E3%81%91'>エベレスト 氷 漬け</a>,
+";s:7:"expired";i:-1;}

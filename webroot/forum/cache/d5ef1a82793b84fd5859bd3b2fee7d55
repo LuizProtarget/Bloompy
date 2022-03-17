@@ -1,0 +1,59 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:5559:"ただ、MacBook Air (13-inch, Early 2015)は、 Thunderboltがひとつしかない ために、一筋縄ではいかないのがMacBook Air (13-inch, Early 2015)なのです。 なので、今回はMacBook Air (13-inch, Early 2015)をデュアルディスプレイにする方法をご紹介します。 <br> <br>まずはデュアルディスプレイ化 MacBook Proは2016年からUSBが「Type-C」で完全に統一されてしまいました。そのため、HDMIをケーブルを直接接続する事が出来ません。と、いうことで前回の「デュアルディスプレイ化」にはこちらの変換アダプタを買いました。 13.3インチMacBook Air 1.6GHzデュアルコアIntel Core i5 Retinaディスプレイモデル（True Toneテクノロジー搭載）- ゴールド [整備済製品] ￥84,800（税別） これまではWindowsとMacの2台（多い時は3台）別々で起ち上げて作業していました。現在はMacBookAir11インチをメインで使っておりPCでの作業効率化を考えてマルチモニターでの運用にしました。マルチモニター（デュアルディスプレイ）の運用メリットやオススメ使用アイテム紹介しています。 MacBook Airをゲーミングモニター(ASUS VG245H)に接続してデュアルディスプレイとして使用する方法、必要なデバイスを紹介します。デバイスによって不具合があることがわかり、その対応方法を紹介。PS4とPCを1つのキーボード・マウスで接続できるデバイスを紹介。 BootcampでWindows10を入れたMacBook Air 11inch(mid2013)にiiyamaの23.8inchディスプレイとJBLのUSB接続スピーカーを繋いでデスクトップパソコンみたいに使う方法をご紹介。設定の方法、ポート類の問題、実際のデュアルディスプレイの活用方法まで。 自宅のPC環境は、メインマシンWindowsのデスクトップ、サブマシンMacBook Air(13-inch, Mid 2012)という構成です。思うところあってメインマシンをMacBook Airに乗り換えることにしましたので、今回はその顛末を書きたいと思います。 乗り換え前のデスクトップマシンはこれ↓ acer 驚くほど薄くて軽いMacBook Airが、かつてないほどパワフルに進化しました。あざやかなRetinaディスプレイ。新しいMagic Keyboard。Touch ID。みんなに最も愛されているMacは、一日中使えるバッテリーも搭載。好きな場所で好きなことを好きなだけできる完璧なノートブックです。 ずっとMacBook Airでトリプルディスプレイしたいな・・と思っていて、ついに環境を実現できました！ 今回Dellのディスプレイを使ってMacBook Air 11-inch, Early 2015でトリプルモニター環境を Windowsパソコンから切り替えてからは、家でも外でもMacBook Airだけで仕事してきたんですが、家の引越しを機に仕事用のスペースが確保できるようになりましたので、外付けモニターも使用してデスクトップ環境を整えてみました。実はTwi Windowsパソコンから切り替えてからは、家でも外でもMacBook Airだけで仕事してきたんですが、家の引越しを機に仕事用のスペースが確保できるようになりましたので、外付けモニターも使用してデスクトップ環境を整えてみました。実はTwi 最新モデル Apple MacBook Air (13インチPro, 1.1GHzデュアルコア第10世代Intel Core i3プロセッサ, 8GB RAM, 256GB) - ゴールドがパソコン・周辺機器ストアでいつでもお買い得。当日お急ぎ便対象商品は、当日お届け可能です。アマゾン配送商品は、通常配送無料（一部除く）。  <br> <br>これまではWindowsとMacの2台（多い時は3台）別々で起ち上げて作業していました。現在はMacBookAir11インチをメインで使っておりPCでの作業効率化を考えてマルチモニターでの運用にしました。マルチモニター（デュアルディスプレイ）の運用メリットやオススメ使用アイテム紹介していま … Contents MacBook Proをデュアルディスプレイにした！購入したのは「モニター・typecハブ・HDMIケーブル」HDMIケーブルSatechi マルチハブMacBook Proとモニターを接続して画面を確 […] 昨年 Macbook Air（13inch, Mid 2012）を購入して以来、Macbook Air（以下MBA）をメインで使うようになりました。Macbook Air の仮想デスクトップは使いやすいとはいえ、デスクで作業をする場合はやっぱりマルチディスプレイ環境が便利ということで、今回 MBA をトリプルディスプレイ化したのでレ … デュアルディスプレイのメイン画面は、MacBookProで、iMacがサブ画面の設定 になります。 この2つの デュアルディスプレイに必要なのは「コード1本」と「数分の時間」です。 私が使用しているMacの概要は メイン画面のMacBook ProはRetina, 13-inch, Early 2015のOSはHighSierra。 これはデュアルディスプレイになったり戻ったりしている！ と言うわけで、デュアルディスプレイにて作業をしてみました。 どうやってこっちの画面に行くんだ？って言う超初歩的状況・・笑 近くにMacBook Airおいてみて、作業開始。 ";s:7:"keyword";s:42:"MacBook Air デュアルディスプレイ";s:5:"links";s:4094:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Network-cell-info-lite-%E8%A8%AD%E5%AE%9A'>Network Cell Info Lite 設定</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B5%E3%82%A4%E3%83%8D%E3%83%AA%E3%82%A2-%E3%82%BB%E3%83%8D%E3%82%B7%E3%82%AA-%E9%81%95%E3%81%84'>サイネリア セネシオ 違い</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%AA%81%E6%92%83-%E3%83%A8%E3%83%8D%E3%82%B9%E3%82%B1-%E3%81%AE-%E9%87%A3%E3%82%8A-%E5%8B%95%E7%94%BB'>突撃 ヨネスケ の 釣り 動画</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A2%E3%83%87%E3%82%A3%E3%83%80%E3%82%B9-%E3%82%B9%E3%82%A6%E3%82%A7%E3%83%83%E3%83%88-%E3%83%AC%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B9'>アディダス スウェット レディース</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%B6%B3%E5%9B%B2-%E8%B6%B3%E5%B9%85-%E5%84%AA%E5%85%88'>足囲 足幅 優先</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Ford-usa-2019'>Ford Usa 2019</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%A2%E3%83%B3%E3%82%B9%E3%83%86%E3%83%A9-%E6%B0%97%E6%A0%B9-%E5%9F%8B%E3%82%81%E3%82%8B'>モンステラ 気根 埋める</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%A1%E3%83%AB%E3%82%AB%E3%83%AA-%E5%88%86%E5%89%B2%E6%89%95%E3%81%84-%E5%BC%95%E3%81%8D%E8%90%BD%E3%81%A8%E3%81%97%E6%97%A5'>メルカリ 分割払い 引き落とし日</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A4%A7%E5%88%86%E7%9C%8C-%E6%95%99%E8%81%B7%E5%93%A1-%E4%BA%92%E5%8A%A9%E4%BC%9A-%E5%8C%BB%E7%99%82-%E8%B2%BB'>大分県 教職員 互助会 医療 費</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%8C%BB%E5%AD%A6%E9%83%A8-%E4%B8%89-%E6%95%99%E7%A7%91'>医学部 三 教科</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AB%E3%82%A6%E3%83%9C%E3%83%BC%E3%82%A4-%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC-%E6%AD%8C'>カウボーイ スーパー 歌</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%85%83%E7%94%BA-%E8%AA%95%E7%94%9F%E6%97%A5-%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%82%BA'>元町 誕生日 サプライズ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%8E%9B%E3%81%91%E6%99%82%E8%A8%88-%E6%8E%9B%E3%81%91-%E6%96%B9-100%E5%9D%87'>掛け時計 掛け 方 100均</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=EMS-752SULS-TKR'>EMS 752SULS TKR</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%B2%90%E9%98%9C-%E4%B8%AD%E6%B4%A5%E5%B7%9D-%E6%B8%93%E8%B0%B7'>岐阜 中津川 渓谷</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9E%E3%83%84%E3%82%AD%E3%83%A8-%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%96-%E6%B4%97%E9%A1%94'>マツキヨ スクラブ 洗顔</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B8%80-%E7%95%AA-%E3%81%8F%E3%81%98-%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3'>一 番 くじ ログイン</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A8%E3%83%90%E3%83%BC%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3-%E3%83%A2%E3%83%BC%E3%83%89-%E3%83%95%E3%82%A7%E3%82%A4%E3%82%B9'>エバーグリーン モード フェイス</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B8%8D%E5%8B%95%E7%94%A3-%E6%A5%AD%E7%95%8C-%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8'>不動産 業界 イメージ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%94%BE%E8%AA%B2%E5%BE%8C-%E7%AD%89%E3%83%87%E3%82%A4%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9-%E3%82%BF%E3%82%A4%E3%83%97'>放課後 等デイサービス タイプ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%B0%B4%E9%81%93%E6%96%99%E9%87%91-%E5%B7%9D%E5%B4%8E-%E6%A8%AA%E6%B5%9C'>水道料金 川崎 横浜</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=vba-%E8%A6%AA%E3%83%95%E3%82%A9%E3%83%AB%E3%83%80%E5%90%8D-%E5%8F%96%E5%BE%97'>Vba 親フォルダ名 取得</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9F%E3%83%8B%E3%83%9E%E3%83%AA%E3%82%B9%E3%83%88-%E7%94%B7%E6%80%A7-50%E4%BB%A3'>ミニマリスト 男性 50代</a>,
+";s:7:"expired";i:-1;}

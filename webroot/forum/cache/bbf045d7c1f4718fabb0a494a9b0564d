@@ -1,0 +1,70 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:1581:"2)社会保険料控除と節税. 個人事業主をやっていて、戸惑う仕訳の一つが、国民健康保険です。 以下に解説します。 個人事業主の国民健康保険の仕訳 国民健康保険は経費にはできませんので、「事業主貸」の勘定科目で仕訳します。 たとえば、国民健康年金を支払うために、事業用の普通預金口座から20  個人事業主の国民健康保険料は経費として算出できるのでしょうか。また国民健康保険以外にも年金や所得税、住民税も経費にできるのでしょうか。早速調べてみました！ <br> <br>確定申告の際、国民健康保険料が控除できることをご存じですか？ 自分の分だけでなく、家族の分も含め、1年間に支払った国民健康保険料が控除でき、税金の還付を受けることができます。節税対策として有効な国民健康保険料の控除を受けるための書類作成の方法や必要な書類について解説。 国民健康保険料は確定申告で控除の対象？確定申告で控除するにはなにが必要？社会保険料控除の書き方は？このような疑問にお答えします。確定申告をする人、必見の情報ですよ！ 確定申告をして国民年金などを自分で支払う場合、税額が高いからと免除申請している方もいるかもしれません。実は、社会保険料控除の項目に該当する国民保険などは節税対策として使える場合があります。 ";s:7:"keyword";s:38:"国民健康保険 確定申告 項目";s:5:"links";s:6368:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9B%E3%83%B3%E3%83%80-%E3%82%AD%E3%83%BC%E3%83%AC%E3%82%B9-%E7%99%BB%E9%8C%B2-%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84'>ホンダ キーレス 登録 できない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%8D%9A%E5%A4%9A%E5%B1%8B-%E6%98%8E%E5%A4%AA%E5%AD%90-%E5%88%87%E3%82%8C-%E5%AD%90'>博多屋 明太子 切れ 子</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%86%E3%81%AA%E3%81%8E-%E9%A3%BC%E8%82%B2-%E7%97%85%E6%B0%97'>うなぎ 飼育 病気</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%BF%E3%83%B3%E3%83%88-%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%82%A4%E3%83%B3%E3%82%B8%E3%82%B1%E3%83%BC%E3%82%BF%E3%83%BC-%E7%82%B9%E6%BB%85'>タント セキュリティインジケーター 点滅</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%88%E3%83%A0%E3%83%95%E3%82%A9%E3%83%BC%E3%83%89-%E3%83%AA%E3%83%83%E3%83%97-%E3%82%B9%E3%83%91%E3%83%BC%E3%82%AF'>トムフォード リップ スパーク</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%96%B0%E6%BD%9F-%E5%A4%A7%E8%B3%9E-%E5%85%B8-2020-%E9%A8%8E%E6%89%8B'>新潟 大賞 典 2020 騎手</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E8%A8%BA%E7%99%82-%E6%9D%B1%E4%BA%AC-%E7%9C%BC%E7%A7%91'>オンライン診療 東京 眼科</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%AC%BC-%E6%BB%85%E3%81%AE%E5%88%83-%E5%86%A8%E5%B2%A1-%E9%80%86%E8%A1%8C-pixiv'>鬼 滅の刃 冨岡 逆行 Pixiv</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=A3-%E3%82%B5%E3%82%A4%E3%82%BA-%E6%B5%B7%E5%A4%96'>A3 サイズ 海外</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B9%E3%83%A2%E3%83%BC%E3%82%AF%E3%82%B5%E3%83%BC%E3%83%A2%E3%83%B3-%E3%82%B5%E3%83%B3%E3%83%89%E3%82%A4%E3%83%83%E3%83%81-%E6%9D%B1%E4%BA%AC'>スモークサーモン サンドイッチ 東京</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=safari-%E8%A8%80%E8%AA%9E%E8%A8%AD%E5%AE%9A-iphone'>Safari 言語設定 Iphone</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%AB%98%E6%89%80%E4%BD%9C%E6%A5%AD%E8%BB%8A-%E8%B3%87%E6%A0%BC-%E6%9C%AD%E5%B9%8C'>高所作業車 資格 札幌</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%9C%B0%E5%9F%9F%E5%8C%85%E6%8B%AC%E3%82%B1%E3%82%A2%E7%97%85%E6%A3%9F-%E7%9C%8B%E8%AD%B7%E5%BF%85%E8%A6%81%E5%BA%A6-B%E9%A0%85%E7%9B%AE'>地域包括ケア病棟 看護必要度 B項目</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%96-ja10-%E4%B8%8D%E8%A9%95'>スーパーカブ Ja10 不評</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%89%E3%83%B3%E3%82%AD-%E3%83%89%E3%83%AB%E3%82%AC%E3%83%90-%E9%A6%99%E6%B0%B4'>ドンキ ドルガバ 香水</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%94%A3%E5%A9%A6-%E4%BA%BA-%E7%A7%91-%E6%99%82%E9%96%93%E5%A4%96-%E6%96%99%E9%87%91'>産婦 人 科 時間外 料金</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Photoshop-%E3%83%96%E3%83%A9%E3%82%B7-%E4%BD%9C%E3%82%8A%E6%96%B9'>Photoshop ブラシ 作り方</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=RAVPower-Fast-Wireless-Charging-Stand-15W'>RAVPower Fast Wireless Charging Stand 15W</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B8%B8%E3%83%9C%E3%82%BF%E3%83%B3-%E7%B4%A0%E6%9D%90-%E3%83%95%E3%83%AA%E3%83%BC'>丸ボタン 素材 フリー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B8%8D%E5%A6%8A-%E5%8F%8B%E4%BA%BA-%E5%A6%8A%E5%A8%A0%E5%A0%B1%E5%91%8A'>不妊 友人 妊娠報告</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%87%91-%E5%B3%B0%E5%B1%B1-%E3%83%A4%E3%83%9E%E3%83%AC%E3%82%B3-%E5%A4%A7%E5%BC%9B%E5%B3%A0'>金 峰山 ヤマレコ 大弛峠</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%B0%B1%E6%B4%BB-%E9%9B%BB%E8%A9%B1-%E6%99%82%E9%96%93'>就活 電話 時間</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A4%89%E5%BD%A2-%E3%83%90%E3%83%83%E3%82%B0-%E4%BD%9C%E3%82%8A%E6%96%B9'>変形 バッグ 作り方</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC-%E7%84%BC%E3%81%8D%E8%8A%8B-%E8%B2%B7%E3%81%84%E6%96%B9'>スーパー 焼き芋 買い方</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BD%8E%E6%B8%A9%E8%AA%BF%E7%90%86-%E3%83%AC%E3%82%B7%E3%83%94-%E3%83%AD%E3%83%BC%E3%82%B9%E3%83%88%E3%83%93%E3%83%BC%E3%83%95'>低温調理 レシピ ローストビーフ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%94%A3%E5%A9%A6%E4%BA%BA%E7%A7%91-%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0-%E7%A5%9E%E5%A5%88%E5%B7%9D'>産婦人科 ランキング 神奈川</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%9F%93%E5%9B%BD-%E3%82%B7%E3%83%9F%E5%8F%96%E3%82%8A-%E3%81%8A%E3%81%99%E3%81%99%E3%82%81'>韓国 シミ取り おすすめ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BA%AC%E9%83%BD-%E4%BA%80%E5%B2%A1-%E8%8A%B1-%E3%82%84-%E6%B1%82%E4%BA%BA'>京都 亀岡 花 や 求人</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%95%E3%82%A9%E3%83%88-T%E3%82%B7%E3%83%A3%E3%83%84-%E4%BD%9C%E3%82%8A%E6%96%B9'>フォト Tシャツ 作り方</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%A1%E3%82%89%E3%81%97-%E5%AF%BF%E5%8F%B8-%E4%BA%BA%E6%B0%97-%E3%83%AC%E3%82%B7%E3%83%94-%E3%82%B1%E3%83%BC%E3%82%AD'>ちらし 寿司 人気 レシピ ケーキ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%8A%B1%E6%9D%9F-%E6%8C%81%E3%81%A1%E5%B8%B0%E3%82%8A-%E6%99%82%E9%96%93'>花束 持ち帰り 時間</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%84%A1%E5%8D%B0-%E4%BF%9D%E5%AD%98%E5%AE%B9%E5%99%A8-%E8%93%8B%E3%81%8C%E6%B5%AE%E3%81%8F'>無印 保存容器 蓋が浮く</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%81%E3%83%A3%E3%83%B3%E3%83%94%E3%82%AA%E3%83%B3-%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC-%E3%83%80%E3%82%B5%E3%81%84'>チャンピオン パーカー ダサい</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A4%A7%E5%92%8C-%E3%83%8F%E3%82%A4%E3%83%A4%E3%83%BC-%E6%B1%82%E4%BA%BA'>大和 ハイヤー 求人</a>,
+";s:7:"expired";i:-1;}

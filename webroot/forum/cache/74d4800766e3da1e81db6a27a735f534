@@ -1,0 +1,67 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:2458:"例えばエクセルで他人に配布するような資料を作成しているとき、セルに入力した計算式を見せたくないということはありませんか。 このページでは、見られたら困る！？セルの計算式を非表示にする方法をご紹介します。 エクセル（Excel）で表計算をしているとたまに数字・数値が完全に右寄せにならないことがあります。画像のようにB列とC列は数字の最後に半角スペースが入ってしまっていて右寄せになっていません。D列のように右寄せにしたいですが、スペースが入ってしまって右寄せなりません。  OS：Windows7でOffice2010を利用しています。 既存のファイルを開くと、データの入っているセルの一部が白紙表示されてしまう現象が続いており、困っています。 たとえば ===== 1 田中 17500 2 鈴木 17500 3 山田 12000 4 石川 13000 佐藤 ←数字のデータは入っているのに表示されない。 表示形式を数値にすると右にすき間ができる: 2004.04.14 水: 数字を括弧で括って入力してもマイナスにならないように−文字列・シングルクォーテーション: 2004.02.25 水: 千円単位・百万円単位で表示する: 2003.11.25 火: 数字や数式をそのまま表示させたい <br> <br>また、列番号や行番号を示す見出し（③）の表示も今回は必要ないと考えましょう。 では、これらを非表示にしてみましょう。 [表示]タブ（④）  <br>非表示にしたシートを再表示されないようにする 【Excel2016,2013】 Excelユーザー定義関数を理屈抜きで作ろう 【Excel2016,2013】 一番上の列が数字になってしまったのをアルファベットに戻すには？ 【Excel2016,2013】 外部ファイルにハイパーリンクを貼る技 【Excel2016,2013】 目に見える可視セル … エクセル(Excel)で分数を入力すると日付になってしまう場合の対処法。分数の表示形式で分母の桁数を指定し、近似値に分母の数字を丸める(四捨五入に近い考え方)機能がある。その指定方法について。 重複しないランダムな数字を表示することができました。抽選では数字が小さい人から選ぶなどして活用しましょう。 ランダムに並び替える. <br>";s:7:"keyword";s:35:"エクセル 数字 表示しない";s:5:"links";s:6048:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%A9%E3%82%B0%E3%83%93%E3%83%BC-%E6%9B%B2-2019'>ラグビー 曲 2019</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%92%E3%83%97%E3%83%9E%E3%82%A4-%E6%BC%AB%E7%94%BB-%E5%90%8D%E5%8F%A4%E5%B1%8B'>ヒプマイ 漫画 名古屋</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%9B%BA%E5%AE%9A%E5%9B%9E%E7%B7%9A-%E3%83%9D%E3%82%B1%E3%83%83%E3%83%88wi-fi-%E4%B8%A1%E6%96%B9-au'>固定回線 ポケットwi-fi 両方 Au</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=OCN-%E3%83%90%E3%83%AA%E3%83%A5%E3%83%BC%E3%83%97%E3%83%A9%E3%83%B3-%E3%82%BF%E3%82%A4%E3%83%9F%E3%83%B3%E3%82%B0'>OCN バリュープラン タイミング</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BC%8A%E8%97%A4%E4%B9%85%E5%8F%B3%E8%A1%9B%E9%96%80-%E3%83%81%E3%83%A7%E3%82%B3-%E5%8F%A3%E3%82%B3%E3%83%9F'>伊藤久右衛門 チョコ 口コミ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B8%AD%E6%B4%A5%E5%B8%82-%E5%B1%85%E9%85%92%E5%B1%8B-%E7%84%BC%E3%81%8D%E9%B3%A5'>中津市 居酒屋 焼き鳥</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%8F%E3%82%A4%E3%82%A8%E3%83%BC%E3%82%B9-%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%94%E3%83%B3%E3%82%B0%E3%82%AB%E3%83%BC-%E3%82%B7%E3%83%A3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%BC%E3%83%A0'>ハイエース キャンピングカー シャワールーム</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A2%E3%83%87%E3%82%A3%E3%83%80%E3%82%B9-%E3%82%B4%E3%83%AB%E3%83%95%E3%82%A6%E3%82%A7%E3%82%A2-%E3%82%A2%E3%82%A6%E3%83%88%E3%83%AC%E3%83%83%E3%83%88'>アディダス ゴルフウェア アウトレット</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A4%A7%E3%81%8D%E3%81%84-%E3%83%AC%E3%83%B3%E3%82%B3%E3%83%B3-%E3%83%AC%E3%82%B7%E3%83%94'>大きい レンコン レシピ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=50-%E4%BB%A3-%E5%A5%B3%E6%80%A7-%E3%81%8A%E6%89%8B%E6%9C%AC-%E3%83%95%E3%82%A1%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E7%94%BB%E5%83%8F'>50 代 女性 お手本 ファッション画像</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AD%E3%83%AA%E3%83%B3-%E4%B8%80-%E7%95%AA-%E6%90%BE%E3%82%8A-%E9%80%9A%E8%B2%A9'>キリン 一 番 搾り 通販</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=100-%E5%9D%87-%E7%9B%97%E9%9B%A3-%E9%98%B2%E6%AD%A2'>100 均 盗難 防止</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%BC%B6%E3%82%B8%E3%83%A5%E3%83%BC%E3%82%B9-%E9%96%8B%E3%81%91%E3%82%8B-%E9%81%93%E5%85%B7'>缶ジュース 開ける 道具</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%82%AA%E7%8E%89%E3%82%B3%E3%83%AC%E3%82%B9%E3%83%86%E3%83%AD%E3%83%BC%E3%83%AB-%E3%83%A8%E3%83%BC%E3%82%B0%E3%83%AB%E3%83%88-%E3%81%8A%E3%81%99%E3%81%99%E3%82%81'>悪玉コレステロール ヨーグルト おすすめ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%BB%E3%83%96%E3%83%B3-%E5%92%8C%E9%A2%A8%E3%83%84%E3%83%8A%E3%83%9E%E3%83%A8-%E3%81%AA%E3%81%8F%E3%81%AA%E3%81%A3%E3%81%9F'>セブン 和風ツナマヨ なくなった</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%B0%8F%E5%AD%A6%E6%A0%A1-%E5%85%AD-%E5%B9%B4%E7%94%9F-%E8%8B%B1%E8%AA%9E'>小学校 六 年生 英語</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%A5%9E%E6%88%B8-%E8%82%89%E5%AF%BF%E5%8F%B8-%E7%82%99%E3%82%8A'>神戸 肉寿司 炙り</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%98%BF%E8%98%87%E5%B1%B1-%E8%AD%A6%E6%88%92%E3%83%AC%E3%83%99%E3%83%AB2-%E8%A6%B3%E5%85%89'>阿蘇山 警戒レベル2 観光</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%BF%97%E6%9C%9B%E5%8B%95%E6%A9%9F-800%E5%AD%97-%E8%BB%A2%E8%81%B7'>志望動機 800字 転職</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A8%E3%83%83%E3%83%95%E3%82%A7%E3%83%AB-%E5%A1%94-%E8%A6%8B%E3%81%A9%E3%81%93%E3%82%8D-%E6%A5%BD%E3%81%97%E3%81%BF-%E6%96%B9'>エッフェル 塔 見どころ 楽しみ 方</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%8C%97%E4%B9%9D%E5%B7%9E%E5%B8%82-%E7%B5%A6%E4%BB%98%E9%87%91-%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3'>北九州市 給付金 オンライン</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B9%E3%83%A2%E3%83%83%E3%82%AF-%E8%A3%BE%E4%B8%8A%E3%81%92-%E3%81%BE%E3%81%A4%E3%82%8A%E7%B8%AB%E3%81%84'>スモック 裾上げ まつり縫い</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%A5%BD%E5%A4%A9%E3%83%96%E3%83%83%E3%82%AF%E3%82%B9-%E4%BA%88%E7%B4%84-%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0'>楽天ブックス 予約 ランキング</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AB%E3%83%96-%E3%83%91%E3%82%A4%E3%83%AD%E3%83%83%E3%83%88-%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%A5%E3%83%BC%E8%AA%BF%E6%95%B4'>カブ パイロット スクリュー調整</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%B1%86%E4%B9%B3-%E6%B8%A9%E3%82%81-%E5%8A%B9%E6%9E%9C'>豆乳 温め 効果</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%8C%BB%E5%AD%A6%E9%83%A8-%E9%9D%A2%E6%8E%A5-%E7%AC%91%E9%A1%94'>医学部 面接 笑顔</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A2%E3%82%B0%E3%83%BC%E8%B1%9A-%E7%84%BC%E8%82%89-%E5%9B%BD%E9%9A%9B%E9%80%9A%E3%82%8A'>アグー豚 焼肉 国際通り</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A5%88%E8%89%AF-%E4%B8%89%E6%9D%A1%E9%80%9A%E3%82%8A-%E3%82%AB%E3%83%95%E3%82%A7'>奈良 三条通り カフェ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%A9%E3%82%AF%E3%83%80-%E5%81%B6%E8%B9%84-%E7%9B%AE'>ラクダ 偶蹄 目</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%8A%AC-%E7%B5%B5%E9%A6%AC-%E7%A5%9E%E7%A4%BE'>犬 絵馬 神社</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%B1%8A%E7%94%B0%E5%B8%82-%E7%B5%A6%E9%A3%9F-%E7%95%B0%E7%89%A9%E6%B7%B7%E5%85%A5'>豊田市 給食 異物混入</a>,
+";s:7:"expired";i:-1;}

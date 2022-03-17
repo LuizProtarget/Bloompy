@@ -1,0 +1,75 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:6788:"Xperia Z3 Tablet CompactをRoot化できた方おられますか？ 【追記】Bootloader Lockedでも出来る、Xperia Z3シリーズのroot権限取得の手順; ざっくり言うと[Z3 Tablet Compact を Z3 化] → [root 取る] → [リカバリ入れる] → [Z3 Tablet Compact にもどす] って感じ。 もしもシークスを運営するエックスモバイルさんからお借りしたXperia Z3 Tablet Compact。【MVNO】もしもシークスで好評発売中のZ3 Tablet Compactを使ってみた(1)で初期設定編として考. ソニー Xperia(TM) Tablet 公式ウェブサイト。Xperia(TM) TabletXperia（TM） Z3 Tablet Compactの商品ページ。Xperia（TM） Z3 Tablet Compactの主な仕様をご紹介いたします。 FTFにはSonyの独自形式のファイルが入っており、Sonyの署名がないとXperia上で動作しないのでウイルスやバックドアは仕掛けられないようになっています。  Xperia Z3 Compact Root取得 概要. Xperia Z3 Compactは、23.0.A.2.93のkernel上の脆弱性を利用してRoot権限を取得することが出来ます。つまり、Xperia Z3 CompactでRoot権限を取得するためには海外ROMを焼いておく必要があるわけです。 i got los-17.1 … evil-god OP 2020-Apr-14 5:30. 人気のスマホ、xperia z3 tablet compactがイッパイ！国内モデル、国内SIMフリー、海外モデル、過去モデル等取扱しております。中古xperia z3 tablet compactを買うなら、創業20年以上のイオシスへ！新品から中古までお値打ちに格安販売中！最短翌日配送、商品保証も充実！ <br> <br>8月16日更新：本日、Android 9.0 PieへアップデートされるXperia機種の対象リストが公式発表されました。これにより、この記事内にある一部モデルがアプデ対象外となることが判明。よって、この記事は無視をしてこちらの公式リストを Xperia Tablet Z Wi-Fi(SGP312)を長いこと使っているが、そろそろandroidのOSも古いし、公式のアップデートも止まっているし、カスタムROMを導入してみた。 因みに公式のアップデートは、グローバル版だと、android 5.1.1なのに、日本は、android 4.2.2という残念な状況。 xda-developers Sony Xperia Z3 Tablet Compact Xperia Z3 Tablet Compact Original Android Development [ROM][Unlocked BL][V7 02.07.2017] LineageOS BETA (NJH47D) for SGP611/SGP621 by lowtraxx XDA Developers was founded by developers, for developers. Xperia X Compact F5321にPOBox Plusを入れてみた Xperia Z3 Compact SO-02Gの海外ROM化 Xperia XZ Premiumの概要、対応ネットワークバンド、Z5 Premiumとの比較など Xperia Z3 Compact D5803とD5833の違いについて 「Xperia Ace」のスペック概要、対応ネットワークバンド、過去モデル … ALL-TIME. Xperia Z3 で素の Android 6.0 Marshmallow を利用することがカスタム ROM「ZyxxOS」で可能になりました。 ZyxxOS は、AOSP のソースコードと Sony が公開した Android 6.0 用のドライバを用いて作成されたカスタム ROM です。現在は v1.1 が配布されています。 今年の初め辺り、Xperia Z3 Tablet Compactが届きました。 機種はSGP612で32GBモデル。 で、こいつとは別に去年の11月から我が家にいるZ3TC、こちらはSGP621でLTEモデル。 こいつも引っ張ってきて2台同時にBLU、カスタムROM導入を行いました。 RECENT. 3 Issues with lOs 15.1 on SGP612 … Xperia Z3 Tablet Compactのftfファイル。 ビルドナンバーは「23.0.1.A.0.167」。 ちなみに自分はXperia Firmで作ってしまったのでこれらのリンク先は試していません。 ウィルス感染しても悪しからず。 SGP621向けに修正されたgiefroot; SuperSU ドコモから2014年夏モデルのXperia A4 SO-04Gが発売になりました。Xperia A4 SO-04Gは新発売の機種ではありますが、中身はXperia Z3 Compact SO-02Gそのままに外装デザインとOSをAndroid 5.0 Lollipopに変更された機種だと思われます。 ソニー Xperia(TM) Tablet 公式ウェブサイト。Xperia(TM) TabletXperia（TM） Z3 Tablet Compactの商品ページです。 Xperia Z3以前の国内版をRootしたことが有る方ならわかると思いますが、ここまでならXperia Z3以前と同じなんです。 が、Bootloader Unlockが不可能なだけでなく、Xperia Z4以降はある仕様が変わってしまったんです。 なぜBootloaderがUnlockできないと困るの？ いままでのXperia端末ではセキュリティ強化 … Xperia Z3 Tablet Compact SGP612という8インチの薄型軽量のタブレットを使っていました。 スマホの画面は文字が小さくて老眼にはちょっと厳しいし（笑）、大型のタブレットを持ち歩くほど体力もない（笑） このぐらいの薄型軽量のタブレットってあまりなかったので重宝していたのです。 Xperia Z3 Tablet Compactは、"買い"です。 2020年になってもソニーはタブレットの新機種を今の所発売していません。Xperia Z3 Tablet Compactは、貴重なソニータブレットとして今後も引き続き売れていきそうです。 個人的なXperia Z3 Tablet Compactの評価は下記のとおりです！ 続きを読む… Xperia Z3 Compactは、23.0.A.2.93のkernel上の脆弱性を利用してRoot権限を取得することが出来ます。つまり、Xperia Z3 CompactでRoot権限を取得するためには海外ROMを焼いておく必要があるわけです。 ソニー タブレット「Xperia Z3 Tablet Compact」の機種別サポートページです。取扱説明書（ヘルプガイド）や主な仕様、タブレットの初期設定方法や活用方法など、さまざまなサポート情報をご案内して … Xperia Z3 Compact Root取得 概要. ソニー タブレット「Xperia Z3 Tablet Compact」の機種別サポートページです。取扱説明書（ヘルプガイド）や主な仕様、タブレットの初期設定方法や活用方法など、さまざまなサポート情報をご案内して … 6 (quote) hi, its not dead, but suspended. [Xperia Z3 Compact]CyanogenMod 12.1をインストール 2015-12-03 最近のSONYさんはbootloaderをアンロックするとDRMキーを削除して、写真の画質を悪くしたりとなかなかやってくれます。 Xperia Z3 Tablet Compact Original Android Development; Xperia Z3 Tablet Compact General; Xperia Z3 Tablet Compact Q&A, Help & Troubleshooting; Xperia Z3 Tablet Compact Accessories ; Xperia Z3 Tablet Compact Android Development; Most Thanked. ";s:7:"keyword";s:40:"xperia z3 tablet compact カスタムrom";s:5:"links";s:8294:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%84%E3%81%A3%E3%81%A6%E3%81%8A%E3%81%8D%E3%81%9F%E3%81%84-%E8%8B%B1%E8%AA%9E-%E9%95%B7%E6%96%87-%E7%A5%9E%E6%88%B8%E5%A4%A7%E5%AD%A6'>やっておきたい 英語 長文 神戸大学</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Venchi-%E3%83%81%E3%83%A7%E3%82%B3-%E3%83%94%E3%82%B9%E3%82%BF%E3%83%81%E3%82%AA'>Venchi チョコ ピスタチオ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%A1%E3%83%AB%E3%82%AB%E3%83%AA-%E5%8D%B3%E8%B3%BC%E5%85%A5-%E5%8F%AF-%E6%A8%AA%E5%8F%96%E3%82%8A'>メルカリ 即購入 可 横取り</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%BA%83%E5%B3%B6%E5%B8%82%E6%B0%91%E7%97%85%E9%99%A2-%E5%8C%BB%E7%99%82%E4%BA%8B%E5%8B%99-%E6%B1%82%E4%BA%BA'>広島市民病院 医療事務 求人</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%9B%BD%E5%A3%AB%E8%88%98%E5%A4%A7%E5%AD%A6-%E5%A4%9A%E6%91%A9%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%91%E3%82%B9-%E5%AF%AE'>国士舘大学 多摩キャンパス 寮</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%AA%E3%83%BC%E3%83%AB-%E3%83%8F%E3%83%B3%E3%83%89%E3%83%AB-%E3%83%8E%E3%83%96-%E4%BA%A4%E6%8F%9B'>リール ハンドル ノブ 交換</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%8B%A5%E6%B1%9F%E4%B8%AD%E5%AD%A6%E6%A0%A1-%E4%BF%AE%E5%AD%A6-%E6%97%85%E8%A1%8C'>若江中学校 修学 旅行</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%B4%85%E8%8C%B6-%E3%83%86%E3%82%A3%E3%83%BC%E3%83%90%E3%83%83%E3%82%B0-%E6%94%BE%E7%BD%AE'>紅茶 ティーバッグ 放置</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%BC%E3%82%B8-%E3%83%93%E3%83%AB%E3%83%80%E3%83%BCSP-%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9%E3%82%AB%E3%82%A6%E3%83%B3%E3%82%BF%E3%83%BC'>ホームページ ビルダーSP アクセスカウンター</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%A1%E3%81%B5%E3%82%8C-%E7%BE%8E%E7%99%BD-%E4%B9%B3%E6%B6%B2-%E6%A5%BD%E5%A4%A9'>ちふれ 美白 乳液 楽天</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A6%E3%83%83%E3%83%89%E3%83%99%E3%83%AA%E3%83%BC-%E3%82%B3%E3%83%A2%E3%83%B3-%E3%82%A2%E3%82%A6%E3%83%88%E3%83%AC%E3%83%83%E3%83%88-%E3%83%8A%E3%82%A4%E3%82%AD'>ウッドベリー コモン アウトレット ナイキ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%A6%E3%83%8B%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0-%E3%83%A9%E3%82%A4%E3%82%B9-%E3%82%AF%E3%83%83%E3%82%AB%E3%83%BC-%E8%87%AA%E5%8B%95%E7%82%8A%E9%A3%AF'>ユニフレーム ライス クッカー 自動炊飯</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A-%E3%83%8D%E3%83%83%E3%82%AF%E3%83%AC%E3%82%B9%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3-%E7%A8%AE%E9%A1%9E'>プラチナ ネックレスチェーン 種類</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BA%AC%E9%83%BD-%E5%BB%BA%E7%AF%89-%E5%A4%A7%E5%AD%A6-%E6%A0%A1-%E7%95%99%E5%B9%B4'>京都 建築 大学 校 留年</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Ford-Motor-Company-usa'>Ford Motor Company Usa</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B8%89-%E4%BA%BA%E7%9B%AE-%E5%A6%8A%E5%A8%A0-%E3%81%97%E3%81%9F-%E3%81%8B%E3%82%82'>三 人目 妊娠 した かも</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%AC%BC-%E6%BB%85-%E3%81%AE%E5%88%83%E3%82%A6%E3%82%A8%E3%83%8F%E3%83%BC%E3%82%B9-%E3%82%B3%E3%83%B3%E3%83%93%E3%83%8B'>鬼 滅 の刃ウエハース コンビニ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AB%E3%83%AB%E3%82%AB%E3%83%83%E3%82%BF-%E3%83%8F%E3%83%B3%E3%83%89%E3%83%AB-%E3%82%AC%E3%82%BF'>カルカッタ ハンドル ガタ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%86%E3%82%A3%E3%83%95%E3%82%A1%E3%83%8B%E3%83%BC-%E3%83%9F%E3%83%AB%E3%82%B0%E3%83%AC%E3%82%A4%E3%83%B3-%E9%87%8D%E3%81%AD%E3%81%A5%E3%81%91'>ティファニー ミルグレイン 重ねづけ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%80%E3%82%A4%E3%83%8F%E3%83%84-%E9%9B%BB%E5%8B%95%E3%83%95%E3%82%A1%E3%83%B3-%E3%83%AA%E3%82%B3%E3%83%BC%E3%83%AB'>ダイハツ 電動ファン リコール</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%AA%E3%82%B9-%E8%BB%8A-%E3%83%84%E3%83%A9%E3%83%A9'>リス 車 ツララ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%AD%E3%83%BC%E3%83%89%E3%83%90%E3%82%A4%E3%82%AF-%E3%82%B7%E3%83%95%E3%83%88%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%BC%E4%BA%A4%E6%8F%9B-%E3%83%90%E3%83%BC%E3%83%86%E3%83%BC%E3%83%97'>ロードバイク シフトワイヤー交換 バーテープ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A2%E3%83%BC%E3%83%A6%E3%83%AB-%E3%83%B4%E3%82%A7%E3%83%BC%E3%83%80-%E5%9B%BD%E5%86%85'>アーユル ヴェーダ 国内</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%8E-%E5%8F%A3%E3%82%B3%E3%83%9F-%E6%B4%97%E9%A1%94'>トランシーノ 口コミ 洗顔</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9-%E5%BC%95%E3%81%8D%E5%87%BA%E3%81%97-%E3%82%AB%E3%82%A4%E3%83%B3%E3%82%BA'>カラーボックス 引き出し カインズ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B5%E3%83%A9%E3%83%80-%E3%83%89%E3%83%AC%E3%83%83%E3%82%B7%E3%83%B3%E3%82%B0-%E3%81%94%E3%81%BE%E6%B2%B9'>サラダ ドレッシング ごま油</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Google-%E3%83%97%E3%83%AC%E3%82%A4-%E3%82%B2%E3%83%BC%E3%83%A0-%E7%84%A1%E6%96%99'>Google プレイ ゲーム 無料</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BC%BC%E9%A1%94%E7%B5%B5-%E3%83%81%E3%83%A7%E3%82%B3%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88-%E4%BD%9C%E3%82%8A%E6%96%B9'>似顔絵 チョコプレート 作り方</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%AD%A3%E7%A4%BE%E5%93%A1-%E3%81%8B%E3%82%89%E3%83%91%E3%83%BC%E3%83%88-%E6%99%82%E7%B5%A6-%E8%A8%88%E7%AE%97'>正社員 からパート 時給 計算</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%8E%89-%E6%B5%AE%E3%81%8D-%E4%BB%98%E3%81%91%E6%96%B9'>玉 浮き 付け方</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%A3%9F%E7%89%A9%E3%82%A2%E3%83%AC%E3%83%AB%E3%82%AE%E3%83%BC-%E5%85%8D%E7%96%AB%E7%99%82%E6%B3%95-%E6%B3%A8%E5%B0%84'>食物アレルギー 免疫療法 注射</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%94%E3%83%BC-%E3%83%89%E3%83%AC%E3%83%83%E3%82%B7%E3%83%B3%E3%82%B0-%E5%BB%83%E7%9B%A4'>キューピー ドレッシング 廃盤</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%BF%E3%82%B9%E3%82%AF%E3%81%AE%E6%9C%80%E5%BE%8C%E3%81%AE%E5%AE%9F%E8%A1%8C%E3%81%AF%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%81%AB%E3%82%88%E3%81%A3%E3%81%A6%E5%BC%B7%E5%88%B6%E7%B5%82%E4%BA%86-%E3%81%95%E3%82%8C-%E3%81%BE%E3%81%97%E3%81%9F'>タスクの最後の実行はユーザーによって強制終了 され ました</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Eclipse-Delete%E3%82%AD%E3%83%BC-%E5%8A%B9%E3%81%8B-%E3%81%AA%E3%81%84'>Eclipse Deleteキー 効か ない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%96%A2%E6%9D%B1-%E4%B8%AD%E5%AD%A6-%E5%81%8F%E5%B7%AE%E5%80%A4'>関東 中学 偏差値</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%8D%E3%82%AE%E3%83%88%E3%83%AD-%E7%94%A8%E3%83%9E%E3%82%B0%E3%83%AD-%E3%83%AC%E3%82%B7%E3%83%94'>ネギトロ 用マグロ レシピ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%AD%AF%E5%8C%BB%E8%80%85-%E6%B2%BB%E7%99%82%E8%B2%BB-%E8%B8%8F%E3%81%BF%E5%80%92%E3%81%97'>歯医者 治療費 踏み倒し</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%8F%E3%82%A4%E3%82%A8%E3%83%BC%E3%82%B9-%E3%83%92%E3%83%BC%E3%82%BF%E3%83%BC-%E3%83%91%E3%82%A4%E3%83%97'>ハイエース ヒーター パイプ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B0%E3%83%A9%E3%82%BF%E3%83%B3%E7%9A%BF-%E4%B8%8B%E6%95%B7%E3%81%8D-%E4%BB%A3%E7%94%A8'>グラタン皿 下敷き 代用</a>,
+";s:7:"expired";i:-1;}

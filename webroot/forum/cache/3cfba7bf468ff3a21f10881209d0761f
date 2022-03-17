@@ -1,0 +1,134 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:7813:"<br>老後貯金の平均額は参考データに過ぎない. <br> <br> 平均値と中央値？ ご存知 『平均値』 は平均を出したい数字を全て足して割ったもの、です。 その性質上、『貯蓄額の平均値』を出そうとすると、貯蓄額の極端に多いor少ない世帯によって値が引き上げ（下げ）られます。 老後の平均貯金額は2363万円! 60歳の平均貯金額をご存知ですか。リタイア後いくらあれば安心なんでしょう。老後ゆとりある生活をおくるためにはいくら貯金しておく必要があるのでしょうか。夫婦2人の場合、単身の場合の必要貯金額や年代別に貯蓄しておくべき貯金金額についてご紹介しています。 老後不安って言葉を聞くんですけど、実際に60歳を過ぎてリタイアした人の貯金っていくらくらいあるんですか？ 個人差が大きいと思うけど、平均値なら調べることができますよ！ 老後資金はいったいどれくらい必要なのか？自分たちと同じ世代の平均貯蓄額はいくらくらいなのか？ご存じない方も多いのではないでしょうか。この記事は、老後に必要な資金や平均貯蓄額を紹介するとともに、老後資金に困らない方法について、詳しく解説していきます。  <br>総務省の家計調査報告（平成28年（2016年）平均結果速報）によると、二人世帯の高齢者で無職の方の金融資産は合計2363万円という結果であったことがわかります。 この数字をみてあなたはどう感じますか？ 老後資金の平均必要貯蓄額はいくら？65歳までに夫婦2人で必要な貯蓄額は？ 老後資金は1000万円でも大丈夫？夫婦2人での老後のお金と暮らし方とは？ 老後の貯金はいくら必要？夫婦2人で老後に必要な貯金 … <br> <br>老後資金の平均必要貯蓄額はいくら？65歳までに夫婦2人で必要な貯蓄額は？ 老後資金は1000万円でも大丈夫？夫婦2人での老後のお金と暮らし方とは？ 老後の貯金はいくら必要？夫婦2人で老後に必要な貯金 … すべての年代を平均した貯金額は1,818万円であり、多くの人が定年退職をして老後生活を送っている60歳代の平均は2,282万円ということですが、これはあくまでも 平均貯金額 になります。 【老後貯金】一人暮らしの女性はいくら貯めておくべき？ 年金収入から割り出す貯金すべき額 . 老後の平均貯金額は2363万円! 老後資金の目安を知るうえで、重要になると思われるのが60代の金融資産額のデータです。ここでは60代の平均的な貯蓄額や老後資金を貯める方法について見ていきたいと思います。 総務省の家計調査報告（平成28年（2016年）平均結果速報）によると、二人世帯の高齢者で無職の方の金融資産は合計2363万円という結果であったことがわかります。 この数字をみてあなたはどう感じますか？ 老後の貯蓄額として3000万円以上貯めている方は27％しかいません。 老後家庭の平均貯金額～厚生労働白書から老後の貯蓄額を調べました～ 本文へスキップ 将来に必要な老後資金はいくらか、気になる人も多いでしょう。実際のところ、老後に備えて貯金はどのくらい必要なのでしょうか。今回は平均的な貯金額と、老後資金を貯めるためのコツを … 老後不安って言葉を聞くんですけど、実際に60歳を過ぎてリタイアした人の貯金っていくらくらいあるんですか？ 個人差が大きいと思うけど、平均値なら調べることができますよ！ 50代にもなるとよその家の老後のお金はどれくらい貯めているんだろう？とっても気になりませんか？総務省のデータでは、老後の貯蓄額の平均額はなんと2372万円という結果が！あなたはこの金額を多いと思いますか？それとも少ないと思いますか？ <br> 老後に不安はありますか？この記事では、「60歳の男性・女性の平均年収や貯金貯蓄額、その中央値」を紹介するとともに、貯金貯蓄の目的や老後までに必要となる金額などもご紹介します。少しでも老後の不安を和らげられますように、ぜひ読んでみてください！ <br> <br>みんな老後のためにいくら貯金をしているのか。年代別・収入別の平均貯金額をお伝えします。しかし、老後貯金で大事なのは「平均」より「目標」。この記事ではあなたにあった老後貯金の目標額の考え方と計算方法をご紹介していきます。 老後資金の平均必要貯蓄額はいくら？65歳までに夫婦2人で必要な貯蓄額は？ 老後資金は1000万円でも大丈夫？夫婦2人での老後のお金と暮らし方とは？ 老後の貯金はいくら必要？夫婦2人で老後に必要な貯金 … 老後の資金不足への不安が高まっている。一般的に老後には「どのくらい貯金があればよいのか」「自分がいくら備えるべきか」などは気になるところだろう。今回は老後の平均貯金額と老後資金を上手に貯める方法を5つ紹介する。老後（70代以上）の平均貯金額は1,079万円 老後資金の目安を知るうえで、重要になると思われるのが60代の金融資産額のデータです。ここでは60代の平均的な貯蓄額や老後資金を貯める方法について見ていきたいと思います。 老後の平均貯金額はどれくらい？貯金だけでなく資産で考えましょう！ 老後の平均貯金額ですが、ある調査によれば、二人以上の世帯の60歳代の 預貯金額平均は987万円で、70歳代以上では1,079万円となっています 。. 公的年金だけでは老後資金を賄えないといった不安などから、どの年代でも老後資金への関心が高まっている。特に40代にもなると本格的に老後のことを考え始める人も多いのではないだろうか。そこで今回は40代が知っておきたい老後の貯金額と資金不足に備えて活用したい制度を紹介する。 老後の資金不足への不安が高まっている。一般的に老後には「どのくらい貯金があればよいのか」「自分がいくら備えるべきか」などは気になるところだろう。今回は老後の平均貯金額と老後資金を上手に貯める方法を5つ紹介する。老後（70代以上）の平均貯金額は1,079万円 さて、 老後に必要な金額の平均は4800万円ということになりました。 しかしこれをこのまま貯金しなければならない、ということはありません。 独身者の貯金の平均額っていくら？30代、40代の平均貯金額は？自分の貯金は平均以上？もしもずっと独身だったら貯金はいくらあれば老後に足りる？十分な貯金のためには月々いくら貯めればよい？人には聞きづらい、独身の人の貯金について解説します。 老後資金必要金額平均は？老後資金を心配している人はたくさんいると思います。老後の資金として必要額はどれくらなのか？というのはみなさん知りたいところですね。実際に全国の人たちがどのように考えているのかの調査資料がありました。 老後貯蓄の平均＆中央値 . <br>";s:7:"keyword";s:20:"老後 貯金 平均";s:5:"links";s:18390:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%87%8E%E7%94%B0%E7%90%BA%E7%91%AF-%E3%83%90%E3%83%83%E3%83%88-12%E5%8F%96'>野田琺瑯 バット 12取</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=TSUTAYA-%E3%82%A2%E3%83%8A-%E9%9B%AA-2-%E3%82%B0%E3%83%83%E3%82%BA'>TSUTAYA アナ 雪 2 グッズ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=windows7-%E3%83%AD%E3%83%83%E3%82%AF%E7%94%BB%E9%9D%A2-%E8%A1%A8%E7%A4%BA%E3%81%97%E3%81%AA%E3%81%84'>Windows7 ロック画面 表示しない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%97%A5%E6%9C%AC%E5%A4%A7%E5%AD%A6-%E7%90%86%E5%B7%A5%E5%AD%A6%E9%83%A8-%E5%B0%B1%E8%81%B7%E5%85%88'>日本大学 理工学部 就職先</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%9B%B2%E3%81%8C%E6%8F%8F%E3%81%84%E3%81%9F-%E6%9C%88%E6%98%8E%E3%81%8B%E3%82%8A-%E3%83%86%E3%83%AC%E3%83%93%E5%A4%A7%E9%98%AA'>雲が描いた 月明かり テレビ大阪</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%89%B5%E5%91%B3-%E3%82%B7%E3%83%A3%E3%83%B3%E3%82%BF%E3%83%B3-%E3%82%B9%E3%83%BC%E3%83%97-%E3%81%88%E3%81%AE%E3%81%8D'>創味 シャンタン スープ えのき</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%80%E3%83%BC%E3%83%93%E3%83%BC-%E3%83%87%E3%82%A3%E3%83%BC%E3%83%97-%E3%82%A4%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88-%E7%94%A3%E9%A7%92'>ダービー ディープ インパクト 産駒</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9F%E3%83%A9%E3%83%BC%E3%83%AC%E3%82%B9-%E4%B8%89%E8%84%9A-100-%E5%9D%87'>ミラーレス 三脚 100 均</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%96%9C-%E5%90%8D%E5%89%8D-%E6%84%8F%E5%91%B3'>喜 名前 意味</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%A1%E3%83%AB%E3%82%AB%E3%83%AA-%E9%80%86%E6%81%A8%E3%81%BF-%E4%BD%8F%E6%89%80'>メルカリ 逆恨み 住所</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%88%86%E5%89%B2-%E4%BC%91%E6%81%AF-%E9%81%8B%E9%80%81'>分割 休息 運送</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Ford-usa-2019'>Ford Usa 2019</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=RX-8-%E3%82%A8%E3%83%B3%E3%82%B9%E3%83%88-%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AA%E3%83%B3%E3%82%B0'>RX-8 エンスト アイドリング</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%8D%97%E4%BC%8A%E8%B1%86-%E7%A7%BB%E4%BD%8F-%E3%83%96%E3%83%AD%E3%82%B0'>南伊豆 移住 ブログ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%9B%A2%E8%81%B7%E7%A5%A8-%E3%82%A2%E3%83%AB%E3%83%90%E3%82%A4%E3%83%88-%E7%9F%AD%E6%9C%9F'>離職票 アルバイト 短期</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%B2%B3%E5%90%88%E5%A1%BE-%E4%BA%AC%E9%83%BD-%E5%BA%9C%E7%AB%8B-%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6'>河合塾 京都 府立 医科大学</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%89%B2%E7%B4%99-%E5%8C%85%E8%A3%85-%E9%83%B5%E9%80%81'>色紙 包装 郵送</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%80%E3%83%83%E3%83%81%E3%82%AA%E3%83%BC%E3%83%96%E3%83%B3-%E4%B8%B8%E9%B6%8F-%E7%B1%B3'>ダッチオーブン 丸鶏 米</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%B1%8A%E6%A9%8B-%E8%B1%8A%E5%B7%9D-%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%AF%E3%83%BC%E3%82%AF-%E4%BB%95%E4%BA%8B-%E6%8E%A2%E3%81%97'>豊橋 豊川 ハローワーク 仕事 探し</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9D%E3%82%B1%E3%83%A2%E3%83%B3go-%E3%82%A6%E3%83%A9%E6%8A%80-gps-iphone'>ポケモンgo ウラ技 Gps Iphone</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%BB%8A-%E3%82%A8%E3%82%A2%E3%82%B3%E3%83%B3-%E3%82%B4%E3%83%AD%E3%82%B4%E3%83%AD'>車 エアコン ゴロゴロ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%BB%8A-%E4%B8%AD%E6%B3%8A-%E3%83%90%E3%82%A4%E3%82%B6%E3%83%BC'>車 中泊 バイザー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%BA%A6-%E9%A3%B4-%E5%8A%B9%E8%83%BD'>麦 飴 効能</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%94%9F%E6%B4%BB%E4%BF%9D%E8%AD%B7-%E5%B9%B4%E9%87%91%E6%89%8B%E5%B8%B3-%E5%86%8D%E7%99%BA%E8%A1%8C'>生活保護 年金手帳 再発行</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=301-%E3%83%AA%E3%83%80%E3%82%A4%E3%83%AC%E3%82%AF%E3%83%88-%E3%82%A4%E3%83%B3%E3%83%87%E3%83%83%E3%82%AF%E3%82%B9-%E5%89%8A%E9%99%A4'>301 リダイレクト インデックス 削除</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A4%A7%E9%98%AA%E5%B8%82%E7%AB%8B%E5%A4%A7%E5%AD%A6-%E5%95%86%E5%AD%A6%E9%83%A8-%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC'>大阪市立大学 商学部 センター</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%98%BF%E5%AF%BA%E6%B8%93%E8%B0%B7-%E3%82%B0%E3%83%A9%E3%83%B3-%E3%83%94%E3%83%B3%E3%82%B0'>阿寺渓谷 グラン ピング</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B7%E3%83%A3%E3%82%A6%E3%82%A8%E3%83%83%E3%82%BB%E3%83%B3-%E3%83%81%E3%83%BC%E3%82%BA-%E3%83%9D%E3%83%88%E3%83%95'>シャウエッセン チーズ ポトフ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A8%E3%82%AF%E3%82%BB%E3%83%AB-%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB-%E8%90%BD%E3%81%A1%E3%82%8B'>エクセル モバイル 落ちる</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=What-have-you-done-until-now'>What Have You Done Until Now</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Windows-%E7%94%BB%E5%83%8F-%E3%83%AA%E3%82%B5%E3%82%A4%E3%82%BA'>Windows 画像 リサイズ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BF%9D%E9%99%BA-%E8%96%AC%E5%89%A4%E5%B8%AB-%E7%99%BB%E9%8C%B2%E7%94%B3%E8%AB%8B%E6%9B%B8-%E8%A8%98%E5%85%A5-%E4%BE%8B'>保険 薬剤師 登録申請書 記入 例</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%9B%BD%E6%B0%91%E5%81%A5%E5%BA%B7%E4%BF%9D%E9%99%BA-%E5%8D%83%E8%91%89%E5%B8%82-%E6%B8%9B%E5%85%8D'>国民健康保険 千葉市 減免</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=N%E3%83%AF%E3%82%B4%E3%83%B3-%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3-%E3%81%8B%E3%81%91%E6%96%B9'>Nワゴン エンジン かけ方</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%A0-%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%97%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC-%E5%88%87%E3%82%8A%E6%9B%BF%E3%81%88'>クローム エクスプローラー 切り替え</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%85%AB%E6%88%B8-%E3%81%95%E3%81%8F%E3%82%89-%E7%97%85%E9%99%A2-%E5%8F%A3%E3%82%B3%E3%83%9F'>八戸 さくら 病院 口コミ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=ipa-%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E6%94%BB%E6%92%83-%E4%BA%8B%E4%BE%8B'>Ipa サイバー攻撃 事例</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%95%E3%82%A9%E3%83%88-%E3%83%90%E3%83%AB%E3%83%BC%E3%83%B3-%E7%B5%90%E5%A9%9A%E5%BC%8F'>フォト バルーン 結婚式</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%9B%A2%E4%B9%B3%E9%A3%9F-%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0%E7%85%AE-%E3%83%AC%E3%83%B3%E3%82%B8'>離乳食 クリーム煮 レンジ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=World-in-Union-95'>World In Union 95</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%B9%B2%E3%81%97%E8%8A%8B-%E8%8C%A8%E5%9F%8E-%E9%80%9A%E8%B2%A9'>干し芋 茨城 通販</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%BB%E3%82%AC-%E3%83%A9%E3%83%83%E3%82%AD%E3%83%BC%E3%81%8F%E3%81%98-%E3%82%B3%E3%83%8A%E3%83%B3'>セガ ラッキーくじ コナン</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=windows7-wifi-%E6%8E%A5%E7%B6%9A%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84'>Windows7 Wifi 接続できない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=amazon-%E6%B5%B7%E5%A4%96%E7%99%BA%E9%80%81-%E3%82%B3%E3%83%AD%E3%83%8A'>Amazon 海外発送 コロナ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=WiMAX-558Mbps-%E3%82%A8%E3%83%AA%E3%82%A2'>WiMAX 558Mbps エリア</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%80%B8-%E5%90%8D%E5%89%8D-%E5%A5%B3%E3%81%AE%E5%AD%90'>逸 名前 女の子</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%82%A6%E3%83%B3-%E3%82%B3%E3%83%BC%E3%83%87-%E3%83%A1%E3%83%B3%E3%82%BA'>ロングダウン コーデ メンズ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B3%E3%83%AA%E3%82%A8-%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%83%AA%E3%83%B3%E3%82%AF%E3%82%B9-%E3%83%AB%E3%82%A4-%E3%83%B4%E3%82%A3%E3%83%88%E3%83%B3-2054'>コリエ チェーンリンクス ルイ ヴィトン 2054</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=iPad-Pro-%E5%8B%95%E4%BD%9C-%E9%87%8D%E3%81%84'>IPad Pro 動作 重い</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%AA%E3%83%B3%E3%82%AF-%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3-%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96-%E5%89%B2%E3%82%8A%E5%BD%93%E3%81%A6'>リンク ステーション ネットワークドライブ 割り当て</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A4%8F%E6%9C%8D-%E7%9D%80%E5%9B%9E%E3%81%97-%E3%83%AC%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B9'>夏服 着回し レディース</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E8%A8%BA%E7%99%82-%E5%A4%A7%E9%98%AA%E5%B8%82-%E7%9A%AE%E8%86%9A%E7%A7%91'>オンライン診療 大阪市 皮膚科</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%8B%89%E5%BC%B7%E3%81%A7%E3%81%8D%E3%82%8B-%E3%82%AB%E3%83%95%E3%82%A7-%E7%BE%A4%E9%A6%AC'>勉強できる カフェ 群馬</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=65%E6%AD%B3%E4%BB%A5%E4%B8%8A-%E6%B1%82%E4%BA%BA---%E8%88%B9%E6%A9%8B%E5%B8%82'>65歳以上 求人 - 船橋市</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%B1%8A%E6%A9%8B-%E7%B5%82%E9%9B%BB-%E5%90%8D%E9%89%84'>豊橋 終電 名鉄</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%BB%BD%E3%83%88%E3%83%A9-%E3%83%9E%E3%83%95%E3%83%A9%E3%83%BC-%E8%BB%8A%E6%A4%9C%E5%AF%BE%E5%BF%9C'>軽トラ マフラー 車検対応</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%8F%E3%83%AA%E3%82%A6%E3%83%83%E3%83%89%E4%BF%B3%E5%84%AA-%E6%97%A5%E6%9C%AC%E4%BA%BA-%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%AB%E3%83%AB'>ハリウッド俳優 日本人 ミュージカル</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%BA%83%E5%B3%B6%E7%9C%8C-%E7%99%BA%E9%81%94%E9%9A%9C%E5%AE%B3-%E9%AB%98%E6%A0%A1'>広島県 発達障害 高校</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%B6%8F%E7%9A%AE-%E9%A3%9F%E3%81%B9%E3%82%89%E3%82%8C-%E3%81%AA%E3%81%84'>鶏皮 食べられ ない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BB%99%E5%8F%B0-%E6%B8%8B%E6%BB%9E-%E3%83%84%E3%82%A4%E3%83%83%E3%82%BF%E3%83%BC'>仙台 渋滞 ツイッター</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A4%A7%E5%88%86%E5%B8%82%E8%81%B7%E5%93%A1-%E4%BA%92%E5%8A%A9%E4%BC%9A-%E5%AE%B6%E6%97%8F-%E5%89%B2%E5%BC%95%E5%88%B8'>大分市職員 互助会 家族 割引券</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB-%E3%82%A2%E3%83%9E%E3%82%BE%E3%83%B3-%E9%80%81%E6%96%99-%E9%AB%98%E3%81%84'>アメリカ アマゾン 送料 高い</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%97%A5%E6%9C%AC-%E3%83%8F%E3%83%A0-HNA-30'>日本 ハム HNA-30</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%94%E3%81%BC%E3%81%86-%E5%86%B7%E5%87%8D-%E8%8C%B9%E3%81%A7%E3%82%8B'>ごぼう 冷凍 茹でる</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%95%99%E8%81%B7%E5%93%A1-%E4%BA%92%E5%8A%A9%E4%BC%9A-%E6%8E%9B%E9%87%91'>教職員 互助会 掛金</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A6%E3%82%A3%E3%83%AB-%E3%82%B7%E3%83%86%E3%82%A3-%E6%B1%A0%E8%A2%8B-%E5%8F%A3%E3%82%B3%E3%83%9F'>ウィル シティ 池袋 口コミ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%95%B7%E9%87%8E-%E6%88%90%E7%94%B0-%E3%83%90%E3%82%B9'>長野 成田 バス</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=LINE-%E3%81%AA%E3%82%8A%E3%81%99%E3%81%BE%E3%81%97-%E6%96%87%E7%AB%A0'>LINE なりすまし 文章</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%AA%8D%E3%82%81%E3%82%8B-%E5%8F%97%E3%81%91%E5%85%A5%E3%82%8C%E3%82%8B-%E9%81%95%E3%81%84'>認める 受け入れる 違い</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%82%9D%E8%87%93%E3%81%8C%E3%82%93-%E6%9C%AB%E6%9C%9F-%E9%A3%9F%E4%BA%8B'>肝臓がん 末期 食事</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%A1%E3%83%AB%E3%82%AB%E3%83%AA-%E6%A8%AA%E5%8F%96%E3%82%8A-%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8'>メルカリ 横取り メッセージ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%8D%B0%E9%91%91%E8%A8%BC%E6%98%8E-%E6%9C%89%E5%8A%B9%E6%9C%9F%E9%99%90-%E3%83%AD%E3%83%BC%E3%83%B3'>印鑑証明 有効期限 ローン</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%BB%E3%81%86%E3%82%8C%E3%82%93%E8%8D%89-%E5%8D%B5-%E3%81%97%E3%82%81%E3%81%98'>ほうれん草 卵 しめじ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%AE%AE%E5%8F%A4%E5%B3%B6-%E9%87%A3%E3%82%8A-%E4%BB%95%E6%8E%9B%E3%81%91'>宮古島 釣り 仕掛け</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93%E9%85%A2-%E3%81%AB%E3%82%93%E3%81%98%E3%82%93-%E3%83%84%E3%83%8A'>かんたん酢 にんじん ツナ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%AD%A6%E5%85%B7-%E7%94%B2%E5%86%91-%E7%A0%94%E7%A9%B6'>武具 甲冑 研究</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AF%E3%83%AA%E3%82%B9%E3%82%BF-%E8%83%8C%E6%99%AF-%E7%B4%A0%E6%9D%90-%E5%AD%A6%E6%A0%A1'>クリスタ 背景 素材 学校</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%AE%AD-%E6%8A%BC%E3%81%97%E5%AF%BF%E5%8F%B8-%E5%AF%8C%E5%B1%B1'>鮭 押し寿司 富山</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%B2%B3%E5%90%88%E5%A1%BE-%E5%A4%A7%E5%AD%A6%E3%82%B3%E3%83%BC%E3%83%89-2020'>河合塾 大学コード 2020</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B8%80-%E7%95%AA-%E7%94%BB%E6%95%B0-%E3%81%8C%E5%A4%9A%E3%81%84-%E9%83%A8%E9%A6%96'>一 番 画数 が多い 部首</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%90%8D%E6%8E%A2%E5%81%B5%E3%82%B3%E3%83%8A%E3%83%B3-%E7%B4%85%E3%81%AE%E4%BF%AE%E5%AD%A6%E6%97%85%E8%A1%8C-dvd%E3%83%A9%E3%83%99%E3%83%AB'>名探偵コナン 紅の修学旅行 Dvdラベル</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%9D%A2%E6%8E%A5-%E3%81%97%E3%81%AA%E3%81%84-%E3%81%A7%E6%8E%A1%E7%94%A8'>面接 しない で採用</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9E%E3%82%A4%E3%82%B1%E3%83%ABj%E3%83%95%E3%82%A9%E3%83%83%E3%82%AF%E3%82%B9-%E3%83%90%E3%83%83%E3%82%AF%E3%83%88%E3%82%A5%E3%82%B6%E3%83%95%E3%83%A5%E3%83%BC%E3%83%81%E3%83%A3%E3%83%BC-%E5%B9%B4%E9%BD%A2'>マイケルjフォックス バックトゥザフューチャー 年齢</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Mac-chrome-profile-directory'>Mac Chrome Profile Directory</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=supreme-%E3%83%97%E3%83%AC%E5%80%A4-%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0'>Supreme プレ値 ランキング</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%8F%E3%82%A4%E3%82%A8%E3%83%BC%E3%82%B9-%E5%A4%A9%E4%BA%95-%E3%83%AC%E3%82%A2%E3%83%AB%E3%82%B7%E3%83%AB%E3%83%88'>ハイエース 天井 レアルシルト</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=mac-dvd%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96-%E5%8F%96%E3%82%8A%E5%A4%96%E3%81%97'>Mac Dvdドライブ 取り外し</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BA%AC%E9%83%BD-%E5%9C%B0%E9%9C%87-%E6%9C%80%E6%96%B0'>京都 地震 最新</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%B8%88%E7%94%9F%E4%BC%9A%E4%B8%AD%E5%A4%AE%E7%97%85%E9%99%A2-%E7%9C%8B%E8%AD%B7%E5%B8%AB-%E5%80%8D%E7%8E%87'>済生会中央病院 看護師 倍率</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AD%E3%83%B3%E3%82%B0%E3%82%BD%E3%83%95%E3%83%88%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3-%E7%84%A1%E6%9C%9F%E9%99%90-1%E5%8F%B0%E7%89%88'>キングソフトインターネットセキュリティ 無期限 1台版</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%9D%B1%E4%BA%AC%E5%8C%BB%E7%A7%91%E6%AD%AF%E7%A7%91%E5%A4%A7%E5%AD%A6-%E5%8F%A3%E8%85%94%E5%A4%96%E7%A7%91-%E4%BA%8B%E4%BB%B6'>東京医科歯科大学 口腔外科 事件</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%BB%E3%81%86%E3%82%8C%E3%82%93%E8%8D%89-%E3%82%BD%E3%83%86%E3%83%BC-%E6%B0%B4%E3%81%A3%E3%81%BD%E3%81%84'>ほうれん草 ソテー 水っぽい</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%B5%8C%E6%B8%88%E5%AD%A6%E9%83%A8-%E5%81%8F%E5%B7%AE%E5%80%A4-%E6%B2%B3%E5%90%88%E5%A1%BE'>経済学部 偏差値 河合塾</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%8D%97%E4%BC%8A%E8%B1%86-%E7%A7%BB%E4%BD%8F-%E3%83%96%E3%83%AD%E3%82%B0'>南伊豆 移住 ブログ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%B0%B4%E7%AD%92-%E4%B8%AD%E8%BA%AB-%E6%B0%B4'>水筒 中身 水</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%9F%B3%E5%9E%A3%E5%B3%B6-%E5%AD%90%E9%80%A3%E3%82%8C-2%E6%AD%B3-2-%E6%B3%8A-3-%E6%97%A5'>石垣島 子連れ 2歳 2 泊 3 日</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%A1%E3%82%89%E3%81%97-%E5%AF%BF%E5%8F%B8-%E4%BA%BA%E6%B0%97-%E3%83%AC%E3%82%B7%E3%83%94-%E3%82%B1%E3%83%BC%E3%82%AD'>ちらし 寿司 人気 レシピ ケーキ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=BIOS-%E3%82%BB%E3%83%BC%E3%83%95%E3%83%A2%E3%83%BC%E3%83%89-Lenovo'>BIOS セーフモード Lenovo</a>,
+";s:7:"expired";i:-1;}

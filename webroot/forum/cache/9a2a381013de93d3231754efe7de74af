@@ -1,0 +1,58 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:3918:"<p>暖機とはエンジンを暖める事です。キャブレターでもインジェクションでも暖気は必要！？この記事では暖気の目的とやり方を紹介しています。キャブとfiの仕組みの違いや、実際のバイクを使った暖気方法掲載しています。 </p> <p>バイクに乗り始めて、暖気運転はした方がいい、とか言われたことないですか？ なぜ暖気運転が必要なのか？きちんと説明できる人ってあんまりいない気がします 逆に、暖気運転しないとどうなるか？ 果たして、でかい空冷バイクでも暖機運転は必要なのか？ 暖気はなぜ必要なのか その理由…ご存知ですか？ ハーレーに限らず、車でもオートバイでもエンジン始動時に暖気が必要なのは皆さんご存知でしょう。しかし、なぜ暖気は必要なのでしょうか？ 答えは以下 … 毎日の通勤でtw225を使っています。どストライクなスカチューンなバイクです。。。 雨であろうが、寒かろうが関係なしにバイク通勤ですので過酷な環境ではあります。 バイクが好きで、大切にしている人ほど長時間のアイドリング傾向があるように思います。 大切にしているからこそ…なのでしょうから、エンジン以外にも気を配ってあげて下さいね。 バイクに乗るときには、キャブ車だけではなくインジェクションのバイクでも暖気運転をする方が良いでしょう。ここでは、暖気運転の目的や、正しい暖気運転の方法、時間、また、やってはいけない暖気運転について詳しく解説しています。 空冷旧車の暖気運転方法ここでは『z1,z2』に代表される空冷車両の暖気方法について解説していきます。どのサイトを見てもピンと来ない、分かりにくい、方法が見るページでまちまちな解説・・・。解説者によって様々な見解がありますのでそうなってしまう  17: 2017/06/09(金) 22:17:11.539 ID:nldUud9t0 >>13 まさか始動後水温上げてからそのまま通常走行しちゃう人か？ 8: 2017/06/09(金) 22:10:54.929 ID:2UIQz6tur. むかーしむかし、後輩に「バイクのエンジンがかからないんです！」って連絡があって 急いで現地に行ったら、チョーク引いて暖気してる最中にエンジンを止めて、そのままで再始動しようとしてエンジンがかからなかったって事がありました（笑） 昔は当たり前といわれていた暖気運転。 しかし最近では暖気はいらないなんてことを耳にします。 では昨今暖気運転が必要ないといわれる理由は何故でしょうか。. 早朝か深夜でもなきゃ外のバイクの音なんて気にならないだろ 一昔前のバイクはキャブレターが当たり前の時代でしたが今の新しいモデルはインジェクションが当たり前になりました。 毎日の通勤ではほぼ暖気無しのコールドスタートです. 暖気は夏も冬もする時間は変わらないとバイク屋から聞いた . エンジンが暖気出来ているからといって、車全体として見ると暖気が完了した訳では 無いのです。 最後に、ブレーキを意識した暖気ですね。 これは本当に例外ですので、通常は意識する必要はないと思いま … バイクに乗る人なら暖機運転という言葉を一度は耳にしたことがあると思います。暖機運転は以前から必要と言われてきましたが本当に必要なのでしょうか？また、暖機運転の正しい方法とは？意外と知らない人や間違っている人が多いこの2点について解説していきます。 </p>";s:7:"keyword";s:23:"バイク 暖気 時間";s:5:"links";s:4424:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%BC%AB%E7%94%BB-%E3%83%99%E3%82%BF-%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB'>漫画 ベタ デジタル</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%9F%E3%82%89-%E3%82%AB%E3%83%AC%E3%83%BC%E7%B2%89-%E3%83%91%E3%83%B3%E7%B2%89'>たら カレー粉 パン粉</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%9F%B3-%E7%84%BC%E3%81%8D%E8%8A%8B-%E7%9F%B3-%E6%B2%B3%E5%8E%9F'>石 焼き芋 石 河原</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Wi-Fi-%E3%82%AD%E3%83%A3%E3%83%83%E3%82%B7%E3%83%A5-%E3%82%AF%E3%83%AA%E3%82%A2'>Wi-Fi キャッシュ クリア</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%8E%A5%E7%B6%9A%E3%81%AE%E5%BE%A9%E5%85%83-%E3%81%93%E3%81%AE-%E6%8E%A5%E7%B6%9A%E3%81%AF%E5%BE%A9%E5%85%83-%E3%81%95%E3%82%8C-%E3%81%BE%E3%81%9B-%E3%82%93%E3%81%A7-%E3%81%97%E3%81%9F'>ネットワーク接続の復元 この 接続は復元 され ませ んで した</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%96%B0%E5%B9%B4%E4%BC%9A-%E6%96%B0%E6%88%90%E4%BA%BA-%E6%8C%A8%E6%8B%B6'>新年会 新成人 挨拶</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=office365-%E3%82%B5%E3%82%A4%E3%83%B3%E3%82%A2%E3%82%A6%E3%83%88-%E5%8B%9D%E6%89%8B%E3%81%AB'>Office365 サインアウト 勝手に</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=4%E6%9C%88-%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88-%E6%89%8B%E6%9B%B8%E3%81%8D'>4月 イラスト 手書き</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=office365-%E3%82%B5%E3%82%A4%E3%83%B3%E3%82%A2%E3%82%A6%E3%83%88-%E5%8B%9D%E6%89%8B%E3%81%AB'>Office365 サインアウト 勝手に</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%96%E3%83%AD%E3%83%83%E3%82%B3%E3%83%AA%E3%83%BC-%E3%82%AB%E3%83%8B%E7%BC%B6-%E8%B1%86%E8%85%90'>ブロッコリー カニ缶 豆腐</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%A2%93%E6%B0%B7%E5%B3%A0-%E5%BB%83%E7%B7%9A-%E7%90%86%E7%94%B1'>碓氷峠 廃線 理由</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%BA%90%E6%B3%89%E5%BE%B4%E5%8F%8E%E7%A5%A8-%E9%83%B5%E9%80%81%E6%96%B9%E6%B3%95-%E7%B0%A1%E6%98%93%E6%9B%B8%E7%95%99'>源泉徴収票 郵送方法 簡易書留</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%B4%E3%82%A7%E3%83%AB-%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2-%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3-%E6%AD%A2%E3%81%BE%E3%82%8B'>ヴェル ファイア エンジン 止まる</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%96%B0%E6%9C%AD%E5%B9%8C-%E5%B0%8F%E5%85%90%E7%A7%91-%E7%86%8A%E8%B0%B7'>新札幌 小児科 熊谷</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%A5%96-%E5%BC%95%E3%81%8D-%E6%89%8B-%E3%82%A2%E3%83%B3%E3%83%86%E3%82%A3%E3%83%BC%E3%82%AF'>襖 引き 手 アンティーク</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AB%E3%82%B8%E3%83%A5%E3%82%A2%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%87-%E3%83%AC%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B9-20%E4%BB%A3'>カジュアルコーデ レディース 20代</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%BF%E3%82%A4%E3%82%AC%E3%83%BC-%E7%82%8A%E9%A3%AF-%E5%99%A8-%E3%82%B5%E3%83%A9%E3%83%80-%E3%83%81%E3%82%AD%E3%83%B3'>タイガー 炊飯 器 サラダ チキン</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%88%A6%E5%A7%AB%E7%B5%B6%E5%94%B1-%E3%82%B7%E3%83%B3%E3%83%95%E3%82%A9%E3%82%AE%E3%82%A2-%E5%85%AC%E5%BC%8F'>戦姫絶唱 シンフォギア 公式</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%94%E3%82%A2%E3%82%B9-%E6%95%B0-%E6%84%8F%E5%91%B3-%E7%94%B7%E6%80%A7'>ピアス 数 意味 男性</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%A9%E3%82%B0%E3%83%93%E3%83%BC%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%82%AB%E3%83%83%E3%83%97-%E7%B5%90%E6%9E%9C-%E6%97%A5%E6%9C%AC'>ラグビーワールドカップ 結果 日本</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A4%A7%E9%98%AA-%E5%81%A5%E5%BA%B7%E8%A8%BA%E6%96%AD-%E5%9C%9F%E6%9B%9C%E6%97%A5'>大阪 健康診断 土曜日</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%BB%9F%E5%BC%8F%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%96-%E3%82%AA%E3%83%BC%E3%83%80%E3%83%BC-%E5%80%A4%E6%AE%B5'>軟式グローブ オーダー 値段</a>,
+";s:7:"expired";i:-1;}

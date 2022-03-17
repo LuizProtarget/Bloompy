@@ -1,0 +1,64 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:7410:"<p></p> <p>「安心献立」は、筑波大学とおいしい健康が共同で開発した 献立（1日単位）です。 糖尿病の方向けに1日のエネルギー1600kcal前後、塩分8g以下の献立を紹介しています。 糖尿病 病院食事メニュー1～5日目; 糖尿病 病院食事メニュー6～10日目; 糖尿病 病院食事メニュー11～15日目; 糖尿病 レシピ本; アラプラス糖ダウン; ファンケル 青汁 効果; 血糖値に効果的な水！ 血糖値を下げるお茶！健茶王 「境界型糖尿病と診断されたら食事や生活習慣を見直そう」糖尿病の食事と生活に関する総合情報サイトあおいまる。管理栄養士、医師、看護師、糖尿病療法士などの専門家が糖尿病家庭の日常に活かせるお役立ち情報、毎日を楽しくするためのニュース・コラムなどをお届けします。 糖尿病予防・改善に使える栄養士オススメの献立、糖尿病食レシピをご紹介します。短時間献立、ボリュームのある献立、グルメな一皿まで、コツとポイントを押さえて解説します。 楽天が運営する楽天レシピ。糖尿病のレシピ検索結果 279品、人気順。1番人気は糖質制限★簡単がっつり～低糖質★豚ニラもやし炒め♡！定番レシピからアレンジ料理までいろいろな味付けや調理法をランキング形式でご覧いただけます。 「糖質制限パパのパン」「糖質オフ！大豆粉のココアマフィン」「糖質制限♡ベイクドチーズケーキ 」「糖尿病予防に♪菊芋の葉のポ … 1型糖尿病の食事では、栄養バランスの取れた食事を規則正しく取ることを意識していれば特別な制限はありません。 ただし、普段の生活のなかで注意しておきたいポイントもあるので、それら概要を紹介し … 1型糖尿病患者の私が、自身の経験から低糖質な料理を紹介しています。その名も【ロカボ飯】。ロカボとはローカーボ（低糖質）という意味です。今回は、たっぷりな野菜と銀鮭のホイル焼き。とてもボリューミーで、糖尿病の方だけでなく、ダイエットにも最適です。 </p> <p>食事療法のネックの一つは食事の準備にかかる時間や料理のテクニックでしょう。今回は3分で準備できる、糖尿病向けのとっても簡単朝ごはんレシピとポイントをご紹介します。 糖尿病を予防・改善できる! では、糖尿病予備軍の食事のレシピのポイントを見てみましょう。 レシピのポイントは？ 糖尿病予備軍の人にとって重要なのは「血糖値を急上昇させない」ということです。そのためにはどのようなことに気をつければいいのか3つのポイントがあります。 糖尿病のレシピ集.  糖尿病の食生活改善には毎日の食事管理が大切です。適正なエネルギー量で1日3食いただくことを心がけましょう。しかし、そのようなレシピを毎日考えるのは大変です。当サイトではあなたの状態に合わせた適切なレシピを、豊富なストックから毎日の食事が楽しくなるように提供します。 !食事と簡単レシピ3種を公開！ 708件のビュー; 糖尿病は遺伝するのか？1型糖尿病と2型糖尿病を比較しながら解説 525件のビュー; 自己紹介と管理人の想い 379件のビュー; ヨーグルトや牛乳は血糖値や高血圧を抑える働きがあるのか？ 男性は15〜17歳まで摂取エネルギー量が増えています。女性は12〜14歳まで上昇しています。そして、これらの時期は成壮年期よりも摂取エネルギーが多いことがわかります。1型糖尿病患者さんの食事量もこれでいいのです。普通に食べましょう。 糖尿病の簡単おいしいレシピ（作り方）が11790品! 糖尿病食レシピ 私のおいしい糖尿病食＆低血糖時の補食。糖尿病の症状、食事、運動、検査、治療方法、合併症など幅広く解説。血糖値のコントロールをサポートするコンテンツもあります。 糖尿病患者さん向けの手間を省いて簡単な一週間の献立をご紹介。 月曜日から各曜日ごとのバランスの良いおいしいレシピを掲載中。 管理栄養士監修の食事 8847 品 国内外の糖尿病 ... 食事のコツーが開催されました（共催：Eatreat株式会社、「10月8 ... 1型糖尿病を発症して数か月。やっと少し落ち着いてはきたところですが、カーボカウントを覚えるように言われてい … 糖尿病の食生活改善には毎日の食事管理が大切です。適正なエネルギー量で1日3食いただくことを心がけましょう。しかし、そのようなレシピを毎日考えるのは大変です。当サイトではあなたの状態に合わせた適切なレシピを、豊富なストックから毎日の食事が楽しくなるように提供します。 こんにちは。 私は19歳の頃から一型糖尿病です。 週に3日程仕事して、他の日は家事をして過ごしていますが、よく体調を崩します。 インスリンは打っていますが基本的に高血糖がほとんどで、喉が渇き、水分を摂り過ぎて嘔吐する事が日常茶飯事で、動悸がしたり気持ち悪くなったり… iddm（1型糖尿病患者）である僕が. 食事の際に気をつけている4つのポイントを紹介していきたいと思います。 ダイエットにも効果的であると思いますのでダイエット中の方も是非最後まで読んでみてください。 毎日の食生活を気にかけているおかげなのか 1型糖尿病の進行のスピードは、劇症・急性発症・緩徐進行の3種類に分けられます。1型糖尿病の種類について、それぞれ見ていきましょう。 劇症1型糖尿病. いわて1型糖尿病情報サイトiT1DMは、1型糖尿病の患者さんの治療・療養生活に役立つさまざまな情報を、1型糖尿病の患者さんやご家族、患者さんのサポートに関わる皆様に、できるだけわかりやすくお伝えすることを目的としたウェブサイトです。 糖尿病患者は、単位を気にしたりなど食事において節制をする必要があります。 ここでは、時間帯別に糖尿病患者向けのレシピを紹介していますので、ぜひ参考にしてくださいね。 ※日本人の食事摂取基準2015(厚生労働省)より ※一部のレシピは表示されません。 カロリー表示、塩分表示の値についてのお問い合わせは、下のご意見ボックスよりお願いいたします。 食事療法のネックの一つは食事の準備にかかる時間や料理のテクニック。今回は3分で準備できる、糖尿病向けのラクラク朝ごはんを紹介します。日頃忙しくて、朝食を抜いている人、パンとコーヒーだけで済ませてしまうような人、朝からコンビニや外食をする人にも無理なく実践できます。 </p>";s:7:"keyword";s:34:"一 型 糖尿病 食事 レシピ";s:5:"links";s:5010:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BF%A1-%E5%A4%A7-%E7%B9%8A%E7%B6%AD-%E5%AD%A6%E9%83%A8-%E5%90%88%E6%A0%BC%E7%99%BA%E8%A1%A8'>信 大 繊維 学部 合格発表</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%B0%B4%E5%B3%B6-%E5%A4%A7-%E5%AE%99-%E5%AE%A3-%E6%9D%90'>水島 大 宙 宣 材</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%96%84%E5%85%89%E5%AF%BA-%E5%A4%A7%E5%8B%A7%E9%80%B2-%E3%81%8A%E5%AE%88%E3%82%8A'>善光寺 大勧進 お守り</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Su-Raspberry-Pi'>Su Raspberry Pi</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%91%E3%83%8A%E3%82%BD%E3%83%8B%E3%83%83%E3%82%AF-%E3%81%8A%E3%81%A9%E3%82%8A%E7%82%8A%E3%81%8D-sr-pa105'>パナソニック おどり炊き Sr-pa105</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Let%27s-Encrypt-%E3%82%AA%E3%83%AC%E3%82%AA%E3%83%AC%E8%A8%BC%E6%98%8E%E6%9B%B8'>Let's Encrypt オレオレ証明書</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%AF%8C%E5%A3%AB%E5%B1%B1-%E9%A0%88%E8%B5%B0%E5%8F%A3-%E9%9B%A3%E6%98%93%E5%BA%A6'>富士山 須走口 難易度</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%BA%83%E5%B3%B6%E5%A4%A7%E5%AD%A6-%E7%94%9F%E5%8D%94-%E5%AE%B6%E9%9B%BB'>広島大学 生協 家電</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%81%E3%83%8C-%E3%83%AF%E3%83%BC%E3%83%A0-%E3%82%B8%E3%82%B0%E3%83%98%E3%83%83%E3%83%89'>チヌ ワーム ジグヘッド</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%B5%B9%E3%81%95%E3%82%84-%E3%83%99%E3%83%BC%E3%82%B3%E3%83%B3-%E3%83%91%E3%82%B9%E3%82%BF'>絹さや ベーコン パスタ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%9B%B8%E7%B6%9A%E4%BA%BA-1%E4%BA%BA-%E9%81%BA%E7%94%A3%E5%88%86%E5%89%B2%E5%8D%94%E8%AD%B0%E6%9B%B8-%E7%A8%8E%E5%8B%99%E7%BD%B2'>相続人 1人 遺産分割協議書 税務署</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%8F%E3%82%A4%E3%82%BC%E3%83%83%E3%83%88-%E3%83%99%E3%83%83%E3%83%89%E3%82%AD%E3%83%83%E3%83%88-%E8%87%AA%E4%BD%9C'>ハイゼット ベッドキット 自作</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%96%A2%E8%A5%BF%E5%A4%A7%E5%AD%A6-%E5%AD%A6%E8%B2%BB-2020'>関西大学 学費 2020</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=lan%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB-%E4%BD%9C%E3%82%8A%E6%96%B9-cat6'>Lanケーブル 作り方 Cat6</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%87%AA%E8%BB%A2%E8%BB%8A-%E3%82%B9%E3%83%9D%E3%83%BC%E3%82%AF-%E3%83%9B%E3%83%BC%E3%83%A0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC'>自転車 スポーク ホームセンター</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%8E%9A%E7%94%9F%E5%B9%B4%E9%87%91-%E9%81%A9%E7%94%A8%E4%BA%8B%E6%A5%AD%E6%89%80-%E7%B5%B1%E5%90%88'>厚生年金 適用事業所 統合</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9C%E3%83%BC%E3%83%8A%E3%82%B9-%E4%B8%80%E6%B0%97%E3%81%AB-%E4%BD%BF%E3%81%86'>ボーナス 一気に 使う</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%AE%8B%E6%A5%AD-%E4%BC%91%E6%86%A9-%E3%81%84%E3%82%89%E3%81%AA%E3%81%84'>残業 休憩 いらない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Javascript-file-path-exists'>Javascript File Path Exists</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%94%E9%A3%AF%E9%A3%9F%E3%81%B9%E3%81%9F-%E9%9F%93%E5%9B%BD%E8%AA%9E-%E9%87%9C%E5%B1%B1'>ご飯食べた 韓国語 釜山</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA-%E5%A6%8A%E5%A9%A6-%E3%83%9E%E3%82%B9%E3%82%AF'>世田谷区 妊婦 マスク</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%B8%9D%E7%8E%8B%E5%88%87%E9%96%8B-%E7%99%BA%E9%81%94%E9%9A%9C%E5%AE%B3-%E9%96%A2%E4%BF%82'>帝王切開 発達障害 関係</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9F%E3%83%BC%E3%83%88%E3%83%9C%E3%83%BC%E3%83%AB-%E3%82%BD%E3%83%BC%E3%82%B9-%E5%AD%90%E4%BE%9B'>ミートボール ソース 子供</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B8%96%E7%95%8C-%E3%81%AE-%E5%9C%B0%E4%B8%8B%E9%89%84-%E7%B6%B2'>世界 の 地下鉄 網</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B8%AD%E5%AD%A6-%E6%95%B0%E5%AD%A6-%E5%BE%97%E6%84%8F%E3%81%AB%E3%81%AA%E3%82%8B%E6%96%B9%E6%B3%95'>中学 数学 得意になる方法</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%80%9A%E7%9F%A5%E3%83%89%E3%83%83%E3%83%88-%E5%87%BA-%E3%81%AA%E3%81%84'>通知ドット 出 ない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%97%E3%83%AD%E3%83%86%E3%82%A4%E3%83%B3-%E3%82%A2%E3%83%AC%E3%83%B3%E3%82%B8-%E3%83%89%E3%83%AA%E3%83%B3%E3%82%AF'>プロテイン アレンジ ドリンク</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%AF%96%E7%BC%B6-%E5%8D%B5-%E3%81%94%E9%A3%AF'>鯖缶 卵 ご飯</a>,
+";s:7:"expired";i:-1;}

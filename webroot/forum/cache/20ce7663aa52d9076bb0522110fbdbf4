@@ -1,0 +1,73 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:2622:"<p>移転時には法務局や税務署・労働基準監督署等への提出書類が多岐にわたります。 【法人設立届出書の書き方】（都道府県、市区町村バージョン）の内容、記入例を懇切丁寧に説明します！【その2】 。 大阪谷町の大山俊郎税理士事務所では、会社設立・開業・起業と顧問税理士、両方の経験を生かして、会社経営の準備やノウハウを起業家目線で大公開します。 </p> <p>ただし、東京23区の場合は少し異なります。 東京23区は地方自治法上「特別区」といいます。 大雑把に言うと東京23区の場合は、上記の②・③の機能を担っています。 ですから東京23区に会社を設立した場合の税務関係の届出先は次の通りです。 事業報告等提出書 （平成30年12月21日更新） ... 医療法人の設立・運営 ... 東京都福祉保健局：〒163-8001 東京都新宿区西新宿2丁目8番1号 電話：03-5320-4032 fax：03-5388-1400. 法人設立・開設届出書及び記載要領 事業年度・納税地・その他の変更・異動届出書及び記載要領 【横浜市電子申請サービス】からダウンロード（外部サイト）していただけます。 法人市民税の各申告書様式 … 法人設立届出書は、あなたが設立した会社の概要を税務署に知らせるための書類です。これを届け出ると税務署から税金関係の書類を送ってもらえます。また、法人設立届出書は、会社設立から2ヶ月以内に提出しなければいけません。 届出等様式. 会社を作ると、まず提出を考えなくてはならない届出書が 法人設立届出書 です。 東京の会社の場合は税務署と都税事務所の2箇所に提出します（ 区役所への提出は不要 ）。 神奈川県などの他の都道府県の場合は、都道府県税事務所及び市役所の3箇所に提出することになります。 </p> <p> 法人を設立した際に、どこを本店とするかは重要な問題です。 自宅を本店として法人設立し、後になって他の場所に本店を移転するケース等は多くありますよね。. 【法人設立届出書とは】 新しく法人を設立した際は、その旨を税務署だけではなく、都道府県・市町村にも知らせる必要があります。 ※東京都23区の場合は、東京都に知らせるだけでよく、区役所へ知らせる必要はありません。 1-1．法人設立届出書. </p>";s:7:"keyword";s:41:"法人設立届出書 東京都 提出先";s:5:"links";s:7394:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=IODATA-%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC-%E8%A9%95%E5%88%A4'>IODATA ルーター 評判</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%92%8C%E7%99%BD%E7%97%85%E9%99%A2-%E4%BA%BA%E9%96%93%E3%83%89%E3%83%83%E3%82%AF-%E5%8F%A3%E3%82%B3%E3%83%9F'>和白病院 人間ドック 口コミ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A2%E3%83%AB%E3%83%95%E3%82%A1%E3%83%BC%E3%83%89-%E3%83%8F%E3%82%A4%E3%83%96%E3%83%AA%E3%83%83%E3%83%89-S-%E5%86%85%E8%A3%85'>アルファード ハイブリッド S 内装</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%AD%E3%83%B3%E3%82%B0-%E3%83%91%E3%83%AB%E3%82%B9-%E3%83%A4%E3%82%B0-%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC-%E3%82%A8%E3%83%AA%E3%83%BC%E3%83%88-%E5%90%8D%E5%8F%A4%E5%B1%8B'>ロング パルス ヤグ レーザー エリート 名古屋</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%8C%AF%E6%9B%BF%E4%BC%91%E6%97%A5-%E6%8C%87%E5%AE%9A-%E6%97%A5'>振替休日 指定 日</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Chrome-%E3%83%96%E3%83%83%E3%82%AF%E3%83%9E%E3%83%BC%E3%82%AF%E6%95%B4%E7%90%86-%E3%82%A2%E3%83%89%E3%82%AA%E3%83%B3'>Chrome ブックマーク整理 アドオン</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%82%E3%81%A4%E6%A3%AE-%E3%83%9E%E3%82%A4%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3-%E6%9C%8D-id'>あつ森 マイデザイン 服 Id</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%94%A3%E5%BE%8C-%E3%81%93%E3%81%86%E3%82%82%E3%82%93-%E9%81%95%E5%92%8C%E6%84%9F'>産後 こうもん 違和感</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%AD%E3%83%BC%E3%82%BD%E3%83%B3-au%E3%83%9A%E3%82%A4-%E4%BD%BF%E3%81%84%E6%96%B9'>ローソン Auペイ 使い方</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%B4%80%E5%B7%9E%E9%87%A3%E3%82%8A-%E5%AF%9D%E3%82%A6%E3%82%AD-%E3%81%8A%E3%81%99%E3%81%99%E3%82%81'>紀州釣り 寝ウキ おすすめ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Au%E6%96%99%E9%87%91-%E6%94%AF%E6%89%95%E3%81%84-%E7%A2%BA%E8%AA%8D'>Au料金 支払い 確認</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A4%A7%E5%AE%AE%E9%A7%85-%E9%A7%90%E8%BB%8A%E5%A0%B4-%E7%A9%BA%E3%81%8D%E7%8A%B6%E6%B3%81'>大宮駅 駐車場 空き状況</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%9B%BD-%E5%85%AC%E7%AB%8B-%E7%B5%8C%E6%B8%88-%E5%AD%A6%E9%83%A8-%E5%BE%8C%E6%9C%9F'>国 公立 経済 学部 後期</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%96%AB%E7%85%99-%E5%8B%95%E8%84%88%E7%A1%AC%E5%8C%96-%E3%83%A1%E3%82%AB%E3%83%8B%E3%82%BA%E3%83%A0'>喫煙 動脈硬化 メカニズム</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=4%E6%9C%88-%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88-%E6%89%8B%E6%9B%B8%E3%81%8D'>4月 イラスト 手書き</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%BA%8A-%E6%B6%88%E3%81%97%E3%82%B4%E3%83%A0-%E6%B1%9A%E3%82%8C'>床 消しゴム 汚れ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%9B%B2%E4%BB%99%E5%B2%B3-%E9%9B%B2%E4%BB%99%E6%99%AE%E8%B3%A2%E5%B2%B3-%E9%81%95%E3%81%84'>雲仙岳 雲仙普賢岳 違い</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%8A%80%E5%BA%A7-%E4%B9%85%E5%85%B5%E8%A1%9B-%E6%8C%81%E3%81%A1%E5%B8%B0%E3%82%8A'>銀座 久兵衛 持ち帰り</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=vba-%E5%8F%B3%E3%82%AF%E3%83%AA%E3%83%83%E3%82%AF%E3%83%A1%E3%83%8B%E3%83%A5%E3%83%BC-%E8%BF%BD%E5%8A%A0%E3%81%95%E3%82%8C%E3%81%AA%E3%81%84'>Vba 右クリックメニュー 追加されない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC-%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC-%E5%9E%8B%E7%95%AA-%E6%84%8F%E5%91%B3'>バッファロー ルーター 型番 意味</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%95%E3%82%A9%E3%83%88-%E3%83%96%E3%83%A9%E3%82%A4%E3%83%88-%E5%90%8D%E5%8F%A4%E5%B1%8B'>フォト ブライト 名古屋</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%AE%A1%E8%BD%84-%E5%AE%89%E5%AE%9A%E6%89%80-%E7%95%AA%E5%8F%B7-%E4%B8%80%E8%A6%A7'>管轄 安定所 番号 一覧</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%89%E3%82%AF%E3%83%AC%E3%82%B9%E3%83%88-%E5%AF%84%E3%81%9B%E6%A4%8D%E3%81%88-%E5%86%AC'>ゴールドクレスト 寄せ植え 冬</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%95%B7%E9%87%8E-%E6%88%90%E7%94%B0-%E3%83%90%E3%82%B9'>長野 成田 バス</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Fd3s-%E3%83%89%E3%83%AC%E3%83%B3-%E3%83%9C%E3%83%AB%E3%83%88-%E3%82%B5%E3%82%A4%E3%82%BA'>Fd3s ドレン ボルト サイズ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%8E%E3%83%BC%E3%82%B9-%E3%83%95%E3%82%A7%E3%82%A4%E3%82%B9-%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%A8%E3%83%BC%E3%82%AF-%E5%AE%89%E3%81%84'>ノース フェイス ニューヨーク 安い</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%B5%A4%E6%B2%A2-%E6%B8%A9%E6%B3%89-%E3%83%9B%E3%83%86%E3%83%AB-%E3%82%B3%E3%83%AD%E3%83%8A'>赤沢 温泉 ホテル コロナ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%86%E3%82%A3%E3%83%95%E3%82%A1%E3%83%8B%E3%83%BC-%E3%83%9F%E3%83%AB%E3%82%B0%E3%83%AC%E3%82%A4%E3%83%B3-%E9%87%8D%E3%81%AD%E3%81%A5%E3%81%91'>ティファニー ミルグレイン 重ねづけ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A2%E3%83%AB%E3%83%93%E3%82%AA%E3%83%B3-%E3%83%95%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%89%E3%83%AA%E3%83%83%E3%83%97-%E3%82%A2%E3%83%83%E3%83%88%E3%82%B3%E3%82%B9%E3%83%A1'>アルビオン フローラドリップ アットコスメ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=2%E6%9C%8817%E6%97%A5-%E5%A4%A9%E6%B0%97-%E6%A8%AA%E6%B5%9C'>2月17日 天気 横浜</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%81%A5%E5%BA%B7%E4%BF%9D%E9%99%BA-%E6%89%B6%E9%A4%8A-%E5%A4%96%E3%82%8C%E3%82%8B-%E9%87%91%E9%A1%8D'>健康保険 扶養 外れる 金額</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=JAL-%E3%83%80%E3%82%A4%E3%83%8A%E3%83%9F%E3%83%83%E3%82%AF%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8-%E6%B5%B7%E5%A4%96'>JAL ダイナミックパッケージ 海外</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%B3%B8%E5%B3%B6%E5%B8%82-%E4%BD%8F%E6%B0%91%E7%A8%8E-%E3%81%84%E3%81%8F%E3%82%89-%E3%81%8B%E3%82%89'>糸島市 住民税 いくら から</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%8A%E7%A4%BC-%E3%81%AE%E6%89%8B%E7%B4%99-%E6%9B%B8%E3%81%8D%E5%87%BA%E3%81%97'>お礼 の手紙 書き出し</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%AF%E3%83%BC%E3%82%AF-%E6%B0%B4%E6%88%B8-%E9%9B%87%E7%94%A8%E4%BF%9D%E9%99%BA'>ハローワーク 水戸 雇用保険</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Office-2016-32bit-%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89'>Office 2016 32bit ダウンロード</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BC%8A%E8%97%A4%E4%B9%85%E5%8F%B3%E8%A1%9B%E9%96%80-%E3%83%81%E3%83%A7%E3%82%B3-%E5%8F%A3%E3%82%B3%E3%83%9F'>伊藤久右衛門 チョコ 口コミ</a>,
+";s:7:"expired";i:-1;}

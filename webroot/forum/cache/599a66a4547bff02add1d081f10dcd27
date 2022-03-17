@@ -1,0 +1,85 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:2643:"Charge HR でカウントする歩数が少なすぎると思われる場合は、[利き手でない手] の設定を使用して歩数カウントの感度を上げることができます。さらに、設定ページで歩幅などの個人設定を追加して Fitbit Charge HR を最適化することが可能です。 amazonで購入して一週間ほど経ちました。 歩数のカウントが異常なようです。奇妙です。 まず開梱後，充電を開始してしばらくすると，5,000歩ほど歩いたことになっていました。 何かの弾み？なのかなと思い，カウントのリセットができそうもないことがわかりその日は ChargeHRで歩数がカウントされなくなりました。 10回に1回くらいはカウントされますが、その場合でも明らかに少なく、30歩くらい歩いても4〜8歩くらいしか増えません。ほとんどの場合はまったく増えません。 さっきまで、多少少ない気はしますが動いていました。 歩数のカウントがリセットされなかったとの事ですね。 通常、深夜0時には一日分の歩数が0にリセットされますが、歩数が引き継がれてしまい、ご迷惑をお掛けし申し訳ございません。 回転などの歩数を含まないアクティビティは、目標にはカウントされません。 目標を逃した場合、次の1時間は追加の歩数を実行しても目標を達成できないことに注意してください。 Fitbitデバイスでの運動のリマインダーとは何ですか？ ちなみに、私は他の機械式歩数計やiPhoneとも併用しているのですが、fitbitの歩数が2倍以上にカウントされます。例えば、使用第一日目の歩数は、iPhoneでは10,847歩で、機械式歩数計も1万歩程度だったのですが、Alta HRは23,667歩になっています。  歩数または他の統計を記録しない デバイスを再起動するとアクティブなデータを削除せずにオフまたはオンできます。 Fitbit デバイスにはマイクや高度計などのセンサー用の小さな穴があり … @omochi さん、Fitbit コミュニティーへようこそ！. お世話になります Fitbit altaを使用しています 8月6日までは通常通りカウントしています 7日も装着して動いていましたが、歩数及び移動距離ゼロとなります iPhone同期してみたり、リセットを試してみましたけど変わりません 同じ症状の方居られたら、解決策を教えて頂きたいです ";s:7:"keyword";s:38:"fitbit 歩数 カウントされない";s:5:"links";s:9424:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Hire-employ-%E9%81%95%E3%81%84'>Hire Employ 違い</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=gu-%E5%90%8C%E3%81%98%E3%82%B5%E3%82%A4%E3%82%BA-%E9%81%95%E3%81%86'>Gu 同じサイズ 違う</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=6%E6%9C%88-%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88-%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84'>6月 イラスト かわいい</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=sd%E3%82%AB%E3%83%BC%E3%83%89%E3%81%8B%E3%82%89sd%E3%82%AB%E3%83%BC%E3%83%89-%E3%83%87%E3%83%BC%E3%82%BF%E7%A7%BB%E8%A1%8C-au%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97'>Sdカードからsdカード データ移行 Auショップ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B5%E3%83%BC%E3%83%A2%E3%82%B9-fho-%E3%82%AD%E3%83%A3%E3%83%83%E3%83%97%E3%83%A6%E3%83%8B%E3%83%83%E3%83%88'>サーモス Fho キャップユニット</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%99%BD%E3%81%84%E3%83%AD%E3%83%BC%E3%83%AB%E3%82%B1%E3%83%BC%E3%82%AD-%E3%83%AC%E3%82%B7%E3%83%94-%E3%83%97%E3%83%AD'>白いロールケーキ レシピ プロ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B8%89%E5%B0%BE-%E5%8C%BB%E9%99%A2-%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6-%E4%BA%88%E9%98%B2%E6%8E%A5%E7%A8%AE'>三尾 医院 インフルエンザ 予防接種</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%9F%93%E5%9B%BD-%E6%9C%80%E4%BD%8E%E8%B3%83%E9%87%91-%E6%97%A5%E6%9C%AC%E5%86%86'>韓国 最低賃金 日本円</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E8%A8%BA%E7%99%82-%E5%A4%A7%E9%98%AA%E5%B8%82-%E7%9A%AE%E8%86%9A%E7%A7%91'>オンライン診療 大阪市 皮膚科</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%91%E3%83%AF%E3%83%BC%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88-%E5%8B%95%E7%94%BB-%E5%86%8D%E7%94%9F%E9%80%9F%E5%BA%A6'>パワーポイント 動画 再生速度</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%B7%A5%E5%A0%B4-%E6%AD%A3%E7%A4%BE%E5%93%A1-%E5%A5%B3%E6%80%A7-%E6%B1%82%E4%BA%BA-%E5%A4%A7%E9%98%AA'>工場 正社員 女性 求人 大阪</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%94%E3%83%81%E3%83%83%E3%83%88-%E3%82%B7%E3%83%BC%E3%83%88-%E3%83%9C%E3%83%84%E3%83%AA%E3%83%8C%E3%82%B9'>ピチット シート ボツリヌス</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%BF%91%E7%95%BF%E5%A4%A7%E5%AD%A6%E7%B7%8F%E5%90%88%E7%A4%BE%E4%BC%9A-%E5%AD%A6%E9%83%A8-%E7%92%B0%E5%A2%83-%E3%81%BE%E3%81%A1%E3%81%A5%E3%81%8F%E3%82%8A'>近畿大学総合社会 学部 環境 まちづくり</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E8%AA%9E-une-%E7%99%BA%E9%9F%B3'>フランス語 Une 発音</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%AF%E3%83%B3-%E3%83%95%E3%82%A1%E3%82%A4%E3%83%96-%E3%83%86%E3%83%A9%E3%82%B9-%E7%A6%8F%E5%B2%A1'>ワン ファイブ テラス 福岡</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A4%A7%E5%88%86%E5%B8%82-%E9%9A%9C%E5%AE%B3%E5%85%90-%E4%BF%9D%E8%82%B2%E5%9C%92'>大分市 障害児 保育園</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%94%AF-%E6%84%8F%E5%91%B3-%E6%82%AA%E3%81%84'>唯 意味 悪い</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B8%8A%E6%B5%B7-%E3%82%AB%E3%83%AB%E3%83%95%E3%83%BC%E3%83%AB-%E3%81%8A%E5%9C%9F%E7%94%A3'>上海 カルフール お土産</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%A0%AD%E7%9A%AE-%E4%B9%BE%E7%87%A5-%E4%BF%9D%E6%B9%BF'>頭皮 乾燥 保湿</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%85%89%E6%A0%84%E3%81%A7%E3%81%99-%E8%8B%B1%E8%AA%9E-%E3%82%AB%E3%82%B8%E3%83%A5%E3%82%A2%E3%83%AB'>光栄です 英語 カジュアル</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%8E%8C%E5%80%89%E3%82%B7%E3%83%A3%E3%83%84-%E3%83%8D%E3%82%AF%E3%82%BF%E3%82%A4-%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9'>鎌倉シャツ ネクタイ フランス</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%96%AC-%E9%96%93%E9%9A%94-%E7%9F%AD%E3%81%84'>薬 間隔 短い</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%85%B6-%E3%82%88%E3%81%97-%E5%90%8D%E5%89%8D'>慶 よし 名前</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%89%8B%E7%BE%BD%E5%85%88-%E3%83%AC%E3%82%B7%E3%83%94-%E5%90%8D%E5%8F%A4%E5%B1%8B'>手羽先 レシピ 名古屋</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AF%E3%83%A9%E3%83%96-%E3%83%84%E3%83%BC%E3%83%AA%E3%82%B9%E3%83%88-%E5%A4%A7%E9%98%AA'>クラブ ツーリスト 大阪</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%8F%E3%82%A4%E3%82%A8%E3%83%BC%E3%82%B9-8%E3%83%8A%E3%83%B3%E3%83%90%E3%83%BC-%E4%BB%BB%E6%84%8F%E4%BF%9D%E9%99%BA'>ハイエース 8ナンバー 任意保険</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%9B%B4%E6%8E%A5-%E3%81%8A%E4%BC%9A%E3%81%84%E3%81%97%E3%81%A6-%E3%81%94-%E6%8C%A8%E6%8B%B6-%E8%8B%B1%E8%AA%9E'>直接 お会いして ご 挨拶 英語</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%AE%E3%82%8A-%E3%81%99%E3%81%88-%E6%97%A5%E5%90%89'>のり すえ 日吉</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=mac-%E7%AE%A1%E7%90%86%E8%80%85%E6%A8%A9%E9%99%90-%E5%A4%89%E6%9B%B4'>Mac 管理者権限 変更</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%91%E3%83%8A%E3%82%BD%E3%83%8B%E3%83%83%E3%82%AF-BD-%E5%88%9D%E6%9C%9F%E5%8C%96'>パナソニック BD 初期化</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Iframe-contentDocument-null'>Iframe ContentDocument Null</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A8%E3%82%AF%E3%82%BB%E3%83%AB-%E3%82%B0%E3%83%A9%E3%83%95-%E8%BB%B8-%E6%95%B0%E5%80%A4-%E6%B6%88%E3%81%99'>エクセル グラフ 軸 数値 消す</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%90%8D%E6%9D%B1%E5%8C%BA-%E5%91%BC%E5%90%B8%E5%99%A8%E5%86%85%E7%A7%91-%E8%97%A4%E3%81%8C%E4%B8%98'>名東区 呼吸器内科 藤が丘</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%84%E3%82%8F%E3%81%97-%E3%83%91%E3%83%B3%E7%B2%89-%E7%84%BC%E3%81%8D-%E3%83%81%E3%83%A5%E3%83%BC%E3%83%9C%E3%83%BC-%E3%81%A7%E3%81%99%E3%82%88'>いわし パン粉 焼き チューボー ですよ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%9B%A2%E4%B9%B3%E9%A3%9F-%E5%BE%8C%E6%9C%9F-%E3%83%91%E3%83%B3-%E3%81%8D%E3%81%AA%E3%81%93'>離乳食 後期 パン きなこ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%95%E3%82%A9%E3%83%88-%E3%83%90%E3%83%AB%E3%83%BC%E3%83%B3-%E7%B5%90%E5%A9%9A%E5%BC%8F'>フォト バルーン 結婚式</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BD%8E%E6%B8%A9%E8%AA%BF%E7%90%86-%E3%83%AC%E3%82%B7%E3%83%94-%E3%83%AD%E3%83%BC%E3%82%B9%E3%83%88%E3%83%93%E3%83%BC%E3%83%95'>低温調理 レシピ ローストビーフ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B1%E3%83%88%E3%83%AB-%E3%81%8A%E6%B9%AF-%E4%BB%A5%E5%A4%96'>ケトル お湯 以外</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B5%E3%83%B3%E3%83%86%E3%83%9F%E3%83%AA%E3%82%AA%E3%83%B3-%E6%A0%BC%E4%BB%98%E3%81%91-2006'>サンテミリオン 格付け 2006</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%AA%E3%82%A2-%E3%82%AB%E3%83%B3%E3%82%AC%E3%83%AB%E3%83%BC-%E7%81%AB%E4%BA%8B'>オーストラリア カンガルー 火事</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%AC%E3%83%83%E3%83%89-%E3%82%A6%E3%82%A3%E3%83%B3%E3%82%B0-%E3%83%99%E3%83%83%E3%82%AF%E3%83%9E%E3%83%B3-%E5%B1%A5%E3%81%8D%E5%A7%8B%E3%82%81'>レッド ウィング ベックマン 履き始め</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%8A%AC-%E7%B5%B5%E9%A6%AC-%E7%A5%9E%E7%A4%BE'>犬 絵馬 神社</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%8F%E3%83%AB%E3%82%B7%E3%83%A5%E3%82%BF%E3%83%83%E3%83%88-%E4%B8%AD%E5%9B%BD-%E3%82%B3%E3%83%94%E3%83%BC'>ハルシュタット 中国 コピー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B9%9D%E5%B7%9E%E5%A4%A7%E5%AD%A6-%E6%B3%95%E5%AD%A6%E9%83%A8-%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%91%E3%82%B9'>九州大学 法学部 キャンパス</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%A5%BD%E5%A4%A9edy-%E3%83%95%E3%82%A1%E3%83%9F%E3%83%9E-%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88'>楽天edy ファミマ ポイント</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=301-%E3%83%AA%E3%83%80%E3%82%A4%E3%83%AC%E3%82%AF%E3%83%88-%E3%82%A4%E3%83%B3%E3%83%87%E3%83%83%E3%82%AF%E3%82%B9-%E5%89%8A%E9%99%A4'>301 リダイレクト インデックス 削除</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%8E%9A%E7%94%9F-%E5%8A%B4%E5%83%8D%E7%9C%81-%E7%B5%B1%E8%A8%88-%E6%83%85%E5%A0%B1%E7%B7%8F%E5%8B%99%E5%AE%A4'>厚生 労働省 統計 情報総務室</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=10A-250V-%E6%84%8F%E5%91%B3'>10A 250V 意味</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%A0%AD%E7%9A%AE-%E3%81%A7%E3%81%8D%E3%82%82%E3%81%AE-%E7%94%BB%E5%83%8F'>頭皮 できもの 画像</a>,
+";s:7:"expired";i:-1;}

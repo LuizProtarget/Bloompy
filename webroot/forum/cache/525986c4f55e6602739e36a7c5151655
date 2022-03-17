@@ -1,0 +1,63 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:2390:"<p>質問: Q: 検索エンジンが変更できない。 環境設定で検索エンジンを変更しても"Yahoo"でしか検索されない。バージョンを10.11.6にしてからこの現象が出ました。 すべて表示 一部のみ表示. </p> <p>Chromium版「Microsoft Edge」のデフォルト検索エンジンをGoogleに変更することはできるが、新しいタブで画面中央に表示される検索ボックスは、Googleに変更することができない。。「シンプル」、「イメージ」、「ニュース … いろいろと調べてみると、Google Chromeの設定を変更したら、 元通り、検索できるようになりました。 Google Chromeの「設定」を選択する。 Google Chromeの右上に表示されている「設定」アイコンを選択します。 検索エンジンの管理を選択する。 タブページは変更できないが、起動画面にGoogleを表示することは可能. Appleから発売されている最新モデル「iPhone7Plus」や「iPadPro」などのiOSデバイスやAndroidスマートフォン・タブレット向けにリリースされているGoogleの公式ブラウザ「Chrome」アプリを利用している際に「検索画面で表示される『検索エンジン』を変更できない！ 【検索エンジンの管理】 順番は前後しますが、検索エンジンの管理からご紹介します。現在、検索エンジンにどのようなものが登録されいるのか？ こちらについては、以下の手順で設定が確認できます。 1) 設定など ＞ 設定 ＞ 詳細設定を表示 と開きます  iMac (Retina 5K, 27-inch, Late 2015), OS X El Capitan (10.11.6) 投稿日 2016/08/19 20:13. これはおかしいなと思い、”chrome 勝手に bing”で検索したところ設定の「検索エンジン」が Bing になっているのではとの指摘が。 で、設定を確認。 するとこんな感じでグレーになり、検索エンジンが変更できない状態に。 Google Chrome のアドレスバーの検索エンジンを設定（変更）する方法を紹介します。 Google Chrome のアドレスバーに 「文字列」を入力し、Enterキーを押すと 検索エンジンを使った検索を行うことができます。 この検索エンジンはデフォルトでは Google </p>";s:7:"keyword";s:45:"Chrome 検索エンジン 変更 できない";s:5:"links";s:5006:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%BC%E3%83%95%E3%82%A1%E3%83%BC-%CF%87-%E3%82%B3%E3%83%BC%E3%83%AB-%E3%82%BB%E3%83%83%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0'>ゼファー χ コール セッティング</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Chrome-HTML-Document'>Chrome HTML Document</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B8%96%E7%94%B0%E8%B0%B7-%E8%82%9D%E8%87%93-%E5%B0%82%E9%96%80%E5%8C%BB'>世田谷 肝臓 専門医</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B9%9D%E5%B7%9E-%E5%A4%A7%E5%AD%A6-%E8%96%AC%E5%AD%A6%E9%83%A8-%E9%99%A2%E8%A9%A6'>九州 大学 薬学部 院試</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%88%92-%E8%AA%AD%E3%81%BF%E6%96%B9-%E8%8B%97%E5%AD%97'>戒 読み方 苗字</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%AD%A6%E7%94%9F%E6%9C%8D-%E7%9D%80%E3%81%93%E3%81%AA%E3%81%97-%E7%94%B7%E5%AD%90-%E5%86%AC'>学生服 着こなし 男子 冬</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%8C%86%E5%85%8E-%E7%BE%A9%E5%8B%87-%E7%BE%BD%E7%B9%94'>錆兎 義勇 羽織</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%93%E3%83%83%E3%82%B1-%E3%83%A2%E3%83%96-%E3%83%81%E3%83%A3%E3%82%A4%E3%83%AB%E3%83%89%E3%82%B7%E3%83%BC%E3%83%88'>ビッケ モブ チャイルドシート</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%95%E3%81%A4%E3%81%BE%E3%81%84%E3%82%82-%E8%92%B8%E3%81%97%E3%83%91%E3%83%B3-%E9%9B%A2%E4%B9%B3%E9%A3%9F-%E3%83%99%E3%83%BC%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%E3%81%AA%E3%81%97'>さつまいも 蒸しパン 離乳食 ベーキングパウダーなし</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%94%E3%81%BC%E3%81%86-%E5%86%B7%E5%87%8D-%E8%8C%B9%E3%81%A7%E3%82%8B'>ごぼう 冷凍 茹でる</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A3%B2%E4%B8%8A1000%E4%B8%87-%E6%B6%88%E8%B2%BB%E7%A8%8E-%E5%80%8B%E4%BA%BA%E4%BA%8B%E6%A5%AD%E4%B8%BB'>売上1000万 消費税 個人事業主</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%A2%E3%83%AD%E3%82%BE%E3%83%95-%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%89%E3%83%97%E3%83%AA%E3%83%B3-%E9%80%9A%E8%B2%A9'>モロゾフ カスタードプリン 通販</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC-%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC-%E3%83%AD%E3%83%83%E3%82%AF'>イラストレーター レイヤー ロック</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%BE%E3%81%97-%E3%81%8B%E3%81%8F-%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A0-6%E9%9D%A2'>まし かく アルバム 6面</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB-%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88-%E9%95%B7%E9%87%8E'>サイクル イベント 長野</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%B6%8F%E8%82%89-%E7%82%92%E3%82%81%E7%89%A9-%E3%83%9E%E3%83%A8%E3%83%8D%E3%83%BC%E3%82%BA'>鶏肉 炒め物 マヨネーズ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A4%E3%83%B3%E3%82%B9%E3%82%BF-%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88-%E4%B8%BB-%E7%89%B9%E5%AE%9A'>インスタ アカウント 主 特定</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Ford-usa-2019'>Ford Usa 2019</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%B2%A1%E5%B4%8E-%E9%9B%BB%E8%BB%8A-%E9%81%85%E5%BB%B6'>岡崎 電車 遅延</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%B0%8F%E5%8E%9F-%E7%9A%AE%E8%86%9A%E7%A7%91-%E5%BC%98%E5%89%8D-%E5%8F%A3%E3%82%B3%E3%83%9F'>小原 皮膚科 弘前 口コミ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%A9%E3%83%99%E3%83%AB-cm-%E5%A0%B4%E6%89%80'>グリーンラベル Cm 場所</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B9%9D-%E5%A4%A7-%E5%8C%BB-%E9%AB%98%E6%A0%A1'>九 大 医 高校</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%97%A5%E6%9C%AC-%E4%B8%80%E5%91%A8-%E3%83%90%E3%82%A4%E3%82%AF-%E9%9B%BB%E6%BA%90'>日本 一周 バイク 電源</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%A4%E3%82%8F%E3%82%8A-11%E9%80%B1-%E7%B5%82%E3%82%8F%E3%82%89%E3%81%AA%E3%81%84'>つわり 11週 終わらない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%96%E3%83%AD%E3%83%83%E3%82%B3%E3%83%AA%E3%83%BC-%E7%AD%8B%E3%83%88%E3%83%AC-%E3%83%AC%E3%82%B7%E3%83%94'>ブロッコリー 筋トレ レシピ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A4%E3%82%AA%E3%83%B3-%E3%82%B9%E3%83%BC%E3%83%84-%E5%B0%BE%E5%B7%9E-%E3%82%B5%E3%82%A4%E3%82%BA'>イオン スーツ 尾州 サイズ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=VIO%E8%84%B1%E6%AF%9B-%E3%83%A1%E3%83%B3%E3%82%BA-%E9%95%B7%E5%B4%8E'>VIO脱毛 メンズ 長崎</a>,
+";s:7:"expired";i:-1;}

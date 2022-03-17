@@ -1,0 +1,64 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:4777:"<p>労働条件に関する総合情報サイト「確かめよう労働条件」。労働基準法等の基礎知識、裁判例、相談窓口の案内等の情報を発信。労働者と事業主に向けた学習コンテンツでは、働くときの基礎知識を学べま … 当サイトは、Internet Explorer11、Google Chrome75、Microsoft Edge44で動作の確認を行っています 職業紹介事業の運営「法第32条の16 第3項に関する事項（情報提供）」についての入力事例のご照会はこちら！ 職業紹介事業に関する情報提供（職業安定法改正）の入力（ログイン）はこちらから！ 厚生労働省大阪労働局が配布した資料を引用します。 株式会社ホットスタッフ大阪は、平成30年7月12日及び同年8月24日において、少なくとも18名の派遣労働者について、社会保険の適用基準を満たすにもかかわらず、社会保険に加入させていなかった。 なお、指揮命令関係や業務の独立処理等、派遣と請負（業務委託）の違いを明確にするため、「労働者派遣事業と請負により行われる事業との区分に関する基準」（昭和61年4月17日労働省告示第37号）が定められていますが、厚生労働省から疑義応答集が公表され、具体的に説明されています。 有期労働契約で働く方は全国で約1,560 万人いるとされており（総務省「平成29年労働力調査」）、また、別の調査では、有期労働契約で働く方の約3割が通算5年を超えて有期労働契約を更新している実態にあるとされております（厚生労働省「平成23年有期労働契約に関する実態調査報告書」。 厚生労働省派遣・有期労働 ... 把握等を進めてまいります。厚生労働省と内閣官房で協力して準備を進めていただきたい ... 年有期労働契約に関する実態調査（事業所調査）」第29表 厚生労働省では、テレワークに関連する情報を一元化した『テレワーク総合ポータルサイト』を設け、テレワークに関する相談窓口、企業の導入事例紹介などテレワークの導入・活用に向けた各種情報を掲載していますので、参考にしてください。 無期転換サイトは、有期契約労働者の無期転換を円滑に行うためサポートをするサイトです。有期契約労働者（契約社員、アルバイトなどの方）向けの無期転換ルールの概要説明です。無期転換ルールの導入にお役立てください。 派遣労働者に退職金を支払うこと。派遣時給に退職金相当の6％分を上乗せして支払うことも選択肢の一つとする——。厚生労働省は2019年7月8日、こういう趣旨の通達を都道府県労働局長に出した。 退職金制度がない会社もあれば、正社員には退職金を支給 労働者派遣契約書(厚生労働省職業安定局「労働者派遣事業関係業務取扱要領」)のテキスト 労働者派遣契約 〇〇〇〇株式会社（派遣先）と 株式会社（派遣元事業主）（般＊＊－＊＊＊＊＊＊）とは、次のとおり労働者派遣契約を締結する。 </p> <p></p> <p> 無期転換サイトは、有期契約労働者の無期転換を円滑に行うためサポートをするサイトです。有期契約労働者（契約社員、アルバイトなどの方）向けの無期転換ルールの概要説明です。無期転換ルールの導入にお役立てください。 派遣契約書（個別契約書）の記載事項が変更になります。今までの記載事項に. 派遣法について解説します。派遣労働に関する基本の法律である労働者派遣法・労働契約法という2つの法律についての基礎知識から、2018年問題とは何か、最新2020年派遣法改正についても説明します。派遣社員を守るための法律ですので、ここで法律知識を身につけておきましょう。 の2つの項目の記載が義務付けられます。 加えて、 ・派遣労働者が従事する業務に伴う責任の程度 ・派遣労働者を協定対象派遣労働者に限定するか否かの別. なお、指揮命令関係や業務の独立処理等、派遣と請負（業務委託）の違いを明確にするため、「労働者派遣事業と請負により行われる事業との区分に関する基準」（昭和61年4月17日労働省告示第37号）が定められていますが、厚生労働省から疑義応答集が公表され、具体的に説明されています。 </p>";s:7:"keyword";s:29:"派遣契約 厚生 労働省";s:5:"links";s:5132:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%BF%E3%81%9A%E3%81%BB%E9%8A%80%E8%A1%8C-%E6%B3%95%E4%BA%BA%E5%8F%A3%E5%BA%A7-%E5%90%8D%E7%BE%A9-%E5%A4%89%E6%9B%B4'>みずほ銀行 法人口座 名義 変更</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%9F%93%E5%9B%BD%E4%BA%BA%E5%BD%BC%E6%B0%8F-%E3%82%B9%E3%82%AD%E3%83%B3-%E3%82%B7%E3%83%83%E3%83%97'>韓国人彼氏 スキン シップ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B4%E3%83%AB%E3%83%95-%E3%83%AC%E3%82%A4%E3%83%B3-%E3%82%A6%E3%82%A7%E3%82%A2-%E8%80%90%E6%B0%B4%E5%9C%A7'>ゴルフ レイン ウェア 耐水圧</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=2021%E5%B9%B4%E5%8D%92-%E5%B0%B1%E6%B4%BB-%E8%A7%A3%E7%A6%81'>2021年卒 就活 解禁</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%82%E3%82%93%E3%82%B9%E3%82%BF-%E3%82%B0%E3%83%A9%E3%83%83%E3%83%86-%E3%82%B0%E3%83%83%E3%82%BA'>あんスタ グラッテ グッズ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%B1%A5%E6%AD%B4%E6%9B%B8-%E5%B8%8C%E6%9C%9B%E8%81%B7%E7%A8%AE-%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC'>履歴書 希望職種 スーパー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%BA%E3%83%BC%E3%83%9E%E3%83%BC-%E3%82%BB%E3%83%AB%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC-%E5%9B%9E%E3%82%89%E3%81%AA%E3%81%84'>ズーマー セルモーター 回らない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A4%A7%E6%A0%B9-%E3%83%94%E3%83%BC%E3%83%9E%E3%83%B3-%E3%81%8D%E3%82%93%E3%81%B4%E3%82%89'>大根 ピーマン きんぴら</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B8%8A%E6%A3%9F%E5%BC%8F-%E3%81%94%E7%A5%9D%E5%84%80-%E7%8F%BE%E5%A0%B4%E7%9B%A3%E7%9D%A3'>上棟式 ご祝儀 現場監督</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B5%E3%83%BC%E3%83%90-%E3%83%A9%E3%83%83%E3%82%AF-%E7%95%AA%E5%8F%B7'>サーバ ラック 番号</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%87%E3%83%A5%E3%82%A2%E3%83%AB-%E3%83%94%E3%83%BC%E3%83%AB-%E4%B9%85%E7%95%99%E7%B1%B3'>デュアル ピール 久留米</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%A8%B2%E6%AF%9B-%E5%8C%BA%E5%BD%B9%E6%89%80-%E3%81%93%E3%81%A9%E3%82%82%E5%AE%B6%E5%BA%AD%E8%AA%B2'>稲毛 区役所 こども家庭課</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=05-%E3%82%AB%E3%83%AB%E3%82%AB%E3%83%83%E3%82%BF-50'>05 カルカッタ 50</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%A4%E3%83%95%E3%83%BC-interview-%E9%81%B8%E8%80%83'>ヤフー Interview 選考</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B3%E3%82%A6%E3%83%A2%E3%83%AA-%E3%83%A9%E3%83%B3-%E8%91%89%E3%81%8C-%E6%8A%98%E3%82%8C%E3%82%8B'>コウモリ ラン 葉が 折れる</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%9C%AB%E6%9C%9F%E3%81%8C%E3%82%93-%E6%B2%BB%E7%99%82%E8%B2%BB-%E5%8E%9A%E7%94%9F%E5%8A%B4%E5%83%8D%E7%9C%81'>末期がん 治療費 厚生労働省</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A5%B3%E3%81%AE%E5%AD%90-%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B3-%E3%82%A2%E3%83%8B%E3%83%A1'>女の子 アイコン アニメ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A6%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B0%E3%83%9D%E3%82%B9%E3%83%889-2020-%E7%B9%81%E6%AE%96%E7%89%9D%E9%A6%AC-%E5%BC%95%E9%80%80'>ウイニングポスト9 2020 繁殖牝馬 引退</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A2%E3%83%9C%E3%82%AB%E3%83%89-%E3%83%88%E3%83%9E%E3%83%88-%E3%83%81%E3%83%BC%E3%82%BA-%E3%83%90%E3%82%B8%E3%83%AB'>アボカド トマト チーズ バジル</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%8E%88%E4%B9%B3%E4%B8%AD-%E5%92%B3%E6%AD%A2%E3%82%81-%E7%97%85%E9%99%A2'>授乳中 咳止め 病院</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%9F%93%E5%9B%BD%E3%83%89%E3%83%A9%E3%83%9E-%E6%99%82%E4%BB%A3%E5%8A%87-%E4%BF%B3%E5%84%AA'>韓国ドラマ 時代劇 俳優</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%BF%E3%82%A4%E3%82%AC%E3%83%BC-%E7%82%8A%E9%A3%AF%E5%99%A8-%E3%82%B1%E3%83%BC%E3%82%AD'>タイガー 炊飯器 ケーキ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%89%9B%E8%82%89-%E5%86%B7%E5%87%8D-%E6%9F%94%E3%82%89%E3%81%8B%E3%81%8F'>牛肉 冷凍 柔らかく</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=SRAM-Force-FD'>SRAM Force FD</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=LINE-%E3%81%AA%E3%82%8A%E3%81%99%E3%81%BE%E3%81%97-%E6%96%87%E7%AB%A0'>LINE なりすまし 文章</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%8E%84%E7%95%8C%E7%81%98-%E3%83%92%E3%83%A9%E3%83%9E%E3%82%B5-%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E8%88%B9'>玄界灘 ヒラマサ キャスティング船</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Judge-me-all-you-want-%E6%84%8F%E5%91%B3'>Judge Me All You Want 意味</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=DTU-Azure-db'>DTU Azure Db</a>,
+";s:7:"expired";i:-1;}

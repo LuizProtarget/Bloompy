@@ -1,0 +1,19 @@
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteRule ^(.*)$ index.php [QSA,L]
+</IfModule>
+
+# Wordfence WAF
+#            <IfModule mod_php7.c>
+#                php_value auto_prepend_file '/home/bloompy/www/webroot/2ea907.php'
+#            </IfModule>
+#            <IfModule mod_php5.c>
+#                php_value auto_prepend_file '/home/bloompy/www/webroot/2ea907.php'
+#            </IfModule>
+#            <IfModule mod_php.c>
+#                php_value auto_prepend_file '/home/bloompy/www/webroot/2ea907.php'
+#            </IfModule>
+#            
+#            # END Wordfence WAF

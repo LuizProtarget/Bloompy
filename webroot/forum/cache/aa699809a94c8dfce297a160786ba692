@@ -1,0 +1,62 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:6476:"<p>降順、昇順でグラフを並び替える方法をご紹介 … エクセル 2019, 365 のグラフの軸を入れ替える方法を紹介します。横軸と凡例や x 軸と y 軸や主軸と第 2 軸を入れ替えできます。軸の位置を左右や上下に移動できます。 「積み上げ縦棒グラフ」では、表とグラフで系列の順序が上下逆になることがあります。これを修正するには、[データソースの選択]ダイアログボックスで系列の順序を入れ替えましょう。 降順、昇順でグラフを並び替える方法をご紹介し … エクセルでグラフの凡例を編集する方法について解説。凡例の順番を逆に（反転）したり、位置を変えたり、削除した凡例を復活させたりと色々ピックアップします。 Excel（エクセル）の円グラフを大きい順や任意の順番に入れ替える方法です。グラフの元になる表の順番を入れ替える方法と、グラフの順番だけを入れ替える方法の2種類を紹介します。 円グラフの場合は系列の順番を変更するこの方法は使えません。 第2引数のラベルと第3引数の値の順番を指定して、グラフ要素の順序を変更することができます。 </p> <p>横棒グラフを作成したときに、表では上からa～dの順番で並んでいた項目が横棒グラフにすると上からd～aの順番になってしまうことがありますが、表とグラフの並びを同じ順番にすることができます。  棒グラフのように項目毎に複数のデータ系列の値を表す棒が表示されるグラフの場合、棒が表示される順番は元データの順番と同じになりますが変更することもできます。ここでは元データはそのままにグラフ上で表示されるデータ系列の順番を変更する手順について解説します。 </p> <p>重要: データの並べ替えについて覚えておきたいことをいくつか以下に示します。 並べ替え順序はロケールの設定によって変わります。 ロケールの設定が正しいかどうかは、コンピューターの [コントロール パネル] の [地域の設定] または [地域と言語のオプション] で確認してください。 </p> <p>円グラフの順番を変えるには、円グラフ上ではなく「データ」のもととなっている表からでないと変えることができません。 【2】 表の順番を並び替える 「リボン」の「データタブ」 ↓ 「並べ替え」ボタンを押します。 【3】「並べ替え」の変更 </p> <p>横棒グラフを作成すると、表の項目の順序とグラフの棒の表示順序が逆転します。 たとえば、下図の場合、第2回のほうが上に表示されています。 これを逆転させて、「第1回」→「第2回」という順序で、上から表示されるようにします。 1. グラフの並び順だけを変更したい場合は、グラフ作成用の表を別の場所にコピーしてから順番を入れ替えた上で、グラフを作成するといいでしょう。 まとめ. </p> <p>横軸と凡例を入れ替えたいんだね！ 軸はグラフを挿入後でも、入れ替えることが簡単にできるよ！ボタン1個で簡単に入れ替えることができるからすごく便利！ </p> <p>これでグラフの項目の順番を逆にすることができました！ Excel 2010・2007で、ダイアログボックスがグラフに重なってしまい、グラフが確認できない方は、ダイアログボックスを移動すれば確認できますヨ。 が！、しか～し！ 円グラフの場合は系列の順番を変更するこの方法は使えません。 第2引数のラベルと第3引数の値の順番を指定して、グラフ要素の順序を変更することができます。 </p> <p>グラフを選択し、左端の棒を選択します。 数式バーにseries関数が表示されています。 </p> <p>Home » Excel(エクセル)の使い方 » 棒グラフ » 系列の順番を変更する 『インストラクターのネタ帳』は2003年10月から、Microsoft Officeの使い方などを紹介し続け(2012年頃からはVBA関連記事が多め)、毎日5万人の方にご覧いただいています。 q エクセルで作ったグラフの項目の並び順を好きな順番に変えたい. エクセルのシート上でグラフを作ると 凡例が表示されていますが、凡例の順番を 変えたい時があります。 そのような時は「データの選択」機能を 使用すれば解決することができます。 ですが、 『どうすればグラフにある凡例の順番を・・・ </p> <p>e6,e4,e3,e5を順番に指定します。 [ok]ボタンをクリックします。 棒グラフの順番が指定した順序に変わりました。 数式バーのseries関数を変更する方法 topへ. 【グラフ編】エクセルでガントチャートをつくる方法（Excel2010） (406,078pv) ケース別Excelファイルのダイエット方法8選 (261,215pv) Excelで組織図を作成する3つの方法 (248,315pv) 積み上げ縦棒グラフ、系列の合計値を表示する方法: 折れ線グラフで、元データに空白があるときに線が途切れてしまうのをつなぎたい（補間する） 横棒グラフの値軸（横軸・数値軸）を上にする: ドーナツグラフの穴の大きさを変更するには エクセル2003を使っているのですが、グラフウィザードで作成したグラフの項目を、作成した後に、簡単にグラフ上で、 自分の好きな順番に並べ替えることはできますでしょうか？ </p> <p>グラフの並び順だけを変更したい場合は、グラフ作成用の表を別の場所にコピーしてから順番を入れ替えた上で、グラフを作成するといいでしょう。 まとめ. 折れ線グラフを作成すると、凡例（はんれい）の順番はデータに基づいて自動的に決められます。 この凡例の順番を変更する方法です。 [データソースの選択]ダイアログボックスの表示 グラフを選択します。 [デザイン]タブにある[データの選択]をクリックします。 </p>";s:7:"keyword";s:42:"エクセル グラフ 順番 入れ替え";s:5:"links";s:4962:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%84%E3%81%A3%E3%81%A6%E3%81%8A%E3%81%8D%E3%81%9F%E3%81%84-%E8%8B%B1%E8%AA%9E-%E9%95%B7%E6%96%87-%E7%A5%9E%E6%88%B8%E5%A4%A7%E5%AD%A6'>やっておきたい 英語 長文 神戸大学</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AD%E3%83%A3%E3%83%99%E3%83%84-%E8%82%89%E5%9B%A3%E5%AD%90-%E8%92%B8%E3%81%97'>キャベツ 肉団子 蒸し</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%97%A5%E6%9C%AC%E8%A3%BD-%E5%B8%83%E5%9B%A3%E3%82%BB%E3%83%83%E3%83%88-%E3%82%B7%E3%83%B3%E3%82%B0%E3%83%AB'>日本製 布団セット シングル</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%84%A1%E5%A4%89%E6%8F%9B%E3%82%AD%E3%83%BC-%E5%89%B2%E3%82%8A%E5%BD%93%E3%81%A6-windows10'>無変換キー 割り当て Windows10</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=line-%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%A8%E3%83%A9%E3%83%BC-pc'>Line ネットワークエラー Pc</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AD%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0-%E7%B2%89-%E5%AF%BE%E7%AD%96'>スタイロフォーム 粉 対策</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=ana-%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%82%AF%E3%83%A9%E3%82%B9-%E3%82%A2%E3%83%A1%E3%83%8B%E3%83%86%E3%82%A3-2019'>Ana ビジネスクラス アメニティ 2019</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%96-ja10-%E4%B8%8D%E8%A9%95'>スーパーカブ Ja10 不評</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%99%BE-%E5%9D%87-%E3%83%8D%E3%82%A4%E3%83%AB-%E8%A9%95%E5%88%A4'>百 均 ネイル 評判</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%A8%AA%E5%B7%9D%E9%A7%85-%E3%83%AC%E3%83%B3%E3%82%BF%E3%82%AB%E3%83%BC-%E7%BE%A4%E9%A6%AC'>横川駅 レンタカー 群馬</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%BE%BD%E6%AF%9B-%E5%B8%83%E5%9B%A3%E5%8F%8E%E7%B4%8D-%E3%82%A4%E3%82%AA%E3%83%B3'>羽毛 布団収納 イオン</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%B5%A4-%E4%B8%89-%E5%AD%97%E7%86%9F%E8%AA%9E'>赤 三 字熟語</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%8A%97%E7%94%9F%E7%89%A9%E8%B3%AA-%E9%A3%B2%E3%81%BF%E5%BF%98%E3%82%8C-%E8%80%90%E6%80%A7%E8%8F%8C'>抗生物質 飲み忘れ 耐性菌</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%AD%A6%E7%94%9F%E6%9C%8D-%E7%9D%80%E3%81%93%E3%81%AA%E3%81%97-%E7%94%B7%E5%AD%90-%E5%86%AC'>学生服 着こなし 男子 冬</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=YouTube-%E6%9B%B4%E6%96%B0-%E6%A8%A9%E9%99%90'>YouTube 更新 権限</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A2%E3%83%87%E3%82%A3%E3%83%80%E3%82%B9-%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8A%E3%83%BC-%E3%83%AC%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B9-%E8%B5%A4'>アディダス トレーナー レディース 赤</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%99%BD%E7%8E%89%E7%B2%89-%E5%A4%A7%E7%A6%8F-%E5%9B%BA%E3%81%8F%E3%81%AA%E3%82%89%E3%81%AA%E3%81%84'>白玉粉 大福 固くならない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=aquos-sense2-%E9%80%9A%E7%9F%A5%E3%83%A9%E3%83%B3%E3%83%97'>Aquos Sense2 通知ランプ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%90%8D%E5%8F%A4%E5%B1%8B-%E5%A4%A7%E5%AD%A6-%E6%95%99%E6%8E%88-%E8%A9%95%E5%88%A4'>名古屋 大学 教授 評判</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A4%E3%83%B3%E3%83%86%E3%83%83%E3%82%AF%E3%82%B9%E5%A4%A7%E9%98%AA-%E3%83%90%E3%82%B9%E4%B9%97%E3%82%8A%E5%A0%B4-%E5%A4%A7%E9%98%AA%E9%A7%85'>インテックス大阪 バス乗り場 大阪駅</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%87%BA%E7%94%A3-%E9%80%B1%E6%95%B0-%E6%AD%A3%E5%B8%B8'>出産 週数 正常</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%97-im-%E6%94%B9%E8%A1%8C'>スカイプ Im 改行</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=android%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0-%E9%80%9A%E7%9F%A5-%E6%B6%88%E3%81%99'>Androidシステム 通知 消す</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9E%E3%83%84%E3%82%AD%E3%83%A8-%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%96-%E6%B4%97%E9%A1%94'>マツキヨ スクラブ 洗顔</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%B0%8F%E7%94%B0%E6%80%A5-%E7%99%BE%E8%B2%A8%E5%BA%97-%E8%97%A4%E6%B2%A2-%E9%A7%90-%E8%BB%8A%E5%A0%B4'>小田急 百貨店 藤沢 駐 車場</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%A0%86%E5%A4%A9%E5%A0%82%E5%A4%A7%E5%AD%A6-%E5%B0%8F%E5%85%90%E7%A7%91-%E3%83%97%E3%83%AD%E3%83%95%E3%82%A7%E3%83%83%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB'>順天堂大学 小児科 プロフェッショナル</a>,
+";s:7:"expired";i:-1;}

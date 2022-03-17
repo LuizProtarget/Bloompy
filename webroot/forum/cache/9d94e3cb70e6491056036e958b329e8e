@@ -1,0 +1,58 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:4643:"<p>自動車の革シートは、長年乗っていると革シートの表面がひび割れてきたり色が剥げてきます。さらに悪化すると破れることもあります。 出典：amazon 幅8cm×長さ12cmサイズのシールタイプの合皮用補修シート。 ポリウレタン特殊湿式加工を施しているため、ハリとコシのあるソフトな感触です。 カラーは黒、濃茶、茶、紺、グレー、アイボリー、白、半透明の8色と、最もカラーバリエーションが豊富です。 </p> <p> 表面の擦れや傷など、クリーニングだけでは落としきれないレザーシートのダメージも、レザーリペアと呼ばれる手法で、張替よりも安価に修復が可能です。今回はそんなプロの技をご紹介します。 出典：amazon 幅8cm×長さ12cmサイズのシールタイプの合皮用補修シート。 ポリウレタン特殊湿式加工を施しているため、ハリとコシのあるソフトな感触です。 カラーは黒、濃茶、茶、紺、グレー、アイボリー、白、半透明の8色と、最もカラーバリエーションが豊富です。 革製ソファーを使っていると、表面に小さなひび割れができることがあります。見た目が悪いだけでなく、ザラザラと触り心地も悪く、あなたの悩みの種になっていませんか？補修をせず、そのまま放っておくと革の破れにもつながるため、ソファーの劣化は早めに対処したいですよね。 </p> <p>ユタカメイク シート補修材 1巻 ほか レビュー: (28) 【特長】あらゆるシートの破れ目に適用。 使い易さ抜群。簡単手軽に補修できます。 各部や支え部でのシートの補強などにご使用ください。 マツダ ロードスターの【革シート裂け目の補修＆清掃】レカロが破れちゃったから自分で直してみる【アドベース】に関するニャホニャホ・タマクローの整備手帳です。自動車情報は日本最大級の自動車sns「みんカラ」へ！ </p> <p>「革 シート 補修」の販売特集では、通販サイトモノタロウの取扱商品の中から革 シート 補修に関連するおすすめ商品をピックアップしています。3,000円以上送料無料。豊富な品揃え(取扱商品1,300万点以上)。当日出荷商品も取り揃えております。 クルマの革シートに増えてしまうシワはどうしたら防げますか？またシワを消す方法はありますか？ 人間でもしわの増える方向にしか行きません。ババアのシワも消すことは出来ません。 革シートのシワやひび割れの補修はインテリアリペア技術で内装修理. </p> <p>マツダ ロードスターの【革シート裂け目の補修＆清掃】レカロが破れちゃったから自分で直してみる【アドベース】に関するニャホニャホ・タマクローの整備手帳です。自動車情報は日本最大級の自動車sns「みんカラ」へ！ </p> <p>PVC人工皮革包装文房具革 バイクシート 補修 張り替え 生地 合皮レザー PVC レザー 合成皮革 フェイクレザー 、オレンジ、1.38×1m.2m.3m 人工皮革バッグ装飾革 (Color : Orange, Size : 1.38×1m) 今回の【diy】では、「車の本革、合皮、布シートの補修方法（破れ、傷、焦がし）と補修キットの使い方」について解説します。車のシート表皮はちょっとしたことで傷つきやすいんで、自分で簡単に修理する方法を知っていると便利ですよ。 </p> <p>表面の擦れや傷など、クリーニングだけでは落としきれないレザーシートのダメージも、レザーリペアと呼ばれる手法で、張替よりも安価に修復が可能です。今回はそんなプロの技をご紹介します。 自動車の革シートは、長年乗っていると革シートの表面がひび割れてきたり色が剥げてきます。さらに悪化すると破れることもあります。 KAWAGUCHI 補修シート合皮用. KAWAGUCHI 補修シート合皮用. 車の革のシートを補修する方法をご紹介しております。併せて必要になってくるアイテムもご紹介しておりますので、車の革のシートが痛んできたという方は、是非、参考にしていただき補修してみて下さ … 革シートのシワやひび割れの補修はインテリアリペア技術で内装修理. </p>";s:7:"keyword";s:29:"革シート たるみ 補修";s:5:"links";s:4190:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%9C%AD%E5%B9%8C-%E5%B1%B1%E3%81%AE%E6%89%8B-%E9%AB%98%E6%A0%A1-%E7%95%99%E5%AD%A6%E7%94%9F'>札幌 山の手 高校 留学生</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A4%E3%83%B3%E3%82%B9%E3%82%BF-%E3%81%8A%E3%81%97%E3%82%83%E3%82%8C-%E8%83%8C%E6%99%AF-%E7%99%BD'>インスタ おしゃれ 背景 白</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%B0%B4-500ml-%E4%B8%80%E6%B0%97%E9%A3%B2%E3%81%BF'>水 500ml 一気飲み</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%B5%85%E5%B7%9D-%E7%94%A3%E5%A9%A6-%E4%BA%BA-%E7%A7%91-%E5%87%BA%E7%94%9F-%E5%89%8D-%E8%A8%BA%E6%96%AD'>浅川 産婦 人 科 出生 前 診断</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Zoom-%E4%BD%BF%E3%81%84%E6%96%B9-iPad'>Zoom 使い方 IPad</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=MacOS-%E3%81%8C-%E3%82%AD%E3%83%BC%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3-%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0-%E3%82%92-%E4%BD%BF-%E3%81%8A%E3%81%86%E3%81%A8-%E3%81%97-%E3%81%A6%E3%81%84-%E3%81%BE%E3%81%99-Xcode'>MacOS が キーチェーン システム を 使 おうと し てい ます Xcode</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Lightning---USB%E3%82%AB%E3%83%A1%E3%83%A9%E3%82%A2%E3%83%80%E3%83%97%E3%82%BF'>Lightning - USBカメラアダプタ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Mac-cp-no-preserve'>Mac Cp No Preserve</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=100-%E5%9D%87-%E3%81%8A%E9%A2%A8%E5%91%82%E6%8E%83%E9%99%A4'>100 均 お風呂掃除</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A4%E3%83%A9%E3%83%AC-%E7%94%BB%E5%83%8F%E3%83%88%E3%83%AC%E3%83%BC%E3%82%B9-%E4%B8%8D%E6%98%8E%E3%81%AA%E3%82%A8%E3%83%A9%E3%83%BC'>イラレ 画像トレース 不明なエラー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%80%E3%82%A4%E3%82%BD%E3%83%BC-%E8%80%90%E9%9C%87%E3%83%9E%E3%83%83%E3%83%88-%E7%AA%81%E3%81%A3%E5%BC%B5%E3%82%8A%E6%A3%92'>ダイソー 耐震マット 突っ張り棒</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Processing-%E6%96%87%E5%AD%97%E3%82%B3%E3%83%BC%E3%83%89-%E5%A4%89%E6%8F%9B'>Processing 文字コード 変換</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%8F%8C%E5%AD%90-%E5%A4%9A%E8%A1%80-%E7%97%87'>双子 多血 症</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=KOBE-Official-Travel-Guide'>KOBE Official Travel Guide</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AA%E3%83%9A%E3%83%A9-%E3%83%AA%E3%83%83%E3%83%97%E3%83%86%E3%82%A3%E3%83%B3%E3%83%88-60%E4%BB%A3'>オペラ リップティント 60代</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%96%E3%83%AD%E3%83%83%E3%82%B3%E3%83%AA%E3%83%BC-%E3%81%BB%E3%81%86%E3%82%8C%E3%82%93%E8%8D%89-%E3%83%88%E3%83%9E%E3%83%88'>ブロッコリー ほうれん草 トマト</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Visual-Studio-Chrome%E3%83%87%E3%83%90%E3%83%83%E3%82%B0'>Visual Studio Chromeデバッグ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BF%A1%E9%95%B7%E3%81%AE%E9%87%8E%E6%9C%9B-%E5%89%B5%E9%80%A0-%E3%83%87%E3%83%A2%E3%83%97%E3%83%AC%E3%82%A4'>信長の野望 創造 デモプレイ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%8A%E3%82%A4%E3%82%AD-%E3%83%86%E3%83%83%E3%82%AF%E3%83%95%E3%83%AA%E3%83%BC%E3%82%B9-%E3%82%B8%E3%83%A7%E3%82%AC%E3%83%BC%E3%83%91%E3%83%B3%E3%83%84'>ナイキ テックフリース ジョガーパンツ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%9D%99%E5%B2%A1-%E5%8F%AF%E6%84%9B%E3%81%84-%E3%81%8A%E5%AE%88%E3%82%8A'>静岡 可愛い お守り</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A4%E3%82%AE%E3%83%AA%E3%82%B9-%E3%83%AF%E3%83%BC%E3%83%9B%E3%83%AA-%E3%83%87%E3%82%B6%E3%82%A4%E3%83%8A%E3%83%BC'>イギリス ワーホリ デザイナー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%85%B5%E5%BA%AB%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6-%E5%87%BA%E9%A1%98-%E6%96%B9%E6%B3%95'>兵庫医科大学 出願 方法</a>,
+";s:7:"expired";i:-1;}

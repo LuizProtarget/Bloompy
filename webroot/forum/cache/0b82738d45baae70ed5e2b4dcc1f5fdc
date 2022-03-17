@@ -1,0 +1,70 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:6383:"「ATOK」に関連する最新質問を掲載しています。 ... -こちらもご覧ください-・JustSystems. atokは設定する項目が多く、どこから手をつけていいか分からなくなってしまいますが、今回はとりあえず、atokの環境設定の中で最も基本的な「入力・変換」の設定項目をまとめておきます。入力・変換 … ‎「ATOK -日本語入力キーボード」のレビューをチェック、カスタマー評価を比較、スクリーンショットと詳細情報を確認することができます。「ATOK -日本語入力キーボード」をダウンロードしてiPhone、iPad、iPod touchでお楽しみください。 Word 2016を使っています。記号の「やじるし」と入力して変換すると、何だか妙な感じの太い矢印が表記されます。これは、どうなってしまったのでしょう？ Windows 10 ＋ Word 2016（Ver.16.0.7070.2018）で、確認してみました。 確かに、妙に太い矢印記号が表示されます。 ジャストシステムの日本語変換atok2008を使っています。 使用中に、知らないあいだに、半角英数入力になってしまっていることが多く、その都度ひらがな入力に戻すのにマウスでやっています。 <br> <br>「テキスト サービスと入力言語」の「インストールされているサービス」から「atok 2012」をクリックします。 [プロパティ]をクリックします。 「現在のプロパティ」から「標準設定」をクリックします。 一覧から「ms-ime設定」をクリックします。 <br> <br>ジャストシステムの日本語入力「ATOK（エイトック）」の公式サイトです。あなたのことばを伝えるためのパートナーとして、日本語を使うすべての方へお届けします。Windows、Mac、Android、iOSから、あなたにぴったりのATOKをお選びください。 詳細については、atokヘルプの「入力と変換」から「記号などの入力」の「ドイツ語・フランス語・発音記号」を参照してください。 よく似た記号を入力して変換する. <br> <br>Androidスマホでの文字入力アプリで人気の「ATOK(エイトック)」がバージョンアップされ、さらに便利に使えるようになりました。Androidスマホで使うにはATOKとGoogle日本語入力はどちらがおすすめできるアプリなのかを解説します。 ATOKで変換するようになってから、ある程度文章を入力してから変換するようになりました。 Google日本語入力を使っていたころは単語1ずつ変換していたのですが、enterを押す回数が全然違ってきます。 しかしATOKでも、変換する文章が長くなると助詞もまとめて変換されてしまいます。 次の設定を行うと、Windows 10、Windows 8.1／8のWindowsストアアプリ *1 上で、ATOKが使用できません。 [Windows]＋[スペース]キーを押して、Microsoft IMEなど、他の日本語入力システムに切り替えてご利用ください。 <br> <br>新たに「漢字絞り込み変換」と「地名の入力支援」の2つの機能を搭載。人工知能（ai）技術「ディープラーニング」を採用した変換エンジン「atokディープコアエンジン」と、「atokディープコレクト」と合わせ、さらに快適な日本語入力が可能になりました。 今まで文字入力はGoogle日本語入力を使っていたのですが、ATOKを試してみたら変換候補の制度や、レスポンスが良かったのでATOKを使うことにしました。 導入後最初にやったのは、スペース・アルファベット・数字・記号を最初から半角入力にすること。 対象のマシンに日本語imeまたはatokを入れ、#2さんのようにimeパッド（atokならば文字パレット？ ）で入力するぐらいしかないと思います。 アプリケーション次第、例えばWordなら#1さんの回答のような方法もありだと思います。 atokは設定する項目が多く、どこから手をつけていいか分からなくなってしまいますが、今回はとりあえず、atokの環境設定の中で最も基本的な「入力・変換」の設定項目をまとめておきます。入力・変換 … Anytime Anywhere. ジャストシステムの日本語入力「ATOK（エイトック）」の公式サイトです。あなたのことばを伝えるためのパートナーとして、日本語を使うすべての方へお届けします。Windows、Mac、Android、iOSから、あなたにぴったりのATOKをお選びください。 作成:2017/02/08 . （以前ATOK便利メモとしてご紹介していたものです） Tabキー 文字列補完 文字を入力中、Tabキーを押すことで推測候補が表示されます。 この機能だけでもATOKにする価値があります。 F2キー 候補を増 … <br> <br>入力方式を、ケータイ入力／ジェスチャー入力／フリック入力／2タッチ入力から選択します。 入力方式の説明 ATOK for Androidのテンキー入力パネルでは、ケータイ入力／ジェスチャー入力／フリック入力／2タッチ入力の4種類の入力方式が選択できます。 ATOKを愛用しています。IMEはいまだに使い方がよく分かっておりません。 さて、そのATOKですが、Microsoftの嫌がらせか、Microsoftの製品では勝手に確定してしまいます。 ネット上で調べても、余り効果的なことが分からず、Officeのアップデート、ATOKのアップデートがオススメだったりします。  Photo by : wnstn おはようございます。ショートカットキーマニアのするぷ（ @isloop ）です。 これまで、いくつかのショートカットキー記事を書いてきましたが、今回は僕のパソコンの作業効率の根幹を支える最強の日本語入力ソフト「ATOK」で本当に キーボード上の記号を入力してスペースキーを押すと、似ている記号に変換できます。 q atokで半角英数からひらがな入力へキーボードで変える方法. ";s:7:"keyword";s:18:"ATOK 矢印 入力";s:5:"links";s:6592:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Vb-net-getelementsbyname'>Vb Net Getelementsbyname</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%8F%E3%83%B3%E3%82%AB%E3%83%81-%E7%B8%AB%E8%A3%BD-%E5%86%85%E8%81%B7'>ハンカチ 縫製 内職</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%90%8D%E5%8F%A4%E5%B1%8B-%E8%B1%8A%E6%A9%8B-%E6%96%B0%E5%B9%B9%E7%B7%9A-%E5%9B%9E%E6%95%B0%E5%88%B8'>名古屋 豊橋 新幹線 回数券</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%90%E3%82%A4%E3%82%AF-%E5%90%B9%E3%81%91%E4%B8%8A%E3%81%8C%E3%82%89%E3%81%AA%E3%81%84-%E5%8E%9F%E5%9B%A0'>バイク 吹け上がらない 原因</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=lavie-%E6%9B%B4%E6%96%B0%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0-%E7%B5%82%E3%82%8F%E3%82%89%E3%81%AA%E3%81%84'>Lavie 更新プログラム 終わらない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%BB%E3%83%96%E3%83%B3%E3%82%A4%E3%83%AC%E3%83%96%E3%83%B3-%E7%84%BC%E3%81%8D%E9%B3%A5-%E3%82%BB%E3%83%BC%E3%83%AB'>セブンイレブン 焼き鳥 セール</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=100-%E5%9D%87-%E5%8C%85%E4%B8%81%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89'>100 均 包丁スタンド</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%BA%83%E5%B3%B6-%E9%86%A4%E6%B2%B9-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE'>広島 醤油 株式会社</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%AA%E3%82%AB%E3%81%A1%E3%82%83%E3%82%93-%E3%82%AD%E3%83%A3%E3%83%9F%E3%82%BD%E3%83%BC%E3%83%AB-%E4%BD%9C%E3%82%8A%E6%96%B9'>リカちゃん キャミソール 作り方</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%93%E3%83%83%E3%82%B1-%E3%83%A2%E3%83%96-%E3%83%81%E3%83%A3%E3%82%A4%E3%83%AB%E3%83%89%E3%82%B7%E3%83%BC%E3%83%88'>ビッケ モブ チャイルドシート</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=vba-%E8%A6%AA%E3%83%95%E3%82%A9%E3%83%AB%E3%83%80%E5%90%8D-%E5%8F%96%E5%BE%97'>Vba 親フォルダ名 取得</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A1%9A%E7%94%B0%E8%BE%B2%E5%A0%B4-%E3%82%AF%E3%83%BC%E3%83%9D%E3%83%B3-%E6%A8%AA%E6%B5%9C'>塚田農場 クーポン 横浜</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B0%E3%83%A9%E3%83%96%E3%83%AB-%E3%82%B9%E3%82%AD%E3%83%B3-%E5%85%A8%E8%BA%AB-%E8%A1%A8%E7%A4%BA'>グラブル スキン 全身 表示</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%85%A2%E8%B1%9A-%E6%AE%8B%E3%82%8A%E7%89%A9-%E3%82%A2%E3%83%AC%E3%83%B3%E3%82%B8'>酢豚 残り物 アレンジ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%A5%9E%E5%A5%88%E5%B7%9D%E5%A4%A7%E5%AD%A6-%E5%85%A5%E8%A9%A6-%E6%99%82%E9%96%93'>神奈川大学 入試 時間</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AB%E3%83%95%E3%82%B9%E3%83%9C%E3%82%BF%E3%83%B3-%E4%BB%98%E3%81%91%E6%96%B9-%E6%99%AE%E9%80%9A%E3%81%AE%E3%82%B7%E3%83%A3%E3%83%84'>カフスボタン 付け方 普通のシャツ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A6%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B0%E3%83%9D%E3%82%B9%E3%83%88-9-%E3%83%AD%E3%83%BC%E3%82%A8%E3%83%B3%E3%82%B0%E3%83%AA%E3%83%B3'>ウイニングポスト 9 ローエングリン</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=iPad-%E8%83%8C%E9%9D%A2-%E5%82%B7-%E6%B6%88%E3%81%97'>IPad 背面 傷 消し</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%A5%AD%E5%8B%99%E5%A7%94%E8%A8%97-%E6%B6%88%E8%B2%BB%E7%A8%8E-%E6%BA%90%E6%B3%89%E5%BE%B4%E5%8F%8E'>業務委託 消費税 源泉徴収</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%82%BA%E7%82%8E-%E3%81%A7%E4%BA%A1%E3%81%8F%E3%81%AA%E3%81%A3%E3%81%9F-%E8%8A%B8%E8%83%BD%E4%BA%BA'>肺炎 で亡くなった 芸能人</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%8A%E3%82%A4%E3%82%AD-%E3%82%B9%E3%82%A6%E3%82%A7%E3%83%83%E3%83%88%E3%83%91%E3%83%B3%E3%83%84-%E3%82%B3%E3%83%BC%E3%83%87'>ナイキ スウェットパンツ コーデ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%95%E3%82%A3%E3%83%AB%E3%83%A0%E3%82%AB%E3%83%A1%E3%83%A9-%E3%83%9F%E3%83%A9%E3%83%BC%E3%82%A2%E3%83%83%E3%83%97-%E4%BF%AE%E7%90%86'>フィルムカメラ ミラーアップ 修理</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%BB%8A-%E3%83%89%E3%82%A2-%E6%AD%AA%E3%81%BF'>車 ドア 歪み</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=XIXI-%E3%82%B3%E3%82%B9%E3%83%A1-%E8%AA%AD%E3%81%BF%E6%96%B9'>XIXI コスメ 読み方</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%8F%E3%83%B3%E3%82%B0%E3%82%A2%E3%82%A6%E3%83%88-%E7%94%BB%E9%9D%A2%E5%85%B1%E6%9C%89-%E9%9F%B3'>ハングアウト 画面共有 音</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=gboard-%E8%8B%B1%E8%AA%9E%E5%85%A5%E5%8A%9B-%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84'>Gboard 英語入力 できない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%99%BA%E9%81%94%E9%9A%9C%E5%AE%B3-%E4%BD%9C%E6%A5%AD%E7%99%82%E6%B3%95-%E5%A4%A7%E9%98%AA'>発達障害 作業療法 大阪</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%BB%E3%83%B3%E3%83%88%E3%83%AC%E3%82%B8%E3%82%B9%E5%A4%A7%E9%98%AA-%E3%83%AC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%B3-%E5%80%8B%E5%AE%A4'>セントレジス大阪 レストラン 個室</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%8A%B1%E5%92%B2-%E7%99%8C-%E3%82%A2%E3%83%A1%E3%83%96%E3%83%AD'>花咲 癌 アメブロ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=L175-%E3%83%A0%E3%83%BC%E3%83%B4-%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3-%E3%83%9E%E3%82%A6%E3%83%B3%E3%83%88%E4%BA%A4%E6%8F%9B%E8%B2%BB%E7%94%A8'>L175 ムーヴ エンジン マウント交換費用</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%9F%E3%81%93%E7%84%BC%E3%81%8D-%E5%8D%B5%E3%81%AA%E3%81%97-%E5%9B%BA%E3%81%BE%E3%82%89%E3%81%AA%E3%81%84'>たこ焼き 卵なし 固まらない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%81%A5%E5%BA%B7%E3%81%A7%E3%81%84%E3%82%8B-%E3%81%93%E3%81%A8%E3%82%92%E9%A1%98%E3%81%86-%E8%8B%B1%E8%AA%9E'>健康でいる ことを願う 英語</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%84%E3%82%8F%E3%81%97-%E7%94%9F%E5%A7%9C-%E7%85%AE-%E3%83%91%E3%82%B9%E3%82%BF'>いわし 生姜 煮 パスタ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%8D%8B%E3%81%AE-%E3%82%B7%E3%83%A1-%E3%81%A8-%E3%81%AF'>鍋の シメ と は</a>,
+";s:7:"expired";i:-1;}

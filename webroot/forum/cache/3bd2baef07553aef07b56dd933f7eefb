@@ -1,0 +1,80 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:3516:"<p>Androidデバイスをビジネスで使う場合、そのデバイスに保存したデータを暗号化して利用することでより安全な利用にスマートデバイスを活用できます。しかし、Androidデバイスの標準暗号化機能には注意すべき点がいくつかあります。 1. 企業において、必須事項となっている「セキュリティ」対策。高度なセキュリティを実現するための技術である、ストレージ装置が持つデータ保護の機能『データ暗号化』の仕組みについて紹介します。 なぜ『データの暗号化』が必要なのか？ 無効にしても、暗号化されたデータは復号化されない。 既存データはコピーする事で暗号化できる。 暗号化、復号化は自動で行われる。 直接hddからデータを複製された場合のみ保護される。 暗号化範囲：ストレージアカウント単位 暗号化テクノロジー：aes256 [未構成] ("既定値") Not configured (default) データ暗号化 vs システム暗号化 データ暗号化 データ暗号化は、ユーザーのデータ (/home ディレクトリの中や、データ DVD などのリムーバブルメディア) だけの暗号化と定義され、一番シンプルで込み入ったところがないディスク暗号化の利用法ですが、致命的な欠点があります。 ローカル・ネットワークからの流出 暗号化ではデバイス上のデータを保護するため、権限のあるユーザーだけがデータにアクセスできます。お使いのデバイスでデバイスの暗号化を利用できない場合、代わりに標準の BitLocker 暗号化を有効にできる場合があります (BitLocker は Windows 10 Home エディションでは利用できません)。 暗号化の意義 データ流出のケースは大きく2つ nasに保存しているデータの流出には，大きく2つが考えられる．1つはネットワークを介して流出する場合．もう1つは，物理的にnasまたはhddが他人の手にわたる場合である． 1.  </p> <p>スウェーデン民間 緊急事態対応庁 … 改訂第3版 PP作成者 Anna-Lena Hallgren . データベースに格納されているデータだけでなく、ストレージそのものを暗号化する方法です。 os この方法ではデータを出し入れするときに暗号化・復号しており、osのメモリ上では暗号化されていないため注意が必要でしょう。 2：ストレージ機能による暗号化. この方法ではデータを出し入れするときに暗号化・復号しており、osのメモリ上では暗号化されていないため注意が必要でしょう。 2：ストレージ機能による暗号化. データベースに格納されているデータだけでなく、ストレージそのものを暗号化する方法です。 os 暗号化 Encryption [デバイス上のデータ ストレージの暗号化]: Encryption of data storage on a device: この設定は、デバイス上のすべてのドライブに適用されます。 This setting applies to all drives on a device. PPタイトル 暗号化ストレージ・デバイス・プロテクションプロファイル PPバージョン 2.1 TOE データの一時保管に使用する個人用ストレージ・デバイス 評価保証レベル EAL2（ATE_COV.2を追加） CCバージョン CC v3.1. </p>";s:7:"keyword";s:61:"デバイス 上 の データ ストレージ の 暗号 化";s:5:"links";s:8412:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%AD%E3%81%8E%E3%81%BE-%E5%A1%A9-%E3%82%AB%E3%83%AD%E3%83%AA%E3%83%BC'>ねぎま 塩 カロリー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%BB%E3%81%86%E3%82%8C%E3%82%93%E8%8D%89-%E3%83%84%E3%83%8A-%E5%A4%A7%E6%A0%B9%E3%81%8A%E3%82%8D%E3%81%97-%E3%83%91%E3%82%B9%E3%82%BF'>ほうれん草 ツナ 大根おろし パスタ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Goo-%E3%82%B7%E3%83%A0%E3%82%BB%E3%83%A9%E3%83%BC-%E6%A5%BD%E5%A4%A9'>Goo シムセラー 楽天</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=GIMP-%E7%90%83%E4%BD%93-%E3%82%B0%E3%83%A9%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3'>GIMP 球体 グラデーション</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%95%E3%81%A4%E3%81%BE%E3%81%84%E3%82%82-%E8%92%B8%E3%81%97%E3%83%91%E3%83%B3-%E9%9B%A2%E4%B9%B3%E9%A3%9F-%E3%83%99%E3%83%BC%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%E3%81%AA%E3%81%97'>さつまいも 蒸しパン 離乳食 ベーキングパウダーなし</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BA%BA%E5%8F%82-%E5%8D%83%E5%88%87%E3%82%8A-%E4%BF%9D%E5%AD%98'>人参 千切り 保存</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Www-socialsecurity-gov-my-account'>Www Socialsecurity Gov My Account</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%81%8A%E7%B3%B8-%E5%AD%A3%E8%AA%9E-%E6%84%8F%E5%91%B3'>遊糸 季語 意味</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%A3%9F%E5%99%A8%E7%94%A8%E6%B4%97%E5%89%A4-%E8%A9%B0%E3%82%81%E6%9B%BF%E3%81%88-%E6%B4%97%E3%81%86'>食器用洗剤 詰め替え 洗う</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B8%89-%E4%BA%BA%E7%9B%AE-%E5%A5%B3%E3%81%AE%E5%AD%90%E3%81%8C%E6%AC%B2%E3%81%97%E3%81%84'>三 人目 女の子が欲しい</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%80%E3%82%A4%E3%82%A8%E3%83%83%E3%83%88-%E7%82%B9%E6%BB%B4-%E5%B2%A1%E5%B1%B1'>ダイエット 点滴 岡山</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9B%E3%83%86%E3%83%AB-%E3%83%84%E3%82%A4%E3%83%B3-%E3%83%AA%E3%83%B3%E3%82%AF-MotoGP'>ホテル ツイン リンク MotoGP</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=safari-%E8%A8%80%E8%AA%9E%E8%A8%AD%E5%AE%9A-iphone'>Safari 言語設定 Iphone</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%96%E3%83%A9%E3%83%88%E3%83%83%E3%83%97-%E5%A4%A7%E3%81%8D%E3%81%84%E3%82%B5%E3%82%A4%E3%82%BA-%E3%81%8A%E3%81%99%E3%81%99%E3%82%81'>ブラトップ 大きいサイズ おすすめ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%83%B8%E8%82%89-%E3%82%82%E3%82%82%E8%82%89-%E3%82%AB%E3%83%AD%E3%83%AA%E3%83%BC'>胸肉 もも肉 カロリー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Mi-Fit-Google-Fit-%E9%80%A3%E6%90%BA-%E5%BF%83%E6%8B%8D%E6%95%B0'>Mi Fit Google Fit 連携 心拍数</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%A0%86%E5%A4%A9%E5%A0%82%E5%A4%A7%E5%AD%A6-%E5%B0%8F%E5%85%90%E7%A7%91-%E3%83%97%E3%83%AD%E3%83%95%E3%82%A7%E3%83%83%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB'>順天堂大学 小児科 プロフェッショナル</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%B5%B5%E5%B8%AB-%E4%BE%9D%E9%A0%BC-%E6%96%AD-%E3%82%89%E3%82%8C%E3%81%9F'>絵師 依頼 断 られた</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%8B%E3%81%8D%E3%81%9F%E3%81%BE-%E3%82%B9%E3%83%BC%E3%83%97-%E7%B0%A1%E5%8D%98'>かきたま スープ 簡単</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%89%8B%E6%B9%BF%E7%96%B9-%E5%B8%82%E8%B2%A9%E8%96%AC-%E9%9D%9E%E3%82%B9%E3%83%86%E3%83%AD%E3%82%A4%E3%83%89'>手湿疹 市販薬 非ステロイド</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%8F%A4%E3%81%84-%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC-%E3%82%B9%E3%83%9E%E3%83%9B'>古い プリンター スマホ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%A1%E3%83%AB%E3%82%AB%E3%83%AA-%E5%9C%9F%E6%97%A5-%E6%99%82%E9%96%93'>メルカリ 土日 時間</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%98%A5%E3%82%B3%E3%83%BC%E3%83%87-%E3%83%A1%E3%83%B3%E3%82%BA-%E6%B5%B7%E5%A4%96'>春コーデ メンズ 海外</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A2%E3%83%B3%E3%83%86%E3%83%8A-%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB-Twitter'>アンテナ アメリカ Twitter</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%B7%9D%E5%B4%8E%E5%A4%A7%E5%B8%AB-%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6-%E4%BA%88%E9%98%B2%E6%8E%A5%E7%A8%AE'>川崎大師 インフルエンザ 予防接種</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=mac-%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB-%E8%B5%B7%E5%8B%95%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84'>Mac ターミナル 起動できない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%84%BC%E3%81%8D%E9%B3%A5-%E3%81%9F%E3%82%8C-%E5%85%A5%E3%82%8C%E7%89%A9'>焼き鳥 たれ 入れ物</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%90%E3%83%B3%E3%82%B3%E3%82%AF-%E9%A7%90%E5%9C%A8%E5%A6%BB-%E3%83%90%E3%83%83%E3%82%B0'>バンコク 駐在妻 バッグ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%89%93%E3%81%A1%E5%90%88%E3%82%8F%E3%81%9B-%E6%89%93%E8%A8%BA-%E3%83%A1%E3%83%BC%E3%83%AB'>打ち合わせ 打診 メール</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A2%E3%82%A4-%E3%83%AA%E3%83%83%E3%82%B7%E3%83%A5-%E3%83%91%E3%83%96%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3'>アイ リッシュ パブチェーン</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=OneNote-for-Windows-10'>OneNote For Windows 10</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%B6%8F%E8%82%89-%E3%83%A8%E3%83%BC%E3%82%B0%E3%83%AB%E3%83%88%E6%BC%AC%E3%81%91-%E6%99%82%E9%96%93'>鶏肉 ヨーグルト漬け 時間</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%81%B4%E9%A0%AD%E7%AD%8B-%E3%83%9C%E3%83%88%E3%83%83%E3%82%AF%E3%82%B9-%E5%8A%B9%E6%9E%9C'>側頭筋 ボトックス 効果</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%9B%87%E7%94%A8%E8%AA%BF%E6%95%B4%E5%8A%A9%E6%88%90%E9%87%91-%E3%82%B3%E3%83%AD%E3%83%8A-%E5%BF%85%E8%A6%81%E6%9B%B8%E9%A1%9E'>雇用調整助成金 コロナ 必要書類</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B7%E3%83%BC%E3%83%81%E3%82%AD%E3%83%B3-%E3%81%8A-%E3%81%AB%E3%81%8E%E3%82%89-%E3%81%9A'>シーチキン お にぎら ず</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%8A%E5%BC%81%E5%BD%93-%E5%8D%B5-%E3%82%AB%E3%83%83%E3%83%97'>お弁当 卵 カップ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%9C%98%E8%9B%9B-%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC-%E5%90%8D%E5%89%8D'>蜘蛛 モンスター 名前</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%9D%B1%E4%BA%AC%E5%8C%BB%E7%A7%91%E6%AD%AF%E7%A7%91%E5%A4%A7%E5%AD%A6-%E5%8F%A3%E8%85%94%E5%A4%96%E7%A7%91-%E4%BA%8B%E4%BB%B6'>東京医科歯科大学 口腔外科 事件</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF-%E3%83%97%E3%83%AA%E3%83%9A%E3%82%A4%E3%83%89-%E3%82%B9%E3%83%9E%E3%83%9B-%E6%A9%9F%E7%A8%AE%E5%A4%89%E6%9B%B4'>ソフトバンク プリペイド スマホ 機種変更</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Windows10-%E3%83%90%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97-%E5%BE%A9%E5%85%83'>Windows10 バックアップ 復元</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%93%E3%83%87%E3%82%AA%E9%80%9A%E8%A9%B1-%E7%94%BB%E9%9D%A2%E5%85%B1%E6%9C%89-%E9%9F%B3%E5%A3%B0'>ビデオ通話 画面共有 音声</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%8C%BB%E5%B8%AB-%E5%9B%BD%E5%AE%B6%E8%A9%A6%E9%A8%93-%E4%BA%A4%E9%80%9A%E4%BA%8B%E6%95%85'>医師 国家試験 交通事故</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9E%E3%82%BF%E3%82%AE-%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC-%E3%83%96%E3%83%A9%E3%83%B3%E3%82%AF'>マタギ スーパー ブランク</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%B0%B4%E7%AD%92-%E4%B8%AD%E8%BA%AB-%E6%B0%B4'>水筒 中身 水</a>,
+";s:7:"expired";i:-1;}

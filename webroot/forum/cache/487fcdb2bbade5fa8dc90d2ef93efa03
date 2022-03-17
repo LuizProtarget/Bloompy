@@ -1,0 +1,88 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:6580:"<p>zhu*****さん. 知恵コレ. </p> <p>若(ジャク) 「ごとシ」:～のようだ。 ... いくつもの漢字がある読み方 ここでは読みも意味も同じだが、漢字だけが異なるものを挙げる。 いフ . </p> <p>問題として出されてしまうわけですから、そんなことを考えていても仕方がありません。 1-2.漢文読解の解き方のコツ②：書き下し文が書けなくてもok。スラスラ読めるようになるのが解き方のコツ。 漢文の読み方には4段階あります。 順番としては、 白文⇒訓読文⇒書き下し文⇒現代語訳 の順に、意味がわかるようになっていきますね。 読み方から容易に推測できるように、「言う」という意味を持っている。 普段扱う漢文ではこうした単語に読み仮名が付いている ため、受験生はそれを見て「言う」という意味だと分かる。 しかし白文ではその読み仮名がない。 如・若(ごとシ) 如 二 衣 レ テ 繡 ヲ 夜行 一 クガ →繍を衣(き)て夜行くが如し。 傍 ニ 若 レ シ 無 レ キガ 人→傍らに人無きが若し。 所(ところ) 項王 ノ 所 レ ノ 殺 ス 漢軍数百人 ナリ 。→項王の殺す所の漢軍数百人なり。 所以(ゆゑん) やっぴるさん. </p> <p>漢文って、難しそうでなんだか勉強したくないですよね。. </p> <p>違反報告. 漢文って、難しそうでなんだか勉強したくないですよね。. 漢文「若に」の読み方 教えて下さい！ 共感した 0. はじめに ここでは、漢文の文法の中でも「否定」の意味をもつ文法を説明していきます。 英語で言う「not」や「never」の部分ですね。3つしかありませんのでさくっといっちゃいましょう。 不・無・非 不：～せず 代表的な文章です。「～せず」と読み </p> <p>「孰若」も同様で、上例3はやはり「關中之食若此孰」が倒置されてできたものです。 「孰與a」「孰若a」も、「不若a」「莫若a」と同様に、aのあとに「(之)b」を補って、「どちらがbであるか」という言い方もできます(上例4-5)。 Bするよりは、Aする方がよい。 与其B、不如A: そのB[セ]ンよリハ、A[セ]ンニしカず: Bするよりは、Aする方がよい。 B孰-与(孰-若)A: BハAニいづレゾ: BとAではどちらがよいか。 漢文の方は句法の説明がある程度終わりました。ここから一番得点に繋がる漢字の読みと意味を説明します。今日は、基本的な句法で出てくる漢字をまとめました。 訳は「ついに・とうとう」。 遂; 終; 卒; 竟; なんぢ . 訳は「君・お� ツイート. なんでわざわざ、中国の文を読まなきゃいけないんだ～！笑. 読み「Aヲシテ～セしム」（使役） ・ 短兵 … 短い武器 ・ 接戦す … 接近して戦う ・ 創 … 傷 ・ 騎司馬 … 騎兵隊長 ・ 若 … おまえ ・ 故人 … 昔なじみ ・ 非A乎 … Aではないか 読み「Aニあらズや」（詠嘆） [ 原文 ] 乃令騎皆下馬歩行、持短兵接戦。 訳は「答える」。 応; 対; 答; つひニ . 閲覧数： 6,024 回答数： 1 お礼： 25枚. ベストアンサーに選ばれた回答. はてブ. 如・若(ごとシ) 如 二 衣 レ テ 繡 ヲ 夜行 一 クガ →繍を衣(き)て夜行くが如し。 傍 ニ 若 レ シ 無 レ キガ 人→傍らに人無きが若し。 所(ところ) 項王 ノ 所 レ ノ 殺 ス 漢軍数百人 ナリ 。→項王の殺す所の漢軍数百人なり。 所以(ゆゑん) 「将に～せんとす」と読みます。 「将」を「まさに」と「～す」と違った読み方で2回読んでいますね。 意味は現代語と同じで、「今まさに～しようとしている」と訳します。 ちなみに「将」の代わりに「且」を使うこともあります。 </p> <p>2011/8/11 14:34:41. </p> <p>シェア . 「若」という漢字の部首・画数・読み方・人名読み・筆順（書き順）・意味・Unicode（ユニコード）・四字熟語・ことわざなどを掲載しています。 </p> <p>訓読文を日本語の読み方通りに表記した文のことです。 読みやすくなりましたね。 このように、漢文には3つの文があり、主として 高校では訓読文 、 中学では書き下し文 がよく出題されますので、ぜひそれぞれの違いをもう一度確認しておきましょう！ 漢文の読み方のコツと勉強法、解き方教えます【大学入学共通テスト～早稲田対策】. </p> <p> なんでわざわざ、中国の文を読まなきゃいけないんだ～！笑. 「将に～せんとす」と読みます。 「将」を「まさに」と「～す」と違った読み方で2回読んでいますね。 意味は現代語と同じで、「今まさに～しようとしている」と訳します。 ちなみに「将」の代わりに「且」を使うこともあります。 </p> <p>漢文の読み方のコツと勉強法、解き方教えます【大学入学共通テスト～早稲田対策】. </p> <p>漢文基礎講話. 問題として出されてしまうわけですから、そんなことを考えていても仕方がありません。 若 の部首・画数・読み方・意味 ... (ボンゴ)の音訳に用いられる字。「般若」 ⑪「若狭(わかさ)の国」の略。「若州」 若の解説 - 小学館 大辞泉. 漢文の受身の形と使役の形について説明します。 まず受身の形について説明します。 受身の助動詞『見』『被』 受身の助動詞『見』『被』を使った受身の形を紹介します。 受身の助動詞『見』『被』 ・読み方 … 漢文「若に」の読み方. </p> <p>漢文の方は句法の説明がある程度終わりました。ここから一番得点に繋がる漢字の読みと意味を説明します。今日は、基本的な句法で出てくる漢字をまとめました。 訳は「言う」。 言; 道; 謂; 云; 曰; こたフ . 素読必読書（基礎学力を修得するための必読書） 漢文を読んでみる; 返り点とは; 漢文の構造; 漢文読解のコツ; 漢文読解のコツ（実践篇） 打ち消し（否定） 反語とは; 関係代名詞の漢英比較 「未然形＋ば」と「已然形＋ば」 初見の漢文の読み方 </p>";s:7:"keyword";s:20:"漢文 若 読み方";s:5:"links";s:10104:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BF%9D%E9%99%BA%E8%96%AC%E5%89%A4%E5%B8%AB-%E6%B0%8F%E5%90%8D%E5%A4%89%E6%9B%B4-%E8%A8%98%E5%85%A5%E4%BE%8B'>保険薬剤師 氏名変更 記入例</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%84%E3%82%8F%E3%81%97-%E5%A1%A9%E7%84%BC%E3%81%8D-%E9%A3%9F%E3%81%B9%E6%96%B9'>いわし 塩焼き 食べ方</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%8C%AB-%E9%AA%A8%E6%A0%BC-%E4%BC%B8%E3%81%B3%E3%82%8B'>猫 骨格 伸びる</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%89%8B%E7%BE%BD%E5%85%83-%E5%A4%A7%E6%A0%B9-%E5%9C%A7%E5%8A%9B%E9%8D%8B-%E3%82%81%E3%82%93%E3%81%A4%E3%82%86'>手羽元 大根 圧力鍋 めんつゆ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%AB%98%E6%A0%A1%E5%85%A5%E8%A9%A6-%E8%8B%B1%E7%86%9F%E8%AA%9E-%E3%81%8A%E3%81%99%E3%81%99%E3%82%81'>高校入試 英熟語 おすすめ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=bluetooth-pc-%E3%82%B9%E3%83%9E%E3%83%9B-%E6%8E%A5%E7%B6%9A%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84'>Bluetooth Pc スマホ 接続できない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A4%A7%E5%AD%A6-wi-fi-%E3%83%90%E3%83%AC%E3%82%8B'>大学 Wi-fi バレる</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%8E%A5%E7%B6%9A%E3%81%AE%E5%BE%A9%E5%85%83-%E3%81%93%E3%81%AE-%E6%8E%A5%E7%B6%9A%E3%81%AF%E5%BE%A9%E5%85%83-%E3%81%95%E3%82%8C-%E3%81%BE%E3%81%9B-%E3%82%93%E3%81%A7-%E3%81%97%E3%81%9F'>ネットワーク接続の復元 この 接続は復元 され ませ んで した</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A4%96-%E4%BB%98%E3%81%91-ssd-%E3%83%A8%E3%83%89%E3%83%90%E3%82%B7-%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0'>外 付け Ssd ヨドバシ ランキング</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=AKiTiO-Thunder2-Quad'>AKiTiO Thunder2 Quad</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%97%A5%E9%87%8E%E5%B8%82-%E5%B0%8F%E5%AD%A6%E6%A0%A1-%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0'>日野市 小学校 ランキング</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%9F%93%E5%9B%BD%E7%B3%BB-%E3%83%94%E3%82%A2%E3%82%B9-%E3%83%AC%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B9'>韓国系 ピアス レディース</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%94%90-%E6%8F%9A%E3%81%92-%E4%BD%9C%E3%82%8A%E7%BD%AE%E3%81%8D%E3%83%AC%E3%82%B7%E3%83%94'>唐 揚げ 作り置きレシピ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9E%E3%83%AB%E3%83%8A%E3%82%AB-%E5%8F%AF-%E9%83%A8-%E9%A3%9F%E4%BA%8B'>マルナカ 可 部 食事</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=iPad-%E7%94%BB%E9%9D%A2%E5%88%86%E5%89%B2-%E7%B8%A6'>IPad 画面分割 縦</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%BC%E3%82%B8%E3%83%93%E3%83%AB%E3%83%80%E3%83%BC21-%E3%83%A9%E3%82%A4%E3%82%BB%E3%83%B3%E3%82%B9-%E7%A7%BB%E8%A1%8C'>ホームページビルダー21 ライセンス 移行</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=BTS-%E3%83%96%E3%83%AD%E3%82%B0-%E3%83%9E%E3%83%86%E3%83%AA%E3%82%A2%E3%83%AB'>BTS ブログ マテリアル</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A4%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89-%E3%83%A9%E3%82%B0%E3%83%93%E3%83%BC-%E3%83%81%E3%82%B1%E3%83%83%E3%83%88'>イングランド ラグビー チケット</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Zoom-%E4%BD%BF%E3%81%84%E6%96%B9-%E3%82%BF%E3%83%96%E3%83%AC%E3%83%83%E3%83%88'>Zoom 使い方 タブレット</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%AF%E3%83%BC%E3%82%AF-%E6%B0%B4%E6%88%B8-%E4%BF%9D%E8%82%B2%E5%A3%AB'>ハローワーク 水戸 保育士</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%84%9B%E7%9F%A5%E7%9C%8C-%E7%9C%8B%E8%AD%B7%E5%B8%AB-%E5%A4%A7%E5%AD%A6'>愛知県 看護師 大学</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%9F%E3%82%89%E3%81%93-%E3%82%BD%E3%83%BC%E3%82%B9-%E3%82%AA%E3%83%A0%E3%83%A9%E3%82%A4%E3%82%B9-%E3%82%AF%E3%83%83%E3%82%AF%E3%83%91%E3%83%83%E3%83%89'>たらこ ソース オムライス クックパッド</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A6%8A%E5%A9%A6-%E5%81%A5-%E8%A8%BA-%E9%87%8C%E5%B8%B0%E3%82%8A'>妊婦 健 診 里帰り</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%AF%E3%82%B4%E3%83%B3R-%E3%82%AD%E3%83%BC%E3%83%AC%E3%82%B9-%E9%9B%BB%E6%B1%A0-mh55s'>ワゴンR キーレス 電池 Mh55s</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%A8%E3%83%BC%E3%82%B0%E3%83%AB%E3%83%88%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC-%E9%B6%8F%E3%83%8F%E3%83%A0-%E6%B8%A9%E5%BA%A6'>ヨーグルトメーカー 鶏ハム 温度</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%BE%E3%81%BE%E3%81%94%E3%81%A8%E3%82%AD%E3%83%83%E3%83%81%E3%83%B3-%E6%89%8B%E4%BD%9C%E3%82%8A-%E7%94%B7%E3%81%AE%E5%AD%90'>ままごとキッチン 手作り 男の子</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%81%E3%83%BC%E3%82%BA-%E3%83%87%E3%83%9F%E3%82%B0%E3%83%A9%E3%82%B9-%E3%83%89%E3%83%AA%E3%82%A2%E3%82%BD%E3%83%BC%E3%82%B9'>チーズ デミグラス ドリアソース</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%89%E3%83%AF%E3%83%B3-%E4%B8%89%E5%AE%AE-%E4%BA%88%E7%B4%84'>ラウンドワン 三宮 予約</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%87%E3%82%A3%E3%82%BA%E3%83%8B%E3%83%BC-%E3%83%81%E3%82%B1%E3%83%83%E3%83%88-%E7%A4%BE%E5%93%A1%E5%89%B2%E5%BC%95'>ディズニー チケット 社員割引</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%AD%8C%E8%88%9E%E4%BC%8E%E7%94%BA-%E8%88%9E%E5%8F%B0-%E6%BC%AB%E7%94%BB'>歌舞伎町 舞台 漫画</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BA%94-%E5%8D%81-%E6%A3%B2-%E5%84%AA'>五 十 棲 優</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=iPhone-%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC%E7%AF%80%E7%B4%84-iOS12'>IPhone バッテリー節約 IOS12</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BD%8F%E5%8F%8B-%E4%B8%8D%E5%8B%95%E7%94%A3-%E8%B2%A9%E5%A3%B2-%E9%80%80%E8%81%B7%E9%87%91'>住友 不動産 販売 退職金</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%8C%A6%E6%88%B8-%E4%BA%AE-%E8%B1%8A%E6%B4%B2PIT'>錦戸 亮 豊洲PIT</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%85%AB%E6%88%B8%E5%B8%82-%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%AF%E3%83%BC%E3%82%AF-%E6%AD%A3%E7%A4%BE%E5%93%A1-%E6%B1%82%E4%BA%BA'>八戸市 ハローワーク 正社員 求人</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%BF%E3%82%AF%E3%82%B7%E3%83%BC%E3%82%92%E5%91%BC%E3%81%B6-%E8%8B%B1%E8%AA%9E-%E9%9B%BB%E8%A9%B1'>タクシーを呼ぶ 英語 電話</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%AB%E3%82%BF%E3%82%AA-%E3%83%81%E3%83%BC%E3%82%BA%E3%82%B1%E3%83%BC%E3%82%AD-%E6%8C%81%E3%81%A1%E5%B8%B0%E3%82%8A'>ルタオ チーズケーキ 持ち帰り</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=HR15-%E3%82%B9%E3%83%AD%E3%83%83%E3%83%88%E3%83%AB-%E6%B8%85%E6%8E%83'>HR15 スロットル 清掃</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%91%E3%83%8A%E3%82%BD%E3%83%8B%E3%83%83%E3%82%AF-%E6%A0%AA%E4%BE%A1-%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF'>パナソニック 株価 オリンピック</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%92%8C%E6%AD%8C%E5%B1%B1-%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88-2020'>和歌山 イベント 2020</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B9%E3%83%8B%E3%83%BC%E3%82%AB%E3%83%BC-%E3%82%B5%E3%82%A4%E3%82%BA-%E6%8C%87'>スニーカー サイズ 指</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%93%E3%83%83%E3%82%B0-%E3%83%81%E3%83%A9%E3%82%B7-%E9%80%A3%E5%B3%B6'>ビッグ チラシ 連島</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%80%E3%82%A4%E3%82%BD%E3%83%BC-%E3%81%8A%E8%8F%93%E5%AD%90-%E9%A3%BE%E3%82%8A'>ダイソー お菓子 飾り</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%B5%90-%E3%81%AB%E3%81%97-%E3%82%84-%E3%81%8C-%E3%82%8C-4%E6%9C%8820%E6%97%A5'>嵐 にし や が れ 4月20日</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=ipad-%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%9C%E3%82%BF%E3%83%B3-%E4%BF%AE%E7%90%86'>Ipad ホームボタン 修理</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%A0%84%E9%A4%8A%E5%AD%A6-%E5%A4%A7%E5%AD%A6%E9%99%A2-%E6%B5%B7%E5%A4%96'>栄養学 大学院 海外</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%AE%8B%E5%BF%B5%E3%81%AA%E3%81%8C%E3%82%89%E3%80%81%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88-%D0%B0mazon-%E3%82%92%E6%9B%B4%E6%96%B0%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%9B%E3%82%93%E3%81%A7%E3%81%97%E3%81%9F%E3%80%82'>残念ながら、あなたのアカウント аmazon を更新できませんでした。</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%90%E3%82%A4%E3%83%88-20%E4%B8%87-%E6%89%80%E5%BE%97%E7%A8%8E'>バイト 20万 所得税</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%91%AC%E5%BC%8F-%E9%A6%99%E5%85%B8-%E5%84%B2%E3%81%8B%E3%82%8B'>葬式 香典 儲かる</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%B8%9D%E4%BA%AC%E5%A4%A7%E5%AD%A6-%E9%81%8E%E5%8E%BB%E5%95%8F-2017'>帝京大学 過去問 2017</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B8%8A%E9%87%8E%E9%A7%85-%E5%85%AC%E5%9C%92%E5%8F%A3-%E3%82%AB%E3%83%95%E3%82%A7'>上野駅 公園口 カフェ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%A5%AD%E5%8B%99%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC-%E3%83%A9%E3%83%BC%E3%83%89-900g'>業務スーパー ラード 900g</a>,
+";s:7:"expired";i:-1;}

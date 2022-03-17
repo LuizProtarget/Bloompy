@@ -1,0 +1,75 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:5317:"<br>Skypeには画面共有という機能が存在しており、プライベートやビジネスシーンでも頻繁に使用されています。 この記事では、Skypeの画面共有機能の解説や、共有する際の注意点、共有する手順などを解説しています。 Skypeの画面共有機能 お使いの Skype for Mac のSkype 同士の通話についての Skype サポートを利用して、どこにいても友人や家族とつながり続けられるようにしましょう。 Skype(スカイプ)には画面共有という、互いのPC画面を共有できる機能があります。Skypeでの会議通話に、また友達とゲームで遊ぶ時などにこの画面共有は非常に便利です。今回は、Skype(スカイプ)での画面共有を行う方法についてを説明していきます。 なおこの機能を使用中画面共有機能は使えず、当然ながら同じWindows版Skype 5.0でかつこのベータ版機能を有効にしている人とでないと会話できない。現在はこの機能は有料機能化されMac OS Xにも対応し正式開始されている。詳しくは公式 サイト参照。 skypeで画面共有をする際に音声も共有する方法を解説します。また、音声を共有したいがうまくできない時の主な原因やその対処法も同時に解説します。skype for businessの場合やwindows, mac, スマホなどskypeで画面共有を行うデバイスごとでも解説しておりますので、是非参考にしてみてください。 画面共有の範囲を指定したい場合.  トレーニング: ハングアウト Meet から Skype for Business に切り替え、共同作業を始めるには、このページを参照してください。Skype for Business でオンライン会議の作成、実行、参加を行う手順について簡単に説明しています。 「電話先の相手に説明をするために、相手のPC画面を見たい」 もしくは、 「今見ている自分のPC画面を、他の人のPCで見せたい」 そんな時にSkypeの【画面を共有】機能を使うと、簡単に相手に自分のPC画面を見せることができます。 （ちなみに遠隔操作はできません） お使いのPCがWindowsでもMac skypeで画面共有をする際に音声も共有する方法を解説します。また、音声を共有したいがうまくできない時の主な原因やその対処法も同時に解説します。skype for businessの場合やwindows, mac, スマホなどskypeで画面共有を行うデバイスごとでも解説しておりますので、是非参考にしてみてください。 skypeの特徴として、通話中の相手と画面を共有することができる機能が備わっています。操作説明など言葉で説明するのが難しいものを、相手に情報として的確に伝えることができるので、注目されてい … 昔のSkypeであれば、出来ていましたが、今では出来ません。 Skype for Bisinessを使えば「デスクトップの共有」と「ウィンドウの共有」の二つの画面共有機能が選択できます。 【画面共有】が出来ない場合の対処法 必要があったので、AさんとBさんがインターネットを介してお互いの画面を見る方法について調査した。 条件としては、 試したのは以下のパターン Skypeの自分の顔（内蔵カメラ）をデスクトップに置き換える方法 1．Skype＋ManyCam ManyCam 2．Skype＋SCFH DSF SCFH DSF ・概要  Skype for windows10の機能の中に、「画面とサウンドを共有」があるが、サウンドのみを共有したい。 以前は「システムサウンドを共有」という項目があったはずなのだが、バージョンアップで消えてしまったのだろうか。 skypeについて友人とスカイプをしていて、画面共有をしたところ友人の方で映し出されている映像がカクカクなようです。友人に送られるリアルタイムの映像をヌルヌルにしたいのです。画面共有で送られる映像がヌルヌルになるソフトや方法を教えて下さい。 Lync 会議のセットアップ、参加、発表を行うときに使うことができるオプションにはさまざまなものがあります。ここでは、仕事がしやすくなり、快適な会議を行うための機能を利用するうえでのベスト プラクティスついて説明します。 なおこの機能を使用中画面共有機能は使えず、当然ながら同じWindows版Skype 5.0でかつこのベータ版機能を有効にしている人とでないと会話できない。現在はこの機能は有料機能化されMac OS Xにも対応し正式開始されている。詳しくは公式 サイト参照。 Skype での画面共有は、どのモバイルおよびタブレット デバイスでサポートされていますか。 画面共有は、Android 6.0 以降でサポートされています。 iOS 12 以降を搭載した iPhone、iPad、iPod Touch の場合、これは iPhone 6s、iPad Air 2、iPad mini 2019、iPod Touch 第 7 世代以降のデバイスでサポートさ … <br>";s:7:"keyword";s:25:"skype 画面共有 遅延";s:5:"links";s:7440:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=iphone-wi-fi-%E3%83%91%E3%82%B9%E3%83%AF%E3%83%BC%E3%83%89%E3%81%8C%E9%81%95%E3%81%84%E3%81%BE%E3%81%99-ios13'>Iphone Wi-fi パスワードが違います Ios13</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%8F%B3%E3%82%AF%E3%83%AA%E3%83%83%E3%82%AF-%E9%81%85%E3%81%84-%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF'>右クリック 遅い ネットワーク</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%AD%E3%83%BC%E3%83%89%E3%83%90%E3%82%A4%E3%82%AF-%E4%BD%93%E9%87%8D-%E8%BB%BD%E3%81%84'>ロードバイク 体重 軽い</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A8%E3%83%90%E3%83%BC%E8%88%AA%E7%A9%BA-A321-%E6%90%AD%E4%B9%97%E8%A8%98'>エバー航空 A321 搭乗記</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%86%8A%E6%9C%AC-%E9%A6%AC%E5%88%BA%E3%81%97-%E3%83%89%E3%83%83%E3%83%88%E3%82%B3%E3%83%A0-%E8%A7%A3%E5%87%8D'>熊本 馬刺し ドットコム 解凍</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=17-%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%B3-%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3-%E3%81%8B%E3%81%8B%E3%82%89%E3%81%AA%E3%81%84'>17 クラウン エンジン かからない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%98%A5%E9%9B%A8-%E5%B0%8F%E6%9D%BE%E8%8F%9C-%E5%8D%B5'>春雨 小松菜 卵</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=line-%E3%82%B9%E3%82%AF%E3%82%B7%E3%83%A7-%E6%99%92%E3%81%95%E3%82%8C%E3%81%9F'>Line スクショ 晒された</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Img-src-await'>Img Src Await</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%95%E3%81%95%E3%81%BF-%E3%81%AB%E3%82%93%E3%81%98%E3%82%93-%E7%8E%89%E3%81%AD%E3%81%8E'>ささみ にんじん 玉ねぎ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%8A%E3%81%8B%E3%82%89-%E3%83%9D%E3%83%86%E3%83%88%E3%82%B5%E3%83%A9%E3%83%80-%E3%83%AA%E3%83%A5%E3%82%A6%E3%82%B8'>おから ポテトサラダ リュウジ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%A0-%E3%82%AD%E3%83%A3%E3%83%83%E3%82%B7%E3%83%A5-%E3%82%A2%E3%83%89%E3%82%AA%E3%83%B3'>クローム キャッシュ アドオン</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%AC%E3%83%B4%E3%82%A9%E3%83%BC%E3%82%B0-%E8%A9%95%E4%BE%A1-%E8%BE%9B%E5%8F%A3'>レヴォーグ 評価 辛口</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%86%E3%83%AC%E3%83%B3%E3%82%B9-%E3%83%8F%E3%83%AF%E3%83%BC%E3%83%89-%E3%82%A2%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%86%E3%82%A3'>テレンス ハワード アシャンティ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%8F%B0%E7%81%A3-%E6%B1%82%E4%BA%BA-%E5%B9%BC%E5%85%90'>台灣 求人 幼児</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Windows10-%E6%9B%B4%E6%96%B0-Wi-Fi-%E7%B9%8B%E3%81%8C%E3%82%89%E3%81%AA%E3%81%84'>Windows10 更新 Wi Fi 繋がらない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BD%90%E5%80%89-%E3%81%B5%E3%82%8B%E3%81%95%E3%81%A8%E5%BA%83%E5%A0%B4-%E3%82%B3%E3%82%B9%E3%83%A2%E3%82%B9'>佐倉 ふるさと広場 コスモス</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%80%B3%E9%BC%BB%E7%A7%91-%E5%8F%97%E4%BB%98-%E4%BB%95%E4%BA%8B'>耳鼻科 受付 仕事</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=nhk-%E8%87%A8%E6%99%82%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9-%E3%83%81%E3%83%A3%E3%82%A4%E3%83%A0'>Nhk 臨時ニュース チャイム</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%8B%E3%83%88%E3%83%AA-%E3%83%90%E3%82%A4%E3%83%88-%E3%81%8D%E3%81%A4%E3%81%84'>ニトリ バイト きつい</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%A8%AA%E5%B7%9D%E9%A7%85-%E3%82%81%E3%81%8C%E3%81%AD%E6%A9%8B-%E3%83%90%E3%82%B9'>横川駅 めがね橋 バス</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%8F%E3%81%9A%E3%81%97-%E5%89%B2%E7%83%B9-%E3%83%A9%E3%83%B3%E3%83%81'>くずし 割烹 ランチ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B3%E3%82%B9%E3%83%88%E3%82%B3-%E3%82%B7%E3%83%BC%E3%83%95%E3%83%BC%E3%83%89%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-%E8%A7%A3%E5%87%8D'>コストコ シーフードミックス 解凍</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%AB%98%E5%B1%B1%E5%AF%BA-%E9%B3%A5%E7%8D%A3%E6%88%AF%E7%94%BB-%E5%99%A8'>高山寺 鳥獣戯画 器</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%BF%E3%82%AF%E3%82%B7%E3%83%BC-%E5%91%BC%E3%81%B6-%E3%82%A2%E3%83%97%E3%83%AA'>タクシー 呼ぶ アプリ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%B9%BC%E7%A8%9A%E5%9C%92-%E3%81%AE-%E5%85%88%E7%94%9F-%E5%86%99%E7%9C%9F-%E3%83%95%E3%83%AA%E3%83%BC'>幼稚園 の 先生 写真 フリー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=K-BOOKS-%E5%90%8C%E4%BA%BA-%E8%B2%B7%E5%8F%96'>K-BOOKS 同人 買取</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%8F%E3%83%AB%E3%82%B7%E3%83%A5%E3%82%BF%E3%83%83%E3%83%88-%E4%B8%AD%E5%9B%BD-%E3%82%B3%E3%83%94%E3%83%BC'>ハルシュタット 中国 コピー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%A0-%E3%82%BF%E3%83%96%E3%83%AC%E3%83%83%E3%83%88-%E8%A1%A8%E7%A4%BA'>クローム タブレット 表示</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%80%E3%82%A4%E3%82%BD%E3%83%BC-%E3%82%B7%E3%83%AA%E3%82%B3%E3%83%B3%E3%83%9E%E3%83%83%E3%83%88-%E5%A3%B2%E3%82%8A%E5%A0%B4'>ダイソー シリコンマット 売り場</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%AF%8C%E5%B1%B1-%E3%82%A2%E3%83%B3%E3%83%86%E3%83%8A%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97-%E5%90%8D%E5%8F%A4%E5%B1%8B'>富山 アンテナショップ 名古屋</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=lavie-%E6%9B%B4%E6%96%B0%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0-%E7%B5%82%E3%82%8F%E3%82%89%E3%81%AA%E3%81%84'>Lavie 更新プログラム 終わらない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%97%94-%E7%97%85%E9%99%A2-%E5%A5%B3%E5%8C%BB-%E6%9D%B1%E4%BA%AC'>痔 病院 女医 東京</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B8%E3%83%AA%E3%82%AA%E3%83%B3SV-TW-%E3%83%AD%E3%83%83%E3%82%AF%E3%83%95%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A5'>ジリオンSV TW ロックフィッシュ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%A1%E3%83%87%E3%82%A3%E3%82%AB%E3%83%AB-%E3%83%95%E3%82%A3%E3%83%83%E3%83%88%E3%83%8D%E3%82%B9-%E5%8D%83%E8%91%89'>メディカル フィットネス 千葉</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%94%B7%E3%81%AE%E5%AD%90-%E5%84%AA%E3%81%97%E3%81%84-%E5%90%8D%E5%89%8D'>男の子 優しい 名前</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Edge-%E5%8F%B3%E3%82%AF%E3%83%AA%E3%83%83%E3%82%AF-%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%9E%E3%82%A4%E3%82%BA'>Edge 右クリック カスタマイズ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%A3%9F%E5%99%A8%E6%A3%9A-%E5%9C%B0%E9%9C%87%E5%AF%BE%E7%AD%96-100%E5%9D%87'>食器棚 地震対策 100均</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%89%E3%83%AF%E3%83%B3-%E4%B8%89%E5%AE%AE-%E4%BA%88%E7%B4%84'>ラウンドワン 三宮 予約</a>,
+";s:7:"expired";i:-1;}

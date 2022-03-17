@@ -1,0 +1,70 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:5437:"<p>マイナンバーを提出するということは情報が流出したり悪用されてしまう可能性があることから退職後は提出したマイナンバーは返却してほしいという方もみられますが、会社には提出してもらったマイナンバーを返却する義務はありませんので、難しいでしょう。 会社と雇用関係にある社員の場合、マイナンバーの提出を求められます。 また、会社側は各種行政手続きにおいてマイナンバーの記入が義務かされたため、社員にマイナンバーの提出を求める必要があります。 そこで、マイナンバーの何が義務・罰則・任意なのかについてまとめました。 </p> <p>マイナンバー制度の開始により、企業は「特定個人情報保護」の管理を徹底することが義務づけられました。企業のマイナンバー管理には収集、利用・管理、廃棄といった3段階の管理が必須です。本記事では、企業におけるマイナンバー管理方法をお伝えします。 会社と雇用関係にある社員の場合、マイナンバーの提出を求められます。 また、会社側は各種行政手続きにおいてマイナンバーの記入が義務かされたため、社員にマイナンバーの提出を求める必要があります。 そこで、マイナンバーの何が義務・罰則・任意なのかについてまとめました。 Q3．マイナンバーカードを持てば、保険証は持たなくもいいですか？ Q4．マイナンバーカードを持っていればすぐに健康保険証として利用出来るのでしょうか？ Q5．病院の受付でマイナンバーカードを預けるのですか？ 現金10万円の一律給付にスピード感が欠けていることで、マイナンバー制度の不備が浮き彫りになっている。マイナンバーと預貯金口座のひも付けが義務化されていないのが一…（2020年5月31日 … マイナンバーの金融機関への提出義務化 マイナンバーの提供猶予期間が 平成30年で終了しますね。 対象となっていたのは平成27年12月31日以前に 証券口座等を開設した方等で、金融機関へ マイナンバーの提供が済んでいない方は、 マイナンバーの提供をしないといけません。 マイナンバーQ＆A（事業者向け） 〔総論〕 Q1 民間事業者はどのような場面でマイナンバーを扱うのですか。 Q2 マイナンバーを使って従業員や顧客の情報を管理することはできますか。 Q3 マイナンバーを取り扱う業務の委託や再委託はできますか。 雇用する側は、マイナンバーの提出を促す義務があるので、提出するように言われます。 でも、 アルバイトには提出する義務はありません 。 雇う側は提出を求める義務があるのに、雇われる側は提出する義務がないんです。 おかしな制度ですね。 現金10万円の一律給付にスピード感が欠けていることで、マイナンバー制度の不備が浮き彫りになっている。マイナンバーと預貯金口座のひも付けが義務化されていないのが一因だ。 政府は今回の10万円給付に際し - Yahoo!ニュース(産経新聞) 雇用保険の手続きにおいてマイナンバーが記載されていない場合、今後は不備となり返戻されてしまう可能性があります。この記事ではマイナンバーの記載が必要なケース、記載を省略できるケースの説明とともに、マイナンバーを取り扱う際の注意点についても解説していきます。 マイナンバーって義務ですか？それとも義務ではないですか？ 会社からずっと早くマイナンバーを登録して提供しろと言われているの気になって…。もしも義務ではないのなら、まだしっかりしてるか分から … 会社側にはマイナンバーを取得する義務がありますが、バイト側には提出義務はなく罰則もありません。 では、バイト先からマイナンバーの提出を求められても応じずに提出をしなかった場合は、どんなことが起こる可能性があるのでしょうか。 </p> <p>源泉徴収などの行政手続きのために、マイナンバーの提供を勤務先から求められるようになります。行政手続きのためのマイナンバーの提供は、税法など個別の法律上の義務となりますので、拒否することはできません。個人と企業に求められる対応について解説しています。 平成28年1月よりマイナンバー制度が開始されます。このページではマイナンバーを理解するにあたって、まず開始時期がいつからなのか、今後のスケジュールはどのようになっているかをご紹介していきま …  マイナンバー制度が施行され、会社側が雇用者のマイナンバーを管理・収集することが義務となりました。 そうなった場合、「パートやバイトも、マイナンバーを会社に提出するの？」「マイナンバーって何だっけ？」と思ってる方もいるかと思います。 </p>";s:7:"keyword";s:32:"マイナンバー 雇用 義務";s:5:"links";s:6412:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%9D%B1%E5%8C%97%E5%A4%A7%E5%AD%A6-%E6%96%87%E5%AD%A6-%E9%83%A8%E9%95%B7'>東北大学 文学 部長</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B0%E3%82%A2%E3%83%A0-%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%A0-%E3%82%B8%E3%82%A7%E3%83%8B-%E3%83%95%E3%82%A3%E3%83%83%E3%82%AF'>グアム ランコム ジェニ フィック</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=PX048A-Wi-Fi-%E3%81%A4%E3%81%AA%E3%81%8E-%E6%96%B9'>PX048A Wi-Fi つなぎ 方</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A2%E3%83%87%E3%82%A3%E3%83%80%E3%82%B9-%E3%82%B9%E3%82%A6%E3%82%A7%E3%83%83%E3%83%88-%E3%83%AC%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B9'>アディダス スウェット レディース</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%91%82%E5%8D%97%E5%A4%A7%E5%AD%A6-%E6%99%82%E9%96%93%E5%89%B2-2019-%E8%96%AC%E5%AD%A6%E9%83%A8'>摂南大学 時間割 2019 薬学部</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=New-York-Public-Library-%E6%97%A5%E6%9C%AC%E8%AA%9E'>New York Public Library 日本語</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B9%85%E7%B1%B3%E5%B3%B6-%E3%83%9B%E3%83%86%E3%83%AB-JAL'>久米島 ホテル JAL</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%84%86%E5%BC%B1-%E6%80%A7-%E6%94%BB%E6%92%83-ipa'>脆弱 性 攻撃 Ipa</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A4%A7%E9%98%AA-%E7%B2%BE%E7%A5%9E%E7%A7%91-%E3%83%8D%E3%83%83%E3%83%88%E4%BA%88%E7%B4%84'>大阪 精神科 ネット予約</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%97%E3%83%BC%E3%83%9E-%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC-%E3%83%AA%E3%83%A5%E3%83%83%E3%82%AF-%E3%82%AD%E3%83%83%E3%82%BA'>プーマ サッカー リュック キッズ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%9B%80%E5%AE%AE-%E7%94%A3%E5%A9%A6-%E4%BA%BA-%E7%A7%91'>雀宮 産婦 人 科</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%9C%AA%E7%B5%8C%E9%81%8E-%E5%9B%BA%E5%AE%9A%E8%B3%87%E7%94%A3%E7%A8%8E-%E5%8F%96%E5%BE%97%E4%BE%A1%E9%A1%8D'>未経過 固定資産税 取得価額</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%91%E3%83%8A%E3%82%BD%E3%83%8B%E3%83%83%E3%82%AF-%E3%82%A8%E3%82%A2%E3%82%B3%E3%83%B3-%E3%83%AA%E3%83%A2%E3%82%B3%E3%83%B3-%E3%83%AA%E3%82%B3%E3%83%BC%E3%83%AB'>パナソニック エアコン リモコン リコール</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9B%E3%83%BC%E3%83%9E%E3%83%83%E3%82%AF-%E9%80%9A%E8%B2%A9-%E5%AE%B6%E5%85%B7'>ホーマック 通販 家具</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88%E3%83%94%E3%82%A2%E3%82%B9-%E9%9A%A0%E3%81%99-%E7%94%B7'>ファーストピアス 隠す 男</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%B7%A5%E4%BA%8B%E4%B8%8D%E8%A6%81-wifi-%E5%8F%A3%E3%82%B3%E3%83%9F'>工事不要 Wifi 口コミ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=VIO%E8%84%B1%E6%AF%9B-%E3%83%A1%E3%83%B3%E3%82%BA-%E9%95%B7%E5%B4%8E'>VIO脱毛 メンズ 長崎</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%BE%BD%E7%94%B0%E7%A9%BA%E6%B8%AF-%E6%99%82%E8%A8%88%E5%A1%94-%E5%AF%8C%E5%A3%AB'>羽田空港 時計塔 富士</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-%E3%83%A9%E3%83%83%E3%82%AF-%E8%A8%AD%E7%BD%AE'>サーバー ラック 設置</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%88%87%E8%BF%AB%E6%97%A9%E7%94%A3-%E5%AE%89%E9%9D%99-%E3%81%AB%E3%81%97-%E3%81%AA%E3%81%8B%E3%81%A3%E3%81%9F'>切迫早産 安静 にし なかった</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9B%E3%83%BC%E3%83%AB%E3%82%B1%E3%83%BC%E3%82%AD-%E3%83%AC%E3%82%B7%E3%83%94-%E3%83%81%E3%83%A7%E3%82%B3'>ホールケーキ レシピ チョコ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%95%E3%82%A7%E3%82%A2%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89-%E3%83%90%E3%82%A4-%E3%83%9E%E3%83%AA%E3%82%AA%E3%83%83%E3%83%88%E6%9C%AD%E5%B9%8C'>フェアフィールド バイ マリオット札幌</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%B5%A4%E5%9D%82-%E9%9B%A2%E5%AE%AE-%E9%A3%B2%E8%8C%B6'>赤坂 離宮 飲茶</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=iPhone-Safari-PDF-%E5%88%87%E3%82%8C%E3%82%8B'>IPhone Safari PDF 切れる</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A4%95%E6%96%B9-%E3%81%8B%E3%82%89-%E9%81%8A%E5%9C%92%E5%9C%B0'>夕方 から 遊園地</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B9%E3%83%9E%E3%83%9B-%E3%83%91%E3%82%B9%E3%83%AF%E3%83%BC%E3%83%89%E7%AE%A1%E7%90%86-%E6%96%B9%E6%B3%95'>スマホ パスワード管理 方法</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=android-chrome-%E3%83%96%E3%83%83%E3%82%AF%E3%83%9E%E3%83%BC%E3%82%AF-%E8%A1%A8%E7%A4%BA%E3%81%95%E3%82%8C%E3%81%AA%E3%81%84'>Android Chrome ブックマーク 表示されない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%9D%B1%E5%A4%A7%E9%98%AA%E5%B8%82-%E4%BD%8F%E6%B0%91%E7%A8%8E-%E3%82%AF%E3%83%AC%E3%82%B8%E3%83%83%E3%83%88'>東大阪市 住民税 クレジット</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%B9%B4%E8%B3%80%E7%8A%B6-%E6%A7%8B%E5%9B%B3-%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88'>年賀状 構図 イラスト</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%A0%93%E6%8A%9C%E3%81%8D-100%E5%9D%87-%E3%82%BB%E3%83%AA%E3%82%A2'>栓抜き 100均 セリア</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%8A%AC-%E5%A3%81-%E3%81%B2%E3%81%A3%E3%81%8B%E3%81%8D-%E9%98%B2%E6%AD%A2'>犬 壁 ひっかき 防止</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=VBA-ADODB-Stream-%E3%83%A1%E3%83%A2%E3%83%AA%E4%B8%8D%E8%B6%B3'>VBA ADODB Stream メモリ不足</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF-%E8%A1%A8%E7%A4%BA%E3%81%95%E3%82%8C%E3%81%AA%E3%81%84-nas'>ネットワーク 表示されない Nas</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%83%8E%E5%85%90-%E3%82%A8%E3%82%B3%E3%83%BC-%E5%A5%B3%E3%81%AE%E5%AD%90-%E5%AD%90%E5%AE%AE-%E7%94%BB%E5%83%8F'>胎児 エコー 女の子 子宮 画像</a>,
+";s:7:"expired";i:-1;}

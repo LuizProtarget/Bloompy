@@ -1,0 +1,62 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:4969:"<br>・11月19日（火）更新分のpixivランキングの不具合について 2019年11月19日 ・メンテナンスのお知らせ 2013年5月22日 ・メンテナンスのお知らせ 2011年7月8日 ・ブックマーク内検索機能の一時停止のお知らせ 2011年6月30日 ≫ 一覧へ 2011年06月30日; 機能追加・修正; pixiv事務局です。 本日2011年6月30日(木)に、 ピクシブ百科事典をのぞいたらなんかいたから描いた 保存ファイル名のmaintenance_hakutakutanが名前だろうか？ pikushibuhyakkajitenn; menntenannsu; メンテナンス-ハクタクタン; ハクタクタン; … <br> <br>ピクシブ百科事典 pixivコミック pixivチャット URL短縮サービス p.tl drawr. pixiv事務局です。 「pixiv（ピクシブ）」を補完するサービスとして、pixivに投稿された作品に付いてるタグや企画を解説するための百科事典サービス[pixpedia（ピクペディア）]を開始しました。 ・pixivのユーザー登録数が5000万人を突破 2020年4月28日 ・d/art taipeiにて「pixiv ORIGINAL PROJECT 百合展」開催 2020年4月18日 ・ピクシブ百科事典がAmazon Alexa向けにAmazonへのデータ提供を開始 2020年4月6日 閲覧数： 4,782 回答数： 3. pixiv事務局です。 本日10月21日、ピクシブ百科事典のモバイル版をリリースいたしました。 ピクシブ百科事典 上記URLに携帯電話からアクセスするとモバイル版のページへと移動します。 モバイル版の主 … The Illustrations "メンテナンス-ハクタクタン" includes tags such as "ピクシブ百科事典", "メンテナンス" and more. pixiv事務局です。 以下の日程でpixivおよび、pixiv関連サービスのメンテナンスを行わせていただきます。 ・実施日 5月29日(水) 22時から24時まで ※作業の都合によっては延長する場合がございます。 ・メンテナンス対象サービス pixiv（パソコン版、ス… ベストアンサーに選ばれた回答. pixiv事務局です 2009年8月3日（月）16:00～17:00頃までメンテナンスのためpixivを一時停止します。 今回のメンテナンスでは、pixivプレミアム会員向け機能の拡充とサーバの増設を行います。 状況によって時間が前後する可能性がありますので予めご了承ください。 ご利用の皆様にはご迷惑をお掛けいたしますが、ご理解、ご協力のほど賜りますようお願い申し上げます。 引き続きpixivをよろしくお願いいたします。 <br> <br> Like. 「ピクシブ百科事典」リニューアルのお知らせ. pixiv百科事典って皆様ご存知でしょうか？Wikipediaはどちらかというと堅苦しいイメージがありますが、pixiv百科事典ではイラスト付きで（比較的）分かりやすく教えてくれるいわば電子辞書です。 2011年10月20日; 機能追加・修正; pixiv事務局です。 iPhoneやAndroid携帯などのスマートフォンから、「ピクシブ百科事典」を快適に閲覧していただくため、スマートフォン版「ピクシブ百科事典」をリリースいたしました。 愛の妖精ぷりんてぃんさん. Create an account Log in.  スマートフォン版「ピクシブ百科事典」リリースのお知らせ. pixiv事務局です。 「pixiv（ピクシブ）」を補完するサービスとして、pixivに投稿された作品に付いてるタグや企画を解説するための百科事典サービス[pixpedia（ピクペディア）]を開始しました。 pixpedia（ピクペディア）]は、pixivに投稿された作品についたタグが1… メンテナンス-ハクタクタン . 違反報告. pixivで、ピクシブ百科事典の記事を作成したのですが、誤字を発見したので、編集がしたいです。 ヘルプを見てやり方を確認したのですが、どこに「この記事を編集する」があるのか どんなに探しても見つかりません！ どうやって編集するのですか？ 共感した 1. pixiv関係のサイトが全て開かないのですが、メンテナンス中なんでしょうか？それとも私の携帯がおかしいだけですか？( pixiv公式サイト、pixiv sketch、pixiv百科辞典も開きません。アプリからもサイトからも開けないです。) ・3月17日（火）ピクシブからのメールの送信不具合について 2020年3月17日 ・11月19日（火）更新分のpixivランキングの不具合について 2019年11月19日 ・メンテナンスのお知らせ 2013年5月22日 ・メンテナンスのお知らせ 2011年7月8日 ・ブックマーク内検索機能の一時停止のお知らせ 2011年6月30日 ・イメージレスポンス機能拡張のお知らせ 2010年10月19日 <br>";s:7:"keyword";s:37:"Pixiv 百科事典 メンテナンス";s:5:"links";s:4792:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9F%E3%83%8B-%E3%82%A2%E3%83%89-%E3%83%90%E3%83%AB%E3%83%BC%E3%83%B3'>ミニ アド バルーン</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=amazon-%E9%81%8B%E5%96%B6%E8%B2%AC%E4%BB%BB%E8%80%85%E5%90%8D-%E5%81%BD%E5%90%8D'>Amazon 運営責任者名 偽名</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%B0%B4%E9%81%93-%E5%BC%95%E3%81%A3%E8%B6%8A%E3%81%97-%E6%A8%AA%E6%B5%9C'>水道 引っ越し 横浜</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B8%89%E5%B0%BE-%E5%8C%BB%E9%99%A2-%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6-%E4%BA%88%E9%98%B2%E6%8E%A5%E7%A8%AE'>三尾 医院 インフルエンザ 予防接種</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%A4%E3%83%9E%E3%83%88%E9%81%8B%E8%BC%B8-%E3%82%A2%E3%83%97%E3%83%AA-%E9%80%9A%E4%BF%A1-%E3%82%A8%E3%83%A9%E3%83%BC'>ヤマト運輸 アプリ 通信 エラー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%BF%E3%83%B3%E3%83%88-%E3%82%B7%E3%82%AC%E3%83%BC%E3%82%BD%E3%82%B1%E3%83%83%E3%83%88-%E5%A2%97%E8%A8%AD'>タント シガーソケット 増設</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%97%E3%83%AD%E3%83%91%E3%82%A4%E3%83%AD%E3%83%83%E3%83%88-%E8%AA%A4-%E4%BD%9C%E5%8B%95'>プロパイロット 誤 作動</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%A6%8F%E5%B2%A1-%E5%B8%82%E6%9D%B1-%E5%8C%BA-%E7%9A%AE%E8%86%9A%E7%A7%91-%E5%A5%B3%E5%8C%BB'>福岡 市東 区 皮膚科 女医</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%AA%E3%81%AA%E3%81%84%E3%82%8D-%E3%82%AF%E3%83%AA%E3%83%8B%E3%83%83%E3%82%AF-%E4%BA%88%E7%B4%84'>なないろ クリニック 予約</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=iphone-%E9%81%A0%E9%9A%94%E6%93%8D%E4%BD%9C-%E3%82%B2%E3%83%BC%E3%83%A0'>Iphone 遠隔操作 ゲーム</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%B1%B1%E5%B4%8E-%E3%81%97%E3%81%92%E3%81%AE%E3%82%8A-%E5%AD%90%E4%BE%9B'>山崎 しげのり 子供</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%8F%A1%E9%96%8B%E3%81%8D-%E7%B5%90%E5%A9%9A%E5%BC%8F-%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%88'>鏡開き 結婚式 コメント</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A2%E3%83%97%E3%83%AA-%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9-%E9%9B%86%E5%AE%A2'>アプリ リリース 集客</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=wi-fi-%E9%8D%B5-%E3%83%91%E3%82%B9%E3%83%AF%E3%83%BC%E3%83%89'>Wi-fi 鍵 パスワード</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%8D%B5%E3%83%91%E3%83%83%E3%82%AF-%E7%B4%99-%E9%98%B2%E9%9F%B3'>卵パック 紙 防音</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%8A%E3%82%84%E3%81%8D-%E3%83%AC%E3%82%B7%E3%83%94-%E3%83%81%E3%83%BC%E3%82%BA'>おやき レシピ チーズ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%80%E3%82%A4%E3%83%AF-%E3%83%AA%E3%83%BC%E3%83%AB-%E3%83%8F%E3%83%B3%E3%83%89%E3%83%AB-%E3%83%8E%E3%83%96'>ダイワ リール ハンドル ノブ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%BF%83%E8%87%93-%E9%BC%93%E5%8B%95-%E5%BC%B7%E3%81%8F%E6%84%9F%E3%81%98%E3%82%8B-%E7%9F%A5%E6%81%B5%E8%A2%8B'>心臓 鼓動 強く感じる 知恵袋</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AB%E3%83%96-%E3%82%A8%E3%83%B3%E3%82%B9%E3%83%88-%E3%81%8B%E3%81%8B%E3%82%89%E3%81%AA%E3%81%84'>カブ エンスト かからない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%AB%98-%E4%B8%80-%E5%8F%A4%E6%96%87'>高 一 古文</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%AF%96%E7%BC%B6-%E5%8D%B5-%E3%81%94%E9%A3%AF'>鯖缶 卵 ご飯</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%97%A5%E7%B5%A6%E6%9C%88%E7%B5%A6-%E6%AE%8B%E6%A5%AD%E4%BB%A3-%E8%A8%88%E7%AE%97'>日給月給 残業代 計算</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=anydesk-mac-%E5%85%A5%E5%8A%9B%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84'>Anydesk Mac 入力できない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%94%E3%83%81%E3%83%83%E3%83%88-%E3%82%B7%E3%83%BC%E3%83%88-%E3%83%9C%E3%83%84%E3%83%AA%E3%83%8C%E3%82%B9'>ピチット シート ボツリヌス</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%84%9B%E3%81%AE%E8%A8%80%E8%91%89-%E8%8B%B1%E8%AA%9E-%E3%81%8A%E3%81%97%E3%82%83%E3%82%8C'>愛の言葉 英語 おしゃれ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=mac-%E3%83%91%E3%83%AF%E3%83%BC%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88-%E3%82%B3%E3%83%94%E3%83%9A%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84'>Mac パワーポイント コピペできない</a>,
+";s:7:"expired";i:-1;}

@@ -1,0 +1,74 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:6465:"<p>大学ではパソコンが必要になりますね。 では大学入学の時、どんなパソコンを買うのがいいのか？大学生活の想像がつかないと選びにくいものです。そこで、現役大学生がおすすめできるパソコンとその条件をご紹介します！ </p> <p>理系大学生のノートパソコンの選び方 理系は複数の処理を同時に実行したり、研究や実験のために負荷のかかる処理を行うことがあります。では、理系の大学生がノートパソコンを選ぶとき、どのような点に気をつければいいのでしょうか？ パソコンを買おう！ってどうやって選べばいいんだ？ってことになりますね。 そこでここでは「大学生のパソコンに必要な要素」を体験談をもとに解説していきます。 大学生がパソコンを選ぶうえで注目してほしいことは2つあります。 理系の大学生にとってノートパソコンは実験のデータをまとめたり、レポートを執筆するのに必須アイテムです。どんなパソコンを選んだらいいのでしょうか。この記事では最新の理系大学生におすすめのノートパソコンを徹底解説します。 今や大学生にとって必須といっても過言ではないノートパソコン。学部や文理問わずレポートの作成やゼミの研究などでパソコンを使用する機会はたくさんあります。そこで今回は、大学生におすすめのノートパソコンをピックアップ。ぜひ参考にしてみてください。 ノートパソコンは仕事道具です。就職して定年するまで、理系に必要なものはpc！江戸時代に例えたら、武士にとっての刀とか、農民にとってのくわみたいなもの笑。ノートパソコンがなければ仕事になりません。 理系大学生にノートパソコンは必要不可欠!!! 大学生におすすめのパソコンランキングということですが、理系か文系の大学生かで必要なパソコンのスペックはかなり変わってきます。またスペックが変わるということは、値段も大きく変わっていくものです。今回は大学生におすすめのパソコンをランキング形式で紹介します。 みなさんこんにちは！ゆうきです。この記事を読んでいる方のほとんどは理系大学1年生なのではないでしょうか。まずは大学入学おめでとうございます！大学に入学されて不安なことも多いかもしれませんが(特に単位ww)、私でも普通に大学生生活できているの 大学入学にあたりノートパソコンを購入される大学生のあなたに、ノートパソコンの選び方を徹底解説します。パソコンのことはさっぱりわからないという方にでも、わかるように丁寧に説明しています。この記事を読めば、あなたがどのパソコンを買えばいいのかということがわかります。 筆者も理系外部出身であり、学生時代はパソコンを多く使用しました。そんな経験から、理系大学生にパソコンが必要な理由について述べたいと思います。 レポート作成用途. 理系大学生、文系大学生が4年間の大学生活に向けて、買うべきパソコンとはどんなものでしょうか。またそもそもキャンパスライフにパソコンは必要なのでしょうか。本記事では、大学生に適したパソコンの情報、選び方のコツをまとめました。 自宅や学校でパソコンを使う大学生には、処理速度と携帯性に優れたノートパソコンがおすすめです。Windows OSやMac OSなどのOSやスペックの違いがあり、理系と文系で使いやすい商品も異なります。持ち歩きやすい軽い商品や情報系の学生に向いている高性能な商品も販売されています。 理学部や工学部などの理系大学生は、レポートの作成だけでなく、プログラミングをしたりcadなどの専門ソフトを利用したりするため、パソコンは必要不可欠です。しかし、どのように使うのかによって必要なスペックが異なるので、どれを選べば良いか迷ってしまう方も多いはず。 大学生におすすめのノートパソコンを初心者に定番、5万円以下の安いモデル、理系用のハイスペックと分けてご紹介。講義や就活はもちろん、動画制作や画像処理、プログラミングに役立つ高性能な一台までお届け。文系＆理系学生はバイト代を貯めてコスパ最強のノートパソコンをgetしよう！ 大学生が普段パソコンを使う頻度でもっとも多かった回答は「毎日」、362人と4割近い票を集めました。続いて2位は「2〜3日に1回」で、約2割の学生が回答しています。 </p> <p>2019年春、理系大学生に最適なパソコンを紹介します。理系大学生に必要とされるパソコンはハイスペックだけではダメです。論文・レポートで図表を多く扱うため、画面サイズがある程度大きい必要があります。持ち運びとのバランスを考慮して厳選しました。 2 理系大学生のパソコンの選ぶ基準は？ 2.1 長時間充電無しで使用可能なバッテリーを選ぼう; 2.2 慣れていないならWindowsのOSにしよう！ 2.3 メモリは大容量・スペックは良いものを選ぼう！ 3 理系大学生におすすめノートパソコン5選！ 3.1 HP Pavilion 15-cu0000 1つ目は実験や実習でのレポート作成用途です。 と考える人がいて当然だと思います。大学生活におけるノートパソコンの必要性と、大学生(特に理系)がノートパソコンを選ぶ際にメモリやハード以外に見落としてはいけない大事なポイントを紹介していき …  文系・理系を含め、多くの大学生がこのクラスのcpuを選択することになると思います。 このCPUはCore i7やRyzen 7よりは性能面では劣りますが、最近のパソコンは十分に高性能になっていますので、ストレスを感じることなく使うことができます。 </p>";s:7:"keyword";s:29:"大学生 パソコン 理系";s:5:"links";s:7572:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B5%E3%83%9F%E3%83%83%E3%83%88-%E6%A8%A9%E5%A4%AA%E5%9D%82-%E3%83%81%E3%83%A9%E3%82%B7'>サミット 権太坂 チラシ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%BC%E3%82%B9%E3%83%88-%E3%82%B9%E3%83%91%E3%83%BC%E3%82%AF-%E9%AB%98%E9%80%9F%E9%81%93%E8%B7%AF'>ゼスト スパーク 高速道路</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%8A%E3%81%8B%E3%81%82%E3%81%95%E3%82%93%E3%81%A8%E3%81%84%E3%81%A3%E3%81%97%E3%82%87-%E3%81%8A%E3%81%AD%E3%81%88%E3%81%95%E3%82%93-%E5%8D%92%E6%A5%AD'>おかあさんといっしょ おねえさん 卒業</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AA%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%89-%E3%83%95%E3%82%A1%E3%83%9F%E3%83%AA%E3%83%BC%E3%82%BB%E3%83%BC%E3%83%AB-%E6%88%A6%E5%88%A9%E5%93%81'>オンワード ファミリーセール 戦利品</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%84%E3%81%8F%E3%81%9E%21-%E3%81%B0-%E3%81%84%E3%81%8D%E3%82%93-%E3%81%BE%E3%82%93%28%E3%82%AB%E3%83%A9%E3%82%AA%E3%82%B1%29'>いくぞ! ば いきん まん(カラオケ)</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A4%A7%E6%A0%B9-%E3%81%8A%E5%BC%81%E5%BD%93-%E4%BD%9C%E3%82%8A%E7%BD%AE%E3%81%8D'>大根 お弁当 作り置き</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%8F%E3%82%A4%E3%82%A8%E3%83%BC%E3%82%B9-%E3%82%A2%E3%83%B3%E3%83%80%E3%83%BC%E3%82%AB%E3%83%90%E3%83%BC-%E8%87%AA%E4%BD%9C'>ハイエース アンダーカバー 自作</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3-%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%82%AB%E3%83%83%E3%83%88-%E5%89%8A%E9%99%A4'>ウイルスセキュリティ ショートカット 削除</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9A%E3%82%A2%E3%83%8D%E3%83%83%E3%82%AF%E3%83%AC%E3%82%B9-%E5%88%BB%E5%8D%B0-%E4%BE%8B'>ペアネックレス 刻印 例</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=JAL-%E5%9B%BD%E9%9A%9B%E7%B7%9A-%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88%E3%82%AF%E3%83%A9%E3%82%B9%E8%B7%AF%E7%B7%9A'>JAL 国際線 ファーストクラス路線</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%A1%E3%83%B3%E3%82%BA-%E3%82%B3%E3%83%BC%E3%83%88-%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89-40%E4%BB%A3'>メンズ コート ブランド 40代</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=mac-%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E7%92%B0%E5%A2%83%E8%A8%AD%E5%AE%9A-%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%A8%E3%83%97%E3%83%A9%E3%82%A4%E3%83%90%E3%82%B7%E3%83%BC'>Mac システム環境設定 セキュリティとプライバシー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A8%E3%83%93%E3%82%A2%E3%83%B3-%E3%82%B9%E3%83%97%E3%83%AC%E3%83%BC-%E5%8A%B9%E6%9E%9C'>エビアン スプレー 効果</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%B6%8F%E8%82%89-%E3%83%96%E3%83%AD%E3%83%83%E3%82%B3%E3%83%AA%E3%83%BC-%E3%82%AA%E3%83%BC%E3%83%96%E3%83%B3'>鶏肉 ブロッコリー オーブン</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%90%E3%83%B3%E3%83%89%E3%83%AA-%E7%BC%B6%E3%83%90%E3%83%83%E3%82%B8-%E3%83%A1%E3%83%AB%E3%82%AB%E3%83%AA'>バンドリ 缶バッジ メルカリ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%A1%E3%83%80%E3%82%AB-%E8%B5%A4%E7%8E%89%E5%9C%9F-%E3%82%B3%E3%82%B1'>メダカ 赤玉土 コケ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%95%E3%83%AB%E3%83%A9-%E3%81%8A%E8%B2%A1%E5%B8%83%E3%82%B7%E3%83%A7%E3%83%AB%E3%83%80%E3%83%BC-%E3%83%96%E3%83%AD%E3%82%B0'>フルラ お財布ショルダー ブログ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%A5%9E%E6%88%B8%E5%A4%A7%E5%AD%A6-%E5%82%BE%E6%96%9C%E9%85%8D%E7%82%B9-%E8%A8%88%E7%AE%97'>神戸大学 傾斜配点 計算</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%9C%8B%E8%AD%B7-%E6%BC%A2%E5%AD%97-%E5%85%A5%E8%A9%A6'>看護 漢字 入試</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%AF%8C%E5%A3%AB%E5%B1%B1-%E5%AF%8C%E5%A3%AB%E5%AE%AE%E3%83%AB%E3%83%BC%E3%83%88-%E5%B1%B1%E5%B0%8F%E5%B1%8B'>富士山 富士宮ルート 山小屋</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=2%E9%9A%8E-2%E9%83%A8%E5%B1%8B-%E9%96%93%E5%8F%96%E3%82%8A'>2階 2部屋 間取り</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AD%E3%83%A3%E3%83%AD%E3%82%A6%E3%82%A7%E3%82%A4-%E3%82%A6%E3%82%A7%E3%82%A2-%E3%83%A1%E3%83%B3%E3%82%BA-%E5%86%AC'>キャロウェイ ウェア メンズ 冬</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%9D%B1%E5%A4%A7-%E5%8B%89%E5%BC%B7%E6%B3%95-%E6%9C%AC'>東大 勉強法 本</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%96%A2%E7%A9%BA-%E5%86%A0%E6%B0%B4-%E5%BE%A9%E6%97%A7'>関空 冠水 復旧</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%BF%91%E5%A4%A7-%E9%80%9A%E5%AD%A6%E8%A8%BC%E6%98%8E%E6%9B%B8-%E5%86%8D%E7%99%BA%E8%A1%8C'>近大 通学証明書 再発行</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%81%E3%82%AD%E3%83%B3-%E3%81%93%E3%82%93%E3%81%8C%E3%82%8A-%E7%84%BC%E3%81%8D'>チキン こんがり 焼き</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3-%E8%B5%B7%E5%8B%95%E3%81%97%E3%81%AA%E3%81%84-%E6%9D%B1%E8%8A%9D'>パソコン 起動しない 東芝</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Ntt-%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%B3%E3%82%B9-e3-80-80-%E6%8E%A1%E7%94%A8'>Ntt ファイナンス E3 80 80 採用</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%87%BA%E7%94%A3-%E5%85%A5%E9%99%A2-%E4%B8%8A%E3%81%AE%E5%AD%90-%E8%AA%AC%E6%98%8E'>出産 入院 上の子 説明</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89-%E3%83%8D%E3%83%83%E3%82%AF%E3%83%AC%E3%82%B9-%E9%81%B8%E3%81%B3%E6%96%B9'>ダイヤモンド ネックレス 選び方</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%B2%A9-%E3%82%AC%E3%83%8B-%E9%80%9A%E8%B2%A9'>岩 ガニ 通販</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=windows10-%E4%BF%AE%E5%BE%A9%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB-%E5%A4%B1%E6%95%97'>Windows10 修復インストール 失敗</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=XnView-FastStone-%E6%AF%94%E8%BC%83'>XnView FastStone 比較</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%8D%E3%81%9F-%E3%81%AE-%E3%81%8A%E3%82%93-%E3%81%82-%E3%81%BE%E3%81%A1'>きた の おん あ まち</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A4%89%E6%8F%9B-%E6%B6%88%E3%81%99-mac'>変換 消す Mac</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A4%A7%E6%AD%A3%E3%83%AD%E3%83%9E%E3%83%B3-%E8%A2%B4-%E7%9D%80%E6%96%B9'>大正ロマン 袴 着方</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%93%E3%82%A2%E3%83%B3%E3%83%86-%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%88%E3%83%83%E3%83%97-%E7%82%B9%E7%81%AF%E3%81%97%E3%81%AA%E3%81%84'>ビアンテ アイストップ 点灯しない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A2%E3%83%9E%E3%82%BE%E3%83%B3%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0-%E3%82%B5%E3%82%A4%E3%83%B3%E3%82%A4%E3%83%B3-ps4'>アマゾンプライム サインイン Ps4</a>,
+";s:7:"expired";i:-1;}

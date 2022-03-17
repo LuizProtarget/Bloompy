@@ -1,0 +1,64 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:4675:"<p>OS X Snow leopard 10.6.8から Lion 10.7.2にアップデート後、IPプリンタに接続できなくなりました。 使用PC：Mac Book Air (Early 2011) 使用プリンタ：Canon LBP 5300, Canon IR 2022N . Macで作った文書や写真などを印刷するにはプリンタの設定が必要ですね。初心者にとっては印刷ひとつ、プリンタの設定ひとつでも「うわ〜(;´д`)」と思ってしまうもの。お気持ち、よくわかります。 2012.03.15. </p> <p>【レーザービームプリンター】ネットワーク接続時のプリンタの追加方法（Macintosh） ... されているプリンタを登録したり、[IPプリンタ]でプリンタを登録すると、正しく印刷できません。 4. それでも接続できない場合は、以下の解決方法をお試しください。 または、IJ Network Tool（アイジェイ・ネットワーク・ツール）の[ 表示 ]メニューから[ ネットワーク情報 ]を選び、パソコンの画面で確認することもできます。 [Canon IJ Network Tool]画面 . プリンターとのネットワーク接続ができません。 問題はwi-fi設定で、二つあるssidのうち一つしか認識しないからだと思われます。 ちなみに、「ネットワークとインターネット」から入ると、トップに表示されるssidと 画面下にあるプロパティのssidが違っています。 Windows10のパソコンでは、アップデートの影響などでネットワーク共有フォルダやプリンタが見れないケースが発生することがあります。この記事では、Windows10でネットワーク上の共有フォルダ・プリンタが見れない場合の対処法を説明しています。 USB接続から無線接続への変更方法 （Mac OS X） WCN接続での無線LANセットアップ方法 （Windows） 設定がうまくできない. プリントダイアログの[特殊効果]は使用できません。 本製品とAirMacをUSBケーブルで接続して印刷を行う場合、Mac OS X v.10.5.3以降で、AirMacの最新のファームウェアをインストールする必要がありま … プログラミングと関係ない質問です。 背景無線LANルータを変えたら、プリンタに無線LANで接続できなくなりました。 プリンタ: CANON PIXUS MG6130 新しいルータ: NEC Aterm WR9300N 古 Mac OS X v10.10またはMac OS X v10.9をご使用の場合は、[ 送信回数：XXping ]（XXは数字）が選ばれていることを確認します。 Mac OS X v10.8またはMac OS X v10.7をご使用の場合は、[ pingコマンドをXX回だけ送信 ]（XXは数字）が選ばれていることを確認します。 パソコンのIPアドレスまたはMACアドレスを確認したい. </p> <p>パソコンに割り振られているIPアドレスおよびMAC 2018.12.23. [Canon IP(CUPS CAPT)]を選択します。 5. プリンタをMacに接続した後、プリンタに付属のMac用ソフトウェアをインストールし、プリンタの設定アシスタントを使ってプリンタをWi-Fiネットワークに接続します。設定が完了した後は、ケーブルを取り外してもプリンタがWi-Fiネットワークに接続されているはずです。Appleのサポート記事「  プリンターが見つからない（「ネットワーク上にプリンターが見つかりません」メッセージが表示される） その他こんなことがしたい Appleから発売されている「MacBookAir」や「iMac」向けにリリースされている最新バージョン「MacOSSierra」にアップデート後「特定のプリンターとパソコンを接続した時に『プリンタが見つかりません』や『プリンタは接続されていません』などのエラーコードが表示される」などのバグ不具合障 … [アドレス]に、お使いのプリンタのIPアドレス、またはDNS名称を入 … プリンタが AirPrint に対応していて Mac や iOS デバイスからプリントできる機種の場合は、まずは、Mac や iOS デバイスで使われているのと同じ Wi-Fi ネットワークに接続されているか確認してください。 1. 今回、自宅のネットワーク環境が大きく変わりました。 コンピュータ端末、スマートフォンやらIPad2やら増え、無線LANの構成も変更 … </p> <p>Twitter Facebook 0 はてブ 0 Pocket 1 LINE. Canon ネットワークプリンタが見つからない！＆ドライバーがインストールできない！ Windows. </p>";s:7:"keyword";s:67:"ネットワークでプリンタを検証できません canon mac";s:5:"links";s:5376:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B3%E3%82%B9%E3%83%88%E3%82%B3-%E3%83%81%E3%83%BC%E3%82%BA%E3%82%B1%E3%83%BC%E3%82%AD-%E7%94%98%E3%81%84'>コストコ チーズケーキ 甘い</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%98%AA-%E5%A4%A7-%E7%97%85%E9%99%A2-%E5%AD%A6%E7%94%9F'>阪 大 病院 学生</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9E%E3%83%83%E3%83%88%E3%83%AC%E3%82%B9-%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0-%E9%AB%98%E7%9F%A5'>マットレス クリーニング 高知</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C%E9%9C%A7%E5%B3%B6%E5%B8%82-%E5%A1%9A%E7%94%B0%E8%BE%B2%E5%A0%B4-%E6%B1%A0%E8%A2%8B%E3%82%B5%E3%83%B3%E3%82%B7%E3%83%A3%E3%82%A4%E3%83%B3%E9%80%9A%E3%82%8A%E5%BA%97'>鹿児島県霧島市 塚田農場 池袋サンシャイン通り店</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Z400FX-%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3-%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%E3%83%9B%E3%83%BC%E3%83%AB'>Z400FX エンジン オーバーホール</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9E%E3%83%84%E3%82%AD%E3%83%A8-%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%96-%E6%B4%97%E9%A1%94'>マツキヨ スクラブ 洗顔</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B8%89-%E6%9C%A8%E7%94%BA-%E6%A1%9C'>三 木町 桜</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%AA%E3%83%A2%E3%83%BC%E3%83%88%E3%83%87%E3%82%B9%E3%82%AF%E3%83%88%E3%83%83%E3%83%97-%E3%83%9E%E3%82%A6%E3%82%B9-%E5%8F%8D%E5%BF%9C%E3%81%97%E3%81%AA%E3%81%84'>リモートデスクトップ マウス 反応しない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%B5%A6%E5%AE%89%E5%B8%82-%E9%81%BF%E9%9B%A3-%E7%8A%B6%E6%B3%81'>浦安市 避難 状況</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=iPad-%E3%83%9E%E3%82%A6%E3%82%B9-%E3%82%A2%E3%83%97%E3%83%AA'>IPad マウス アプリ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%A8%E3%82%8A-%E3%81%9D%E3%81%BC%E3%82%8D%E4%B8%BC-%E3%81%8A%E3%81%8B%E3%81%9A'>とり そぼろ丼 おかず</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=windows10-%E3%82%A2%E3%83%83%E3%83%97%E3%82%B0%E3%83%AC%E3%83%BC%E3%83%89-office2013-%E3%83%A9%E3%82%A4%E3%82%BB%E3%83%B3%E3%82%B9%E8%AA%8D%E8%A8%BC'>Windows10 アップグレード Office2013 ライセンス認証</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%8D%97%E6%B5%B7%E9%AB%98%E9%87%8E%E7%B7%9A-%E6%99%82%E5%88%BB%E8%A1%A8-%E6%B2%B3%E5%86%85%E9%95%B7%E9%87%8E'>南海高野線 時刻表 河内長野</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%97%A4%E6%B2%A2%E5%B8%82-%E5%AD%90%E4%BE%9B-%E5%8C%BB%E7%99%82%E8%B2%BB'>藤沢市 子供 医療費</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%8F%E3%82%B9%E3%83%A9%E3%83%BC-%E3%83%A9%E3%82%B2%E3%83%83%E3%82%B8-%E3%83%9E%E3%83%83%E3%83%88-%E8%87%AA%E4%BD%9C'>ハスラー ラゲッジ マット 自作</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%96%E3%83%AB%E3%82%AC%E3%83%AA-%E6%99%82%E8%A8%88-%E3%83%80%E3%82%A4%E3%83%A4'>ブルガリ 時計 ダイヤ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A8%E3%82%A2%E3%82%B3%E3%83%B3-10%E5%B9%B4-%E5%86%B7%E3%81%88%E3%81%AA%E3%81%84'>エアコン 10年 冷えない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%AC%E3%82%AC%E3%83%AA%E3%82%B9-LT1000S-%E3%83%88%E3%83%A9%E3%82%A6%E3%83%88'>レガリス LT1000S トラウト</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AA%E3%82%B7%E3%82%A2-%E3%82%AB%E3%83%AB%E3%82%AB%E3%83%83%E3%82%BF-%E4%B8%AD%E6%B7%B1%E6%B5%B7'>オシア カルカッタ 中深海</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%8B%B1%E8%AA%9E-%E4%B8%AD%E5%AD%A6%E3%83%AC%E3%83%99%E3%83%AB-%E7%A4%BE%E4%BC%9A%E4%BA%BA'>英語 中学レベル 社会人</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%95%B7%E9%87%8E-%E6%88%90%E7%94%B0-%E3%83%90%E3%82%B9'>長野 成田 バス</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%98%E3%83%83%E3%83%89%E3%82%B9%E3%83%91-%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%BC-%E4%BA%BA%E6%B0%97'>ヘッドスパ ワイヤー 人気</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B8%89%E4%BA%95%E7%89%A9%E7%94%A3-%E4%B8%80%E8%88%AC%E8%81%B7-%E9%9D%A2%E6%8E%A5'>三井物産 一般職 面接</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%8E%A5%E7%B6%9A-%E8%A1%A8%E7%A4%BA-%E3%81%95%E3%82%8C%E3%81%AA%E3%81%84'>ネットワーク接続 表示 されない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=amazon-%E9%81%8B%E5%96%B6%E8%B2%AC%E4%BB%BB%E8%80%85%E5%90%8D-%E5%81%BD%E5%90%8D'>Amazon 運営責任者名 偽名</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%AF%8C%E7%94%B0-%E7%97%85%E9%99%A2-%E4%BA%AC%E9%83%BD-%E8%A9%95%E5%88%A4'>富田 病院 京都 評判</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B0%E3%83%A9%E3%83%96-%E3%83%AB-%E3%82%AD%E3%83%A5%E3%82%A6-%E3%82%A8%E3%83%B3'>グラブ ル キュウ エン</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%99%AB-%E5%81%8F-%E3%81%AB-%E7%BE%BD'>虫 偏 に 羽</a>,
+";s:7:"expired";i:-1;}

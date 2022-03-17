@@ -1,0 +1,77 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:5148:"lineのトークの削除や送信取消、履歴の削除方法をケース毎に解説します。画像付きで解説していますので、初心者や年配の方でもわかりやすいです。 lineにおける削除と送信取り消しの違い 「削除」と「送信取消」は両方とも送信済みのメッセージを消せるということに変わりありませんが、それぞれ影響範囲が異なります。 どちらも対象のメッセージを「長押し」するとメニューに表示される lineで削除したトークを送信取消したい時、メッセージの取り消しはできるのか解説します。送信取り消しを使う前にメッセージを削除してしまった！他の人はこういう時にどう対応しているのか気になりますよね。トークを削除した時の一般的な対応について気になる方は参考にどうぞ。 lineをビジネスで使うとき、プライベートよりも気をつけたいのが誤送信です、間違ったメッセージを送って取り消したいとき、使える機能を知っていますか？「削除」「送信取消」という、似た2つの機能の使い方と違いを解説します。 lineアルバムの作り方！写真の追加・削除する方法を解説.  lineのトーク画面で間違って送ってしまったメッセージを削除（取り消し）する方法です。 lineのトーク画面で、うっかり思っていた人とは別の人にメッセージを送ってしまったという人は少なくないと思い … lineで送信取り消し出来るのは24時間以内のメッセージです。24時間経過していると取り消し出来ませんので注意して下さい。 line（ライン）で送信済みのメッセージを消す方法は、「送信取消」と「削除」の2つの手段があります。どちらも対象のメッセージを長押しするとメニューに表示される項目であり、言葉の意味も似ているため、どちらを選択すべきか迷った人も多いはず。 lineの送信取消を何度も行う人には、どのような心理があるのでしょう。 もしかしたら、単純に誤送信しただけではなく、別の理由があるのかもしれません。 また、消えたメッセージを見る方法があれば、 … lineのホーム画面に文章や画像を投稿する便利な方法. lineの友達とのメッセージが多くなりすぎてみたいところが分からないや・・・必要ない箇所は消したいけどどうすれば良い？誤爆した時は？lineの削除機能を使います。ただし、注意点がいくつかあります。 このページでは ・メッセージの削除とはどういうものか？ lineのトーク画面で間違って送ってしまったメッセージを削除（取り消し）する方法です。 lineのトーク画面で、うっかり思っていた人とは別の人にメッセージを送ってしまったという人は少なくないと … 送信者は、取り消しが成功したことを示すメッセージを受信します。 受信者によって元のメッセージが既に開封済みにされている場合は、取り消しが失敗したことが送信者に通知され、取り消しメッセージだけが削除されます。 lineメンションの使い方【送信する方法・通知されない際の対処法】 lineで写真やメッセージを転送する方法とできない場合の対処法. lineにおける削除と送信取り消しの違い 「削除」と「送信取消」は両方とも送信済みのメッセージを消せるということに変わりありませんが、それぞれ影響範囲が異なります。 どちらも対象のメッセージを「長押し」するとメニューに表示される 「line」の送信取り消し機能とは、 「line」でメッセージなどを誤って送った際に、お互いのトーク画面上から誤って送ったメッセージやスタンプ、写真や動画などを削除する機能 です。 1対1のトークだけでなく、グループトークもその対象です。 以前のlineには「削除」機能のみがありました。 以上、lineで間違えて削除したメッセージを送信取り消しする方法でした。 LINEで誤爆してしまっても、この方法を知っていれば安心です♪ ただ、削除したのと同じ端末で送信取り消しはできないので、場合によってはすぐには送信取り消しできません。 line「送信取消」出来ない場合. lineで一度間違えて送信してしまったトークや画像は、相手の端末からは削除することができません。間違えて送信することがないように注意していきましょう。それにしても、送信後の数秒間は取り消しが可能などの機能を、追加してもらいたいものです。 lineで送信取り消し出来ない場合を紹介していきます。 24時間経過している. ";s:7:"keyword";s:21:"K BOOKS メンズ 館";s:5:"links";s:8266:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A2%E3%83%AB%E3%83%95%E3%82%A1%E3%83%BC%E3%83%89-%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%88%E3%83%83%E3%83%97-%E3%83%AA%E3%82%B3%E3%83%BC%E3%83%AB'>アルファード アイドリングストップ リコール</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9-%E5%B7%A5%E4%BD%9C-%E5%A4%A7%E4%BA%BA'>クリスマス 工作 大人</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B7%E3%83%9E%E3%83%8E-%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A4%E3%83%BC-%E3%82%A4%E3%83%B3%E3%83%97%E3%83%AC'>シマノ プライヤー インプレ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%BF%91%E7%95%BF-%E5%A4%A7%E5%AD%A6-%E6%B3%95%E5%AD%A6%E9%83%A8-%E8%A1%A3%E7%AC%A0'>近畿 大学 法学部 衣笠</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%90%8D%E5%8F%A4%E5%B1%8B-%E9%AB%98%E5%B3%B6%E5%B1%8B-%E3%82%B5%E3%83%B3%E3%82%BF%E3%82%AF%E3%83%AD%E3%83%BC%E3%82%B9'>名古屋 高島屋 サンタクロース</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=VBA-%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0-%E5%8F%B3%E3%82%AF%E3%83%AA%E3%83%83%E3%82%AF%E3%83%A1%E3%83%8B%E3%83%A5%E3%83%BC'>VBA フォーム 右クリックメニュー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%8B%95%E7%94%BB-%E9%9F%B3%E5%A3%B0-%E5%BE%A9%E5%85%83%E3%82%A2%E3%83%97%E3%83%AA'>動画 音声 復元アプリ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%95%81%E9%BA%BB%E7%96%B9-%E6%B6%88%E3%81%88%E3%81%AA%E3%81%84-%E5%AD%90%E4%BE%9B'>蕁麻疹 消えない 子供</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%9B%B8%E7%B6%9A%E7%A8%8E-%E7%94%B3%E5%91%8A%E6%9B%B8-%E6%9B%B8%E3%81%8D%E6%96%B9-2019'>相続税 申告書 書き方 2019</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%AF%E3%81%BE%E5%AF%BF%E5%8F%B8-%E6%A8%AA%E6%B5%9C-%E4%BA%88%E7%B4%84'>はま寿司 横浜 予約</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=ProTools-%E3%82%A2%E3%83%B3%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB-%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84'>ProTools アンインストール できない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=google%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96-%E5%85%B1%E6%9C%89-%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89'>Googleドライブ 共有 ダウンロード</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%AD%9A%E3%81%AE-%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0%E7%85%AE-%E7%8C%AE%E7%AB%8B'>魚の クリーム煮 献立</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%AA%E3%83%97%E3%83%88%E3%83%B3-%E3%83%9F%E3%83%AB%E3%82%AF%E3%83%86%E3%82%A3%E3%83%BC-%E3%82%A2%E3%83%BC%E3%83%AB%E3%82%B0%E3%83%AC%E3%82%A4'>リプトン ミルクティー アールグレイ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%87%8E%E8%8F%9C%E3%82%92-%E7%B1%BE%E6%AE%BB-%E3%81%A7-%E4%BF%9D%E5%AD%98'>野菜を 籾殻 で 保存</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%8D%8B-%E3%81%93%E3%82%93%E3%81%AB%E3%82%83%E3%81%8F-%E5%88%87%E3%82%8A%E6%96%B9'>鍋 こんにゃく 切り方</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%96%A2%E8%A5%BF%E5%A4%A7%E5%AD%A6-%E5%BE%97%E7%82%B9%E8%AA%BF%E6%95%B4-%E6%97%A9%E8%A6%8B%E8%A1%A8'>関西大学 得点調整 早見表</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BB%81%E7%8E%8B-Steam-%E3%82%BB%E3%83%BC%E3%83%96%E3%83%87%E3%83%BC%E3%82%BF'>仁王 Steam セーブデータ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A4%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89-%E3%83%A9%E3%82%B0%E3%83%93%E3%83%BC-%E3%83%81%E3%82%B1%E3%83%83%E3%83%88'>イングランド ラグビー チケット</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%B5%B4%E5%AE%A4%E4%B9%BE%E7%87%A5%E6%A9%9F-%E6%99%82%E9%96%93-%E7%9B%AE%E5%AE%89'>浴室乾燥機 時間 目安</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%81%A5%E5%BA%B7%E3%81%A7%E3%81%84%E3%82%8B-%E3%81%93%E3%81%A8%E3%82%92%E9%A1%98%E3%81%86-%E8%8B%B1%E8%AA%9E'>健康でいる ことを願う 英語</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BB%8B%E8%AD%B7-%E6%9C%80%E4%BD%8E%E8%B3%83%E9%87%91-%E6%99%82%E7%B5%A6'>介護 最低賃金 時給</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%A9%E3%83%83%E3%83%91%E3%83%BC-%E3%82%86%E3%81%86%E3%81%BE-%E5%A4%A7%E5%AD%A6'>ラッパー ゆうま 大学</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%A2%E3%82%A6%E3%82%B7%E3%83%AD-%E3%83%88%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0-%E3%83%A9%E3%83%99%E3%83%B3%E3%83%80%E3%83%BC'>モウシロ トーンアップクリーム ラベンダー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9-%E3%81%84%E3%81%84%E3%81%AD-2019'>ラインニュース いいね 2019</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%A1%90%E7%94%9F%E4%BF%A1%E7%94%A8%E9%87%91%E5%BA%AB-ATM-%E3%82%B3%E3%83%B3%E3%83%93%E3%83%8B'>桐生信用金庫 ATM コンビニ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=VAINCRE-%E3%83%95%E3%83%A9%E3%82%A4-%E3%83%AD%E3%83%83%E3%83%89'>VAINCRE フライ ロッド</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A6%8A%E5%A8%A0%E7%B3%96%E5%B0%BF%E7%97%85-%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%AA%E3%83%B3-%E8%B2%BB%E7%94%A8'>妊娠糖尿病 インスリン 費用</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%87%E3%82%B8%E3%82%AB%E3%83%A1-%E5%BB%83%E6%A3%84-%E3%83%A4%E3%83%9E%E3%83%80%E9%9B%BB%E6%A9%9F'>デジカメ 廃棄 ヤマダ電機</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%A6%8F%E4%BA%95%E9%8A%80%E8%A1%8C-%E4%BD%8F%E5%AE%85%E3%83%AD%E3%83%BC%E3%83%B3-%E4%B8%89%E5%A4%A7%E7%96%BE%E7%97%85'>福井銀行 住宅ローン 三大疾病</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%88%E3%82%A5%E3%83%87%E3%82%A4-AF67-%E3%83%9E%E3%83%95%E3%83%A9%E3%83%BC'>トゥデイ AF67 マフラー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A1%A9%E9%BA%B9-%E9%B6%8F%E8%82%89-%E3%81%8B%E3%82%89%E3%81%82%E3%81%92'>塩麹 鶏肉 からあげ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%A3%AE%E6%B0%B8%E4%B9%B3%E6%A5%AD-%E5%B7%A5%E5%A0%B4%E8%A6%8B%E5%AD%A6-%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9'>森永乳業 工場見学 アクセス</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%A3%AE%E6%B0%B8%E4%B9%B3%E6%A5%AD-%E5%B7%A5%E5%A0%B4%E8%A6%8B%E5%AD%A6-%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9'>森永乳業 工場見学 アクセス</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%8B%89%E5%BC%B7-%E6%98%A0%E7%94%BB-%E3%82%84%E3%82%8B%E6%B0%97'>勉強 映画 やる気</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%B6%8F%E8%82%89-%E9%AA%A8%E4%BB%98%E3%81%8D-%E3%82%82%E3%82%82%E8%82%89-%E3%83%AC%E3%82%B7%E3%83%94'>鶏肉 骨付き もも肉 レシピ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%96%E3%83%AB%E3%83%BC%E3%83%88%E3%82%A5%E3%83%BC%E3%82%B9-%E6%8E%A5%E7%B6%9A%E6%96%B9%E6%B3%95-%E3%82%A2%E3%83%B3%E3%83%89%E3%83%AD%E3%82%A4%E3%83%89'>ブルートゥース 接続方法 アンドロイド</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=macbook-%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%82%AB%E3%83%90%E3%83%BC-%E3%81%8A%E3%81%97%E3%82%83%E3%82%8C'>Macbook キーボードカバー おしゃれ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%9B%A2%E4%B9%B3%E9%A3%9F-%E4%B8%AD%E6%9C%9F-%E4%B8%80%E6%B0%97%E3%81%AB'>離乳食 中期 一気に</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B8%AD%E5%8F%A4-%E3%82%B9%E3%83%AD%E3%83%BC-%E3%82%B8%E3%82%AE%E3%83%B3%E3%82%B0%E3%83%AD%E3%83%83%E3%83%89'>中古 スロー ジギングロッド</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%94%9F%E9%A7%92-%E5%B1%B1%E4%B8%8A-%E9%81%8A%E5%9C%92%E5%9C%B0-%E7%A9%BA%E3%81%84-%E3%81%A6%E3%82%8B'>生駒 山上 遊園地 空い てる</a>,
+";s:7:"expired";i:-1;}

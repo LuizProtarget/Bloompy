@@ -1,0 +1,70 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:3972:"<br>CapsLock(Ctrl)+pbnfで上下左右に移動する. Contents 1. Palm pressing Control key. CapsLock(Mac) via Karabiner-Elements. When I plugged in my original keyboard, the Caps Lock Key was set to No Action. Mac Pro Mods PowerMac G3 B&W PowerMac G4 PowerMac G4 Cube PowerMac G5 Others Retail Cases Modders Tools CNC Templates PCB Templates Hardware/Parts Hand Tools Power Tools The Tools Announcements UniBeast UniBeast Archived Threads MultiBeast MultiBeast Bug Reports MultiBeast Feature Requests Windows 2. <br> <br>The Ctrl key can be easily pressed with palm. Incidentally, I discovered that Mac OS stores the Modifier Keys settings on a per-device basis; when I plugged in the new keyboard, the Caps Lock Key drop-down was already set to Caps Lock.  Mac OS X 3. Keyboard issue: ctrl & capslock keys won't work Both control keys on my keyboard will not work, nor will my caps lock key. Swapping the CapsLock key with the Ctrl key is a good workaround for a laptop keyboard, but on a full keyboard, there are many alternatives that are better.. This wikiHow teaches you how to turn off Caps Lock, which causes you to type in all capital letters, on a Windows or Mac computer. Starting with Mac OS X version 10.4 (year 2005) , you can switch modifier keys to any other. The Mac OS X 10.4 Keyboard & Mouse preference pane provides a way to remap certain keys.  Command-V: Paste the contents of the Clipboard into the current document or app.This also works for files in the Finder. macOS High Sierra (10.13) macOS Sierra (10.12) macOS EI Capitan (10.11) Old XML Version (before OS X 10.11, no longer maintained) CapsLock(Windows) via AutoHotKey (no longer maintianed) Windows XP, Vista, 7, 8, 10; Install (mac) Download Karabiner-Elements and Install. Mac keyboard preference panel (2017-09-22) for modifier keys. If you would like to change your Caps Lock key to Control, Option, or Shift, use the options in the dropdown. Its control key is located where usual keyboard has caps-lock key. By turning on Toggle Keys in Windows 10 you can get an audible alert every time you press the CapsLock, Scroll Lock or Num Lock keys. Help! Mijn Mac heeft geen delete toets, ... Alt en Ctrl precies wat er gaat gebeuren, ... Ik heb Mac book Pro, en las hier in de tips dat je DoubleCommand kan installeren. Turning off Caps Lock on a functional computer is as simple as pressing the "Caps Lock" key again, but if your Caps Lock key … Caps Lock Toggle est un programme qui vous permet tout simplement de désactiver la touche « Caps lock » de votre clavier. Go to “System Preferences”, “Keyboard and Mouse”. So, for me it’s natural that control key is there, below the tab key and above the shift key. (see below picture). Odd thing is they work before Windows boots fully and when I use the keyboard with other PCs- so it leads me to believe it's a Windows 7 problem, perhaps with … <br> <br>Clicking the caps lock button (throught the keyboard viewer) I type in uppercase, disactivating the caps lock I type in lowercase; but the green led on the caps lock button does not change (the led light stays on or off, it depend how I leave it). Because Mac OS is better. Mac keyboard preference panel (2017-09-22) For more advanced key swapping, see: Mac: Key Remapping, Keybinding Tools. This post shows steps to reassign the caps-lock key to control key on ordinary keyboard, on Windows, Mac OS X, and Linux. Here's why CapsLock as Ctrl is not optimal solution:. Command-Z: Undo the previous command.You can then press Shift-Command-Z to Redo, reversing the undo command. というわけで、Macとそろえるという意味でも左手小指保護という意味でも、Caps LockをCtrlにキー配列を変更しちゃいました。 ユーティリティを使うという手もありますが、レジストリを書き換えるのが手っ取り早いです。 On your Mac, choose Apple menu > System Preferences, click Keyboard, then click Keyboard. <br>";s:7:"keyword";s:17:"CapsLock Ctrl Mac";s:5:"links";s:6260:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%BC%A2%E6%96%87-%E8%8B%A5-%E8%AA%AD%E3%81%BF%E6%96%B9'>漢文 若 読み方</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=18%E9%87%91-%E3%83%9A%E3%83%B3%E3%83%80%E3%83%B3%E3%83%88-%E4%B8%AD%E5%8F%A4'>18金 ペンダント 中古</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%AD%AF%E5%8C%BB%E8%80%85-%E6%98%8E%E7%B4%B0%E6%9B%B8-%E3%81%8F%E3%82%8C%E3%81%AA%E3%81%84'>歯医者 明細書 くれない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=line-%E9%9D%9E%E8%A1%A8%E7%A4%BA%E5%89%8A%E9%99%A4-%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3%E3%83%88-%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84'>Line 非表示削除 プレゼント できない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Human-personality-%E6%84%8F%E5%91%B3'>Human Personality 意味</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%B1%86%E4%B9%B3-%E3%83%AC%E3%83%A2%E3%83%B3%E6%B1%81-%E5%8A%B9%E6%9E%9C'>豆乳 レモン汁 効果</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=100%E5%9D%87-%E6%BC%AC%E7%89%A9%E5%AE%B9%E5%99%A8-%E3%83%80%E3%82%A4%E3%82%BD%E3%83%BC'>100均 漬物容器 ダイソー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%91%E3%83%AC%E3%82%B9%E3%83%9B%E3%83%86%E3%83%AB%E5%A4%A7%E5%AE%AE-%E3%83%A9%E3%83%B3%E3%83%81-%E3%83%86%E3%82%A4%E3%82%AF%E3%82%A2%E3%82%A6%E3%83%88'>パレスホテル大宮 ランチ テイクアウト</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%8F%85%E5%8E%9F-%E9%81%93%E4%BB%81-%E3%83%96%E3%83%AD%E3%82%B0'>菅原 道仁 ブログ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%80%E3%83%BC%E3%82%B9%E3%83%99%E3%82%A4%E3%83%80%E3%83%BC-%E3%83%9E%E3%82%B9%E3%82%AF-%E3%83%A2%E3%83%87%E3%83%AB'>ダースベイダー マスク モデル</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%AE%95%E9%9D%A2%E5%B8%82-%E6%8E%88%E6%A5%AD%E5%8B%95%E7%94%BB-%E3%83%A6%E3%83%BC%E3%83%81%E3%83%A5%E3%83%BC%E3%83%96'>箕面市 授業動画 ユーチューブ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Synology-Antivirus-Essential'>Synology Antivirus Essential</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%82%E3%82%93-%E3%82%B9%E3%82%BF-%E3%82%AA%E3%83%B3%E3%83%AA%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97-%E3%82%B0%E3%83%83%E3%82%BA'>あん スタ オンリーショップ グッズ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A2%E3%83%87%E3%82%A3%E3%83%80%E3%82%B9-%E3%82%B8%E3%83%83%E3%83%97%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC-%E7%99%BD'>アディダス ジップパーカー 白</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%A4%BE%E4%BC%9A%E4%BF%9D%E9%99%BA%E8%A8%BC-%E5%86%8D%E7%99%BA%E8%A1%8C-%E8%87%AA%E5%88%86%E3%81%A7'>社会保険証 再発行 自分で</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A4%E3%83%A9%E3%83%AC-%E3%82%B0%E3%83%A9%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3-%E3%82%B6%E3%83%A9%E3%82%B6%E3%83%A9'>イラレ グラデーション ザラザラ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%AE%88%E5%B1%B1-%E9%A7%85%E5%89%8D-%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3'>守山 駅前 オープン</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B8%AD%E5%9B%BD%E8%AA%9E-%E6%BC%A2%E5%AD%97-%E8%AA%AD%E3%81%BF%E6%96%B9-%E6%B3%95%E5%89%87'>中国語 漢字 読み方 法則</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%92%E3%83%97%E3%83%8E%E3%82%B7%E3%82%B9-%E3%83%9E%E3%82%A4%E3%82%AF-%E5%BA%97'>ヒプノシス マイク 店</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%8D%98%E7%AE%A1-%E3%82%A2%E3%83%BC%E3%83%81-%E6%9B%B2%E3%81%92'>単管 アーチ 曲げ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%9D%B1%E4%BA%AC%E5%8C%BB%E7%99%82%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC-%E5%8C%BB%E5%B8%AB-%E5%B9%B4%E5%8F%8E'>東京医療センター 医師 年収</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%BB%E3%83%AD%E3%83%AA-%E3%82%B5%E3%83%A9%E3%83%80-%E5%88%87%E3%82%8A%E6%96%B9'>セロリ サラダ 切り方</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%96%A2%E7%A9%BA-%E5%85%8D%E7%A8%8E%E5%BA%97-mac-%E4%BE%A1%E6%A0%BC'>関空 免税店 Mac 価格</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%B5%B7-%E5%80%92-%E5%BC%8F%E3%82%B9%E3%83%88%E3%83%83%E3%83%91%E3%83%BC'>起 倒 式ストッパー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B8%AD%E8%8F%AF%E8%A1%97-%E5%86%86%E5%8D%93-%E5%AE%89%E3%81%84'>中華街 円卓 安い</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%99%E3%81%8D%E7%84%BC%E3%81%8D-%E3%81%B5%E3%82%8A%E3%81%8B%E3%81%91-%E6%AD%B4%E5%8F%B2'>すき焼き ふりかけ 歴史</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B5%E3%83%A9%E3%83%B3%E3%83%A9%E3%83%83%E3%83%97-%E3%82%B1%E3%83%BC%E3%82%B9-%E4%BD%9C%E3%82%8A%E6%96%B9'>サランラップ ケース 作り方</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%8B%E3%82%B3%E3%83%8B%E3%82%B3%E5%8B%95%E7%94%BB-%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0%E4%BC%9A%E5%93%A1-%E8%A7%A3%E7%B4%84'>ニコニコ動画 プレミアム会員 解約</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%BB%E3%83%AA%E3%82%A2-%E3%82%B7%E3%83%BC%E3%83%AB-%E6%96%87%E5%AD%97'>セリア シール 文字</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A8%E3%83%99%E3%83%AC%E3%82%B9%E3%83%88-%E6%B0%B7-%E6%BC%AC%E3%81%91'>エベレスト 氷 漬け</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=BTS-%E5%A4%A7%E9%98%AA-%E5%BA%A7%E5%B8%AD%E8%A1%A8'>BTS 大阪 座席表</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=SONY-TC-R7-2-%E4%BF%AE%E7%90%86'>SONY TC R7 2 修理</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%A6%8F%E5%B2%A1%E4%B8%80%E6%96%87%E5%AD%97-%E5%88%80%E5%89%A3-%E5%8D%9A%E7%89%A9%E9%A4%A8'>福岡一文字 刀剣 博物館</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%89%E3%83%A9%E3%82%B0-%E3%83%AF%E3%83%83%E3%82%B7%E3%83%A3%E3%83%BC-%E7%B4%A0%E6%9D%90'>ドラグ ワッシャー 素材</a>,
+";s:7:"expired";i:-1;}

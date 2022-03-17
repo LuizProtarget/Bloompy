@@ -1,0 +1,122 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:8143:"<p>拡大する学校推薦型選抜と総合型選抜について理解しましょう。一般選抜に次ぐ規模の選抜方式である学校推薦型選抜（推薦入試）、第3の入試である総合型選抜（ao入試）について、国公立大学、私立大学それぞれ特徴を説明します。 「子供が高校入試の推薦をもらえず、素行の悪い同級生が推薦をもらっていました。推薦の基準って何ですか。」保護者からの質問に＜＜元中学校教師道山ケイ＞＞が答えます。主な3つの推薦基準となぜ素行の悪い同級生でも推薦をもらえたのかを解説します！ </p> <p>高校説明会は、いくつ行けばよいのだろう？ まず、聞かれたことは『志望校を決める時期』。 夏から、いくつかの高校を見学してきたそうです。 何校行けばいいのか？ いつまで、高校説明会へ通えばよいのか？ 母の方が疲れてしまったようです。 他に高校の推薦が不要な「自己推薦」もあります。 さらに、公募制は「公募制一般推薦入試」と「公募制特別推薦入試」に分かれます。公募制一般推薦入試は、成績基準があることがほとんどで、募集人員が多いタイプ。公募制特別推薦入試は、スポーツや文化活動で優れた成績を収めた人や� </p> <p>親が駄目なもんで（汗）、子供も苦戦中で、某私立高校へ行きたいと行っている長男の夢をかなえてはやりたいのですが、その高校の単願推薦基準に内申点が足りません（-2点）。学校説明会へ行くと、不況で私立に行く子が減っているためか、 「子供が高校入試の推薦をもらえず、素行の悪い同級生が推薦をもらっていました。推薦の基準って何ですか。」保護者からの質問に＜＜元中学校教師道山ケイ＞＞が答えます。主な3つの推薦基準となぜ素行の悪い同級生でも推薦をもらえたのかを解説します！ 長崎県の私立高校入試の募集区分、募集人員、願書受付開始日、,願書受付終了日、試験日、合格発表日、入学手続日、延納手続、受験料を高校・学科ごとに掲載。  3．私立高校の場合 多くの中学校では1月の中旬に最後の定期試験があって、 推薦入試でも一般入試でも1月の下旬に私立高校に願書を提出しますので、 それほど時間的な余裕がありません。 私立高校の入試にいつの内申が使われるかについて、 公立高校などを第一希望とし、不合格の場合、その私立高校に入学することを基本に、各高校が定めた成績基準をクリアしている受験生に対して、合格を確約するシステムです。いわゆる「すべり止め」と呼ばれる入試形態です。成績の基準は、推薦・専願よりも若干高めとなります。 高校入試はみんな初めての経験。でも、入試のしくみを詳しく教えてくれる人って実はそんなにいない。高校受験ってそもそもいつあるの？併願って何？そもそも偏差値って何？など今更聞けない質問に答 … 推薦入試といえば私立大をイメージしますが、国公立大の 9 割は推薦入試を実施しています。 国公立大の推薦入試には「公募推薦」「指定校推薦」の 2 種があり、公募推薦では大学が示す一定の評定基準を満たした高校 3 年生は誰でも受験可能です。 高校受験の推薦入試。一般入試と比べると「おトク感」があるように感じられます。しかし、その特徴をよく把握しておかないと思わぬ落とし穴も。高校受験の推薦入試とは、そもそもどんな制度なのか。推薦入試に向く受験生と向かない受験生についてシミュレーションしてみました。 私立高校の選抜方法は、公立高校以上に多様で複雑です。 Vol.2「合否はどう決まる？ 私立高校入試のしくみ」では、1都3県それぞれの私立高校入試について解説します。 大学へ進学するための受験方法は主に4つあります。そのうちの1つが指定校推薦です。 ちなみに4つの受験方法とは、「 一般入試 」、「 公募推薦 」、「 ao入試 」、そして「 指定校推薦 」です。 今の保護者世代には聞き慣れないものが2つほどありますね。 </p> <p>高校入試はみんな初めての経験。でも、入試のしくみを詳しく教えてくれる人って実はそんなにいない。高校受験ってそもそもいつあるの？併願って何？そもそも偏差値って何？など今更聞けない質問に答 … </p> <p>高校受験の推薦入試。一般入試と比べると「おトク感」があるように感じられます。しかし、その特徴をよく把握しておかないと思わぬ落とし穴も。高校受験の推薦入試とは、そもそもどんな制度なのか。推薦入試に向く受験生と向かない受験生についてシミュレーションしてみました。 私立推薦入試について 1月の後半に実施されます。内申点の基準をクリアした志望者のみ受験資格が与えられます。 ≪単願推薦入試の場合≫ 単願推薦の場合は、受けられるのは1校だけで、合格した学校に必ず入学しなければなりません。こちらを受けるなら、公立高校の推薦は受けられません。 私立高校は第一志望？それともすべり止め？単願や併願、推薦や一般入試など、受験方法によってさまざまな基準がかわる私立入試…。そんなややこしい入試のしくみを徹底解説します。お子さんの志望校選びに役立ててください♪ 指定校推薦とは. 指定校推薦とは. 指定校推薦募集は一般的に6～8月に公開され、早くて7月頃から校内選考が始まり、9～10月までに推薦される生徒が決まります。一般的に指定校推薦の場合は、ほとんどの大学で一般入試より先に始まり、受験のピークは10～11月頃です。 「子供が高校入試の推薦をもらえず、素行の悪い同級生が推薦をもらっていました。推薦の基準って何ですか。」保護者からの質問に＜＜元中学校教師道山ケイ＞＞が答えます。主な3つの推薦基準となぜ素行の悪い同級生でも推薦をもらえたのかを解説します！ </p> <p></p> <p>私立高校入試の仕組みである「単願」と「併願」について説明を行います。「単願」とは、合格をしたらその高校に必ず入学するという出願方法です。「併願」とは、合格したらその受験校の合格を確保した上で、他の高校も受験することが許さる出願方法です。 3．私立高校の場合 多くの中学校では1月の中旬に最後の定期試験があって、 推薦入試でも一般入試でも1月の下旬に私立高校に願書を提出しますので、 それほど時間的な余裕がありません。 私立高校の入試にいつの内申が使われるかについて、 私立高校入試の仕組みである「単願」と「併願」について説明を行います。「単願」とは、合格をしたらその高校に必ず入学するという出願方法です。「併願」とは、合格したらその受験校の合格を確保した上で、他の高校も受験することが許さる出願方法です。 大学へ進学するための受験方法は主に4つあります。そのうちの1つが指定校推薦です。 ちなみに4つの受験方法とは、「 一般入試 」、「 公募推薦 」、「 ao入試 」、そして「 指定校推薦 」です。 今の保護者世代には聞き慣れないものが2つほどありますね。 </p>";s:7:"keyword";s:35:"私立高校 推薦 いつ決まる";s:5:"links";s:15932:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A8%E3%83%96%E3%83%AA%E3%82%A4-%E3%83%AF%E3%82%B4%E3%83%B3-%E9%98%B2%E8%99%AB%E3%83%8D%E3%83%83%E3%83%88'>エブリイ ワゴン 防虫ネット</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=USPS-%E4%B8%AD%E5%9B%BD-%E8%BF%BD%E8%B7%A1'>USPS 中国 追跡</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%80%E3%82%A4%E3%82%AD%E3%83%B3-%E5%85%A8%E9%A4%A8%E7%A9%BA%E8%AA%BF-%E3%83%95%E3%82%A3%E3%83%AB%E3%82%BF%E3%83%BC'>ダイキン 全館空調 フィルター</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%B1%B1%E6%9C%AC%E3%82%86%E3%82%8A-%E3%81%8B%E3%81%BC%E3%81%A1%E3%82%83-%E3%82%B1%E3%83%BC%E3%82%AD-%E3%83%AC%E3%83%B3%E3%82%B8'>山本ゆり かぼちゃ ケーキ レンジ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%94%90-%E6%8F%9A%E3%81%92-%E6%A3%92-%E8%A1%A3'>唐 揚げ 棒 衣</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=don%27t-matter-%E6%84%8F%E5%91%B3'>Don't Matter 意味</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%A9%E3%83%83%E3%83%91%E3%83%BC-%E3%82%86%E3%81%86%E3%81%BE-%E5%A4%A7%E5%AD%A6'>ラッパー ゆうま 大学</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=wi-fi-%E5%9C%8F%E5%A4%96-%E5%AE%B6'>Wi-fi 圏外 家</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%AE%8B%E6%A5%AD%E6%99%82%E9%96%93-%E5%B9%B3%E5%9D%87-%E8%A8%88%E7%AE%97'>残業時間 平均 計算</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%8C%97%E6%B5%B7%E9%81%93%E7%A7%91%E5%AD%A6%E5%A4%A7%E5%AD%A6-%E5%BB%BA%E7%AF%89-%E5%AD%A6%E7%A7%91-%E5%B0%B1%E8%81%B7-%E5%85%88'>北海道科学大学 建築 学科 就職 先</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%83%E3%83%97%E3%83%96%E3%83%83%E3%82%AF-100%E5%9D%87-%E6%96%B0%E8%81%9E'>スクラップブック 100均 新聞</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AB%E3%83%BC%E3%83%A1%E3%82%A4%E3%83%88-%E3%83%AD%E3%83%83%E3%83%89%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC-%E4%B8%AD%E5%8F%A4'>カーメイト ロッドホルダー 中古</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%97%E3%83%AA%E3%82%B6%E3%83%BC%E3%83%96%E3%83%89%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC-%E5%8A%A0%E5%B7%A5-%E7%86%8A%E6%9C%AC'>プリザーブドフラワー 加工 熊本</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B8%89%E8%8F%B1-%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89%E3%83%89%E3%82%A2-%E3%83%87%E3%83%AA%E3%82%AB'>三菱 スライドドア デリカ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%BE%E3%81%A0-%E3%82%93-%E4%BA%AC%E9%83%BD'>まだ ん 京都</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=New-tab-extension'>New Tab Extension</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%81%E3%83%AD%E3%83%AB%E3%83%81%E3%83%A7%E3%82%B3-%E5%B7%A5%E5%A0%B4%E8%A6%8B%E5%AD%A6-%E7%94%B3%E3%81%97%E8%BE%BC%E3%81%BF'>チロルチョコ 工場見学 申し込み</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%AF%96-%E5%B0%8F%E6%9D%BE%E8%8F%9C-%E3%83%81%E3%83%A3%E3%83%BC%E3%83%8F%E3%83%B3'>鯖 小松菜 チャーハン</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%89%8B%E7%BE%BD%E5%85%83-%E5%94%90-%E6%8F%9A%E3%81%92-%E4%B8%8B%E5%91%B3%E5%86%B7%E5%87%8D'>手羽元 唐 揚げ 下味冷凍</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%B6%8F%E8%83%B8%E8%82%89-%E5%A1%A9%E9%BA%B9-%E5%9C%A7%E5%8A%9B%E9%8D%8B'>鶏胸肉 塩麹 圧力鍋</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=http-ip%E3%82%A2%E3%83%89%E3%83%AC%E3%82%B9-%E5%8F%96%E5%BE%97'>Http Ipアドレス 取得</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=mac-wifi-%E7%B9%8B%E3%81%8C%E3%82%89%E3%81%AA%E3%81%84-%E5%88%9D%E6%9C%9F%E8%A8%AD%E5%AE%9A'>Mac Wifi 繋がらない 初期設定</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=b6-%E3%83%8E%E3%83%BC%E3%83%88%E3%82%AB%E3%83%90%E3%83%BC-%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84'>B6 ノートカバー かわいい</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Nuro-%E3%81%A3-%E3%81%A6-%E4%BD%95'>Nuro っ て 何</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=linux-%E3%82%B5%E3%83%BC%E3%83%90%E9%96%93-%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E8%BB%A2%E9%80%81-rsync'>Linux サーバ間 ファイル転送 Rsync</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%B4%BE%E9%81%A3-%E5%BE%8C%E3%81%8B%E3%82%89-%E6%99%82%E7%B5%A6-%E9%AB%98%E3%81%84'>派遣 後から 時給 高い</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=PC-%E3%82%B9%E3%83%9E%E3%83%9B%E5%85%85%E9%9B%BB-%E9%81%85%E3%81%84'>PC スマホ充電 遅い</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B9%9D%E5%B7%9E%E5%A4%A7%E5%AD%A6%E5%8C%BB%E5%AD%A6%E9%83%A8-%E9%AB%98%E6%A0%A1%E5%88%A5%E5%90%88%E6%A0%BC%E8%80%85-2020'>九州大学医学部 高校別合格者 2020</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%90%B4%E4%BC%BC-%E5%AF%BF%E5%8F%B8-%E3%81%95%E3%81%84%E3%81%A8%E3%81%86'>琴似 寿司 さいとう</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%82%B8%E3%83%A0-%E3%83%90%E3%82%A4%E3%83%88-%E3%81%8A%E3%81%99%E3%81%99%E3%82%81'>スポーツジム バイト おすすめ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%B6%8F%E3%82%82%E3%82%82%E8%82%89-%E3%82%AD%E3%83%A0%E3%83%81-%E3%83%81%E3%83%BC%E3%82%BA'>鶏もも肉 キムチ チーズ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A4%A9%E7%8E%8B%E5%AF%BA-%E5%8B%95%E7%89%A9%E5%9C%92-%E5%85%A5%E5%9C%92%E8%80%85%E6%95%B0'>天王寺 動物園 入園者数</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%BE%8C%E8%A6%8B%E4%BA%BA-%E9%83%B5%E4%BE%BF%E7%89%A9-%E5%9B%9E%E9%80%81'>後見人 郵便物 回送</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD-%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3-2021'>東京メトロ インターン 2021</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A4%A7%E9%98%AA%E5%B8%82%E7%AB%8B%E5%A4%A7%E5%AD%A6-%E5%95%86%E5%AD%A6%E9%83%A8-%E5%AD%A6%E8%B2%BB'>大阪市立大学 商学部 学費</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%8A%AC-%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88-%E9%A1%94'>犬 イラスト 顔</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%92%8C%E6%AD%8C%E5%B1%B1-%E3%82%A4%E3%82%AA%E3%83%B3-%E3%81%8B%E3%82%89%E3%81%82%E3%81%92'>和歌山 イオン からあげ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%9F%93%E5%9B%BD-%E9%BE%8D%E5%B1%B1-%E3%82%A2%E3%82%A4%E3%83%91%E3%83%BC%E3%82%AF'>韓国 龍山 アイパーク</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=18%E9%87%91-%E5%96%9C%E5%B9%B3%E3%83%8D%E3%83%83%E3%82%AF%E3%83%AC%E3%82%B9-100g-%E4%B8%AD%E5%8F%A4'>18金 喜平ネックレス 100g 中古</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%87%E3%83%A5%E3%82%A2%E3%83%AB-%E3%83%94%E3%83%BC%E3%83%AB-%E4%B9%85%E7%95%99%E7%B1%B3'>デュアル ピール 久留米</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%B5%90%E5%A9%9A%E7%A5%9D%E3%81%84-%E7%9B%B8%E5%A0%B4-%E5%90%8C%E5%83%9A'>結婚祝い 相場 同僚</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%98%AA%E6%80%A5%E9%98%AA%E7%A5%9E%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9-%E6%B5%B7%E5%A4%96-%E4%BA%8B%E6%A5%AD'>阪急阪神ホールディングス 海外 事業</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%9D%B1%E5%8C%BA-%E6%A0%84%E7%94%BA-%E7%84%BC%E8%82%89'>東区 栄町 焼肉</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A4%E3%82%B6%E3%83%99%E3%83%A9-%E3%83%90%E3%83%BC%E3%83%89%E3%81%AE%E9%81%93-%E6%AD%B4%E5%8F%B2%E6%8E%A2%E8%A8%AA%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%AF'>イザベラ バードの道 歴史探訪ウォーク</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=KFB-%E3%83%89%E3%83%A9%E3%81%88%E3%82%82%E3%82%93-%E8%A9%A6%E5%86%99%E4%BC%9A'>KFB ドラえもん 試写会</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=windows7-%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8-%E5%BE%A9%E5%85%83'>Windows7 システムイメージ 復元</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%AF%E3%82%A4%E3%83%B3-%E4%B8%89%E5%AE%AE-%E8%B2%A9%E5%A3%B2'>ワイン 三宮 販売</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%86%E3%82%B9%E3%83%A9-%E3%83%8A%E3%83%93-%E9%9F%B3%E5%A3%B0'>テスラ ナビ 音声</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=ZPI-%E3%83%8F%E3%83%B3%E3%83%89%E3%83%AB-%E3%82%A2%E3%83%96'>ZPI ハンドル アブ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%84%A1%E5%8D%B0%E8%89%AF%E5%93%81-%E6%9C%AC%E6%A3%9A-%E8%96%84%E5%9E%8B'>無印良品 本棚 薄型</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B9%9D%E5%B7%9E%E5%A4%A7%E5%AD%A6-%E6%B3%95%E5%AD%A6%E9%83%A8-%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%91%E3%82%B9'>九州大学 法学部 キャンパス</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%AF%9B%E7%A9%B4%E3%82%B1%E3%82%A2-%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0-2020'>毛穴ケア ランキング 2020</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BC%8A%E8%B1%86%E3%81%AE%E5%9B%BD%E5%B8%82-%E6%B1%82%E4%BA%BA-%E4%BA%8B%E5%8B%99'>伊豆の国市 求人 事務</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Windows10-1909-%E5%A4%89%E6%9B%B4%E7%82%B9'>Windows10 1909 変更点</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%95%E3%83%AD%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0-%E5%89%A5%E3%81%8C%E3%82%8C-100-%E5%9D%87'>フローリング 剥がれ 100 均</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=2%E4%BA%BA%E7%9B%AE%E5%A6%8A%E5%A8%A0-%E9%80%80%E8%81%B7-%E4%BF%9D%E8%82%B2%E5%9C%92'>2人目妊娠 退職 保育園</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=ESR-%E8%BB%8A%E8%BC%89%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC-%E3%83%9E%E3%82%B0%E3%83%8D%E3%83%83%E3%83%88'>ESR 車載ホルダー マグネット</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Fire-chief-%E6%84%8F%E5%91%B3'>Fire Chief 意味</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%AE%AD-%E3%81%A1%E3%82%89%E3%81%97%E5%AF%BF%E5%8F%B8-%E3%81%8D%E3%81%AE%E3%81%86%E4%BD%95%E9%A3%9F%E3%81%B9%E3%81%9F'>鮭 ちらし寿司 きのう何食べた</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%8E%89-%E6%B5%AE%E3%81%8D-%E4%BB%98%E3%81%91%E6%96%B9'>玉 浮き 付け方</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%9C%80%E9%AB%98-%E3%81%A0-%E5%93%81%E8%A9%9E'>最高 だ 品詞</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%97%E3%83%BC%E3%83%9E-%E3%82%AD%E3%83%83%E3%82%BA-%E3%82%BB%E3%83%BC%E3%83%AB'>プーマ キッズ セール</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=vpn-%E6%8E%A5%E7%B6%9A%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84-iphone-ios13'>Vpn 接続できない Iphone Ios13</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BF%9D%E8%82%B2%E5%9C%92-%E3%83%93%E3%83%8B%E3%83%BC%E3%83%AB%E8%A2%8B-%E5%8F%8E%E7%B4%8D'>保育園 ビニール袋 収納</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B8%AD%E3%81%8B%E3%82%89-%E8%A6%8B%E3%82%84%E3%81%99%E3%81%84-%E3%82%AB%E3%83%BC%E3%83%95%E3%82%A3%E3%83%AB%E3%83%A0'>中から 見やすい カーフィルム</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B3%E3%83%AD%E3%83%8A-%E5%8D%83%E8%91%89-%E7%A8%B2%E6%AF%9B-%E5%8C%BA'>コロナ 千葉 稲毛 区</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%B6%B4%E5%8E%9F-%E8%80%B3%E9%BC%BB-%E7%A7%91'>鶴原 耳鼻 科</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=BEM-Block-%E5%85%A5%E3%82%8C%E5%AD%90'>BEM Block 入れ子</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%BF%91%E5%A4%A7-%E3%82%AA%E3%83%AA%E3%82%A8%E3%83%B3%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3-2020'>近大 オリエンテーション 2020</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%9B%9B-%E5%8D%81-%E4%B9%9D-%E6%97%A5-%E9%9B%BB%E5%A0%B1'>四 十 九 日 電報</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%8E%A5%E7%B6%9A%E3%81%8C%E6%8B%92%E5%90%A6-%E3%81%95%E3%82%8C-%E3%81%BE%E3%81%97%E3%81%9F-%E3%82%B9%E3%83%9E%E3%83%9B'>接続が拒否 され ました スマホ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%B6%8F-%E3%81%B6%E3%81%A4%E5%88%87%E3%82%8A-%E4%B8%8B%E5%87%A6%E7%90%86'>鶏 ぶつ切り 下処理</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AA%E3%83%BC%E3%83%88%E3%83%9F%E3%83%BC%E3%83%AB-%E3%82%A2%E3%83%AC%E3%83%AB%E3%82%AE%E3%83%BC-%E9%9B%A2%E4%B9%B3%E9%A3%9F'>オートミール アレルギー 離乳食</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%89%E3%83%AA%E3%83%B3%E3%82%AF-%E5%86%B7%E8%94%B5%E5%BA%AB-%E3%82%AC%E3%83%A9%E3%82%B9'>ドリンク 冷蔵庫 ガラス</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AF%E3%83%AA%E3%82%B9%E3%82%BF-%E6%96%87%E5%AD%97-%E3%82%A2%E3%83%B3%E3%83%81%E3%82%A8%E3%82%A4%E3%83%AA%E3%82%A2%E3%82%B9'>クリスタ 文字 アンチエイリアス</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%AD%90%E5%AE%AE-%E7%97%9B%E3%81%BF-%E3%83%81%E3%82%AF%E3%83%81%E3%82%AF-%E5%B7%A6'>子宮 痛み チクチク 左</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%99%E3%83%BC%E3%82%B3%E3%83%B3-%E7%8E%89%E3%81%AD%E3%81%8E-%E5%8D%B5-%E3%83%81%E3%83%BC%E3%82%BA'>ベーコン 玉ねぎ 卵 チーズ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%88%E3%83%A8%E3%82%BF-%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC-%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC'>トヨタ バッテリー メーカー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%9D%99%E6%B8%85%E4%BF%A1%E7%94%A8%E9%87%91%E5%BA%AB-%E5%A4%96%E8%B2%A8-%E4%B8%A1%E6%9B%BF'>静清信用金庫 外貨 両替</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%8C%96%E7%B2%A7%E6%B0%B4-%E3%81%8A%E3%81%99%E3%81%99%E3%82%81-%E3%83%A1%E3%83%B3%E3%82%BA'>化粧水 おすすめ メンズ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%AA%95%E7%94%9F%E6%97%A5%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3%E3%83%88-%E8%8A%B1%E6%9D%9F-%E7%94%BB%E5%83%8F'>誕生日プレゼント 花束 画像</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=windows10-%E3%83%AD%E3%83%BC%E3%82%AB%E3%83%AB%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%81%A8%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97-%E8%BF%BD%E5%8A%A0'>Windows10 ローカルユーザーとグループ 追加</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%B1%B1%E5%8F%A3%E5%A4%A7%E5%AD%A6-%E8%87%A8%E5%BA%8A%E6%A4%9C%E6%9F%BB%E6%8A%80%E5%B8%AB-%E5%81%8F%E5%B7%AE%E5%80%A4'>山口大学 臨床検査技師 偏差値</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%8A%E3%81%86-%E3%81%8E-%E5%BD%A2-%E4%B8%AD%E5%BF%83%E8%A7%92-%E5%95%8F%E9%A1%8C'>おう ぎ 形 中心角 問題</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%88%86%E9%80%9F-80-%E3%83%A1%E3%83%BC%E3%83%88%E3%83%AB-%E3%81%A7%E6%AD%A9%E3%81%8F%E4%BA%BA%E3%81%8C-20-%E3%83%A1%E3%83%BC%E3%83%88%E3%83%AB-%E3%81%AE%E9%81%93%E3%81%AE%E3%82%8A%E3%82%92%E9%80%B2%E3%82%80%E6%99%82%E9%96%93'>分速 80 メートル で歩く人が 20 メートル の道のりを進む時間</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%B3%B6%E6%A0%B9%E5%A4%A7%E5%AD%A6-%E5%8C%BB%E5%AD%A6%E9%83%A8-%E9%9D%A2%E6%8E%A5'>島根大学 医学部 面接</a>,
+";s:7:"expired";i:-1;}

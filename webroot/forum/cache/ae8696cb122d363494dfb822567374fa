@@ -1,0 +1,64 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:3253:"<br> <br> なぜ水分摂取が嫌なのかを、ひも解いてみた 漢方では水毒などどいって、体内に水分が、たまり過ぎるために体調が悪くなることを心配します。高齢者の生活をまじかで見ていると、やはり水分摂取量は少なすぎます。水毒を心配するどころではありません。 高齢になると、体温や体液のバランスを調節する機能が低下し、脱水症のリスクが高まります 1,2) 。 高齢者の脱水症は、生命に危険を及ぼす可能性もあり、持病の有無や使用している薬の特性などを考慮した水分補給が求められます 2,3) 。 認知症高齢者の水分補給. 認知症の方だけではないのですが、 高齢者はトイレが近くなるという理由で 水分を控える方がいます。 水分が足りないと、脱水症や熱中症に かかる危険性が増しますので、 水分補給を促し続けないといけません。 認知症の人は、自分で水やお茶を飲む能力があっても、水分不足を防ぐために自分から水分を摂ろうという意識が働きません。 1日2杯で認知症予防！ 東北大学院医学系研究科の調べによりますと、1日に2杯以上の緑茶を飲む人は、そうでない人に比べて認知障害になりにくいということが分かったそうです。 これは緑茶に含まれるカテキンの効果です。 <br> <br>アルツハイマー型認知症 / 若年性認知症 / 脳血管性認知症 / ピック病 / パーキンソン病・症候群 / レビー小体病 / 前頭側頭葉変性症 認知症の予防 食生活と認知症の関係 / 飲み物で認知症を予防？！ / 生活習慣を見直そう！ / 海馬を活性化させよう！ 脱水症状や熱中症にならないために水分補給を！と言ってもどのぐらいの量を摂ればいいのかわからないですよね。 なので、これについてもデイサービスのスタッフの人に聞いてみました。 高齢者が1日に必要とする水分の量は、 2～2.5リットル だそうです。 <br> 一人暮らしの父（80歳）が、脱水症状で入院しました。幸い大事には至りませんでしたが、その後も積極的な水分補給をしてくれません。 高齢者は夏だけでなく一年中脱水の恐れがあると聞き心配です。父に水分補給をしてもらうのに良い方法はありますか？ 認知症の人は老化以外にも、 「水分不足」 になりやすい要素があります。 （1）水分を摂らなければいけないという認識がない . その為、認知症予防には水分補給が効果的といいます。 1日に1500ccの水を飲むのに加えて、運動、食事、排便のリズムを つけることで認知症の予防に効果的と言われています。 また認知症状の改善にもこの水分補給が効果的です。 認知症の初期症状を捉えることは、認知症の治療を行う上で大変重要なことです。ここでは、認知症にいち早く気づくための「7つのサイン」について解説しております。 <br>";s:7:"keyword";s:32:"高齢者 水分補給 認知症";s:5:"links";s:5118:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%B6%B4%E6%A9%8B-%E3%82%B3%E3%83%AA%E3%82%A2%E3%83%B3-%E3%82%BF%E3%82%A6%E3%83%B3-%E3%83%86%E3%82%A4%E3%82%AF%E3%82%A2%E3%82%A6%E3%83%88'>鶴橋 コリアン タウン テイクアウト</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A2%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%88%E3%83%BC%E3%83%96-%E8%87%AA%E4%BD%9C-%E3%82%B4%E3%83%88%E3%82%AF'>アルコールストーブ 自作 ゴトク</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%9C%AD%E5%B9%8C-%E3%83%94%E3%83%AB-%E5%AE%89%E3%81%84'>札幌 ピル 安い</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%BD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%8A-%E3%82%AB%E3%82%A6%E3%83%B3%E3%82%BB%E3%83%AA%E3%83%B3%E3%82%B0-%E5%8C%96%E7%B2%A7%E5%93%81'>ソフィーナ カウンセリング 化粧品</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=It-was-nice-to-meet-you-%E8%BF%94%E4%BA%8B'>It Was Nice To Meet You 返事</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%AF%8D%E4%BD%93%E4%BF%9D%E8%AD%B7%E6%B3%95-%E6%8C%87%E5%AE%9A%E5%8C%BB-%E6%84%9B%E7%9F%A5%E7%9C%8C'>母体保護法 指定医 愛知県</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%97%E3%82%87%E3%81%86-%E3%81%84%E3%82%93-%E3%81%97%E3%82%93-%E5%88%87%E9%99%A4-%E7%97%87%E4%BE%8B%E5%86%99%E7%9C%9F'>しょう いん しん 切除 症例写真</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%AF%8C%E5%A3%AB%E3%83%95%E3%82%A4%E3%83%AB%E3%83%A0-%E5%86%99%E7%9C%9F-%E6%8A%95%E7%A8%BF'>富士フイルム 写真 投稿</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%89%A3-%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88-%E3%81%8B%E3%81%A3%E3%81%93%E3%81%84%E3%81%84'>剣 イラスト かっこいい</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AD-%E9%B9%BF%E5%B1%8B-%E5%BA%97'>フェスティバロ 鹿屋 店</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%A6%8F%E5%B2%A1-%E5%9C%B0-%E6%89%80-%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%83%E3%83%97'>福岡 地 所 インターンシップ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9A%E3%83%83%E3%83%88%E3%83%9C%E3%83%88%E3%83%AB-%E3%82%AD%E3%83%A3%E3%83%83%E3%83%97-%E3%82%AB%E3%83%83%E3%82%BF%E3%83%BC'>ペットボトル キャップ カッター</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%AA%E3%83%BC%E3%83%AB-%E4%BF%9D%E7%AE%A1-%E6%A3%9A'>リール 保管 棚</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B3%E3%83%BC%E3%83%81-%E3%83%94%E3%82%A2%E3%82%B9-%E9%A6%AC%E8%BB%8A'>コーチ ピアス 馬車</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A2%E3%83%AB%E3%83%95%E3%82%A1%E3%83%BC%E3%83%89-%E3%83%8F%E3%82%A4%E3%83%96%E3%83%AA%E3%83%83%E3%83%89-S-%E5%86%85%E8%A3%85'>アルファード ハイブリッド S 内装</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%95%E3%83%A9%E3%82%A4%E3%83%91%E3%83%B3-%E8%93%8B-22cm'>フライパン 蓋 22cm</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A8%E3%82%AF%E3%82%BB%E3%83%AB-%E3%82%B0%E3%83%A9%E3%83%95-%E8%BB%B8-%E6%95%B0%E5%80%A4-%E6%B6%88%E3%81%99'>エクセル グラフ 軸 数値 消す</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%B4%94%E7%83%88-%E5%BA%83%E5%B3%B6-2020'>純烈 広島 2020</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%BF%E3%81%8D-%E3%82%84-%E9%B3%A5%E5%88%BA%E3%81%97'>みき や 鳥刺し</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9F%E3%83%B3%E3%83%88%E7%A5%9E%E6%88%B8-%E9%A3%9F%E6%96%99-%E5%93%81'>ミント神戸 食料 品</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AD%E3%83%A3%E3%83%99%E3%83%84-%E5%A1%A9%E6%98%86%E5%B8%83-%E3%83%91%E3%82%B9%E3%82%BF-%E4%BA%BA%E6%B0%97'>キャベツ 塩昆布 パスタ 人気</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AA%E3%82%B7%E3%82%A2-%E3%82%B3%E3%83%B3%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88ct-201pg'>オシア コンクエストct 201pg</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%A0%E3%81%97%E3%81%BE%E3%82%8D%E9%85%A2-%E3%83%AC%E3%82%B7%E3%83%94-%E9%B6%8F%E8%82%89'>だしまろ酢 レシピ 鶏肉</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=BTS-%E3%82%B8%E3%83%B3-%E5%A4%A7%E5%AD%A6'>BTS ジン 大学</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=GACKT-%E5%B9%BC%E5%B0%91%E6%9C%9F-%E5%86%99%E7%9C%9F'>GACKT 幼少期 写真</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=olgou-%E4%B8%AD%E7%9B%AE%E9%BB%92-%E3%82%A4%E3%83%B3%E3%82%B9%E3%82%BF'>Olgou 中目黒 インスタ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%84%BC%E3%81%8D%E8%8A%8B-%E5%A3%B2%E3%82%8C%E3%82%8B-%E5%A0%B4%E6%89%80'>焼き芋 売れる 場所</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%A6%8F%E5%B2%A1%E5%B8%82-%E3%82%B4%E3%83%9F-%E8%A5%BF%E5%8C%BA'>福岡市 ゴミ 西区</a>,
+";s:7:"expired";i:-1;}

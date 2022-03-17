@@ -1,0 +1,70 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:5522:"航空機乗組員等のアルコール検査実施要領 国空航第628号、国空機第408号 2019年7月5日 国土交通省航空局安全部運航安全課 国土交通省航空局安全部航空機安全課 全国ゴールコン協会 ＞ Q＆A ＞ 国土交通省告示第1113号 ＞ その2. 法第2条第七号「耐火構造の構造方法を定める件」2000年建設省告示第1399号. 全国ゴールコン協会 ＞ Q＆A ＞ 国土交通省告示第1113号 ＞ その5. 昭和42年2月9日建設省告示第251号～第256号: 建築基準法施行令第107条第一号の規定に基づき、下記の構造を通常の火災時の加熱に30分、1時間、2時間、3時間の夫々に耐える性能を有する構造として指定した件: 昭和41年12月22日建設省告示第4101号～第4115号 令第1条第六号「難燃材料を定める件」2000年建設省告示第1402号. 令第2条第1項第二号「国土交通大臣が高い開放性を有すると認めて指定する構造」1993年建設省告示第1437号 . 鉄骨鉄筋コンクリート造の規定を適用しないプレキャスト鉄骨鉄筋コンクリートで造られた部材の構造方法. 第4項 第2項から第3項に定めるもののほか、改良された地盤の許容応力度を求める方法は、 改良方式、改良範囲、地盤の種類及び地盤の構成に応じて、原則として、基礎の構造形式、 敷地、地盤その他の実況を考慮した3以上の平板載荷試験又は3以上のくい等載荷試験の結果に基づいて、 次の式により計算するものとする。 h28国⼟交通省告⽰第 693号 （不燃性の物品を保管する倉庫に類する⽤途等を定める件） 法22条、法63条 屋根の性能 傂109条の6、傂136条の2の2 技術的基準 第一号 有害な発炎をしない（燃え広がらない） 第二号 屋内に達する有害な溶融、⻲裂等を生じない 1案：セメント系固化材を用いて改良体の許容応力度は、次の表に掲げるものとする （地盤の許容応力度は第2に既知として考える）。 ただし、改良体の先端及びその周囲に軟弱な粘性土地盤及び地震時に液状化するおそれのある地盤が存在する場合は、 告示1347号第2に規定される構造計算を行うものとする。 建築基準法施行令関係. 年国土交通省告示第1024号 （最終改正 平成30年国土交通省告示第1324号） 特殊な許容応力度及び特殊な材料強度を定める件（抄） 建築基準法施行令（昭和. 官報 平成13年8月21日 第3183号 より. 法第2 条第 ... 並びにその結果に基づき許容応力度及び基礎ぐいの許容支持力を定める件」2001年建設省告示第1113号. 令第94条・令第99条「特殊な許容応力度及び特殊な材料強度を定める件」2001年建設省告示第1024号 . 建築基準法施行令関係. 国土交通省告示 第1372号; 国土交通省告示第1113号 その5 .  国土交通省告示第1113号 全国ゴールコン協会 ＞ Q＆A ＞ 国土交通省告示第1113号 地盤の許容応力度及び基礎ぐいの許容支持力を求めるための地盤調査の方法並びにその結果に基づき地盤の許容応力度及び基礎ぐいの許容支持力をもとめる方法を定める件 国土交通省告示第1113号 （平成13年7月2日） （最終改正 平成19年9月 告示第1232号） 地盤の許容応力度及び基礎ぐいの許容支持力を求めるための地整調査の方法並びに その結果に基づき地盤の許容応力度及び基礎ぐいの許容支持力を定める方法等を定める件 全国ゴールコン協会 ＞ Q＆A ＞ 国土交通省告示第1372号. 令第32条第1項表「処理対象人員の算定方法」1969年建設省告示第3184号. 25年政令第338号）第94条の規定に基づき、木材のめりこみ及び木材の圧縮材の座屈の許 国土交通省告示第1112号（平成14年12月26日） 建築基準法施行令（昭和25年政令第338号）第20条の5第1項第2号の規定に基づき、クロルピリホ 国土交通省告示 第1113号; 国土交通省告示 第1372号 ; 国土交通省告示第1372号. 第5 基礎ぐいの許容支持力を定める方法は、基礎ぐいの種類に応じて、次の各号に定めるところによるものとする。 1 国土交通省告示 第1372号; 国土交通省告示第1113号 その2 . 国交省告示 第1113 号を読み解く 沈下の検討と算定式を使えない地盤について 1．具体策は示されているか 告示第1347 号にて、基礎の構造が「地盤の許容応力度」に従って決まることが示され、告示第1113 号で 国土交通省告示第1113号 その2 全国ゴールコン協会 ＞ Q＆A ＞ 国土交通省告示第1113号 ＞ その2 第2 地盤の許容応力度を定める方法は、次の表の(1)項、(2)項又は(3)項に掲げる式によるものとする。 上記告示で，日本工業規格JISA3302を指定. 国土交通省告示・通達一覧では、国土交通省所管の主な告示・通達を提供してまいります。 【ご利用にあたっての注意事項】 本ページにおいて提供している告示・通達情報は法令等の解釈、運用の指針等に関するもの、その他国民生活や企業活動に関する通知等です。 ";s:7:"keyword";s:55:"ç¼ããã° ç éºº å¾³ç¨ 1kg";s:5:"links";s:6210:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9D%E3%82%AB%E3%83%AA-%E7%BC%B6-%E5%A3%B2%E3%81%A3%E3%81%A6%E3%81%AA%E3%81%84'>ポカリ 缶 売ってない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=AQUOS-%E5%A4%96%E4%BB%98%E3%81%91HDD%E8%AA%8D%E8%AD%98-%E3%81%97%E3%81%AA%E3%81%84'>AQUOS 外付けHDD認識 しない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%84%E3%81%BC%E7%97%94-%E8%87%AD%E3%81%84-%E6%B1%81'>いぼ痔 臭い 汁</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%B0%8F%E5%B1%B1-%E7%9A%AE%E8%86%9A%E7%A7%91-%E9%96%89%E9%99%A2'>小山 皮膚科 閉院</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%96%B0%E7%A4%BE%E5%B1%8B-%E3%81%8A%E7%A5%9D%E3%81%84-%E3%81%8A%E8%BF%94%E3%81%97'>新社屋 お祝い お返し</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%99%BD%E8%8F%9C-%E3%83%84%E3%83%8A-%E3%83%88%E3%83%9E%E3%83%88%E3%83%91%E3%82%B9%E3%82%BF'>白菜 ツナ トマトパスタ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%AD%9A%E3%81%AE-%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0%E7%85%AE-%E7%8C%AE%E7%AB%8B'>魚の クリーム煮 献立</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%AB%98%E6%A0%A1-%E8%8B%B1%E8%AA%9E-%E8%A6%9A%E3%81%88%E3%82%8B-%E3%81%B9%E3%81%8D-%E7%86%9F%E8%AA%9E'>高校 英語 覚える べき 熟語</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AA%E3%82%B7%E3%82%A2-%E3%82%AB%E3%83%AB%E3%82%AB%E3%83%83%E3%82%BF-%E3%83%92%E3%83%A9%E3%83%A1'>オシア カルカッタ ヒラメ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A8%E3%82%AF%E3%82%BB%E3%83%AB-%E3%82%B0%E3%83%A9%E3%83%95-%E8%BB%B8-%E6%95%B0%E5%80%A4-%E6%B6%88%E3%81%99'>エクセル グラフ 軸 数値 消す</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%88%9E%E8%8C%B8-%E3%83%AC%E3%82%B7%E3%83%94-%E3%83%AC%E3%83%B3%E3%82%B8'>舞茸 レシピ レンジ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%96%B0%E5%AE%BF%E6%96%87%E5%8C%96%E3%83%93%E3%83%AB-%E9%A7%90-%E8%BB%8A%E5%A0%B4'>新宿文化ビル 駐 車場</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%AD%E3%83%BC%E3%83%89%E3%83%90%E3%82%A4%E3%82%AF-%E4%BD%93%E9%87%8D-%E8%BB%BD%E3%81%84'>ロードバイク 体重 軽い</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%8F%E3%83%BC%E3%83%89%E3%82%AA%E3%83%95-%E8%B2%B7%E5%8F%96-%E6%9C%8D'>ハードオフ 買取 服</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A6%E3%82%A7%E3%83%96%E3%82%AB%E3%83%A1%E3%83%A9-%E4%BD%BF%E3%81%84%E6%96%B9-mac'>ウェブカメラ 使い方 Mac</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Cocoon-%E3%83%95%E3%82%A9%E3%83%B3%E3%83%88-%E5%A4%89%E6%9B%B4'>Cocoon フォント 変更</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%84%E3%83%BC%E3%83%AB%E3%83%90%E3%83%BC-%E8%A1%A8%E7%A4%BA-%E4%B8%8B%E3%81%AB'>ツールバー 表示 下に</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B8%AD%E6%BF%83%E3%82%BD%E3%83%BC%E3%82%B9-%E3%83%87%E3%83%9F%E3%82%B0%E3%83%A9%E3%82%B9%E3%82%BD%E3%83%BC%E3%82%B9-%E3%82%AA%E3%83%A0%E3%83%A9%E3%82%A4%E3%82%B9'>中濃ソース デミグラスソース オムライス</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%AD%E3%83%B3%E3%82%B7%E3%83%A3%E3%83%B3-%E3%81%9F%E3%81%9F%E3%82%81-%E3%81%AA%E3%81%84'>ロンシャン たため ない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=MacOS-%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88-%E5%A4%96%E4%BB%98%E3%81%91HDD'>MacOS アップデート 外付けHDD</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9B%E3%83%B3%E3%83%80-%E3%82%B9%E3%83%88%E3%83%AA%E3%83%BC%E3%83%A0-%E3%83%8A%E3%83%B3%E3%83%90%E3%83%BC'>ホンダ ストリーム ナンバー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%80%B3%E9%BC%BB-%E7%A7%91-%E5%BD%93%E6%97%A5-%E4%BA%88%E7%B4%84'>耳鼻 科 当日 予約</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=10%E6%9C%88-%E5%9C%92%E3%81%A0%E3%82%88%E3%82%8A-%E6%9B%B8%E3%81%8D%E5%87%BA%E3%81%97'>10月 園だより 書き出し</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%96%A2%E8%A5%BF-%E5%B3%A0-%E3%83%AD%E3%83%BC%E3%83%89%E3%83%90%E3%82%A4%E3%82%AF'>関西 峠 ロードバイク</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%A2%E3%83%A9%E3%83%A0-sx1600c-%E7%B3%B8%E5%B7%BB%E3%81%8D%E9%87%8F'>モラム Sx1600c 糸巻き量</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%AD%E3%83%BC%E3%83%89%E3%83%90%E3%82%A4%E3%82%AF-%E3%83%92%E3%83%AB%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%A0-%E9%96%A2%E8%A5%BF'>ロードバイク ヒルクライム 関西</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=google%E6%97%A5%E6%9C%AC%E8%AA%9E%E5%85%A5%E5%8A%9B-%E5%A4%89%E6%8F%9B%E5%80%99%E8%A3%9C-%E4%BD%8D%E7%BD%AE'>Google日本語入力 変換候補 位置</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=3-%E4%BA%BA%E7%9B%AE-%E5%87%BA%E7%94%A3%E6%99%82%E9%96%93'>3 人目 出産時間</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%90%8D%E9%89%84-%E5%BF%98%E3%82%8C%E7%89%A9-%E3%82%A2%E3%83%97%E3%83%AA'>名鉄 忘れ物 アプリ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=VBA-Shell-cd'>VBA Shell Cd</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%80%E3%82%A4%E3%83%AF-%E3%83%AA%E3%83%BC%E3%83%AB-%E3%81%AE-%E3%82%BF%E3%83%83%E3%82%AF%E3%83%AB-%E3%82%A4%E3%83%B3%E3%83%97%E3%83%AC%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3-%E3%81%AE'>ダイワ リール の タックル インプレッション の</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%9C%8B%E8%AD%B7-%E6%BC%A2%E5%AD%97-%E5%85%A5%E8%A9%A6'>看護 漢字 入試</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%84%E3%83%8A-%E3%82%AC%E3%83%BC%E3%83%AA%E3%83%83%E3%82%AF-%E3%83%81%E3%83%A3%E3%83%BC%E3%83%8F%E3%83%B3'>ツナ ガーリック チャーハン</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%90%8C-%E6%98%8E-%E5%9B%9B%E5%AD%97%E7%86%9F%E8%AA%9E'>同 明 四字熟語</a>,
+";s:7:"expired";i:-1;}

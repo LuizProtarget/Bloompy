@@ -1,0 +1,94 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:1667:"<br>パク･セジン代表院長は、日本の東京歯科大学で初の外国人最優秀奨学生に選定され、あらゆる優秀な成績を修めて卒業、日本と韓国の両国で歯科医師免許を取得。日本語が堪能なため、韓国在住の日本人、日本からも多くの患者様が訪れます。また、日本人の医療コーディネーターが常駐しているため、言葉の心配も要りません。 世界140の国と地域を対象とする歯科医師数ランキングです。1位はブラジルの231,399人、2位はインドの120,897人、3位は日本の101,576人です。最下位はナウルの1人です。 インタビュー   <br>アメリカ・韓国・日本3ヶ国の国家資格免許をもつ女性歯科医師が、海外から見えたもの 2019.08.30 15:44. 韓国. 日本の歯科医師免許をもっている方が韓国にて歯科医師として勤務するためには、定められた専用の研修施設で研修後、承認を受ける必要があります。またその際に韓国語の能力試験も一定ランク以上に合格していることが条件です。 オーストラリア. <br> 日本で歯科医師の免許を取得、個人医院や病院勤務を経て、後に開業をする方がほとんどだと思います。ただ諸々な事情で海外へ赴任することがあるかもしれません。勤務している病院から海外へ赴任して欲しいと辞令が出た、また発展途上国の支援をするために、自身の技術向上のために海外へ活躍の場を求める方もいるでしょう。 Australian Dental Counci <br>";s:7:"keyword";s:32:"日本 歯科医師免許 韓国";s:5:"links";s:11176:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%B4%A5%E5%B8%82-%E6%B0%B4%E8%B0%B7%E7%9A%AE%E8%86%9A%E7%A7%91-%E4%BA%8B%E4%BB%B6'>津市 水谷皮膚科 事件</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Edge-%E3%83%9C%E3%82%BF%E3%83%B3-%E5%8F%8D%E5%BF%9C-%E3%81%97%E3%81%AA%E3%81%84'>Edge ボタン 反応 しない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%AD%E3%83%BC%E3%83%89%E3%83%90%E3%82%A4%E3%82%AF-%E3%83%80%E3%82%A4%E3%82%A8%E3%83%83%E3%83%88-%E3%83%96%E3%83%AD%E3%82%B0'>ロードバイク ダイエット ブログ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%BE%E3%81%97-%E3%81%8B%E3%81%8F-%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A0-6%E9%9D%A2'>まし かく アルバム 6面</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%AA%E3%83%B3%E3%83%91%E6%B5%AE%E8%85%AB-%E5%A4%96%E6%9D%A5-%E5%A4%A7%E9%98%AA'>リンパ浮腫 外来 大阪</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B8%AD%E5%A4%AE%E5%A4%A7%E5%AD%A6-%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%91%E3%82%B9%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3-%E3%82%B9%E3%83%9A%E3%83%83%E3%82%AF'>中央大学 キャンパスパソコン スペック</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=10A-250V-%E6%84%8F%E5%91%B3'>10A 250V 意味</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%B7%9D%E5%B4%8E%E5%B8%82%E6%B0%91%E3%83%97%E3%83%A9%E3%82%B6-%E4%BD%93%E6%93%8D-%E6%95%99%E5%AE%A4'>川崎市民プラザ 体操 教室</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=mac-%E5%A4%96%E4%BB%98%E3%81%91-%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89-us'>Mac 外付け キーボード Us</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AA%E3%83%A9%E3%83%B3%E3%83%80-%E3%81%8A%E5%9C%9F%E7%94%A3-%E9%80%9A%E8%B2%A9'>オランダ お土産 通販</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%B1%86%E4%B9%B3-%E3%83%AC%E3%83%A2%E3%83%B3%E6%B1%81-%E5%8A%B9%E6%9E%9C'>豆乳 レモン汁 効果</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%9F%93%E5%9B%BD-%E8%AA%9E-%E3%82%A2%E3%82%B8%E3%83%A1'>韓国 語 アジメ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=2015-%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC-%E8%8B%B1%E8%AA%9E-%E9%9B%A3%E6%98%93%E5%BA%A6'>2015 センター 英語 難易度</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A4%A7%E4%BA%AC%E7%A9%B4%E5%90%B9-%E4%B8%8D%E5%8B%95%E7%94%A3-%E8%A8%AD%E5%82%99%E4%BF%9D%E8%A8%BC'>大京穴吹 不動産 設備保証</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%8B%E3%83%88%E3%83%AA-%E5%B0%8F%E7%89%A9-%E5%8F%8E%E7%B4%8D%E3%82%B1%E3%83%BC%E3%82%B9-M'>ニトリ 小物 収納ケース M</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%89%8B%E4%BD%9C%E3%82%8A%E5%91%B3%E5%99%8C-%E3%82%B8%E3%83%83%E3%83%97%E3%83%AD%E3%83%83%E3%82%AF-%E4%BF%9D%E5%AD%98'>手作り味噌 ジップロック 保存</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%80%E3%82%A4%E3%83%8F%E3%83%84-%E9%9B%BB%E5%8B%95%E3%83%95%E3%82%A1%E3%83%B3-%E3%83%AA%E3%82%B3%E3%83%BC%E3%83%AB'>ダイハツ 電動ファン リコール</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%9B%BD%E6%B0%91%E5%81%A5%E5%BA%B7%E4%BF%9D%E9%99%BA%E6%96%99-%E8%A8%88%E7%AE%97-%E3%82%B7%E3%83%A5%E3%83%9F%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3'>国民健康保険料 計算 シュミレーション</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A6%8A%E5%A8%A0%E6%80%A7%E7%97%92%E7%96%B9-%E5%AD%90%E4%BE%9B-%E3%82%A2%E3%83%88%E3%83%94%E3%83%BC'>妊娠性痒疹 子供 アトピー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%9D%E3%81%AE%E4%BB%96%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B3-chrome-%E8%A1%A8%E7%A4%BA%E3%81%95%E3%82%8C%E3%81%AA%E3%81%84'>その他アイコン Chrome 表示されない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%97%A4%E6%B2%A2-%E5%A6%8A%E5%A9%A6-%E5%81%A5-%E8%A8%BA'>藤沢 妊婦 健 診</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%8B%E3%83%99%E3%82%A2-%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0-%E3%83%9C%E3%83%87%E3%82%A3-%E3%83%9F%E3%83%AB%E3%82%AF-%E3%83%AA%E3%83%9A%E3%82%A2-%E3%83%A8%E3%83%89%E3%83%90%E3%82%B7'>ニベア プレミアム ボディ ミルク リペア ヨドバシ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BA%AC%E9%83%BD%E5%A4%A7%E5%AD%A6-%E5%8C%BB%E5%AD%A6%E9%83%A8-%E5%95%8F%E9%A1%8C'>京都大学 医学部 問題</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Thank-you-for-your-quick-response'>Thank You For Your Quick Response</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%B0%8F%E8%B1%86%E5%B3%B6-%E3%83%95%E3%82%A7%E3%83%AA%E3%83%BC-%E4%BA%88%E7%B4%84-%E5%BF%85%E8%A6%81'>小豆島 フェリー 予約 必要</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=El-Capitan-AirDrop'>El Capitan AirDrop</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Https-uketsuke-form-jp-modules-uketsuke_z71'>Https Uketsuke Form Jp Modules Uketsuke_z71</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%90%86%E5%AD%A6%E7%99%82%E6%B3%95%E5%A3%AB-%E4%B8%89-%E5%B9%B4%E5%88%B6'>理学療法士 三 年制</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%8A%E3%81%8B%E3%82%89-%E3%83%9D%E3%83%86%E3%83%88%E3%82%B5%E3%83%A9%E3%83%80-%E3%83%AA%E3%83%A5%E3%82%A6%E3%82%B8'>おから ポテトサラダ リュウジ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AB%E3%82%B4-%E3%81%B6%E3%81%A3%E3%81%93-%E3%81%BF-%E9%87%A3%E3%82%8A%E4%BB%95%E6%8E%9B%E3%81%91'>カゴ ぶっこ み 釣り仕掛け</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%8B%E3%81%B6-%E5%9C%A7%E5%8A%9B%E9%8D%8B-%E9%9B%A2%E4%B9%B3%E9%A3%9F'>かぶ 圧力鍋 離乳食</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%97%E3%83%AA%E3%82%A6%E3%82%B9-%E3%83%91%E3%83%AF%E3%83%BC%E3%82%A6%E3%82%A3%E3%83%B3%E3%83%89%E3%82%A6-%E3%83%AA%E3%82%BB%E3%83%83%E3%83%88'>プリウス パワーウィンドウ リセット</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Amazon-Minecraft-Windows10'>Amazon Minecraft Windows10</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%89%8B%E7%BE%BD%E5%85%83-%E5%94%90-%E6%8F%9A%E3%81%92-%E6%BC%AC%E3%81%91%E8%BE%BC%E3%81%BF%E3%81%AA%E3%81%97'>手羽元 唐 揚げ 漬け込みなし</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BC%8A%E8%97%A4%E3%83%8F%E3%83%A0-%E4%BC%9D%E6%89%BF-%E5%8F%A3%E3%82%B3%E3%83%9F'>伊藤ハム 伝承 口コミ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%B1%86%E8%85%90%E3%83%81%E3%83%BC%E3%82%BA%E3%82%B1%E3%83%BC%E3%82%AD-%E7%B3%96%E8%B3%AA-%E5%88%B6%E9%99%90'>豆腐チーズケーキ 糖質 制限</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%98%AA%E7%A5%9E-%E7%99%BE%E8%B2%A8%E5%BA%97-%E3%83%91%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89-10-%E6%9C%88'>阪神 百貨店 パンワールド 10 月</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%90%E3%82%A4%E3%82%AF-%E3%82%AD%E3%83%A3%E3%83%AA%E3%83%91%E3%83%BC-%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%E3%83%9B%E3%83%BC%E3%83%AB-%E3%82%A8%E3%82%A2%E6%8A%9C%E3%81%8D'>バイク キャリパー オーバーホール エア抜き</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=100-%E5%86%86-%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97-%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%89%E3%83%AB%E3%83%A9%E3%83%B3%E3%82%BF%E3%83%B3'>100 円 ショップ キャンドルランタン</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%94%90-%E6%8F%9A%E3%81%92-%E3%82%B5%E3%82%AF%E3%82%B5%E3%82%AF-%E4%BF%9D%E5%AD%98'>唐 揚げ サクサク 保存</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%91%E3%83%AF%E3%83%BC%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88-%E3%83%86%E3%83%B3%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88-%E4%BD%9C%E3%82%8A%E6%96%B9-Mac'>パワーポイント テンプレート 作り方 Mac</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88-%E3%83%9A%E3%83%B3-%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88'>スマート ペン イラスト</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A4%E3%83%87%E3%82%A3%E3%82%AA%E3%83%A0-%E7%86%9F%E8%AA%9E-%E5%8D%98%E8%AA%9E%E5%B8%B3'>イディオム 熟語 単語帳</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%BA%83%E5%B3%B6-%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%AB%E3%83%AB-%E5%85%AC%E6%BC%94'>広島 ミュージカル 公演</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Surface-%E3%83%9A%E3%83%B3-%E5%8F%B3%E3%82%AF%E3%83%AA%E3%83%83%E3%82%AF-%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84'>Surface ペン 右クリック できない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B8%96%E7%95%8C%E5%8F%B2-%E6%95%99%E7%A7%91%E6%9B%B8-%E3%81%A0%E3%81%91'>世界史 教科書 だけ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A4%AA%E5%AD%90%E9%A4%A8-%E5%AF%8C%E5%A3%AB%E5%B1%B1-%E3%83%84%E3%82%A2%E3%83%BC'>太子館 富士山 ツアー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%A3%AF%E7%94%B0%E9%A7%85-%E3%81%8B%E3%82%89-%E8%B1%8A%E6%A9%8B%E9%A7%85-%E6%99%82%E5%88%BB%E8%A1%A8'>飯田駅 から 豊橋駅 時刻表</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%80%8F-%E6%B9%BF%E6%80%A7-%E9%98%B2%E6%B0%B4%E3%82%B7%E3%83%BC%E3%83%88-100-%E5%9D%87'>透 湿性 防水シート 100 均</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%89%8B%E4%BD%9C%E3%82%8A-%E5%91%B3%E5%99%8C-%E3%82%B8%E3%83%83%E3%83%97-%E3%83%AD%E3%83%83%E3%82%AF'>手作り 味噌 ジップ ロック</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Thunderbolt-2-SSD'>Thunderbolt 2 SSD</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%8A%E3%81%8B%E3%82%89%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC-%E3%83%91%E3%82%A6%E3%83%B3%E3%83%89%E3%82%B1%E3%83%BC%E3%82%AD-%E3%82%8A%E3%82%93%E3%81%94'>おからパウダー パウンドケーキ りんご</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%A6%8F%E5%B2%A1-%E9%9D%99%E5%B2%A1-%E9%A3%9B%E8%A1%8C%E6%A9%9F-JAL'>福岡 静岡 飛行機 JAL</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Chrome-extension-iOS-App'>Chrome Extension IOS App</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%8F%E3%83%BC%E3%83%89%E3%82%AA%E3%83%95-%E8%B2%B7%E5%8F%96-%E6%9C%8D'>ハードオフ 買取 服</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%83%BD%E5%9F%8E-%E7%89%9F%E7%94%B0%E7%94%BA-%E7%84%BC%E8%82%89'>都城 牟田町 焼肉</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A8%E3%83%AB%E3%83%99%E3%82%B7%E3%83%A3%E3%83%97%E3%83%AA%E3%82%A8-%E3%83%9D%E3%82%B7%E3%82%A7%E3%83%83%E3%83%88-%E6%97%85%E8%A1%8C'>エルベシャプリエ ポシェット 旅行</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=KPOP-%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB-%E3%82%B9%E3%83%AD%E3%83%BC%E3%82%AC%E3%83%B3'>KPOP アイドル スローガン</a>,
+";s:7:"expired";i:-1;}

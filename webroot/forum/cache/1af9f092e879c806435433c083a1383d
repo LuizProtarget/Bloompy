@@ -1,0 +1,69 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:2512:"<br>湿疹・かぶれの原因が明らかな場合や症状が軽い場合は、市販薬対策が可能です。ステロイドも優れた効果が期待できます。激しいかゆみを伴う場合や症状が長引く場合は専門医で診断してもらいましょう。 かさぶたが収縮し始めたあたりが一番かゆいころだと思います。 参考:傷口をふさぐ「かさぶた」って何でできてるの？どうしてかゆくなるの？ そしてかさぶたの周りもかゆくなりますね。  かゆいどころか 真っ赤で傷だらけ で、赤みの周りは乾燥して皮がはがれて「かさぶた」だらけ・・・・ 自分の頭の中がこんなことになっているなんて思いもしませんでした・・・（TT） 私の頭皮は「脂漏性皮膚炎」になっていた… えーっ！ <br> <br>脂漏性皮膚炎と診断されステロイド外用薬を処方され、塗り続けると湿疹部分がかさぶたになってきます。 ここで油断してはいけません。 かさぶたには出血を押さえてくれたり、傷口を保護し早く治るように手助けしてくれる役割があります。 <br> <br> 耳は直接目で見ることができないので、なかなか変化に気づきにくい場所です。 だからこそ、耳たぶが乾燥してカサカサしていると、かなり気になりますよね・・・。 そこで今回は、耳たぶが乾燥してカサカサする原因4つと対処法3選について解説していきます。 頭皮のかさぶたは、「脂漏性皮膚炎」などによって悪化します。かさぶたを軽く見ていると、やがて薄毛や脱毛につながる可能性もあります。ここでは、頭皮にできるかさぶたの原因と対処法について、ドクター監修のもと解説します。 1番頭皮に優しくて保湿効果があるのは保湿クリームなんです！！ コレ意外と知らない方が多いんで、周りの方にも教えてあげてくださいね笑. 見た目は汚くても、かさぶたが傷を治すのに役立っていることに疑問の余地はないだろう。かさぶたができることで血が止まり、外から雑菌が入ることを防いでくれる。しかし、実はもっと重要な役割があ … それではお待たせしました！ 今回の本題「おすすめの頭皮用保湿クリーム」をご紹介していきましょう！ <br>";s:7:"keyword";s:29:"かさぶた かゆい 保湿";s:5:"links";s:6330:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%90%E3%83%BC%E3%82%B9%E3%83%87%E3%83%BC-%E5%AD%90%E4%BE%9B-%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%AB-%E9%9D%B4'>バースデー 子供 フォーマル 靴</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%AC%E3%83%B3%E3%82%B8%E3%83%BC-%E3%81%AC%E3%81%84%E3%81%90%E3%82%8B%E3%81%BF-%E7%89%B9%E5%A4%A7'>レンジー ぬいぐるみ 特大</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%AD%90%E4%BE%9B-%E5%81%8F%E9%A3%9F-%E7%97%85%E9%99%A2'>子供 偏食 病院</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%AE%B1%E6%A0%B9-%E3%81%8A%E5%9C%9F%E7%94%A3-%E3%82%B3%E3%83%AD%E3%83%8A'>箱根 お土産 コロナ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B8%8D%E6%98%8E-%E8%8B%B1%E8%AA%9E-%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9'>不明 英語 ビジネス</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%89%E3%82%B3%E3%83%A2-au-%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF-%E9%9B%BB%E6%B3%A2-%E6%AF%94%E8%BC%83'>ドコモ Au ソフトバンク 電波 比較</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%BB%8A-%E3%82%A8%E3%82%A2%E3%82%B3%E3%83%B3-%E3%82%B4%E3%83%AD%E3%82%B4%E3%83%AD'>車 エアコン ゴロゴロ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%80%E3%82%A4%E3%82%BD%E3%83%BC-led%E9%9B%BB%E7%90%83-%E3%83%81%E3%82%AB%E3%83%81%E3%82%AB'>ダイソー Led電球 チカチカ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=50%E4%BB%A3%E7%94%B7%E6%80%A7-%E3%83%95%E3%82%A1%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3-%E6%97%A5%E6%9C%AC%E4%BA%BA-%E5%86%AC'>50代男性 ファッション 日本人 冬</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%98%E3%82%93-%E3%81%B1%E3%81%A1-%E3%81%99%E3%81%99%E3%81%8D%E3%81%AE'>じん ぱち すすきの</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%8A%E3%81%8A-%E3%81%AC%E3%81%8D-%E7%9A%AE%E8%86%9A%E7%A7%91-%E5%8F%A3%E3%82%B3%E3%83%9F'>おお ぬき 皮膚科 口コミ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%B1%BA%E5%8B%9D%E3%81%AE-%E6%AD%A3-%E3%81%AE%E5%AD%97%E3%81%AE%E7%94%B1%E6%9D%A5%E3%81%AF%E4%BD%95'>決勝の 正 の字の由来は何</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%AD%86%E7%AE%B1-%E9%BB%92-%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5'>筆箱 黒 メッシュ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B7%E3%82%B0%E3%83%9E-%E3%83%A9%E3%83%A0%E3%83%80-%E3%83%92%E3%83%97%E3%83%9E%E3%82%A4'>シグマ ラムダ ヒプマイ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%AD%A6%E8%94%B5%E9%87%8E%E5%A4%A7%E5%AD%A6-%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%91%E3%82%B9-%E6%84%9F%E6%83%B3'>武蔵野大学 オープンキャンパス 感想</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%BF%83%E7%90%86%E5%AD%A6-%E5%8D%92%E8%AB%96-%E3%83%86%E3%83%BC%E3%83%9E'>心理学 卒論 テーマ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=GoPro-MAX-%E9%98%B2%E6%B0%B4%E3%83%8F%E3%82%A6%E3%82%B8%E3%83%B3%E3%82%B0'>GoPro MAX 防水ハウジング</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%97%A5%E7%94%A3%E3%82%BB%E3%83%AC%E3%83%8A-%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%AD%E3%83%BC-%E7%99%BB%E9%8C%B2'>日産セレナ スマートキー 登録</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9E%E3%83%AB%E3%82%A8%E3%83%84-%E7%84%BC%E3%81%8D%E8%8A%8B-%E3%82%AB%E3%83%AD%E3%83%AA%E3%83%BC'>マルエツ 焼き芋 カロリー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%BF%E3%83%83%E3%83%91%E3%83%BC-%E3%81%8A-%E3%81%AB%E3%81%8E%E3%82%89-%E3%81%9A'>タッパー お にぎら ず</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A8%E3%83%AB%E3%83%99%E3%82%B7%E3%83%A3%E3%83%97%E3%83%AA%E3%82%A8-%E3%83%9D%E3%82%B7%E3%82%A7%E3%83%83%E3%83%88-%E6%97%85%E8%A1%8C'>エルベシャプリエ ポシェット 旅行</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=How-to-pronounce-succeed'>How To Pronounce Succeed</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%9B%9B-%E5%AD%97-%E7%86%9F%E8%AA%9E-%E8%88%AA-%E5%88%B6'>四 字 熟語 航 制</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%A9-%E5%9C%B0%E5%9B%B3-%E3%81%8B%E3%81%B6%E3%82%8B'>マイクラ 地図 かぶる</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B7%E3%83%A7%E3%83%AB%E3%83%80%E3%83%BC%E3%83%90%E3%83%83%E3%82%B0-%E3%83%97%E3%83%81%E3%83%97%E3%83%A9-%E3%82%AB%E3%82%B8%E3%83%A5%E3%82%A2%E3%83%AB'>ショルダーバッグ プチプラ カジュアル</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%90%8D%E4%BF%9D%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3-%E8%87%AA%E5%8B%95%E8%BB%8A%E4%BF%9D%E9%99%BA-%E7%89%B9%E7%B4%84'>損保ジャパン 自動車保険 特約</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=vba-%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0-%E5%91%BC%E3%81%B3%E5%87%BA%E3%81%97-%E5%BC%95%E6%95%B0'>Vba ユーザーフォーム 呼び出し 引数</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AA%E3%83%A9%E3%83%B3%E3%83%80-%E3%83%81%E3%83%BC%E3%82%BA-%E3%81%8A%E5%9C%9F%E7%94%A3-%E9%A3%9F%E3%81%B9%E6%96%B9'>オランダ チーズ お土産 食べ方</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BD%8E%E8%84%82%E8%B3%AA-%E3%82%B3%E3%83%B3%E3%83%93%E3%83%8B-%E3%81%8A%E8%8F%93%E5%AD%90'>低脂質 コンビニ お菓子</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Known-to-%E6%84%8F%E5%91%B3'>Known To 意味</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%9F%93%E5%9B%BD-%E3%81%8A%E5%9C%9F%E7%94%A3-%E3%83%90%E3%83%83%E3%82%AF'>韓国 お土産 バック</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Girls2-%E3%82%AA%E3%83%AA%E3%83%83%E3%82%AF%E3%82%B9-%E5%8A%87%E5%A0%B4-3-%E6%9C%88-7-%E6%97%A5'>Girls2 オリックス 劇場 3 月 7 日</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%8F%E3%83%B3%E3%83%90%E3%83%BC%E3%82%AC%E3%83%BC-%E5%8C%85%E3%81%BF%E6%96%B9-%E3%83%9E%E3%83%83%E3%82%AF'>ハンバーガー 包み方 マック</a>,
+";s:7:"expired";i:-1;}

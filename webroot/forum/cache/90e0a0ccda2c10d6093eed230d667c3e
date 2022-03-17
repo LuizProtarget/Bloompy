@@ -1,0 +1,71 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:3092:"Publishes this computer and resources attached to this computer so they can be discovered over the network. Cannot Map a Network Drive ... - Function Discovery Resource Publication Also attached to the modem router is a WD MyCloudMirror NAS drive. 그래도 큰 문제 없었던 것이.. ... Function Discovery Resource Publication. <br> <br> D_H February 28, 2020, 2:53am #10. I restarted SMB 1, reboted and it came up running manaul. <br> <br>Scroll down & Locate “Function Discovery Resource Publication”. Computers not showing in network ... Function Discovery Resource Publication - Running | Startup is Automatic (Delayed Start) Note: It can take a couple of minutes for the PC's to show up in File Explorer > Network ... MyCloud NAS not showing … 2. NAS_user, IP address is and always has been reserved, for this and some of my other devices. ・Function Discovery Resource Publication ・SSDP Discovery ・UPnP Device Host まず最初に「Function Discovery Resource Publication」のサービスを確認します。 キーボードの「Windows」キーと「R」キーを同時に押して「ファイル名を指定して実行」を起動します。 NAS이름을 내가 설정하고, ip주소도 정확하게 알고 있기.. 개인적으로 Synology NAS를 한 대 가지고 있는데, 처음 설정할 때 부터 윈도우10 탐색기 네트워크 상에서는 보이질 않았다. UPnP Device Host service (Running) ( manual) were running manual. Been there. I can type 192.168.1.170 into my browser and. Step 5: Change the Startup type to “Automatic” & click on “OK”. Start the "Function Discovery Provider Host" and "Function Discovery Resource Publication" services, and then set them toAutomatic (Delayed Start).  <br>Function Discovery Resource Publication - Windows 10 Service. If the Startup type is found to be “Manual”, right click on it & click on “Properties”. 1. Computer Browser (Running) (Manual) was running manual on two computers did not show on one. Publishes your computer and resources attached to your computer so they can be discovered over the network. ほいで、「Function Discovery Provider Host」と「Function Discovery resource Publication」を探してきて、「右クリック」で「停止」とする。 なお、本サービスは設定如何では、最初から「スタートアップ」が「手動」になっていることもある。 Function Discovery Provider Host Function Discovery Resource Publication If these are set to manually start, right-click each, go to Properties and set … Done that. If this service is stopped, network resources will no longer be published and they will not be discovered by other computers on the network. NAS_user February 27, 2020, 3:00am #8. Set the startup type of the Function Discovery Provider Host and the Function Discovery Resource Publication services to Automatic. meh. To recover I need to restart the service "Function discovery resource publication" again even if it is already running. Step 6: Scroll down again and look for “SSDP Discovery”. <br>";s:7:"keyword";s:43:"Function Discovery Resource Publication NAS";s:5:"links";s:6566:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%B5%90%E5%A9%9A%E5%BC%8F-%E4%B8%BB%E8%B3%93-%E3%82%B9%E3%83%94%E3%83%BC%E3%83%81-%E5%8E%9F%E7%A8%BF'>結婚式 主賓 スピーチ 原稿</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=windows10-home-%E6%9A%97%E5%8F%B7%E5%8C%96-%E3%82%BD%E3%83%95%E3%83%88'>Windows10 Home 暗号化 ソフト</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A6%E3%82%A3%E3%83%8B%E3%83%B3%E3%82%B0-%E3%83%9D%E3%82%B9%E3%83%88-9-2020-%E7%9F%A5%E4%BA%BA'>ウィニング ポスト 9 2020 知人</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=iMac-2015-SSD-%E6%8F%9B%E8%A3%85'>IMac 2015 SSD 換装</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%84%A1%E5%A4%89%E6%8F%9B%E3%82%AD%E3%83%BC-%E5%89%B2%E3%82%8A%E5%BD%93%E3%81%A6-windows10'>無変換キー 割り当て Windows10</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%A3%9F-%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88-%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84'>食 イラスト かわいい</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%AF%E3%83%B3%E3%83%94%E3%83%BC%E3%82%B9-40%E4%BB%A3-%E3%82%AB%E3%82%B7%E3%83%A5%E3%82%AF%E3%83%BC%E3%83%AB'>ワンピース 40代 カシュクール</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%B4%E3%82%A7%E3%83%AB%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2-%E7%87%83%E8%B2%BB-%E6%82%AA%E3%81%84'>ヴェルファイア 燃費 悪い</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%96%B0%E7%AF%89%E7%A5%9D%E3%81%84-%E6%8C%A8%E6%8B%B6-%E6%96%87'>新築祝い 挨拶 文</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A2%E3%83%87%E3%82%A3%E3%83%80%E3%82%B9-%E3%82%B5%E3%83%B3%E3%83%80%E3%83%AB-%E5%86%AC'>アディダス サンダル 冬</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%B3%9E%E4%B8%8E-%E9%9B%87%E7%94%A8%E4%BF%9D%E9%99%BA%E6%96%99-%E7%AB%AF%E6%95%B0'>賞与 雇用保険料 端数</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%87%8C%E5%B8%B0%E3%82%8A%E5%87%BA%E7%94%A3-%E3%81%84%E3%81%A4%E3%81%8B%E3%82%89-%E8%BB%A2%E9%99%A2'>里帰り出産 いつから 転院</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AF%E3%83%AA%E3%82%A2-%E3%82%A2%E3%82%B5%E3%83%92-%E3%83%AC%E3%82%B7%E3%83%94-%E6%98%A5-%E9%87%8E%E8%8F%9C'>クリア アサヒ レシピ 春 野菜</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%90%88-%E6%8C%BD%E3%81%8D%E8%82%89-%E5%8E%9A-%E6%8F%9A%E3%81%92'>合 挽き肉 厚 揚げ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%9E%E3%83%BC-%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9-%E8%8B%B1%E8%AA%9E-%E3%83%AC%E3%82%B8%E3%83%A5%E3%83%A1'>カスタマー サービス 英語 レジュメ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%94%E3%83%B3%E3%82%B0%E3%82%AB%E3%83%BC-%E3%83%88%E3%82%A4%E3%83%AC-%E3%83%91%E3%83%83%E3%82%AF'>キャンピングカー トイレ パック</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%92%E3%83%A9%E3%83%9E%E3%82%B5-%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0-%E3%83%AB%E3%82%A2%E3%83%BC'>ヒラマサ キャスティング ルアー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%B9%BC%E7%A8%9A%E5%9C%92-%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88-%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84'>幼稚園 イラスト かわいい</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%A1%E3%81%B5%E3%82%8C-%E3%83%9C%E3%83%A9%E3%83%BC%E3%82%B8%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0-amazon'>ちふれ ボラージクリーム Amazon</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%B0%8F%E5%80%89%E5%8C%97%E5%8C%BA-%E8%B6%B3%E7%AB%8B-%E3%82%AB%E3%83%95%E3%82%A7'>小倉北区 足立 カフェ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%89%80%E5%BE%97%E7%A8%8E-%E6%B3%95-%E6%BA%90%E6%B3%89%E5%BE%B4%E5%8F%8E'>所得税 法 源泉徴収</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=i%27d-like-to'>I'd Like To</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%B2%A9%E7%80%AC-%E7%9A%AE%E8%86%9A%E7%A7%91-%E5%8F%A3%E3%82%B3%E3%83%9F'>岩瀬 皮膚科 口コミ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A2%E3%83%B3%E3%83%87-%E3%83%87%E3%83%8B%E3%83%83%E3%82%B7%E3%83%A5-%E5%8F%A3%E3%82%B3%E3%83%9F'>アンデ デニッシュ 口コミ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%A5%BD%E5%A4%A9-%E3%83%88%E3%83%A9%E3%83%99%E3%83%AB-%E3%82%B0%E3%83%A9%E3%83%B3-%E3%83%97%E3%83%A9%E3%82%B6-%E4%B8%AD%E6%B4%A5'>楽天 トラベル グラン プラザ 中津</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%B3-%E5%AF%B8%E6%B3%95-%E5%9B%B3%E9%9D%A2'>クラウン 寸法 図面</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6%E4%BA%88%E9%98%B2%E6%8E%A5%E7%A8%AE-%E5%A0%BA%E5%B8%82-%E5%AE%89%E3%81%84'>インフルエンザ予防接種 堺市 安い</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=SR400-RH01J-%E3%82%AD%E3%83%A3%E3%83%96'>SR400 RH01J キャブ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%BB%E3%83%AA%E3%82%A2-%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC-%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC'>セリア スマートホルダー シャンプー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%99%8E%E3%81%AE%E9%96%80%E7%97%85%E9%99%A2-%E4%BA%8B%E5%8B%99-%E9%83%A8%E9%95%B7'>虎の門病院 事務 部長</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%89%A6NEXT-%E9%95%B7%E9%96%80-%E8%A3%BD%E4%BD%9C'>艦NEXT 長門 製作</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B9%E3%83%9E%E3%83%9B-%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC-%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3%E3%81%AA%E3%81%97'>スマホ プリンター パソコンなし</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%AE%89%E3%81%84-%E9%9B%86%E9%AD%9A%E5%89%A4-%E3%83%81%E3%83%8C'>安い 集魚剤 チヌ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9D%E3%82%B1%E3%83%A2%E3%83%B3go-%E4%BB%98%E8%BF%91%E3%81%AE%E6%A7%98%E5%AD%90-%E5%BD%B1'>ポケモンgo 付近の様子 影</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B8%8B%E7%94%B0%E5%B8%82-%E6%96%B0%E7%AF%89-%E7%89%A9%E4%BB%B6'>下田市 新築 物件</a>,
+";s:7:"expired";i:-1;}

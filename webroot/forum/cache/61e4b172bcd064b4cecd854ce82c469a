@@ -1,0 +1,68 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:2571:"はじめに この FAQ について この FAQ では、電源が切れている状態の USB 給電を有効にする方法を説明します。 この FAQ は、Windows 10 Pro バージョン 17 Androidではディスプレイ設定からスリープモードへ入るまでの時間調整ができますが、「充電中は常時画面をオンにする」という設定はありません。例えば自宅やカフェでスマートフォンを充電している際、通知やアプリ動作を確認するためにわざわざ画面を こんにちは。かなめです。xperiaを使っていて電源が入らなくなってしまったり、フリーズして再起動できなくなってしまったことありませんか？アプリをインストールしてからxperiaの動きが遅くなったり、フリーズ、再起動を勝手に繰り返してしまう スマホに使われず、うまく使うためにはどうすればいいかを日々考えている28歳。 無いと困るけど、なくてもいい、それがスマホというものです。 私のこと、このサイトのこと、もう少し知りたいよという方はこちらをどうぞ。 Androidではディスプレイ設定からスリープモードへ入るまでの時間調整ができますが、一方で「特定条件下で画面をオンにする」といった設定はありません。例えば次のような条件で自動的に制御できたら便利ですよね。 充電中は画面を常時オンにする スマホで自動電源オンオフができるアプリがあれば教えてください。電源オフ・・・つまりアプリが常駐していてスマホの電源を切る、ということですね。タップして「オフ」とか、トリガーと組み合わせたらできますが、前提としてroot特権を スマホを30分から1時間充電する. 何となく「スマホの電源は、こまめに切った方が良いのだろうな」と思いつつも理由がない限り、電源は入れっぱなしになりがちですよね。そもそも本当にスマホの電源は切った方良いのでしょうか？今回はスマホの電源を切ることのメリットやスマホの充電と長持ち  スマホの電源が入らないときにまず試してほしいのが、「30分～1時間ほど、充電器を繋いだままにする」という対処法です。 電源トラブルの原因が以下のことにある場合は、30分も充電器に繋いでおけば十中八九直るでしょう。 ";s:7:"keyword";s:29:"スマホ 充電 電源オン";s:5:"links";s:6154:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6%E4%BA%88%E9%98%B2%E6%8E%A5%E7%A8%AE-%E8%89%B2%E7%B4%A0-%E6%B2%88%E7%9D%80'>インフルエンザ予防接種 色素 沈着</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B5%E3%83%A9%E3%83%80%E3%83%81%E3%82%AD%E3%83%B3-%E8%BE%9B%E3%81%84-%E3%82%B9%E3%83%BC%E3%83%97'>サラダチキン 辛い スープ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%9B%BD%E6%B0%91%E5%B9%B4%E9%87%91%E5%9F%BA%E9%87%91-%E7%A2%BA%E5%AE%9A%E7%94%B3%E5%91%8A-%E8%A8%BC%E6%98%8E%E6%9B%B8'>国民年金基金 確定申告 証明書</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%95%E3%82%A3%E3%83%AB%E3%83%A0%E3%82%AB%E3%83%A1%E3%83%A9-%E3%83%9F%E3%83%A9%E3%83%BC%E3%82%A2%E3%83%83%E3%83%97-%E4%BF%AE%E7%90%86'>フィルムカメラ ミラーアップ 修理</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%98%8E%E7%9F%B3%E7%84%BC%E3%81%8D-%E9%9B%A3%E6%B3%A2-%E9%A3%9F%E3%81%B9-%E3%83%AD%E3%82%B0'>明石焼き 難波 食べ ログ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%BF%E3%82%AB%E3%83%A9%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%89-%E3%82%AD%E3%83%83%E3%83%81%E3%83%B3-%E6%96%B0-%E5%95%86%E5%93%81'>タカラスタンダード キッチン 新 商品</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BF%A1%E5%B7%9E%E5%A4%A7%E5%AD%A6-%E8%A9%95%E5%88%A4-%E5%B7%A5%E5%AD%A6%E9%83%A8'>信州大学 評判 工学部</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%87%A8%E5%BA%8A%E6%A4%9C%E6%9F%BB%E6%8A%80%E5%B8%AB-%E9%95%B7%E6%89%80-%E7%9F%AD%E6%89%80'>臨床検査技師 長所 短所</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%BF%E3%83%9E%E3%83%9B%E3%83%BC%E3%83%A0-%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88-2020'>タマホーム イベント 2020</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%9F%B3%E5%9E%A3%E5%B3%B6-%E5%B1%85%E9%85%92%E5%B1%8B-%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0-%E3%83%96%E3%83%AD%E3%82%B0'>石垣島 居酒屋 ランキング ブログ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B8%96%E7%95%8C%E4%BB%B0%E5%A4%A9%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9-%E4%BA%8B%E4%BB%B6-%E6%B5%B7%E5%A4%96'>世界仰天ニュース 事件 海外</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%9E%9A-%E5%B2%A1-%E5%85%AC%E5%9C%92-%E9%A7%90-%E8%BB%8A%E5%A0%B4'>枚 岡 公園 駐 車場</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A4%E3%83%B3%E3%83%89-%E3%83%AB%E3%83%94%E3%83%BC-%E7%A8%AE%E9%A1%9E'>インド ルピー 種類</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B0%E3%83%A9%E3%83%B3-%E3%83%94%E3%83%B3%E3%82%B0-%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%BC%E3%82%B8'>グラン ピング ホームページ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%8C%BB%E5%B8%AB%E5%9B%BD%E5%AE%B6%E8%A9%A6%E9%A8%93-%E5%90%88%E6%A0%BC%E7%99%BA%E8%A1%A8-%E5%A0%B4%E6%89%80'>医師国家試験 合格発表 場所</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B7%E3%83%AB%E3%82%A8%E3%83%83%E3%83%88-%E8%8B%B1%E8%AA%9E-%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E8%AA%9E'>シルエット 英語 フランス語</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%94%E9%A3%AF-%E5%86%B7%E5%87%8D-%E5%AE%B9%E5%99%A8-%E3%82%BB%E3%83%AA%E3%82%A2'>ご飯 冷凍 容器 セリア</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Processing-%E6%96%87%E5%AD%97%E3%82%B3%E3%83%BC%E3%83%89-%E5%A4%89%E6%8F%9B'>Processing 文字コード 変換</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%93%E3%83%BC%E3%83%AB%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-%E9%83%A8%E5%93%81-%E5%90%8D%E5%89%8D'>ビールサーバー 部品 名前</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B9%9D%E5%B7%9E-%E8%87%AA%E5%8B%95%E8%BB%8A-%E9%81%93-%E7%81%AB%E7%81%BD'>九州 自動車 道 火災</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%B1%B1%E6%9C%AC%E3%82%86%E3%82%8A-%E3%83%88%E3%83%9E%E3%83%88-%E3%83%91%E3%82%B9%E3%82%BF'>山本ゆり トマト パスタ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B5%E3%83%B3%E3%82%A8%E3%83%BC-%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9-%E6%B1%82%E4%BA%BA'>サンエー メインプレイス 求人</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Twitter-%E9%80%8F%E9%81%8E-%E3%82%AF%E3%83%AA%E3%82%B9%E3%82%BF'>Twitter 透過 クリスタ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%AD%E3%83%BC%E3%82%BD%E3%83%B3-%E4%BD%8E%E7%B3%96%E8%B3%AA-%E3%83%89%E3%83%BC%E3%83%8A%E3%83%84'>ローソン 低糖質 ドーナツ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Amazon-ShipID-%E6%A4%9C%E7%B4%A2'>Amazon ShipID 検索</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%AA%E3%81%99-%E3%82%AD%E3%83%A0%E3%83%81-%E8%B1%9A%E8%82%89-%E3%83%81%E3%83%BC%E3%82%BA'>なす キムチ 豚肉 チーズ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=80D-%E3%83%9D%E3%83%BC%E3%83%88%E3%83%AC%E3%83%BC%E3%83%88-%E8%A8%AD%E5%AE%9A'>80D ポートレート 設定</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=WAKO-CDI-%E9%85%8D%E7%B7%9A%E5%9B%B3'>WAKO CDI 配線図</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%BB%BA%E8%A8%AD%E4%BC%9A%E7%A4%BE-%E5%A3%B2%E4%B8%8A-%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0'>建設会社 売上 ランキング</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%9D%99%E5%B2%A1-%E3%81%8A%E8%8C%B6-%E9%8A%98%E6%9F%84'>静岡 お茶 銘柄</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%9D%A2%E6%8E%A5%E6%97%A5%E7%A8%8B%E7%A2%BA%E5%AE%9A-%E3%83%A1%E3%83%BC%E3%83%AB-%E4%BC%81%E6%A5%AD%E5%81%B4'>面接日程確定 メール 企業側</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B8%E3%83%A7%E3%82%A4%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC-%E7%99%BA%E5%A3%B2-%E6%97%A5'>ジョイクローラー 発売 日</a>,
+";s:7:"expired";i:-1;}

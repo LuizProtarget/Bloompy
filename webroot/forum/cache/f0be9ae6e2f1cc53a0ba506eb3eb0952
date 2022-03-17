@@ -1,0 +1,58 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:6798:"<p>2 ツイートを報告すると相手は凍結されるのか. 今回はツイッターの凍結基準をすべてまとめてみました。 僕のメルマガ読者からのアカウント凍結報告、色んな方のブログ、 自分の経験、外注に頼んだ凍結実験から以下に報告します。 これを参考にして、ツイッターアカウントが凍結されないように気を付けましょう。 2 ツイートを報告すると相手は凍結されるのか. </p> <p>ツイッター。今では多くの方が利用しているSNSです。しかし、このツイッター、ルールを守らずに使っていたり、運営側が嫌うような行為をすれば、凍結されてしまう恐れもあります。今回は、凍結を防ぐために、7つのポイントをご紹介。これを守れば凍結は怖くない… ツイッターでとあるアカウントを通報したらツイッター側から「このアカウントがtw... Twitter。アカウントが凍結するまでってどれくらいの時間がかかるんですか？ Twitterで問題を報告したら された人に通知は行くんですか？ Twitterについて。 </p> <p>ツイッター(Twitter)の凍結基準報告スレ ... 毒舌してたら2度凍結されて自重していたが mastodon始めたから凍結されてもイイやって以前の毒舌に戻った 今んとこ3か月凍結されていない . スパム報告は何人で凍結する？ フォロワー数×1.5スパムされると凍結します。 フォロワー数が少なければ少ないほど、少人数のスパム報告で一時凍結されます。 フォロワー数0なら、1人のスパム報告で一時凍結になります。  ツイッター ”凍結職人” たちの怖すぎる実態とは！ 昨今話題の「Twitterのアカウント凍結」はもう他人事ではありません。 この問題がなぜ起こるのか、エリコちゃんとミカ先輩から学びましょう。 以前に僕の持ってるツイッターアカウントが、5つ全て一気に凍結したことがあります。その頃はグーグルからペナルティを食らったり、本当に踏んだり蹴ったりでした。 今回はツイッターの凍結について、改めて書いていきたいと思います。ツイッターの凍結はどうして起こるのか？ kiwamiです。 今回は「Twitterの通報で実際どうなる？」ということでご紹介します。 Twitterには通報の機能がありますが（実際には「報告」）、これを行う事で相手にはどんな影響があるのでしょうか？中には「嫌がらせの通報」もあるはずですが、Twitterはこれを見抜くことができるのでしょうか？ </p> <p>【凍結解除されました】 都議会議員の塩村あやかです。セクハラやじから1年。直後にツイッターがなぜか凍結されてしまい、本日ようやく解除されました。その節は皆様の応援に励まされました。本当にありがとうございました。 Twitterで相手のアカウントを凍結させる方法 著作権侵害の報告をする. Twitterでアカウントを凍結させる方法を知っていますか？誹謗中傷を書き込まれた時などに使える報告行為です。ですがその行為、注意しないと取り返し付かないことに繋がってしまいます。今回は『Twitterでアカウントを凍結させる方法と注意点』を解説していきます。 「凍結されてからがツイッター本番」 という名言も生まれました。 凍結されてからが本番だよねTwitter — メカ節子(2台目) (@mekasetsuko) 2017年9月20日. Yahooニュースにも紹介されていた『絵師を凍結させる方法』。これは、ツイッターの絵を描かれているアカウントを凍結させ、アカウント停止に追い込む方法です。Twitterの凍結システムの性質を悪用することで、アカウントをTwitter側が凍結するように仕向けます。 </p> <p>2.1 相手が凍結されると自分宛に通知が届く; 2.2 通報したユーザーの数が多いほど効果がある？ 3 まとめ 2.1 相手が凍結されると自分宛に通知が届く; 2.2 通報したユーザーの数が多いほど効果がある？ 3 まとめ その後、「ネット社会」の登場により、様々な手法を使い監視、妨害をするに至っている。 投稿記事にあるように「ツイッター凍結」との報告は加護出来るものではない。 事実関係が詳らかになればなるほど、「社会問題化」していくであろう。 【凍結解除されました】 都議会議員の塩村あやかです。セクハラやじから1年。直後にツイッターがなぜか凍結されてしまい、本日ようやく解除されました。その節は皆様の応援に励まされました。本当にありがとうございました。 </p> <p>1 ：名無しさん＠お腹いっぱい。 ：2018/03/14(水) 13:42:12.43 ID:AJHjYJTw.net Twitter社が自動化していないのに凍結するため、凍結情報の共有スレです。 Twitterを利用していくと、一度や二度はアカウント凍結という事態に陥る事があります。Twitterを利用していく上で、このアカウントの凍結という問題は避けては通れず、しっかりと原因や要因を知っておくべきです。この記事では凍結についてまとめました。 元スレ. togetter.com 現在のTwitterは上記の方法が横行するクソみたいなSNSになっています。 ascii.jp Twitterは5発連続で虚偽だろうが著作権侵害の通報をすると、簡単にそのアカウントを凍結に追い込むことが出来ます。たとえそれが、100万を超えるフォロワーを持っていようと。 Twitterでスパム報告(通報)は相手にバレるのか？ Twitter(ツイッター)でスパム行為を行っている者によって、迷惑を被っているので、スパム報告(通報)してアカウント凍結させたい、スパム行為をやめさせた … まずは凍結させたいアカウントのプロフィールページを開いてメディア欄から過去に投稿された画像や動画をくまなく調査します。 Twitter上で迷惑行為を受けている場合、該当アカウントを凍結させる方法があるのを知っていますか？Twitterを快適に楽しむためにも、Twitterアカウントを凍結させる方法を覚えておくことが非常に重要なので、本記事をよく読んでおきましょう。 スパム報告が完了 . </p>";s:7:"keyword";s:29:"ツイッター 報告 凍結";s:5:"links";s:4074:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%AF%E3%83%B3-%E3%83%95%E3%82%A1%E3%82%A4%E3%83%96-%E3%83%86%E3%83%A9%E3%82%B9-%E7%A6%8F%E5%B2%A1'>ワン ファイブ テラス 福岡</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B8%89%E6%B5%A6%E9%9B%84%E4%B8%80%E9%83%8E-%E7%94%9F%E3%81%8D-%E3%81%A6%E3%82%8B'>三浦雄一郎 生き てる</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%96%A2%E5%AD%A6-%E7%94%9F%E5%8D%94-%E6%98%A5%E4%BC%91%E3%81%BF'>関学 生協 春休み</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%97%A5%E7%AB%8B-%E8%A3%BD%E4%BD%9C%E6%89%80-%E3%83%AA%E3%82%AF-%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC'>日立 製作所 リク ルーター</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%8B%E3%83%83%E3%83%88-%E5%8F%8E%E7%B4%8D-%E5%9C%A7%E7%B8%AE'>ニット 収納 圧縮</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BD%8E-%E8%84%82%E8%B3%AA-%E3%81%8A-%E5%9C%9F%E7%94%A3'>低 脂質 お 土産</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%8D%8B-%E3%81%93%E3%82%93%E3%81%AB%E3%82%83%E3%81%8F-%E5%88%87%E3%82%8A%E6%96%B9'>鍋 こんにゃく 切り方</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%8E%E3%83%BC%E3%82%AB%E3%83%A9%E3%83%BC-%E3%83%9C%E3%82%A2-%E3%83%96%E3%83%AB%E3%82%BE%E3%83%B3-%E3%83%A1%E3%83%B3%E3%82%BA'>ノーカラー ボア ブルゾン メンズ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=System-nullreferenceexception-object-variable-or-With-block-variable-not-set'>System Nullreferenceexception Object Variable Or With Block Variable Not Set</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%B0%8F%E6%9D%BE%E8%8F%9C-%E3%83%9D%E3%82%BF%E3%83%BC%E3%82%B8%E3%83%A5-%E5%92%8C%E9%A2%A8'>小松菜 ポタージュ 和風</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%A6%AA%E7%88%B6%E3%81%AE-%E4%B8%80-%E7%95%AA-%E9%95%B7%E3%81%84%E6%97%A5-%E7%B4%85%E7%99%BD'>親父の 一 番 長い日 紅白</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=wi-fi-analyzer-android'>Wi-fi Analyzer Android</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B4%E3%83%AB%E3%83%95-%E3%83%AC%E3%82%A4%E3%83%B3-%E3%82%A6%E3%82%A7%E3%82%A2-%E8%80%90%E6%B0%B4%E5%9C%A7'>ゴルフ レイン ウェア 耐水圧</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A2%E3%83%93%E3%82%B9%E3%83%AA%E3%82%A6%E3%83%A0-%E9%80%9A%E7%9F%A5%E3%81%93%E3%81%AA%E3%81%84-%E3%82%A2%E3%83%B3%E3%83%89%E3%83%AD%E3%82%A4%E3%83%89'>アビスリウム 通知こない アンドロイド</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B8%8D%E5%8B%95%E7%94%A3%E5%A3%B2%E8%B2%B7-%E5%BF%97%E6%9C%9B%E5%8B%95%E6%A9%9F-%E8%BB%A2%E8%81%B7'>不動産売買 志望動機 転職</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%B0%82%E7%A7%91-%E3%82%AA%E3%82%A4%E3%83%AB%E3%82%AF%E3%83%AC%E3%83%B3%E3%82%B8%E3%83%B3%E3%82%B0-%E5%8F%A3%E3%82%B3%E3%83%9F'>専科 オイルクレンジング 口コミ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%89%B5%E5%91%B3-%E3%82%B7%E3%83%A3%E3%83%B3%E3%82%BF%E3%83%B3-%E7%89%B9%E5%A3%B2'>創味 シャンタン 特売</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%A2%85%E7%94%B0-%E3%83%95%E3%82%A1%E3%83%9F%E3%83%AA%E3%83%BC-%E5%A4%95%E9%A3%9F'>梅田 ファミリー 夕食</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%8B%E3%82%B7%E3%83%B3-%E9%85%A2%E6%BC%AC%E3%81%91-%E5%B0%8F%E9%AA%A8'>ニシン 酢漬け 小骨</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%BF%E3%81%8D-%E3%82%84-%E9%B3%A5%E5%88%BA%E3%81%97'>みき や 鳥刺し</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%A1%E3%83%AB%E3%82%AB%E3%83%AA-%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF-%E3%82%84%E3%82%8A%E6%96%B9'>メルカリ ブロック やり方</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=iPhone-%E9%9B%BB%E8%A9%B1%E7%95%AA%E5%8F%B7-%E5%85%A5%E5%8A%9B'>IPhone 電話番号 入力</a>,
+";s:7:"expired";i:-1;}

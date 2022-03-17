@@ -1,0 +1,83 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:6353:"<br>パソコンでのプリンター設定ができていない。 無線接続のプリンターでルーターを変更した場合. プリンターのWi-Fi設定-端末側（PC、スマホ）のWi-Fiの設定 . <br> <br>ネットワーク設定が済んでいるプリンターへのパソコンの追加も行えます。 パソコンとプリンターのネットワーク設定 本製品付属のソフトウェアEpsonNet Setup（エプソンネットセットアップ）で、パソコンとプリンターのネットワーク設定 をします。 プリンターを無線（WiFi）で接続して、パソコンやスマホからプリントアウトしたいけど、設定方法が分からないという方。又は、設定してみたけど印刷できないという方。こちらのページにて無線プリンターの接続方法や、設定時の注意点についてまとめました エプソンプリンタpx-1700fについて、wifiの設定の方法がわかりません。取説のhpでもかまいませんので、ご存知の方いらっしゃれば教えていただきたいです。 wi-fiによる接続設定は下記のネットワークガイドを参考にしてください。  関連する記事. 元々、デスクトップpcの方は有線でネットやプリンターを繋いでいてノートpcだけ無線lanでネットに繋いで使っていました。先日エプソンのep-774aを買い、この機会にデスクトップ、ノート両方を無線でプリンターに繋ぐ事にしました。それぞ エプソンプリンタpx-1700fについて、wifiの設定の方法がわかりません。取説のhpでもかまいませんので、ご存知の方いらっしゃれば教えていただきたいです。 wi-fiによる接続設定は下記のネットワークガイドを参考にしてください。 エプソン px-049Aプリンターのネットワーク設定でwifiボタンを押してるとランプが点滅するらしいのですが、反応なしです。原因はなんでしょうか？また、解決方法はありますか？「wifiボタンを押してるとランプが点滅するらしいのですが、 無線接続されたプリンターがある環境で無線ルーターを変更した場合、パソコンやスマートフォンと同様に、プリンターも新しいルーターに接続する必要があります。 無線ルーター変更前. EpsonNet Setupでプリンターの無線LAN設定をする際に表示されるエラーを一覧にしています。 ※ ご使用の機種によって、エラーメッセージの文章は多少異なることがありますが、対処方法は同じです。 無線LAN接続時に印刷ができない場 無線lanプリンターは、エプソン、キヤノン、ブラザーなどの多くのメーカーから発売されています。どの機種を購入しても無線で接続できますが、aossなど無線lanの簡単設定機能を使って設定する場合、どの方式に対応しているかを確認してから購入してください。 無線ル ここではEPSONの単機能ビジネスプリンターのPX-105をWi-Fi使ってWindows8.1のパソコンで設定する方法を紹介します。現在ではこのようなスタンダードプリンターもWi-Fi対応となっています。 但し、このプリンター … <br> <br>お届けした際の初期設定では有効になっています。 なので、プライバシーセパレータを「無効」にするだけで、パソコンとプリンターがポケットWiFiを経由して通信が可能になり、印刷できるようになりま … 2019年03月01日 プリンター 共有したい時には; 2019年02月11日 無線 プリンターの設定など; 2019年02月07日 bluetooth プリンターにも ついてます; 2019年01月25日 キャノン プリンター wifi あったら便利？; 2018年10月04日 キャノンプリンター ドライバーの入れ方は？ <br> <br>EPSONのプリンタ－EP-802Aを無線設定する方法を教えてください。NECのWARPSTAR WR6650S を使っています。だいぶ難しい設定になりますか？プリンターの液晶画面では、無線LAN非接続になってい … 【動画FAQ】プリンターをWi-Fiでつなぐ方法を教えてください。（セイコーエプソン製 Colorioシリーズ） 公開日: 2019/05/21 14:25 更新日: 2020/05/21 14:16 ID: 124141423 お届けした際の初期設定では有効になっています。 なので、プライバシーセパレータを「無効」にするだけで、パソコンとプリンターがポケットWiFiを経由して通信が可能になり、印刷できるようになりま …  エプソン px-049Aプリンターのネットワーク設定でwifiボタンを押してるとランプが点滅するらしいのですが、反応なしです。原因はなんでしょうか？また、解決方法はありますか？「wifiボタンを押してるとランプが点滅するらしいのですが、 突然印刷できなくなったり、通信の設定が出来ない場合の対処方法をご案内いたします。 プリンターの接続方法をお選びください。 Wi-Fi接続の場合 USB接続の場合 有線LAN接続の場合 アクセスポイント（Wi-Fiルーター）とプリンターの電 プリンターのWi-Fi設定. エプソン製プリンターを無線接続するための設定。プリンター機種ごとのWi-Fi設定の概要と具体的な設定方法を記述。プリンター以外に原因がある場合の対処方法も説明。 【動画FAQ】プリンターをWi-Fiでつなぐ方法を教えてください。（セイコーエプソン製 Colorioシリーズ）に関するFAQ。バッファローのサポートサイトを紹介。 EpsonNet Setupでプリンターの無線LAN設定をする際に表示されるエラーを一覧にしています。 ※ ご使用の機種によって、エラーメッセージの文章は多少異なることがありますが、対処方法は同じです。 無線LAN接続時に印刷ができない場 EPSONの単機能ビジネスプリンターPX-10をWi-Fi使ってWindows8.1のパソコンで設定する方法を紹介します。 <br>";s:7:"keyword";s:51:"エプソン プリンター ワイファイ 設定";s:5:"links";s:8766:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A4%9C%E8%A1%8C%E3%83%90%E3%82%B9-%E5%A4%A7%E9%98%AA-%E3%83%87%E3%82%A3%E3%82%BA%E3%83%8B%E3%83%BC-%E3%82%86%E3%81%A3%E3%81%9F%E3%82%8A'>夜行バス 大阪 ディズニー ゆったり</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AD%E3%83%A3%E3%83%99%E3%83%84-%E6%B5%85-%E6%BC%AC%E3%81%91-%E7%89%9B%E3%82%BF%E3%83%B3'>キャベツ 浅 漬け 牛タン</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%82%E3%81%95%E3%82%8A-%E6%B0%B4%E7%85%AE-%E5%B9%BC%E5%85%90%E9%A3%9F'>あさり 水煮 幼児食</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%96%E3%83%AC%E3%82%B9%E3%83%AC%E3%83%83%E3%83%88-%E3%83%9E%E3%82%B0%E3%83%8D%E3%83%83%E3%83%88-%E4%BD%9C%E3%82%8A%E6%96%B9'>ブレスレット マグネット 作り方</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BA%AC%E9%83%BD-%E7%B5%90%E5%A9%9A-%E5%BC%8F-%E8%8A%B1'>京都 結婚 式 花</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%8F%E3%82%A4%E3%82%BC%E3%83%83%E3%83%88-%E3%83%A8%E3%82%B7%E3%83%A0%E3%83%A9-%E3%83%9E%E3%83%95%E3%83%A9%E3%83%BC'>ハイゼット ヨシムラ マフラー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%88%A5%E5%BA%9C-%E6%97%85%E9%A4%A8-%E3%83%9B%E3%83%86%E3%83%AB'>別府 旅館 ホテル</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%A9%E3%83%95-%E3%81%8B%E3%82%89-%E5%8E%9A%E5%A1%97%E3%82%8A'>ラフ から 厚塗り</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B8%E3%83%A0%E3%83%8B%E3%83%BC-%E3%82%BB%E3%83%AB%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC-%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%E3%83%9B%E3%83%BC%E3%83%AB'>ジムニー セルモーター オーバーホール</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AB%E3%83%AA%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC-%E3%83%81%E3%83%BC%E3%82%BA-%E3%83%99%E3%83%BC%E3%82%B3%E3%83%B3'>カリフラワー チーズ ベーコン</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%B0%B4%E5%AD%90%E4%BE%9B%E9%A4%8A-%E3%81%8A%E5%8F%82%E3%82%8A%E3%81%A0%E3%81%91-%E6%9C%AD%E5%B9%8C'>水子供養 お参りだけ 札幌</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%AA%E3%83%BC%E3%83%AB-%E4%BF%9D%E7%AE%A1-%E6%A3%9A'>リール 保管 棚</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BC%91%E6%97%A5-%E5%8A%B4%E5%83%8D-%E6%97%A5%E6%95%B0-36-%E5%8D%94%E5%AE%9A'>休日 労働 日数 36 協定</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%B6%B3-%E6%BC%A2%E5%AD%97-%E6%88%90%E3%82%8A%E7%AB%8B%E3%81%A1'>足 漢字 成り立ち</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Word-%E8%A6%8B%E5%87%BA%E3%81%97%E3%83%AC%E3%83%99%E3%83%AB-%E4%B8%80%E6%8B%AC%E5%A4%89%E6%9B%B4'>Word 見出しレベル 一括変更</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BD%90%E6%B8%A1%E3%81%AE-%E5%A4%95-%E7%AC%9B'>佐渡の 夕 笛</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%94%BE%E5%B0%84%E7%B7%9A-%E6%8A%80%E5%B8%AB%E5%9B%BD%E5%AE%B6%E8%A9%A6%E9%A8%93-%E5%AF%BE%E7%AD%96%E3%83%8E%E3%83%BC%E3%83%88'>放射線 技師国家試験 対策ノート</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Java-encoding-%E3%82%AA%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3'>Java Encoding オプション</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%86%B7%E8%94%B5%E5%BA%AB-%E5%8F%8E%E7%B4%8D-%E8%AA%BF%E5%91%B3%E6%96%99'>冷蔵庫 収納 調味料</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AD%E3%83%A3%E3%83%AD%E3%82%A6%E3%82%A7%E3%82%A4-%E3%83%8D%E3%83%BC%E3%83%A0%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88-%E3%81%8F%E3%81%BE'>キャロウェイ ネームプレート くま</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%A5%AD%E5%8B%99%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC-%E7%B1%B3%E7%B2%89-%E3%83%91%E3%83%B3%E3%82%B1%E3%83%BC%E3%82%AD'>業務スーパー 米粉 パンケーキ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%A9%E3%82%B0%E3%83%93%E3%83%BC%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%82%AB%E3%83%83%E3%83%97-%E7%B5%90%E6%9E%9C-%E6%97%A5%E6%9C%AC'>ラグビーワールドカップ 結果 日本</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B3%E3%83%B3%E3%83%91%E3%82%B9-%E4%BD%BF%E3%81%84%E6%96%B9-%E7%AE%97%E6%95%B0'>コンパス 使い方 算数</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9B%E3%83%83%E3%83%88%E3%82%B1%E3%83%BC%E3%82%AD%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-%E3%83%89%E3%83%BC%E3%83%8A%E3%83%84-%E3%82%AA%E3%83%BC%E3%83%96%E3%83%B3-%E3%81%AA%E3%81%97'>ホットケーキミックス ドーナツ オーブン なし</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=1%E6%AD%B3-%E3%82%AB%E3%83%AC%E3%83%BC-%E5%A4%A7%E4%BA%BA%E3%81%A8%E5%90%8C%E3%81%98'>1歳 カレー 大人と同じ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%AD%8B%E3%83%88%E3%83%AC-%E3%83%8A%E3%83%83%E3%83%84-%E3%81%8A%E3%81%99%E3%81%99%E3%82%81'>筋トレ ナッツ おすすめ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%87%AA%E5%8A%9B-%E7%94%9F-%E5%9B%9B%E5%AD%97%E7%86%9F%E8%AA%9E'>自力 生 四字熟語</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=visual-studio-code-%E3%83%96%E3%83%AC%E3%83%BC%E3%82%AF%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88-%E7%BD%AE%E3%81%91%E3%81%AA%E3%81%84'>Visual Studio Code ブレークポイント 置けない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%8B%E3%83%99%E3%82%A2-Q10-%E3%83%A1%E3%83%B3%E3%82%BA'>ニベア Q10 メンズ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%BB%8A-%E4%B8%AD%E6%B3%8A-%E6%B6%BC%E3%81%97%E3%81%84'>車 中泊 涼しい</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%8F%A1%E9%96%8B%E3%81%8D-%E7%B5%90%E5%A9%9A%E5%BC%8F-%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%88'>鏡開き 結婚式 コメント</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%88%92-%E8%AA%AD%E3%81%BF%E6%96%B9-%E8%8B%97%E5%AD%97'>戒 読み方 苗字</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A4%E3%83%8E%E3%83%80%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC-%E3%83%93%E3%83%BC%E3%83%95-%E3%82%AB%E3%83%84%E3%82%B5%E3%83%B3%E3%83%89'>イノダコーヒー ビーフ カツサンド</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%B5%B7%E5%A4%96-%E6%95%99%E8%82%B2-%E4%BB%95%E4%BA%8B'>海外 教育 仕事</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AD%E3%83%AA%E3%83%B3-%E3%83%93%E3%82%BF%E3%83%BC%E3%82%BA-%E5%A3%B2%E3%81%A3%E3%81%A6%E3%81%AA%E3%81%84'>キリン ビターズ 売ってない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%AD%E3%83%BC%E3%82%B9%E3%83%88%E3%83%9D%E3%83%BC%E3%82%AF-%E7%B0%A1%E5%8D%98-%E3%83%95%E3%83%A9%E3%82%A4%E3%83%91%E3%83%B3'>ローストポーク 簡単 フライパン</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Mac-%E3%82%B9%E3%82%AF%E3%82%B7%E3%83%A7-%E3%81%AE%E4%BF%9D%E5%AD%98-%E5%85%88-%E3%82%92-%E5%A4%89%E3%81%88%E3%82%8B'>Mac スクショ の保存 先 を 変える</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%B5%E3%81%99%E3%81%BE-%E7%B4%99-%E6%A1%9C%E8%8A%B1'>ふすま 紙 桜花</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B8%96%E5%B8%AF%E5%88%86%E9%9B%A2-%E5%AD%90%E4%BE%9B-%E7%A4%BE%E4%BC%9A%E4%BA%BA'>世帯分離 子供 社会人</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=2020-%E7%A6%8F%E8%A2%8B-%E7%99%BE%E8%B2%A8%E5%BA%97'>2020 福袋 百貨店</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%A6%81%E7%85%99-%E5%A4%96%E6%9D%A5-%E8%9F%B9%E6%B1%9F%E7%94%BA'>禁煙 外来 蟹江町</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%93%BA%E4%B9%B3%E7%93%B6-%E3%83%96%E3%83%A9%E3%82%B7-%E8%A5%BF%E6%9D%BE%E5%B1%8B'>哺乳瓶 ブラシ 西松屋</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%B6%8F%E8%82%89-%E8%B1%86%E8%85%90-%E5%A4%A7%E6%A0%B9'>鶏肉 豆腐 大根</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%B8%82%E5%BD%B9%E6%89%80-%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%E3%83%97%E3%83%A9%E3%83%B3-%E9%9D%A2%E6%8E%A5'>市役所 キャリアプラン 面接</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%96%87%E4%BA%AC%E5%8C%BA-%E4%B8%AD%E5%AD%A6-%E3%83%90%E3%82%B9%E3%82%B1'>文京区 中学 バスケ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%EA%B7%80%EC%97%BD-%EB%8B%88-%E6%84%8F%E5%91%B3'>귀엽 니 意味</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=NET-err_cert_authority_invalid-%E8%A7%A3%E6%B1%BA'>NET Err_cert_authority_invalid 解決</a>,
+";s:7:"expired";i:-1;}

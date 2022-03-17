@@ -1,0 +1,87 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:4357:"<br>（2）社会保険の資格喪失日はいつか. 月末に辞めると資格喪失日が翌月になり、退職した月まで社会保険料が発生するからです（損していると感じる方もいるかもしれません）。 一方、給与計算が末締めの場合は、半端なタイミングでの退職だと日割り計算などの手間がかかる場合も。 退職日を3月31日ではなく、3月30日にしたらどうなるでしょうか？この場合、資格喪失日は3月31日となり、3月分の社会保険料は徴収されないという事になります。 社会保険料は給料から天引きされますが、この天引きされているのは前月分となっています。  自分ひとりで社会保険料を支払わなければなりません。 逆に月末の31日退職だと4月1日が喪失日なので、3月は在籍したことになり、 3月分は会社も半分負担することになります。 まれに、会社がその負担をしたくないために30日退職を迫ってきたりします。 とかく退職日で判断しがちですが、社会保険では「資格を喪失した日」は退職日の翌日になります。 つまり、8月30日の退職であれば翌日の8月31日が資格喪失日となり、資格喪失日が属する8月の前月の7月分まで保険料がかかります。 今日は前回に引き続き、社会保険料の徴収の話です。 月末に退職した者の社会保険料の控除についてどうしたらいいのか、という話です。 まず、社会保険の基本的な日付のルールについてです。 社会保険の「資格喪失日」と「退職日」はイコールではありません。 たとえば月末一日前の6月29日に退職したとすると、その翌日の6月30日に資格を喪失します。 この場合、資格喪失日を含む月の前月5月まで、4月、5月の2か月分しか社会保険料は会社と折半されません。 年金や社会保険の資格喪失日は、原則で退職日の事実があった日の翌日になります。常勤の正社員から時間の短いアルバイトになった場合は、アルバイトに転換した日 … 被保険者の資格を取得した日の属する月からその資格を喪失した日の属する月の前月までをこれに算入する。」 これを具体的に当てはめてみますと、 3月31日退社なら、被保険者資格喪失日が4月1日。 3月31日は、まだ会社に在籍していますので。  実は、退職日を「月末」か、月末の「1日前」にするかで、社会保険料の負担が変わってきます。 手取りは月末1日前が増える？ 退職した場合、健康保険や厚生年金保険などの社会保険の資格喪失日は、退職日の翌日となります。 その結果、雇用保険（週20時間以上）も社会保険（日数・時間が正社員の4分の3以上）を満たさなくなり、資格を喪失することになった。ならば、資格喪失手続きをしなければなりません。 喪失日 は いつ  … 社会保険の資格を喪失する日は、退職の翌日でしたね。 したがって、月末1日前が退職日の場合の社会保険の資格喪失日は、その翌日の月末となります。 例えば、3月30日が退職日の場合の社会保険の資格喪失日は、その翌日の3月31日になります。 社会保険料の徴収対象となるのは社会保険の「資格喪失月の前月」までに支払われた賞与。 退職日が月末か月中によって控除の有無が変わってきますので以下の2パターンを押さえておきましょう。 資格喪失が翌日31日となるため、月末まで資格を有していないので退職月の10月分社会保険料は発生せず、9月分までの社会保険料が発生する。 ・退職月の日数が31日ない場合（30日以下。 社会保険（健康保険、厚生年金保険など）の世界には、一般の常識と少しかけ離れたことがあり、この手続きの仕事を始めた当時は、少し戸惑いを覚えました。 そのひとつが社会保険の資格喪失日であり、普通に考えれば「社会保険の資格喪失 … <br>";s:7:"keyword";s:35:"社会保険 資格喪失日 月末";s:5:"links";s:9798:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%87%91%E7%94%BA-%E6%95%B4%E5%BD%A2%E5%A4%96%E7%A7%91-%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6'>金町 整形外科 インフルエンザ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%B6%8F%E8%82%89-%E5%91%B3%E5%99%8C-%E7%82%92%E3%82%81-%E3%82%AB%E3%83%AD%E3%83%AA%E3%83%BC'>鶏肉 味噌 炒め カロリー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BF%9D%E8%82%B2-%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88-%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC'>保育 イラスト キャラクター</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AB%E3%83%95%E3%82%B9%E3%83%9C%E3%82%BF%E3%83%B3-%E4%BB%98%E3%81%91%E6%96%B9-%E6%99%AE%E9%80%9A%E3%81%AE%E3%82%B7%E3%83%A3%E3%83%84'>カフスボタン 付け方 普通のシャツ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%AC%BC-%E6%BB%85-%E3%81%AE%E5%88%83-%E5%9C%B0%E5%9B%B3'>鬼 滅 の刃 地図</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%8D%98%E7%AE%A1-%E3%82%A2%E3%83%BC%E3%83%81-%E6%9B%B2%E3%81%92'>単管 アーチ 曲げ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%80%8B%E4%BA%BA%E7%97%85%E9%99%A2-%E5%87%BA%E7%94%A3-%E5%BE%8C%E6%82%94'>個人病院 出産 後悔</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%82%E3%82%93%E3%82%B9%E3%82%BF-%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88-2019'>あんスタ イベント 2019</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%9D%99%E5%B2%A1%E6%B8%88%E7%94%9F%E4%BC%9A-%E7%99%82%E8%82%B2-%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC'>静岡済生会 療育 センター</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%9B%A2%E4%B9%B3%E9%A3%9F-%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0%E3%83%81%E3%83%BC%E3%82%BA-%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%E8%92%B8%E3%81%97%E5%8D%B5-%E3%82%B7%E3%83%AA%E3%82%B3%E3%83%B3-%E3%83%AC%E3%83%B3%E3%82%B8'>離乳食 クリームチーズ おすすめ蒸し卵 シリコン レンジ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%B1%86%E4%B9%B3-%E3%83%81%E3%83%A3%E3%82%A4-%E3%83%AC%E3%83%B3%E3%82%B8'>豆乳 チャイ レンジ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%9F%B3%E5%9E%A3%E5%B3%B6-%E5%B1%85%E9%85%92%E5%B1%8B-%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0-%E3%83%96%E3%83%AD%E3%82%B0'>石垣島 居酒屋 ランキング ブログ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%87%AA%E5%8A%9B-%E7%94%9F-%E5%9B%9B%E5%AD%97%E7%86%9F%E8%AA%9E'>自力 生 四字熟語</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9E%E3%82%A4%E3%83%8A%E3%83%B3%E3%83%90%E3%83%BC-%E9%9B%87%E7%94%A8-%E7%BE%A9%E5%8B%99'>マイナンバー 雇用 義務</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A5%B3%E5%AD%90-%E5%8C%BB%E5%A4%A7-%E5%85%AB%E5%8D%83%E4%BB%A3-%E7%B2%BE%E7%A5%9E%E7%A7%91'>女子 医大 八千代 精神科</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%99%E3%83%A9-%E3%81%B0%E3%81%8B%E3%82%8A-%E9%87%A3%E3%82%8C%E3%82%8B'>ベラ ばかり 釣れる</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%95%E3%83%A9%E3%82%A4%E3%83%91%E3%83%B3-%E3%83%91%E3%82%B9%E3%82%BF-2%E4%BA%BA%E5%89%8D'>フライパン パスタ 2人前</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=100%E5%9D%87-%E5%8A%A0%E6%B9%BF%E5%99%A8-%E7%89%9B%E4%B9%B3%E3%83%91%E3%83%83%E3%82%AF'>100均 加湿器 牛乳パック</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%B8%B8%E9%99%B8%E5%A4%AA%E7%94%B0%E5%B8%82-%E6%B1%82%E4%BA%BA-%E4%BA%8B%E5%8B%99'>常陸太田市 求人 事務</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=De-novo-%E6%84%8F%E5%91%B3'>De Novo 意味</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%80%8B%E4%BA%BA%E4%BA%8B%E6%A5%AD%E4%B8%BB-%E5%B9%B4%E5%95%861000%E4%B8%87-%E6%89%8B%E5%8F%96%E3%82%8A'>個人事業主 年商1000万 手取り</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%87%E3%82%A3%E3%83%BC%E3%83%97-%E3%82%A4%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88-%E7%94%A3%E9%A7%92-%E5%8F%A4-%E9%A6%AC'>ディープ インパクト 産駒 古 馬</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%9D%92%E6%A3%AE%E5%B8%82-61-%E6%AD%B3-%E3%83%95%E3%83%AB-%E3%82%BF%E3%82%A4%E3%83%A0-%E6%B1%82%E4%BA%BA'>青森市 61 歳 フル タイム 求人</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%A1%E3%83%AB%E3%82%AB%E3%83%AA-%E3%83%8D%E3%82%B3%E3%83%9D%E3%82%B9-%E7%AE%B1-%E9%80%81%E6%96%99'>メルカリ ネコポス 箱 送料</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9B%E3%83%86%E3%83%AB-%E3%82%AD%E3%83%A3%E3%83%B3%E3%82%BB%E3%83%AB-%E8%BF%94%E9%87%91'>ホテル キャンセル 返金</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%95%E3%82%AB%E3%82%BB%E9%87%A3%E3%82%8A-%E7%9C%9F%E9%AF%9B-%E4%BB%95%E6%8E%9B%E3%81%91'>フカセ釣り 真鯛 仕掛け</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%91%E3%83%AF%E3%83%BC%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88-DVD-%E7%84%BC%E3%81%8F'>パワーポイント DVD 焼く</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%A2%E3%82%A2%E3%83%8A-%E5%90%B9%E3%81%8D%E6%9B%BF%E3%81%88-%E3%81%B2%E3%81%A9%E3%81%84'>モアナ 吹き替え ひどい</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Ie-passview-v1-42'>Ie Passview V1 42</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%95%E3%83%AB%E3%83%8F%E3%83%BC%E3%83%8D%E3%82%B9-%E8%AC%9B%E7%BF%92-%E6%A0%83%E6%9C%A8'>フルハーネス 講習 栃木</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%A7%80-%E3%81%AB-%E9%A0%81'>秀 に 頁</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%8D%B5-%E3%81%8C%E9%A3%9F%E3%81%B9%E3%81%9F%E3%81%84%E6%99%82-%E4%B8%8D%E8%B6%B3'>卵 が食べたい時 不足</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=PowerShell-%E3%83%AD%E3%82%B0%E3%82%AA%E3%83%B3-%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%97%E3%83%88-%E5%AE%9F%E8%A1%8C%E3%83%9D%E3%83%AA%E3%82%B7%E3%83%BC'>PowerShell ログオン スクリプト 実行ポリシー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%89%E3%82%A5-%E3%83%AC%E3%82%B8%E3%83%B3-LED'>キャンドゥ レジン LED</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%BE%8E%E9%A3%9F-%E5%B8%82%E5%A0%B4-%E6%97%A5%E6%9C%AC%E3%83%8F%E3%83%A0'>美食 市場 日本ハム</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%B1%8A%E5%B7%9D-%E3%83%97%E3%83%AA%E3%82%AA-%E3%82%AB%E3%83%95%E3%82%A7'>豊川 プリオ カフェ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%AD%E3%82%A4%E3%82%BA-%E3%83%9D%E3%83%86%E3%83%88%E3%83%81%E3%83%83%E3%83%97%E3%83%81%E3%83%A7%E3%82%B3%E3%83%AC%E3%83%BC%E3%83%88-%E3%82%AB%E3%83%AD%E3%83%AA%E3%83%BC'>ロイズ ポテトチップチョコレート カロリー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B3%E3%82%A6%E3%83%A2%E3%83%AA-%E3%83%A9%E3%83%B3-%E8%91%89%E3%81%8C-%E6%8A%98%E3%82%8C%E3%82%8B'>コウモリ ラン 葉が 折れる</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%80%B3%E3%81%9F%E3%81%B6-%E5%8E%9A%E3%81%84-%E3%82%A4%E3%83%A4%E3%83%AA%E3%83%B3%E3%82%B0'>耳たぶ 厚い イヤリング</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%BD%E3%83%8B%E3%83%BC-%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC-3400'>ソニー モバイルバッテリー 3400</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AF%E3%83%AB%E3%83%88%E3%82%AC-%E4%B8%89%E3%83%84%E5%89%B2-%E3%83%81%E3%83%A3%E3%83%83%E3%82%AF-%E5%87%BA%E3%81%A6-%E3%81%93%E3%81%AA%E3%81%84'>クルトガ 三ツ割 チャック 出て こない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%B1%B3%E7%B2%89-%E3%82%AB%E3%83%83%E3%83%97%E3%82%B1%E3%83%BC%E3%82%AD-%E3%83%AC%E3%82%B7%E3%83%94-%E4%BA%BA%E6%B0%97'>米粉 カップケーキ レシピ 人気</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A2%E3%83%87%E3%82%A3%E3%83%80%E3%82%B9-%E3%82%B5%E3%83%B3%E3%83%80%E3%83%AB-%E5%86%AC'>アディダス サンダル 冬</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=azure-paas-web%E3%82%B5%E3%83%BC%E3%83%90'>Azure Paas Webサーバ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%B5%90%E5%A9%9A%E5%BC%8F-%E4%B8%BB%E8%B3%93-%E3%82%B9%E3%83%94%E3%83%BC%E3%83%81-%E5%8E%9F%E7%A8%BF'>結婚式 主賓 スピーチ 原稿</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%B5%A4%E3%81%A1%E3%82%83%E3%82%93-%E9%BA%A6%E8%8C%B6-%E3%82%A2%E3%83%AC%E3%83%AB%E3%82%AE%E3%83%BC%E5%8F%8D%E5%BF%9C'>赤ちゃん 麦茶 アレルギー反応</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%9C%9D%E9%9C%9E-%E5%8F%B0-%E5%88%BA%E8%BA%AB'>朝霞 台 刺身</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%B1%9F%E6%88%B8%E5%B7%9D-%E6%94%BE-%E6%B0%B4%E8%B7%AF-%E6%9C%80%E5%AF%84%E3%82%8A-%E9%A7%85'>江戸川 放 水路 最寄り 駅</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8B%E3%83%A7%E3%83%BC%E3%83%AD-%E3%83%87%E3%82%A3%E3%83%BC%E3%83%97-%E3%83%AA%E3%83%A0'>カンパニョーロ ディープ リム</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%8A%E5%BC%81%E5%BD%93-%E8%A9%B0%E3%82%81%E6%96%B9-%E3%81%8A%E3%81%AB%E3%81%8E%E3%82%8A'>お弁当 詰め方 おにぎり</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%91%E3%83%97%E3%83%AA%E3%82%AB-%E3%83%AC%E3%82%B7%E3%83%94-%E3%83%AC%E3%83%B3%E3%82%B8'>パプリカ レシピ レンジ</a>,
+";s:7:"expired";i:-1;}

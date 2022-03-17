@@ -1,0 +1,57 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:6328:"<br>診療時間 午前 8:45～12:15 午後 15:45～19:15 ※土曜日午後は15:45～17:45 ※日曜日は午前のみ webの受付時間 午前 9:15～11:30 京王産婦人科クリニックは東京都八王子市めじろ台2丁目19-4にある病院です。（休診日：水・日・祝）口コミ3件あり。 京王高尾線めじろ台駅南側から徒歩3分。婦人科を標榜しています。 eparkクリニック・病院では当日・明日受付予約可能な病院を探したいというニーズもサポートします。 全国の産婦人科の口コミ・ランキング！【国内最大級】の店舗情報検索サイト エキテンなら、全国の産婦人科のお店5,400件の口コミ、クーポン、地図情報が充実！今なら口コミ投稿で現金ゲットも！ 東京の婦人科キシクリニカフェミナは婦人科全般を対象とし内視鏡手術相談からアフターピル処方まで患者様に寄り添いカスタマイズした心地よい医療を提供致します。検診・相談は個室でのプライバシー診療も実施。御予約:03-5537-7171(昼・夜間)。新橋3分、銀座5分。 仙台市青葉区で婦人科を標榜する病院とクリニックの口コミ・評判がご覧いただけます。病院名、疾病名、治療方法などでキーワード検索も可能です。お医者さんガイドでは全国の病院情報がいろいろな方法で検索できます。 回答者：40代 女性 勤務先：訪問看護 . 名古屋市天白区で産婦人科を標榜する病院とクリニックの口コミ・評判がご覧いただけます。病院名、疾病名、治療方法などでキーワード検索も可能です。お医者さんガイドでは全国の病院情報がいろいろな方法で検索できます。 駅から近く予約診療も行っています。 絶えず混んでいて特に子供が多いですが、子供に対してもわかりやすく説明して処置されています。 日本一の大繁華街として栄える東京都新宿区。30万人を超える区民が住んでいるこの街にはたくさんの産婦人科があります。出産の際には納得のいく産婦人科を選んで通いたいものですよね。大学病院や大きい総合病院も多いので、自分に合った病院を選べますよ。 地域社会に良質な精神科医療を提供し、社会復帰へのサポートに貢献しています. 岸病院・内科 精神科（川越市）の口コミ・評価・評判なら『病院の通信簿』 のページです。 36万人の患者が作る通信簿。診てもらいたい病院がきっと見つかる！ポイント制やクチコミで、あなたの近くの病院のことがわかります。 耳鼻咽喉科気管食道科に関する口コミ. 古橋産婦人科は神奈川県小田原市南町2丁目1-43にある病院です。（休診日：水・日・祝）口コミ1件あり。 東海道本線小田原駅から車5分。産婦人科を標榜しています。 eparkクリニック・病院では当日・明日受付予約可能な病院を探したいというニーズもサポートします。  <br> <br>月1000万人が使うお医者さん探しサイト ... もっと見る 胃腸科, 腎臓内科, 循環器科, 心臓血管外科, 小児科, 小児外科, 整形外科, 形成外科, 皮膚科, 泌尿器科, ... 福岡県北九州市八幡西区岸の浦1丁目8-1 医療法人三信会 岸病院 〒350－0816 埼玉県川越市上戸101 竹山産婦人科の病棟の看護婦さんたちは本当によかったですし、赤井マタニティの主任助産婦さんや先生も良い人でしたよ！ 入院施設が1番使いやすかったのは『老木レディス』でした。すこしお高めですけ … 2014年04月01日投稿. 岸皮膚科 最高！！！ piyotyannさん 30～40代女性(2009年09月08日投稿) 岸先生には、他の病院に先生がいらっしゃる頃から本当にお世話になっていました。 とても「シャイ」な対応をされる先生ですが、もの凄い腕の持ち主です！ 竹山産婦人科の病棟の看護婦さんたちは本当によかったですし、赤井マタニティの主任助産婦さんや先生も良い人でしたよ！ 入院施設が1番使いやすかったのは『老木レディス』でした。すこしお高めです … 【先生やスタッフの方の対応】 2人の子供をコチラで出産しました。 1人目の際は2-3年前でしたが、検診担当の方がお年を召されたおじさまで、検診の際の内容がそんなに良い印象が無かったのですが、今回女性の先生でとても良かったです。 田畑産婦人科の基本情報、口コミ10件はCalooでチェック！産婦人科、予防接種があります。産婦人科専門医が在籍しています。更年期障害（女性）専門外来があります。土曜日診察・日曜日診察・祝日診察・クレジットカード利用可。 <br> 東京で評判の良い不妊治療クリニック 「杉山産婦人科」をご紹介しています。クリニックの特徴や強み、どのような方におすすめなのか、主な治療内容と処方される薬、治療費などについてまとめています。 岸病院 – 埼玉県川越市の精神科病院. のせ産婦人科の基本情報、口コミ4件はCalooでチェック！産婦人科、予防接種があります。産婦人科専門医が在籍しています。土曜日診察・駐車場あり。 国内最大級の店舗・施設の情報サイト「エキテン」では、札幌市の産婦人科を件掲載中。店舗・施設の口コミやランキングなどから、あなたの目的に合った産婦人科を探せます。札幌市でも特に中央区や北区は産婦人科が多いエリアです。 <br> <br>婦人科以外にも、岸和田市の歯科、内科、小児歯科、小児科などのクリニックも充実。 また、役立つ医療コラムなども掲載していますので、是非ご覧になってください。 関連キーワード: / 歯科口腔外科 / 内科 / 市立病院 / 市民病院 / 大学病院 / かかりつけ ";s:7:"keyword";s:28:"岸 産婦 人 科 口コミ";s:5:"links";s:4088:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%96%A2%E8%A5%BF%E5%A4%A7%E5%AD%A6-%E7%B7%8F%E5%90%88%E6%83%85%E5%A0%B1%E5%AD%A6%E9%83%A8-%E3%82%B5%E3%83%BC%E3%82%AF%E3%83%AB'>関西大学 総合情報学部 サークル</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B3%E3%83%A1%E3%83%AA-%E5%9D%82%E5%87%BA-%E3%83%AC%E3%83%B3%E3%82%BF%E3%83%AB'>コメリ 坂出 レンタル</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A6%8A%E5%A8%A0%E6%A4%9C%E6%9F%BB%E8%96%AC-%E9%99%B0%E6%80%A7-%E7%97%85%E9%99%A2%E3%81%A7%E5%A6%8A%E5%A8%A0%E7%99%BA%E8%A6%9A'>妊娠検査薬 陰性 病院で妊娠発覚</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%AD%90%E4%BE%9B-%E7%9C%BC%E9%8F%A1-%E3%81%8A%E3%81%97%E3%82%83%E3%82%8C-%E7%94%BB%E5%83%8F'>子供 眼鏡 おしゃれ 画像</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%AD%A6%E8%94%B5%E9%87%8E%E5%A4%A7%E5%AD%A6-%E7%95%99%E5%B9%B4-%E5%AD%A6%E8%B2%BB'>武蔵野大学 留年 学費</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AF%E3%83%AA%E3%82%B9%E3%82%BF-%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89-%E3%83%96%E3%83%A9%E3%82%B7-%E4%BD%BF%E3%81%84%E6%96%B9-iPad'>クリスタ ダウンロード ブラシ 使い方 IPad</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%9B%A2%E4%B9%B3%E9%A3%9F%E4%B8%AD%E6%9C%9F-%E3%81%8A%E3%81%8B%E3%82%86-%E9%87%8F'>離乳食中期 おかゆ 量</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B8%8A%E6%B5%B7-%E3%82%AB%E3%83%AB%E3%83%95%E3%83%BC%E3%83%AB-%E3%81%8A%E5%9C%9F%E7%94%A3'>上海 カルフール お土産</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=iTunes-%E4%BF%9D%E5%AD%98%E5%85%88-%E5%A4%96%E4%BB%98%E3%81%91'>ITunes 保存先 外付け</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=ipad-wifi-%E7%B9%8B%E3%81%8C%E3%82%89%E3%81%AA%E3%81%84-%E3%81%90%E3%82%8B%E3%81%90%E3%82%8B'>Ipad Wifi 繋がらない ぐるぐる</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=T%E3%82%B7%E3%83%A3%E3%83%84-%E4%B8%88-%E8%A9%B0%E3%82%81-%E5%88%87%E3%82%8A-%E3%81%A3-%E3%81%B1%E3%81%AA%E3%81%97'>Tシャツ 丈 詰め 切り っ ぱなし</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%A9-%E5%9C%B0%E5%9B%B3-%E3%81%8B%E3%81%B6%E3%82%8B'>マイクラ 地図 かぶる</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%82%B2%E5%85%90%E3%83%8E%E3%82%A4%E3%83%AD%E3%83%BC%E3%82%BC-%E7%97%85%E9%99%A2-%E5%A4%A7%E9%98%AA'>育児ノイローゼ 病院 大阪</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%AE%B1%E6%A0%B9-%E3%83%A9%E3%83%B3%E3%83%81-%E5%92%8C%E9%A3%9F'>箱根 ランチ 和食</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=onedrive-%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88-%E4%BF%9D%E5%AD%98%E5%85%88'>Onedrive スクリーンショット 保存先</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9F%E3%83%AB%E3%82%AF%E3%83%95%E3%82%A7%E3%83%89-%E3%83%AA%E3%83%A5%E3%83%83%E3%82%AF-%E4%BB%98%E9%8C%B2-%E6%A5%BD%E5%A4%A9'>ミルクフェド リュック 付録 楽天</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%B2%B9%E7%B5%B5-%E7%AA%93-%E6%8F%8F%E3%81%8D%E6%96%B9'>油絵 窓 描き方</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%83%8E%E5%85%90-%E3%82%A8%E3%82%B3%E3%83%BC-%E5%A5%B3%E3%81%AE%E5%AD%90-%E5%AD%90%E5%AE%AE-%E7%94%BB%E5%83%8F'>胎児 エコー 女の子 子宮 画像</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=JavaScript-URL-%E5%88%A4%E5%AE%9A'>JavaScript URL 判定</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%AB%98%E7%9F%A5-%E6%B2%96%E3%83%8E%E5%B3%B6-%E3%82%B8%E3%82%AE%E3%83%B3%E3%82%B0'>高知 沖ノ島 ジギング</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%BF%E3%82%A4%E3%82%AC%E3%83%BC-%E7%82%8A%E9%A3%AF-%E5%99%A8-%E3%82%B5%E3%83%A9%E3%83%80-%E3%83%81%E3%82%AD%E3%83%B3'>タイガー 炊飯 器 サラダ チキン</a>,
+";s:7:"expired";i:-1;}

@@ -1,0 +1,78 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:2754:"<p>面接結果の来ることが多いタイミング(当日、2～3日後、一週間後)と結果が遅れる理由について記載しています。 また、電話がかかってくる時間帯などについても触れていますので、是非参考にしていただければと思います。  転職活動中のあなたは、「転職面接の時間帯は何時頃に行われるのが普通なのか」「転職面接は何時を指定すれば良いのか」悩むことが多いのではないでしょうか。 現職の仕事の都合もあり、面接を受ける企業の都合もあり、面接時間の調整に困る場合が多くなります。 とにかく多くの予定を入れることができれば良いと思われがちなスケジュール調整ですが、本当の意味で内定を近づけていくためには、面接時間をいつ取るか、ということも視野に入れて考えなければなりません。 「面接日程は早めが有利」と前のページで紹介しましたが、面接する時間帯も早めの午前中にするべきなのでしょうか？転職活動、就職活動の面接で有利となりやすい時間帯、不利になりやすい時間帯についてご紹介します。 企業からの面接に関する「日程通知メール」。一体いつまでに返信すればいいのかわからない、そもそも言葉遣いに自信がなくて返信の仕方がわからない、という人が多いのではないのでしょうか？日程通知メールへの正しい返信方法とその例文を、いくつかのパターンに分けて紹介します。 就職活動をしていると面接の時間帯だけで有利不利をついつい気にしてしまいますよね。早い方が有利や遅いと不利など時間を設定されて一喜一憂される方も多いでしょう。今回は、面接の有利な時間帯はあるのかそして、希望の時間を聞かれたときの答え方などをご紹介します。 面接時間の長さは、採用や内定率と関係があるのでしょうか。就活の面接は、20分で終わるところもあれば40分、1時間かかるところもあります。キャリアパークで、就職活動で避けて通れない面接の平均時間や内定との関係性を見ていきましょう。 面接をするならなるべく早く！相手の体力も考えてスケジュールを組もう. </p> <p>就活の面接で有利な時間帯・不利な時間帯はあるのでしょうか？ここでは面接の時間帯による違いや万が一不利な時間になってしまった場合に気を付けるべきポイントなどについて解説します。 </p> <p></p>";s:7:"keyword";s:23:"就活 面接 時間帯";s:5:"links";s:7994:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%B2%B3%E5%90%88%E5%A1%BE-%E5%8F%97%E9%A8%93-%E5%8B%89%E5%BC%B7'>河合塾 受験 勉強</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=uverworld-%E6%9D%B1%E4%BA%AC%E3%83%89%E3%83%BC%E3%83%A0-%E9%9B%AA%E8%BE%B1'>Uverworld 東京ドーム 雪辱</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%A2%85%E9%9B%A8-%E5%AD%A3%E8%AA%9E-%E3%81%84%E3%81%A4'>梅雨 季語 いつ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%8C%97%E6%B5%B7%E9%81%93-%E6%9C%8D-%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89'>北海道 服 ブランド</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%BF%91%E7%95%BF%E5%A4%A7%E5%AD%A6%E7%B7%8F%E5%90%88%E7%A4%BE%E4%BC%9A-%E5%AD%A6%E9%83%A8-%E7%92%B0%E5%A2%83-%E3%81%BE%E3%81%A1%E3%81%A5%E3%81%8F%E3%82%8A'>近畿大学総合社会 学部 環境 まちづくり</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%95%E3%81%95%E3%81%BF-%E6%A2%85%E3%81%97%E3%81%9D-%E6%98%A5%E5%B7%BB%E3%81%8D'>ささみ 梅しそ 春巻き</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%87%E3%83%A5%E3%83%A9%E3%82%A8%E3%83%BC%E3%82%B9-%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%83%AA%E3%83%B3%E3%82%B0-53'>デュラエース チェーンリング 53</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%A5%BD%E5%A4%A9%E8%A8%BC%E5%88%B8-%E3%82%A2%E3%83%97%E3%83%AA-PC'>楽天証券 アプリ PC</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%BF%91%E8%97%A4%E7%9C%9F%E5%BD%A6-%E3%83%AC%E3%83%BC%E3%82%B5%E3%83%BC-%E5%AE%9F%E5%8A%9B'>近藤真彦 レーサー 実力</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=a4-%E6%9C%AC%E6%A3%9A-%E6%89%89%E4%BB%98%E3%81%8D'>A4 本棚 扉付き</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A2%E3%83%8B%E3%83%A1-%E8%88%9E%E5%8F%B0-%E6%9D%B1%E4%BA%AC'>アニメ 舞台 東京</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%AF%8C%E5%A3%AB%E3%83%95%E3%82%A4%E3%83%AB%E3%83%A0-%E5%86%99%E7%9C%9F-%E6%8A%95%E7%A8%BF'>富士フイルム 写真 投稿</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B8%80-%E5%B9%B4-%E8%B2%AF%E9%87%91-%E5%B9%B3%E5%9D%87'>一 年 貯金 平均</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=BanG-Dream-Girls-Band-Party-cover-Collection-Vol-1'>BanG Dream Girls Band Party Cover Collection Vol 1</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=safari-%E3%83%9D%E3%83%83%E3%83%97%E3%82%A2%E3%83%83%E3%83%97%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF-%E5%9B%9E%E9%81%BF'>Safari ポップアップブロック 回避</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%9B%A2%E4%B9%B3%E9%A3%9F-%E3%83%95%E3%83%AC%E3%83%B3%E3%83%81%E3%83%88%E3%83%BC%E3%82%B9%E3%83%88-%E8%B1%86%E4%B9%B3'>離乳食 フレンチトースト 豆乳</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%9C%82%E8%9C%9C-%E7%9B%AE%E3%81%AE%E8%89%B2-%E9%87%8F'>蜂蜜 目の色 量</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%AE%B6%E3%81%AE%E5%89%8D-%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF-%E3%81%86%E3%82%8B%E3%81%95%E3%81%84'>家の前 トラック うるさい</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9-%E3%83%A9%E3%83%83%E3%82%AF-100%E5%9D%87'>スペース ラック 100均</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%B2%E3%81%8D%E8%82%89-%E3%82%AA%E3%83%A0%E3%83%A9%E3%82%A4%E3%82%B9-%E6%AE%BF%E5%A0%82'>ひき肉 オムライス 殿堂</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Chrome-%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%82%AB%E3%83%83%E3%83%88-%E3%83%96%E3%83%A9%E3%82%A6%E3%82%B8%E3%83%B3%E3%82%B0'>Chrome ショートカット ブラウジング</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%A2%E3%83%B3%E3%83%99%E3%83%AB-%E3%83%99%E3%83%93%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2-%E4%B8%AD%E5%8F%A4'>モンベル ベビーキャリア 中古</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BA%AC%E9%83%BD%E5%BA%9C%E7%AB%8B-%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E7%9C%8B%E8%AD%B7-%E9%9B%A3%E6%98%93%E5%BA%A6'>京都府立 医科大学看護 難易度</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BB%AE-%E3%83%99%E3%83%B3%E3%83%81-%E3%81%AE-%E7%A7%BB%E5%8B%95'>仮 ベンチ の 移動</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%91%E3%82%B9%E3%83%AF%E3%83%BC%E3%83%89%E5%86%8D%E8%A8%AD%E5%AE%9A-%E3%83%A1%E3%83%BC%E3%83%AB-%E5%B1%8A%E3%81%8B%E3%81%AA%E3%81%84-dazn'>パスワード再設定 メール 届かない Dazn</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%AD%A6%E6%A0%A1%E7%B5%A6%E9%A3%9F-%E6%B1%82%E4%BA%BA---%E5%85%B5%E5%BA%AB%E7%9C%8C'>学校給食 求人 - 兵庫県</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B6%E3%83%A0%E3%82%B9%E3%83%88-EK-5-%E7%99%BB%E5%B1%B1'>ザムスト EK-5 登山</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A-%E3%83%8D%E3%83%83%E3%82%AF%E3%83%AC%E3%82%B9%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3-%E7%A8%AE%E9%A1%9E'>プラチナ ネックレスチェーン 種類</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BC-%E8%A3%8F%E7%B4%99-%E6%B4%BB%E7%94%A8'>カレンダー 裏紙 活用</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=C%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96-%E6%8B%A1%E5%BC%B5-Windows10'>Cドライブ 拡張 Windows10</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Sony-%E3%83%87%E3%82%B8%E3%82%AB%E3%83%A1-%E6%96%B0%E8%A3%BD%E5%93%81'>Sony デジカメ 新製品</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%88%E3%83%A0%E3%83%95%E3%82%A9%E3%83%BC%E3%83%89-%E3%82%B5%E3%83%B3%E3%82%B0%E3%83%A9%E3%82%B9-%E5%BA%A6%E5%85%A5%E3%82%8A'>トムフォード サングラス 度入り</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%80%E3%82%A4%E3%82%BD%E3%83%BC-%E3%83%A9%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0-%E3%83%AA%E3%83%9C%E3%83%B3-%E3%82%B7%E3%83%BC%E3%83%AB'>ダイソー ラッピング リボン シール</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%AD%90%E4%BE%9B-%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%BC%E3%83%88-%E6%A8%AA%E6%B5%9C'>子供 コンサート 横浜</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E7%A6%8F%E5%B3%B6%E7%9C%8C-%E5%90%B9%E5%A5%8F%E6%A5%BD-%E5%BC%B7%E8%B1%AA'>福島県 吹奏楽 強豪</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%87%BA%E7%94%A3-%E5%85%A5%E9%99%A2-%E4%B8%8A%E3%81%AE%E5%AD%90-%E8%AA%AC%E6%98%8E'>出産 入院 上の子 説明</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%96%B0%E6%BD%9F-%E8%87%AA%E5%8B%95%E8%BB%8A-%E5%AD%A6%E6%A0%A1-%E5%85%A5%E6%A0%A1'>新潟 自動車 学校 入校</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%87%E3%82%B8%E3%82%AB%E3%83%A1-Wi-Fi-%E5%AE%89%E3%81%84'>デジカメ Wi-Fi 安い</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC%E3%82%AF%E3%83%AA%E3%83%BC%E3%82%AF-%E3%82%B9%E3%83%88%E3%83%AA%E3%83%BC%E3%83%A0%E3%83%88%E3%82%A5%E3%82%A4%E3%83%83%E3%83%81%E3%83%A3%E3%83%BC-51ulb-4'>シルバークリーク ストリームトゥイッチャー 51ulb-4</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%A1%E3%83%AB%E3%82%AB%E3%83%AA-%E5%88%9D%E5%BF%83%E8%80%85-%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF'>メルカリ 初心者 ブロック</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%BE%E3%81%AA%E6%9D%BF-%E5%8C%85%E4%B8%81%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89-%E3%83%8B%E3%83%88%E3%83%AA'>まな板 包丁スタンド ニトリ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%80%E3%82%A4%E3%82%BD%E3%83%BC-%E8%80%90%E7%86%B1%E7%9A%BF-%E3%83%AC%E3%82%B7%E3%83%94'>ダイソー 耐熱皿 レシピ</a>,
+";s:7:"expired";i:-1;}

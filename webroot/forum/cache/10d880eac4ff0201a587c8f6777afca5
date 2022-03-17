@@ -1,0 +1,58 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:5622:"Tabキーを使って文字位置を揃える方法です。 右揃え、左揃え、小数点揃えについて説明します。 【設定例】 【タブ設定の削除】 【マウス操作】ルーラーのタブマーカーを文書中へドラッグすると消すことができます。 Wordのインデントを使えば、この部分だけ左端や右端（行頭や行末）の位置を内側に引っ込めたい！など、端を揃えたまま好みの位置に動かすことができます！この機能を知らずして「Word使えます」とは言えない、Word・ワードの超重要機能！ 水平ルーラーの左端 (垂直ルーラーの上) にあるタブ セレクタを数回クリックして、 [右揃えタブ] を選択、表示します。 2. 右揃えタブを使用して文字を揃えるには、文字と文字の間に入れる空白はタブキーで入力します。 次のように文字を入力しましょう。 ステップ3 右揃えタブを設定. こんなときは文字列の右側を揃える右揃えタブを追加して挿入します。 1. このような時は、「両端揃え」を設定することで、行末を揃えることができるかもしれません。 以下で、Word2003の場合についてご説明いたします。 1. <br> <br>しかも揃えるために何度もスペースキーを押す必要があります。 実はもっと簡単に右に寄せることができます。 「以上」と入力して、その行にカーソルがある状態にしておきます。カーソルとは、文字を入力する時に点滅している縦棒のことです。・ <br> <br>Wordで文字を右に揃えたい、左に揃えたい、中央に配置したい！そんな時の操作方法を画像を多数掲載して初心者さんにもわかりやすく丁寧に解説しております。均等割り付けなど覚えたら便利な機能もた … ワード2013 基本講座 » ... タブを使って文字間を調整したり、文字の位置を揃えることができます。 ... 複数の右揃えタブを設定するときのダイアログボックスの例 タブ位置を入力して[設定]ボタンをクリックして、順次登録します。 文字を追加したくて入力したら、元からある文字が消えた！壊れちゃったの？いえいえ、これはちょっとしたことが理由なのですぐに直せます！Word・ワード 困ったを解決する技！ ワードでの書式設定の操作方法を説明しています。 ... 両端揃え、左揃え、中央揃え、右揃え topへ (1)文字列の配置 ... クリップアートなどの図と文字列を行内の垂直方向で揃える場合に利用できます。 文字間隔が調整され行内に文字が収まりました。 行頭位置の微調整 段落単位で字下げを行うときは、《ホーム》タブの《段落》グループの《インデントを増やす》をクリックすると、1回クリックするごとに、左側の行頭から1文字ずつ字下げされます。 右揃えタブを設定して文字を揃えます。  <br> <br>残念ながら、同じ行の中で左の文字列を左揃え、右の文字列を右揃えにするようなコマンドはありません。 左揃え、中央揃え、右揃え、両端揃えという、水平方向の位置設定は、段落ごとの書式であり、どれか1つしか指定することができません。 ワードで1行目から3行目まで行の途中で文字を揃えたい場合、どうしていますか？ スペースを入れて調整できますが、上下が微妙に揃わないことが多いですね。そんあときはタブを利用すれば、きれいに文字が揃います。今回は、行の途中で思いどおりに文字を揃えるワザを紹介します。 小数点揃えタブは、文字通り「小数点」の位置で揃えるタブになります。同様に、Tabキーを使ってカーソルを移動させて、文字を入力しましょう。次の「3．復元しない確率」のブロックも同様のタブ設定 … タブ揃え topへ. タブの位置を設定する段落を選択し、 表内の文字の位置を揃えるポイントは、次のとおりです。 ポイント1 表のセル内の文字は9つの配置（上中下×左中右）から選択できる。 ポイント2 メニューから選択するだけで、ワンクリックで位置を設定で … 文字を右端に寄せて行頭をそろえたいのですが・・・ワードで以下のを箇条書きの文章を・ ・ ・ 右端そろえだけやると文末しかそろいません。それを、正しく ・ ・ ・ 右端に寄せて尚且つ行頭でそろえたい場合どうすればいいのですか？ <br> <br>Word（ワード）で文章を作っていて、同じ箇所で文字の位置を揃えたいという場面がありますよね。そんな場合、よく全角や半角のスペース（空白）を入力して調整しようとして、悪戦苦闘している光景を見かけますが、それでもうまくいかないのは、文字によっ 配置の変更（右揃え・中央揃え）方法です。 手紙・はがきやビジネス文書のように一部分だけ「右に書きたい」「真ん中に書きたい」時に利用します。 文字を右端に配置する（右揃え） 配置を変更したい段落にカーソルを合わせる。 ツールバーの[右揃え]ボタンをクリックで移動します。 <br> <br>";s:7:"keyword";s:30:"ワード 文字 揃える 右";s:5:"links";s:4560:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%89%E3%82%B3%E3%83%A2-%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC%E4%BA%A4%E6%8F%9B-%E5%A4%96%E8%A3%85'>ドコモ バッテリー交換 外装</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9A%E3%83%83%E3%83%88%E3%83%9C%E3%83%88%E3%83%AB-%E9%96%8B%E3%81%91%E3%82%89%E3%82%8C%E3%81%AA%E3%81%84-%E5%AD%90%E4%BE%9B'>ペットボトル 開けられない 子供</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%8A%E5%BC%81%E5%BD%93-%E8%A9%B0%E3%82%81%E6%96%B9-%E3%81%8A%E3%81%AB%E3%81%8E%E3%82%8A'>お弁当 詰め方 おにぎり</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%BF%E3%83%B3%E3%83%88-%E7%87%83%E6%96%99%E8%A8%88-%E6%95%85%E9%9A%9C'>タント 燃料計 故障</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%92%8C%E5%85%89%E5%A0%82-%E6%89%8B%E4%BD%9C%E3%82%8A-%E5%BF%9C%E6%8F%B4-%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%82%BD%E3%83%BC%E3%82%B9'>和光堂 手作り 応援 ホワイトソース</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF%E3%83%91%E3%83%B3%E3%83%84-%E3%83%AC%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B9-gu'>チェックパンツ レディース Gu</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=3-%E4%BA%BA%E7%9B%AE-%E5%87%BA%E7%94%A3%E6%99%82%E9%96%93'>3 人目 出産時間</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=L175-%E3%83%A0%E3%83%BC%E3%83%B4-%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3-%E3%83%9E%E3%82%A6%E3%83%B3%E3%83%88%E4%BA%A4%E6%8F%9B%E8%B2%BB%E7%94%A8'>L175 ムーヴ エンジン マウント交換費用</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%A8%E3%83%90%E3%83%BC%E8%88%AA%E7%A9%BA-A321-%E6%90%AD%E4%B9%97%E8%A8%98'>エバー航空 A321 搭乗記</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%8C%BB%E5%B1%80-%E8%BE%9E%E3%82%81%E3%82%8B-%E6%8C%A8%E6%8B%B6'>医局 辞める 挨拶</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B8%83%E4%BA%94%E4%B8%89%E3%81%AE-%E3%81%8A%E7%A5%9D%E3%81%84-%E9%A3%9F%E4%BA%8B'>七五三の お祝い 食事</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%94%BE%E5%B0%84%E7%B7%9A-%E6%8A%80%E5%B8%AB%E5%9B%BD%E5%AE%B6%E8%A9%A6%E9%A8%93-2020-%E6%97%A5%E7%A8%8B'>放射線 技師国家試験 2020 日程</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%B0%8F%E5%80%89%E5%8C%97%E5%8C%BA-%E8%B6%B3%E7%AB%8B-%E3%82%AB%E3%83%95%E3%82%A7'>小倉北区 足立 カフェ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%A4%8F-%E9%9D%B4-%E3%83%AC%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B9-%E3%83%92%E3%83%BC%E3%83%AB'>夏 靴 レディース ヒール</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=VBA-%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E5%A4%89%E6%95%B0-%E6%B6%88%E3%81%88%E3%82%8B'>VBA グローバル変数 消える</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9E%E3%82%B9%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%86%E3%83%BC%E3%83%97-%E5%A3%81%E7%B4%99-%E5%89%A5%E3%81%8C%E3%82%8C%E3%82%8B'>マスキングテープ 壁紙 剥がれる</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%81%97%E3%81%BE%E3%82%80%E3%82%89-%E3%83%97%E3%83%AA%E3%82%AD%E3%83%A5%E3%82%A2-%E3%83%91%E3%82%B8%E3%83%A3%E3%83%9E'>しまむら プリキュア パジャマ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E8%B3%87%E6%A0%BC%E6%83%85%E5%A0%B1%E3%81%AE%E5%85%A5%E5%8A%9B-%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E5%90%8D%E3%81%BE%E3%81%9F%E3%81%AF%E3%83%91%E3%82%B9%E3%83%AF%E3%83%BC%E3%83%89%E3%81%8C%E6%AD%A3%E3%81%97%E3%81%8F-%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93'>ネットワーク資格情報の入力 ユーザー名またはパスワードが正しく ありません</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%B6%B3%E7%AB%8B%E5%8C%BA-%E5%A6%8A%E5%A9%A6-%E3%82%B3%E3%83%AD%E3%83%8A'>足立区 妊婦 コロナ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%90%E3%83%A9-24%E6%9C%AC-%E5%80%A4%E6%AE%B5'>バラ 24本 値段</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%88%90%E7%94%B0%E5%AF%8C%E9%87%8C-%E5%BE%B3-%E6%B4%B2-%E4%BC%9A%E7%97%85%E9%99%A2-%E5%BE%AA%E7%92%B0%E5%99%A8%E5%86%85%E7%A7%91'>成田富里 徳 洲 会病院 循環器内科</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%82%B7%E3%83%A3%E3%83%8D%E3%83%AB-J12-automatic'>シャネル J12 Automatic</a>,
+";s:7:"expired";i:-1;}

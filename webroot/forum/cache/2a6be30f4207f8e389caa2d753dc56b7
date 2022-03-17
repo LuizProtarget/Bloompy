@@ -1,0 +1,56 @@
+a:5:{s:8:"template";s:3942:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> 
+<style rel="stylesheet" type="text/css"> @font-face{font-family:Raleway;font-style:normal;font-weight:100;src:local('Raleway Thin'),local('Raleway-Thin'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptsg8zYS_SKggPNwE44Q4Fv.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:200;src:local('Raleway ExtraLight'),local('Raleway-ExtraLight'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:400;src:local('Raleway'),local('Raleway-Regular'),url(http://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMISg.ttf) format('truetype')} a,body,div,html,li,p,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ul{list-style:none}:focus{outline:0}footer,header,nav{display:block} body{font-family:Raleway,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.6;font-weight:400;-webkit-font-smoothing:antialiased}body.et_fixed_nav{padding-top:80px}a{text-decoration:none;color:#7ebec5}a:hover{text-decoration:none}p{padding-bottom:25px;line-height:24px}p:last-of-type{padding-bottom:0}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.container{text-align:left;margin:0 auto;width:1080px;position:relative}#main-header{top:0;background-color:#fff;width:100%;z-index:99999;padding:18px 0 0 0;min-height:43px;box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-box-shadow:0 1px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_fixed_nav #main-header{position:fixed}nav#top-menu-nav{padding-top:11px}#top-menu,nav#top-menu-nav{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu a{color:#666;text-decoration:none;display:block;position:relative}#top-menu a:hover{color:#333}#top-menu li>a{padding-bottom:29px}#et-top-navigation{float:right}.nav li{position:relative}.nav li:hover{visibility:inherit}#footer-bottom{background-color:#1f1f1f;background-color:rgba(0,0,0,.32);padding:15px 0 5px}#footer-info{text-align:left;color:#666;padding-bottom:10px;float:left}@media only screen and (min-width:981px) and (max-width:1100px){.container{width:960px}#et-top-navigation{margin-right:34px}}@media only screen and (max-width:980px){.container{width:690px}#top-menu{display:none}#main-header{padding-bottom:20px}#et-top-navigation{margin-right:34px}.et_fixed_nav #main-header{position:absolute}#footer-info{float:none;text-align:center}}@media only screen and (max-width:767px){#et-top-navigation{margin-right:34px}.container{width:400px}}@media only screen and (max-width:479px){#et-top-navigation{margin-right:34px}.container{width:280px}}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}</style>
+</head>
+<body class="et_fixed_nav safari iphone et_includes_sidebar">
+<header id="main-header">
+<div class="container clearfix">
+<a href="#">
+{{ keyword }}
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu">
+<li><a href="#">Home</a></li>
+<li class="page_item page-item-23"><a href="#">home</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</header>
+{{ text }}
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+{{ links }}
+<p id="footer-info">{{ keyword }} 2020</p>
+</div> 
+</div>
+</footer> 
+</body>
+</html>";s:4:"text";s:5635:"<br> 饕客們最愛到北海道品嘗海鮮，知名的三大螃蟹～帝王蟹、毛蟹、長腳蟹，可以豪邁吃到飽，同時品嘗湯鮮料多的日式海鮮鍋，北國好滋味凡人無法擋，是味蕾上烙印的難忘回憶。 小樽花魚. 北海道的料理相當獨特，是融合了愛奴料理和開拓時期所帶入的本土料理，有著北海道在地獨特的口味。另外，在和食料理使用奶油等，加入西洋風味的調味料是北海道料理的一大特徵。這次我們將向您介紹北海道特有的當地美食！下次來到北海道時，也嚐嚐海鮮料理之外的北海道料理吧！ 1.具6月特色的北海道景點. 日本北海道美食地圖全攻略，在此總結了必吃的在地人推薦美食名店，介紹給大家。知名美食成吉思汗的“daruma”，一次品嘗北海道三大拉麵的“拉麵共和國”到”海鮮丼的浦島”，螃蟹讓你吃到飽的“難陀”，湯咖哩“garaku”店。當然甜點“雪印parlour札幌本店”與“札幌啤酒”當然也不能少！ 北海道の4月は、雪も解け始めて少しずつ暖かくなってきます。ゴールデンウイークに北海道旅行を考えている方もいるのではないでしょうか？せっかく北海道に来たからには、美味しい北海道グルメを食べたいと思いますせんか？今回は、北海道の4月グルメとして 食べ物が美味しいと評判の北海道。私も出身地を聞かれ、北海道と答えるとだいたいの人に「食べ物美味しいんでしょう？いいね～」なんて言われます。同じ日本でも北海道は気温・気候が異なりますから、今回の記事を書くのを機に私も北海道食材の旬の時期につい 小墫由於有大量歷史建築物，因此成為日本非常受歡迎的旅遊城市之一。很有名的「北海道花魚定食套餐」小 時間：6:00-18:00(視各店狀況)  <br>4.北海道6月的天氣與氣溫 5.6月前往北海道的服裝？ 總結. 地址：北海道函館市若松町9番15号. 因產季不同，能夠吃到的海鮮也有異。像是伊勢龍蝦的產季約在10月至1月；北海道帝王蟹的產季在1月至5月，9月、10月；牡蠣產季則在11月至2月；鰻魚產季為8月至12月。依前述海鮮產季月份，大致重疊的月份為10月至1月，因此不妨挑這段時間前往日本品嚐海鮮吧！ <br> <br>秋季來到北海道要做什麼？賞雪？不要鬧了！當然是吃帝王蟹、海鮮丼和新鮮海膽啊！想吃北海道海鮮美食，就要到當地人都會去的海鮮市場走一圈，札幌的二条市場是北海道三大海鮮市集之一，除了有新鮮到不用烹煮就能直接食用的生魚片，這裡的帝王蟹、丼飯也是一定要品嘗的在地美食 撰文：Makoto 2016年的06月，我們利用新千歲空港進出，安排了一趟北海道旅行。許多人可能認為，6月份的北海道，既不是賞櫻季節，薰衣草也尚未盛開，不曉得可以玩什麼。不過其實實際走一趟，會 4.北海道6月的天氣與氣溫 5.6月前往北海道的服裝？ 總結. <br> <br>若要在6月來北海道，我希望能讓各位了解這裡豐富的自然景緻，因此這次將以自然觀光景點為主作介紹。 ・前往知床、羅臼湖健行，並在知床海邂逅鯨魚與殺人鯨. <br> 一早醒來完全值得了，這裡的營業時間約從清晨5、6點就開始直到下午1、2點，許多旅客都選擇一大早到這裡吃碗活力滿滿的海鮮丼當作早餐。所以要吃到新鮮的海鮮蓋飯，一定要趁早啊！ 市場資訊. 若要在6月來北海道，我希望能讓各位了解這裡豐富的自然景緻，因此這次將以自然觀光景點為主作介紹。 ・前往知床、羅臼湖健行，並在知床海邂逅鯨魚與殺人鯨. [日本北海道]本來規劃1人在6月初去北海道11天，但只能搭jr和巴士，很多美麗的地方到不了；若找朋友一起去，則在9月初，兩人可租車，開車可到jr到不了的地方。想請問各位，6月去比較好？還是9月去比較好呢？我知道各時期的景色不一樣，所以希望大家可以提供差異處好讓我選取，謝謝了！ 1.具6月特色的北海道景點. 北海道夏天6月、7月、8月的這段期間，舉辦著各式各樣的活動，舉凡傳統祭典、煙火大會，即使在日本最北端也能充分地感受到滿滿的夏日風情！尤其盛大祭典的「yosakoi索朗祭」、「旭川夏祭」、「登別地獄祭」等，更是旅人們不能錯過的。 點此看夏季北海道 祭典、景點總整理. 撰文：Makoto 2016年的06月，我們利用新千歲空港進出，安排了一趟北海道旅行。許多人可能認為，6月份的北海道，既不是賞櫻季節，薰衣草也尚未盛開，不曉得可以玩什麼。不過其實實際走一趟，會 北海道夏天衣服如何準備？6～8月夏季旅行建議及常見問題 ... 夏天的北海道魅力百分百，那壯觀浪漫的紫色薰衣草花田、香甜多汁的哈密瓜、生猛海鮮美食就是北海道夏季的代名詞，想避暑或被大自然療癒的話絕對是最佳旅遊選擇。 這次compathy要為您介紹函館的生猛海鮮啦！首先先為您解說函館朝市小知識以及超實用北海道螃蟹種類中日對照！再來就是函館人氣海鮮推薦，其中精選出3家函館朝市必吃海鮮及10家函館人氣海鮮餐廳的介紹另外還有附上北海道函館天氣、北海道函館美食地圖、更多北海道推薦美食景點！ <br>";s:7:"keyword";s:21:"6月 北海道 海鮮";s:5:"links";s:3942:"<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Hana-%E3%83%8D%E3%82%B3-%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9'>Hana ネコ ボックス</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Galaxy-%E8%A7%A3%E5%83%8F%E5%BA%A6-%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC'>Galaxy 解像度 バッテリー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%AD%BB%E9%9C%8A%E9%A4%A8-%E3%82%A8%E3%83%B3%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E4%BA%8B%E4%BB%B6-amazon'>死霊館 エンフィールド事件 Amazon</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Twitter-%E3%82%BB%E3%83%B3%E3%82%B7%E3%83%86%E3%82%A3%E3%83%96-%E5%9F%BA%E6%BA%96'>Twitter センシティブ 基準</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%AE%AE%E5%9C%B0-%E8%80%B3%E9%BC%BB-%E7%A7%91'>宮地 耳鼻 科</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=iMac-Pro-%E6%B6%88%E8%B2%BB%E9%9B%BB%E5%8A%9B'>IMac Pro 消費電力</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%89%E3%83%A9%E3%82%B0-%E3%83%AF%E3%83%83%E3%82%B7%E3%83%A3%E3%83%BC-%E7%B4%A0%E6%9D%90'>ドラグ ワッシャー 素材</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%AF%8D%E5%AD%90%E5%AE%B6%E5%BA%AD-%E7%A4%BE%E4%BC%9A%E4%BF%9D%E9%99%BA-%E5%AD%90%E4%BE%9B'>母子家庭 社会保険 子供</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=Mac-%E7%94%BB%E5%83%8F-%E9%80%8F%E3%81%8B%E3%81%97'>Mac 画像 透かし</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%BB%96-18%E4%BB%B6%E5%B1%85%E5%BF%83%E5%9C%B0%E3%81%8C%E8%89%AF%E3%81%84%E3%83%AC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%B3%E3%82%A4%E3%83%AB%E3%83%BB%E3%83%87%E3%83%BB%E3%83%91%E3%83%B3%2C-%E6%89%8B%E6%89%93%E3%81%A1%E8%95%8E%E9%BA%A6-%E6%B1%90%E8%A6%8B%E3%81%AA%E3%81%A9'>他 18件居心地が良いレストランイル・デ・パン, 手打ち蕎麦 汐見など</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E9%95%B7%E5%B4%8E%E7%A9%BA%E6%B8%AF-%E3%83%A9%E3%82%A6%E3%83%B3%E3%82%B8-d%E3%82%AB%E3%83%BC%E3%83%89'>長崎空港 ラウンジ Dカード</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E4%B8%89%E5%AE%AE-%E3%83%93%E3%82%A2%E3%83%9B%E3%83%BC%E3%83%AB-%E9%A3%B2%E3%81%BF%E6%94%BE%E9%A1%8C'>三宮 ビアホール 飲み放題</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%91%E3%82%B9%E3%82%BF-%E3%83%AC%E3%83%B3%E3%82%B8-%E3%82%B1%E3%83%81%E3%83%A3%E3%83%83%E3%83%97'>パスタ レンジ ケチャップ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=xperia-z3-tablet-compact-sim%E3%83%95%E3%83%AA%E3%83%BC'>Xperia Z3 Tablet Compact Simフリー</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=iPad-iPhone-Safari%E5%90%8C%E6%9C%9F%E3%81%95%E3%81%9B%E3%81%AA%E3%81%84'>IPad IPhone Safari同期させない</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%BC%E3%82%B8-%E3%83%93%E3%83%AB%E3%83%80%E3%83%BCSP-%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9%E3%82%AB%E3%82%A6%E3%83%B3%E3%82%BF%E3%83%BC'>ホームページ ビルダーSP アクセスカウンター</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E6%B8%A1%E8%BE%BA%E7%9A%AE%E8%86%9A%E7%A7%91-%E7%B7%91%E5%8C%BA-%E5%8F%A3%E3%82%B3%E3%83%9F'>渡辺皮膚科 緑区 口コミ</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E8%87%AA%E7%84%B6-%E5%A4%A9%E7%84%B6-%E9%A1%9E%E8%AA%9E'>自然 天然 類語</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=%E5%96%B6%E6%A5%AD%E8%A8%B1%E5%8F%AF%E8%A8%BC-%E6%9B%B4%E6%96%B0-%E8%AC%9B%E7%BF%92'>営業許可証 更新 講習</a>,
+<a href='http://bloompy.com.br/forum/sxkdtof.php?e90853=BunBackup-%E3%83%95%E3%82%A9%E3%83%AB%E3%83%80-%E3%81%AE-%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF-%E3%81%AB-%E5%A4%B1%E6%95%97-%E3%81%97%E3%81%BE-%E3%81%97%E3%81%9F'>BunBackup フォルダ の チェック に 失敗 しま した</a>,
+";s:7:"expired";i:-1;}
