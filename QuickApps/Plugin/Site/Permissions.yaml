@@ -1,0 +1,34 @@
+Controller:
+	Pages:
+		hidden:true
+	Site:
+		hidden:true
+Preset:
+	manage_pages:
+		name: "PagesController - Action Index - páginas e produtos"
+		acos:
+			Pages.produto
+			Pages.index
+			Pages.aplicativo
+	manage_site:
+		name: "SiteController - Action ajax - acesso lojas e representantes via ajax"
+		acos:
+			Site.ajax
+			Site.admin_loja_add
+			Site.admin_loja_edit
+			Site.admin_loja_delete
+			Site.admin_lojas
+			Site.admin_loja_virtual_add
+			Site.admin_loja_virtual_edit
+			Site.admin_loja_virtual_delete
+			Site.admin_loja_import
+			Site.admin_lojas_virtuais
+			Site.admin_representantes
+			Site.admin_representante_add
+			Site.admin_representante_edit
+			Site.admin_representante_delete
+	manage_tabela:
+		name: "Tabela precos"
+		acos:
+			Site.admin_table
+	

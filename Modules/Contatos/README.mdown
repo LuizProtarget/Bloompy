@@ -1,0 +1,2 @@
+##Contatos
+`Contatos` is a simple module that allows to record contacts registers for you site.

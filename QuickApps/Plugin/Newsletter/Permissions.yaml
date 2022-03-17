@@ -1,0 +1,6 @@
+Controller:
+Preset:
+	manage_newsletter:
+		name: "Newsletter cadastro"
+		acos:
+			Newsletter.add

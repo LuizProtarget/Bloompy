@@ -1,0 +1,49 @@
+Controller:
+	Produtos:
+		hidden:true
+	Colecao:
+		hidden:true
+	Linha:
+		hidden:true
+	Skus:
+		hidden:true
+Preset:
+	manage_produtos:
+		name: "Administrar produtos"
+		acos:
+			Produtos.index
+			Produtos.admin_index
+			Produtos.admin_clear
+			Produtos.admin_add
+			Produtos.admin_delete
+			Produtos.admin_foto
+			Produtos.admin_position
+			Produtos.getMaxPos
+	manage_colecao:
+		name: "Administrar coleção"
+		acos:
+			Colecao.admin_index
+			Colecao.admin_add
+			Colecao.admin_edit
+			Colecao.admin_delete
+	manage_linha:
+		name: "Administrar linhas"
+		acos:
+			Linha.admin_index
+			Linha.admin_add
+			Linha.admin_edit
+			Linha.admin_delete
+			Linha.admin_ajaxColecao
+	manage_skus:
+		name: "Administrar SKU"
+		acos:
+			Skus.admin_index
+			Skus.admin_get
+			Skus.admin_delete
+			Skus.admin_add
+			Skus.admin_edit
+			Skus.admin_upload
+			Skus.admin_foto
+			Skus.admin_getFoto
+			Skus.admin_removerFoto
+			Skus.admin_position

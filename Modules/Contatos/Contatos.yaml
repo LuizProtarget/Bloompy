@@ -1,0 +1,5 @@
+name: Contato
+description: Gerenciamento dos contatos do site
+category: Comunicação
+version: 0.1
+core: 1.x

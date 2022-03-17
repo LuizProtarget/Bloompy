@@ -1,0 +1,28 @@
+info:
+	name: Default
+	description: Default frontend theme for QuickApps. Responsive CSS3
+	core: 1.x
+	version: 2.0
+	author: Christopher Castro <chris@quickapps.es>
+
+stylesheets:
+	all: [reset.css, styles.css, menu.css, hooktags.css]
+
+javascripts:
+	file: [responsive.js]
+
+regions:
+	language-switcher: Language Switcher
+	search: Search form
+	main-menu: Main menu
+	user-menu: User menu
+	
+	slider: Slider
+	footer: Footer
+	
+	services-left: Services Left
+	services-center: Services Center
+	services-right: Services Right
+	
+	sidebar-left: Sidebar Left
+layout: default

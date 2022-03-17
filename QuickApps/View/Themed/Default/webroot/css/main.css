@@ -1,0 +1,3402 @@
+@font-face {
+    font-family: 'ostrich_sansheavy';
+    src: url('../fonts/ostrichsans-heavy-webfont.woff2') format('woff2'),
+         url('../fonts/ostrichsans-heavy-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'ostrich_sanslight';
+    src: url('../fonts/ostrichsans-light-webfont.woff2') format('woff2'),
+         url('../fonts/ostrichsans-light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'gotham-condensed';
+    src: url('../fonts/gothamcondensed-light.eot');
+    src: url('../fonts/gothamcondensed-light.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/gothamcondensed-light.woff') format('woff'),
+        url('../fonts/gothamcondensed-light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'gotham-condensed-medium';
+    src: url('../fonts/gothamcondensed-medium.eot');
+    src: url('../fonts/gothamcondensed-medium.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/gothamcondensed-medium.woff') format('woff'),
+        url('../fonts/gothamcondensed-medium.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'gotham-condensed-book';
+    src: url('../fonts/gothamcondensed-book.eot');
+    src: url('../fonts/gothamcondensed-book.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/gothamcondensed-book.woff') format('woff'),
+        url('../fonts/gothamcondensed-book.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ostrichsans-black';
+    src: url('../fonts/ostrichsans-black.eot');
+    src: url('../fonts/ostrichsans-black.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/ostrichsans-black.woff') format('woff'),
+        url('../fonts/ostrichsans-black.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'gothamcondensed-bold';
+    src: url('../fonts/gothamcondensed-bold.eot');
+    src: url('../fonts/gothamcondensed-bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/gothamcondensed-bold.woff') format('woff'),
+        url('../fonts/gothamcondensed-bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+
+
+
+
+
+
+
+
+
+aside nav li.Menucolecao{
+    overflow: hidden;
+}
+aside nav li.Menucolecao ul.sub-menu-col{
+    display: block;
+    max-height: 0;
+    transition: all 0.5s;
+    width: 100%;
+    margin: 0;
+}
+
+aside nav li.Menucolecao ul.sub-menu-col li{
+    display: table;
+    width: 100%;
+}
+aside nav li.Menucolecao ul.sub-menu-col li a{
+    font-family: 'ostrich_sansheavy';
+    font-size: 26px;
+}
+
+aside nav li.Menucolecao ul.sub-menu-col.active{
+    max-height: 100%;
+}
+
+
+
+
+
+
+
+
+/*
+ * HTML5 Boilerplate
+ *
+ * What follows is the result of much research on cross-browser styling.
+ * Credit left inline and big thanks to Nicolas Gallagher, Jonathan Neal,
+ * Kroc Camen, and the H5BP dev community and team.
+ */
+
+/* ==========================================================================
+   Base styles: opinionated defaults
+   ========================================================================== */
+
+html,
+button,
+input,
+select,
+textarea {
+    color: #222;
+}
+
+body {
+    font-size: 1em;
+    line-height: 1.4;
+}
+
+/*
+ * Remove text-shadow in selection highlight: h5bp.com/i
+ * These selection rule sets have to be separate.
+ * Customize the background color to match your design.
+ */
+
+::-moz-selection {
+    background: #b3d4fc;
+    text-shadow: none;
+}
+
+::selection {
+    background: #b3d4fc;
+    text-shadow: none;
+}
+
+/*
+ * A better looking default horizontal rule
+ */
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+}
+
+/*
+ * Remove the gap between images and the bottom of their containers: h5bp.com/i/440
+ */
+
+img {
+    vertical-align: middle;
+}
+
+/*
+ * Remove default fieldset styles.
+ */
+
+fieldset {
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+
+/*
+ * Allow only vertical resizing of textareas.
+ */
+
+textarea {
+    resize: vertical;
+}
+
+/* ==========================================================================
+   Chrome Frame prompt
+   ========================================================================== */
+
+.chromeframe {
+    margin: 0.2em 0;
+    background: #ccc;
+    color: #000;
+    padding: 0.2em 0;
+}
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+html,body{height:100%;overflow-x:hidden;}
+body{
+    padding: 0; margin: 0;
+    font-family: Calibri, Verdana;
+}
+@font-face {
+    font-family: 'ostrich_sansheavy';
+    src: url('../fonts/ostrichsans-heavy-webfont.woff2') format('woff2'),
+         url('../fonts/ostrichsans-heavy-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+/*
+ * HTML5 Boilerplate
+ *
+ * What follows is the result of much research on cross-browser styling.
+ * Credit left inline and big thanks to Nicolas Gallagher, Jonathan Neal,
+ * Kroc Camen, and the H5BP dev community and team.
+ */
+
+/* ==========================================================================
+   Base styles: opinionated defaults
+   ========================================================================== */
+
+html,
+button,
+input,
+select,
+textarea {
+    color: #222;
+}
+
+body {
+    font-size: 1em;
+    line-height: 1.4;
+}
+
+/*
+ * Remove text-shadow in selection highlight: h5bp.com/i
+ * These selection rule sets have to be separate.
+ * Customize the background color to match your design.
+ */
+
+::-moz-selection {
+    background: #b3d4fc;
+    text-shadow: none;
+}
+
+::selection {
+    background: #b3d4fc;
+    text-shadow: none;
+}
+
+/*
+ * A better looking default horizontal rule
+ */
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+}
+
+/*
+ * Remove the gap between images and the bottom of their containers: h5bp.com/i/440
+ */
+
+img {
+    vertical-align: middle;
+}
+
+/*
+ * Remove default fieldset styles.
+ */
+
+fieldset {
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+
+/*
+ * Allow only vertical resizing of textareas.
+ */
+
+textarea {
+    resize: vertical;
+}
+.close-menu{
+    display: none!important;
+}
+
+/* ==========================================================================
+   Chrome Frame prompt
+   ========================================================================== */
+
+.chromeframe {
+    margin: 0.2em 0;
+    background: #ccc;
+    color: #000;
+    padding: 0.2em 0;
+}
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+html,body{height:100%;overflow-x:hidden;}
+body{
+    padding: 0; margin: 0;
+    font-family: Calibri, Verdana;
+}
+aside {
+    background-image: url('../img/bg-sidebar.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #419e36;
+    background-position: 0 -13.5vw;
+    height: 100%;
+    position: fixed;
+    width: 320px;
+    z-index: 3;
+}
+
+aside nav {
+    margin-bottom: 15px;
+}
+
+aside #logo {
+    background: url("../img/logo.png") no-repeat scroll 0 0 transparent;
+    margin-top: 47px;
+    position: relative;
+    background-position: center center;
+    background-color: #fff0bd;
+    left: 50%;
+    width: 212px;
+    height: 212px;
+    border-radius: 50%;
+    margin-left: -106px;
+    margin-bottom: 38px;
+}
+aside #logo a{display:block;height:100%;}
+aside nav ul {list-style:none;padding: 0;}
+aside nav li {text-align:center;white-space: nowrap;margin-bottom: 2px;}
+aside nav>ul>li>a:hover {    
+    background-color: #fa7272;
+}
+aside nav li:hover a, aside nav li.selected a{
+    color:#fff;
+}
+aside nav li.Menucolecao ul li{
+    height: 20px;
+    margin-right: 15px;
+    padding: 0;
+}
+aside nav li.Menucolecao ul li a{
+    text-decoration: none;
+    color: #4d2c61;
+    font-size: 18px;
+    font-family: JOMOS;
+}
+aside nav li.Menucolecao ul{
+    margin: 10px 0 0;
+}
+aside nav li.Menucolecao.selected{
+    height: 113px;
+    -webkit-transition: height 0.6s ease 0s;
+    -moz-transition: height 0.6s ease 0s;
+    -ns-transition: height 0.6s ease 0s;
+    -o-transition: height 0.6s ease 0s;
+    transition: height 0.6s ease 0s;
+}
+aside nav li.Menucolecao{
+    -webkit-transition: height 0.6s ease 0s;
+    -moz-transition: height 0.6s ease 0s;
+    -ns-transition: height 0.6s ease 0s;
+    -o-transition: height 0.6s ease 0s;
+    transition: height 0.6s ease 0s;
+}
+
+section.home {
+    background-image: url("../img/home19.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow-y: hidden;
+}
+section.home .pokeball{
+    background: none repeat scroll 0 0 rgba(255, 255, 255, 0.6);
+    border-radius: 50% 50% 50% 50%;
+    height: 636px;
+    margin: 50px auto 0;
+    width: 636px;
+    position: relative;
+    z-index: 3;
+}
+section.home .pokeball .titulos{
+    height: auto;
+    margin: 0 auto;
+    width: 230px;
+    padding-top: 40px;
+    margin-bottom: 30px;
+}
+.pokeball h2:before{
+    /* content: ""; */
+    background: url("../img/h2before.png") no-repeat scroll 0 0 transparent;
+    display: block;
+    height: 68px;
+    left: 0px;
+    position: absolute;
+    top: 0px;
+    width: 28px;
+    z-index: 100;
+    display: inline-block;
+}
+
+.BannerHome{
+    height: 380px;
+    width: 530px;
+    margin: 0 auto;
+    position: relative;
+}
+.BannerHome .ImagensBanner{
+    width: 530px;
+    height: 235px;
+    clear: both;
+    overflow: hidden;
+}
+
+.BannerHome .position{
+    position: absolute;
+    width: 370px;
+    left: 50%;
+    margin-left: -182px;
+    z-index: 2;
+    /*margin-left: -265px;*/
+}
+
+.owl-item{
+}
+
+#owl-example{
+    width: 530px;
+    /*width: 370px;*/
+    height: 235px;
+    margin-left: -83px;
+}
+
+#owl-example .item p{
+    text-align: center;
+    margin: -6px 0 0 0;
+}
+
+#owl-example .item img{
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.owl-theme .owl-controls{
+    margin-top: 20px !important;
+}
+.icone-mobile{
+    display: none;
+}
+.park{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1772px;
+    height: 1181px;
+    background-image: url('../img/park.jpg');
+    z-index: 1;
+}
+
+.toys{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1772px;
+    height: 1181px;
+    background-image: url('../img/toys.png');
+    background-position: 100px 20px;
+    z-index: 2;
+}
+
+.toy_one{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1772px;
+    height: 1181px;
+    background-image: url('../img/toy_one.png');
+    background-position: 370px 544px;
+    background-repeat: no-repeat;
+    z-index: 2;
+}
+
+.toy_two{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1772px;
+    height: 1181px;
+    background-image: url('../img/toy_two.png');
+    background-position: 988px 618px;
+    background-repeat: no-repeat;
+    z-index: 2;
+}
+
+.toy_three{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1772px;
+    height: 1181px;
+    background-image: url('../img/toy_three.png');
+    background-position: 1358px 277px;
+    background-repeat: no-repeat;
+    z-index: 2;
+}
+
+.BannerHome .ImagensBanner ul{
+    height: 238px;
+    margin: 0;
+    padding: 0;
+    width: 2120px;
+}
+.BannerHome .ImagensBanner ul li{
+    width: 530px;
+    height: 235px;
+    float: left;
+    list-style: none;
+    text-align: center;
+}
+
+.BannerHome .ImagensBanner ul li img{
+    max-width: 530px;
+    max-height: 235px;
+}
+
+.BannerHome .baseBanner{
+    background: url("../img/base.png") repeat scroll 0 0 transparent;
+    height: 140px;
+    /*margin-top: -35px;*/
+    /*padding-top: 5px;*/
+    width: 530px;
+    top: 200px;
+    z-index: 1;
+    position: absolute;
+}
+.BannerHome .baseBanner .ReferenciaBanner{
+    width: 530px;
+    height: 30px;
+    overflow: hidden;
+    margin-top: 33px;
+}
+.BannerHome .baseBanner .ReferenciaBanner ul{
+    height: 30px;
+    margin: 0;
+    padding: 0;
+    width: 2120px;
+}
+.BannerHome .baseBanner .ReferenciaBanner ul li{
+    width: 530px;
+    height: 30px;
+    float: left;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    line-height: 30px;
+}
+.BannerHome .baseBanner .ReferenciaBanner ul li p{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+.BannerHome .navBanner ul{
+    height: 10px;
+    margin: 0 auto;
+    padding: 0;
+    width: 60px;
+}
+.BannerHome .navBanner li:hover{background: #2185c5;}
+.BannerHome .navBanner li{
+    background: none repeat scroll 0 0 #C3C4C4;
+    border-radius: 50% 50% 50% 50%;
+    display: inline-block;
+    height: 10px;
+    width: 10px;
+    margin-top: 0;
+    cursor: pointer;
+}
+.BannerHome .arrowsBanner{
+    width: 120px;
+    height: 75px;
+    position: absolute;
+    bottom: 50px;
+    left: 0;
+    z-index: 3;
+}
+.BannerHome .arrowsBanner li{
+    width: 60px;
+    height: 60px;
+    float: left;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    background: url('../img/nav.png');
+    cursor: pointer;
+}
+.BannerHome .arrowsBanner li#direita{
+    background-position: -60px 0px;
+}
+.BannerHome .arrowsBanner li#esquerda{
+    background-position: 0 0;
+    margin-top: 20px;
+}
+.BannerHome .arrowsBanner ul{
+    margin: 0;
+    padding: 0;
+}
+
+
+section.empresa .promo{
+    width: 752px;
+    height: 376px;
+    background-image: url('../img/bussines_promo.png');
+    position: absolute;
+    margin: 0 0 0 -376px;
+    top: 320px;
+    left: 50%;
+}
+
+section.empresa .promo .textBlock{
+    width: 790px;
+    position: absolute;
+    top: -220px;
+    left: 0;
+}
+
+section.empresa .promo .textBlock h2{
+    font-size: 28px;
+}
+
+section.confirmacao-news{
+	background-color: #fff0bd;
+}
+
+section.confirmacao-news h2{
+	color: #1e9bda;
+	font-size: 48px;
+}
+
+section.confirmacao-news p{
+	color: #000000;
+	font-size: 32px;
+}
+
+section.confirmacao-news p a{
+	color: #000000;
+	font-size: 32px;
+	text-decoration: none;
+	display: block;
+    margin-top: 50px;
+}
+
+section.confirmacao-news .promo{
+    width: 752px;
+    height: 376px;
+    position: absolute;
+    margin: 0 0 0 -376px;
+    top: 320px;
+    left: 50%;
+}
+
+section.confirmacao-news .promo .textBlock{
+    width: 790px;
+    position: absolute;
+    top: -220px;
+    left: 0;
+}
+
+
+
+footer{position:fixed;left:0;bottom:0;height:122px;width:100%;}
+
+#pageContainer{
+    height: 100%;
+    position: absolute;
+    min-width: 910px;
+    left: 220px;
+}
+
+/*TESTE ZUEIRA*/ /* <<< DAFUQ JOAO?!*/
+section{
+    width: 100%;
+    min-height: 100%;
+    padding-bottom:130px;
+}
+
+
+
+
+.empresa .box{
+    height: 445px;
+    width: 750px;
+    margin: 0 auto;
+    position: relative;
+    padding-top: 30px;
+}
+.empresa .box .imagemEmpresa{
+    background: url("../img/empresa.png") repeat scroll 0 0 transparent;
+    bottom: 0;
+    top: 20px;
+    height: 428px;
+    position: absolute;
+    width: 785px;
+}
+.empresa .box .textosEmpresa{
+    width: 450px;
+    height: 200px;
+    position: absolute;
+    right: 0;
+}
+.colecao .model{
+    padding: 0 0 0 100px;
+    margin: auto;
+    display: block;
+    width: 800px;
+}
+
+.colecao .box1{
+    height: 100px;
+    margin: 30px auto 0;
+    width: 750px;
+}
+.colecao .box1 ul li.selected, .colecao .box1 ul li:hover{
+    background: #7fd9e5!important;
+}
+
+.colecao .box1 .align{
+    margin: 0 0 0 -26px;
+    float: left;
+}
+
+.colecao .box2{
+    height: auto;
+    margin: 5px auto 0;
+    width: 800px;
+}
+.colecao .box2 ul{
+    margin: 0;
+    padding: 0;
+}
+.colecao .box2 ul li:before{
+    content: "";
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+}
+.colecao .box2 ul li img{
+    display: inline-block;
+    height: auto;
+    max-height: 100%;
+    max-width: 100%;
+    vertical-align: middle;
+    width: auto;
+}
+.colecao .box2 ul li{
+    width: 164px;
+    height: 94px;
+    padding: 10px;
+    float: left;
+    list-style: none;
+    background: #fff;
+    border-radius: 10px;
+    margin: 5px;
+    white-space: nowrap;
+    text-align: center;
+    position: relative;
+    border: 3px solid white;
+    -webkit-transition: all .25s;
+       -moz-transition: all .25s;
+        -ms-transition: all .25s;
+         -o-transition: all .25s;
+            transition: all .25s;
+}
+
+/*@media only screen and (max-width: 1861px) {
+    .colecao .box2{
+        width: 1400px;
+    }
+}
+@media only screen and (max-width: 1772px) {
+    .colecao .box2{
+        width: 1200px;
+    }
+}
+@media only screen and (max-width: 1620px) {
+    .colecao .box2{
+        width: 1000px;
+    }
+}
+@media only screen and (max-width: 1410px) {
+    .colecao .box2{
+        width: 800px;
+    }
+}
+@media only screen and (max-width: 1220px) {
+    .colecao .box2{
+        width: 600px;
+    }
+}*/
+.box3{
+    width: 165px;
+    margin: 0 auto;
+    height: 35px;
+    position: relative;
+}
+.box3.navBanner ul{
+    height: 10px;
+    margin-bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 4px 0 0;
+    width: 85px;
+}
+.box3.navBanner li:hover{background: #2185c5;}
+.box3.navBanner li{
+    background: none repeat scroll 0 0 #C3C4C4;
+    border-radius: 50% 50% 50% 50%;
+    display: inline-block;
+    height: 10px;
+    width: 10px;
+    margin-top: 0;
+    cursor: pointer;
+}
+.box3.navBanner .esquerdaNav{
+    background: url("../img/minisetas.png") repeat scroll 0 0 transparent;
+    height: 30px;
+    left: 0;
+    top: 0;
+    position: absolute;
+    width: 35px;
+}
+.box3.navBanner .direitaNav{
+    background: url("../img/minisetas.png") repeat scroll right top transparent;
+    height: 30px;
+    right: 0;
+    top: 0;
+    position: absolute;
+    width: 35px;
+}
+
+.colecao .dark{
+    min-height: 100%;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.9);
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
+
+.modalProduto{
+    display:none;
+    background: none repeat scroll 0 0 #FFFFFF;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 0 0 5px #BBBBBB;
+    width: 900px;
+    height: 490px;
+    left: 50%;
+    margin-left: -450px;
+    margin-top: -245px;
+    padding: 15px;
+    position: fixed;
+    top: 50%;
+    z-index: 3;
+    -webkit-transition: all 1s;
+    -moz-transition: all 1s;
+    -ms-transition: all 1s;
+    -o-transition: all 1s;
+    transition: all 1s;
+}
+.modalProduto .pdtleft{
+    float: left;
+    height: 480px;
+    width: 700px;
+    -webkit-transition: all 1s;
+    -moz-transition: all 1s;
+    -ms-transition: all 1s;
+    -o-transition: all 1s;
+    transition: all 1s;
+}
+.modalProduto .pdt{
+    height: auto;
+    /*padding-top: 30px;*/
+    width: 100%;
+}
+.modalProduto .asideAnother{
+    float: left;
+    height: 480px;
+    width: 200px;
+    overflow-y: auto;
+    overflow-x: hidden;
+    -webkit-transition: all 1s;
+    -moz-transition: all 1s;
+    -ms-transition: all 1s;
+    -o-transition: all 1s;
+    transition: all 1s;
+}
+.modalProduto .ibagemtop{
+    width: 100%;
+    height: 435px;
+    -webkit-transition: all 1s;
+    -moz-transition: all 1s;
+    -ms-transition: all 1s;
+    -o-transition: all 1s;
+    transition: all 1s;
+}
+
+.modalProduto>a:hover{
+    background-position: 0 -35px;
+}
+
+.modalProduto p{
+    color: #3c3d3d;
+    font-weight: bold;
+    font-size: 25px;
+    -webkit-transition: all 1s;
+    -moz-transition: all 1s;
+    -ms-transition: all 1s;
+    -o-transition: all 1s;
+    transition: all 1s;
+}
+.modalProduto ul{
+    margin: 0;
+    padding: 0;
+}
+.modalProduto ul li:before{
+    content: "";
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+}
+.modalProduto ul li img{
+    display: inline-block;
+    height: auto;
+    max-height: 100%;
+    max-width: 100%;
+    vertical-align: middle;
+    width: auto;
+    border: 3px solid white;
+    -webkit-transition: all .25s;
+       -moz-transition: all .25s;
+        -ms-transition: all .25s;
+         -o-transition: all .25s;
+            transition: all .25s;
+}
+
+.modalProduto ul li img:hover{
+    border-color: purple;
+}
+
+.modalProduto ul li{
+    width: 170px;
+    height: 100px;
+    padding: 10px;
+    float: left;
+    list-style: none;
+    border-radius: 10px;
+    margin: 5px;
+    white-space: nowrap;
+    text-align: center;
+    position: relative;
+}
+
+
+#onde-comprar>div .left{
+    width: 376px;
+    float: left;
+}
+
+
+.listagem.lojas{
+    margin: 30px 0 0 0;
+}
+
+#onde-comprar>div .left .listagem.representantes p, #onde-comprar>div .right .listagem.representantes p, #onde-comprar>div .left .listagem.lojas p{
+    margin: 0 0 30px 0;
+    padding: 0;
+}
+
+#onde-comprar>div .right{
+    width: 268px;
+    min-height: 100px;
+    float: right;
+}
+
+#onde-comprar>div ul{margin: 0 0 60px 0; padding: 0;}
+#onde-comprar>div ul li{
+/*    width: 137px;
+    height: 51px;
+    height: 83px;*/
+    padding: 10px;
+    background: #fff;
+    display: inline-block;
+    /*margin: 5px;*/
+    border-radius: 10px;
+}
+
+
+#onde-comprar>div ul li a img{
+    max-height: 71px;
+    min-height: 71px;
+}
+
+#contato>div{
+    margin: 30px auto 0;
+    width: 700px;
+}
+#contato>div form{
+    width: 435px;
+    float: left;
+    margin-top: 10px;
+}
+
+.newsletter {
+    width: 257px;
+    margin: 0 auto;
+    margin-bottom: 12px;
+}
+
+.newsletter form {
+    position: relative;
+}
+
+.newsletter h2{
+    color: #5D761A;
+    font-family: JOMOS;
+    font-size: 19px;
+    padding: 0;
+}
+.newsletter input[type~=email]{
+    border: 0 none;
+    border-radius: 3px 3px 3px 3px;
+    color: #FFFFFF;
+    height: 20px;
+    margin-left: 48px;
+    padding: 5px;
+    width: 143px;
+    font-family: 'gotham-condensed';
+}
+
+.newsletter input[type~=email]::-webkit-input-placeholder {color: #8c8c8c;}
+.newsletter input[type~=email]:-o-input-placeholder {color: #8c8c8c;}
+.newsletter input[type~=email]:-moz-input-placeholder {color: #8c8c8c;}
+.newsletter input[type~=email]::-moz-input-placeholder {color: #8c8c8c;}
+.newsletter input[type~=email]:-ms-input-placeholder {color: #8c8c8c;}
+
+#contato>div form textarea{
+    width: 420px;
+    height: 117px;
+    resize: none;
+}
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+    #contato>div form textarea {
+        width: 422px;
+        height: 117px;
+        resize: none;
+        margin-left: 2px;
+    }
+}
+
+#contato>div .map .map1{
+    background: url("../img/map.jpg") repeat scroll 0 0 transparent;
+    height: 175px;
+    margin-top: 13px;
+    width: 235px;
+}
+#contato>div .map{
+    float: left;
+    margin-left: 0;
+    width: 260px;
+}
+
+/*.page.conforto>div{
+    width: 500px;
+    margin: 30px auto 0;
+    position: relative;
+}*/
+
+
+.page.conforto .promo .textBlock.one{
+    position: absolute;
+    top: -86px;
+    left: 0;
+}
+
+.page.conforto .promo .textBlock.two{
+    position: absolute;
+    top: 238px;
+    left: 180px;
+}
+
+.page.conforto .promo .textBlock.three{
+    position: absolute;
+    top: 656px;
+    left: 0;
+}
+
+.page.conforto .promo .textBlock.three p{
+    width: 100%;
+}
+
+.page.conforto .promo .textBlock.four{
+    position: absolute;
+    top: 1010px;
+    left: 0;
+}
+
+.page.conforto .promo .textBlock.four p{
+    width: 100%;
+}
+
+
+.page.conforto>div p{
+    width: 330px;
+}
+.page.conforto>div .conforto1{
+    background: url("../img/conforto1.png") repeat scroll 0 0 transparent;
+    height: 350px;
+    margin-bottom: 20px;
+    width: 465px;
+}
+.page.conforto>div .conforto2{
+    background: url("../img/conforto2.png") repeat scroll 0 0 transparent;
+    height: 259px;
+    position: absolute;
+    right: 0;
+    top: 370px;
+    width: 170px;
+}
+
+/* ==========================================================================
+   Media and screen
+   ========================================================================== */
+
+/*@media screen and (max-width: 1300px){
+
+    .modalProduto{
+        display: none;
+        background: none repeat scroll 0 0 #FFFFFF;
+        border-radius: 10px 10px 10px 10px;
+        box-shadow: 0 0 5px #BBBBBB;
+        width: 600px;
+        height: 336px;
+        left: 50%;
+        margin-left: -300px;
+        margin-top: -168px;
+        padding: 15px;
+        position: absolute;
+        top: 50%;
+        z-index: 3;
+        -webkit-transition: all 1s;
+        -moz-transition: all 1s;
+        -ms-transition: all 1s;
+        -o-transition: all 1s;
+        transition: all 1s;
+    }
+
+    .modalProduto .pdtleft{
+        height: auto;
+        width: auto;
+        -webkit-transition: all 1s;
+        -moz-transition: all 1s;
+        -ms-transition: all 1s;
+        -o-transition: all 1s;
+        transition: all 1s;
+    }
+
+    .modalProduto .ibagemtop{
+        height: auto;
+        width: 400px;
+        -webkit-transition: all 1s;
+        -moz-transition: all 1s;
+        -ms-transition: all 1s;
+        -o-transition: all 1s;
+        transition: all 1s;
+    }
+
+    .modalProduto .ibagemtop img{
+        max-width: 100%;
+        -webkit-transition: all 1s;
+        -moz-transition: all 1s;
+        -ms-transition: all 1s;
+        -o-transition: all 1s;
+        transition: all 1s;
+    }
+
+    .modalProduto .asideAnother{
+        float: right;
+        height: 336px;
+        -webkit-transition: all 1s;
+        -moz-transition: all 1s;
+        -ms-transition: all 1s;
+        -o-transition: all 1s;
+        transition: all 1s;
+    }
+
+}*/
+
+
+
+/* ==========================================================================
+   Helper classes
+   ========================================================================== */
+
+/*
+ * Image replacement
+ */
+
+.ir {
+    background-color: transparent;
+    border: 0;
+    overflow: hidden;
+    /* IE 6/7 fallback */
+    *text-indent: -9999px;
+}
+
+.ir:before {
+    content: "";
+    display: block;
+    width: 0;
+    height: 150%;
+}
+
+/*
+ * Hide from both screenreaders and browsers: h5bp.com/u
+ */
+
+.hidden {
+    display: none !important;
+    visibility: hidden;
+}
+
+/*
+ * Hide only visually, but have it available for screenreaders: h5bp.com/v
+ */
+
+.visuallyhidden {
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+}
+
+/*
+ * Extends the .visuallyhidden class to allow the element to be focusable
+ * when navigated to via the keyboard: h5bp.com/p
+ */
+
+.visuallyhidden.focusable:active,
+.visuallyhidden.focusable:focus {
+    clip: auto;
+    height: auto;
+    margin: 0;
+    overflow: visible;
+    position: static;
+    width: auto;
+}
+
+/*
+ * Hide visually and from screenreaders, but maintain layout
+ */
+
+.invisible {
+    visibility: hidden;
+}
+
+/*
+ * Clearfix: contain floats
+ *
+ * For modern browsers
+ * 1. The space content is one way to avoid an Opera bug when the
+ *    `contenteditable` attribute is included anywhere else in the document.
+ *    Otherwise it causes space to appear at the top and bottom of elements
+ *    that receive the `clearfix` class.
+ * 2. The use of `table` rather than `block` is only necessary if using
+ *    `:before` to contain the top-margins of child elements.
+ */
+
+.clearfix:before,
+.clearfix:after {
+    content: " "; /* 1 */
+    display: table; /* 2 */
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+/*
+ * For IE 6/7 only
+ * Include this rule to trigger hasLayout and contain floats.
+ */
+
+.clearfix {
+    *zoom: 1;
+}
+
+/* ==========================================================================
+   EXAMPLE Media Queries for Responsive Design.
+   These examples override the primary ('mobile first') styles.
+   Modify as content requires.
+   ========================================================================== */
+
+@media only screen and (min-width: 35em) {
+    /* Style adjustments for viewports that meet the condition */
+}
+
+@media print,
+(-o-min-device-pixel-ratio: 5/4),
+(-webkit-min-device-pixel-ratio: 1.25),
+(min-resolution: 120dpi) {
+    /* Style adjustments for high resolution devices */
+}
+
+/* ==========================================================================
+   Print styles.
+   Inlined to avoid required HTTP connection: h5bp.com/r
+   ========================================================================== */
+
+@media print {
+    * {
+        background: transparent !important;
+        color: #000 !important; /* Black prints faster: h5bp.com/s */
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+    a,
+    a:visited {
+        text-decoration: underline;
+    }
+
+    a[href]:after {
+        content: " (" attr(href) ")";
+    }
+
+    abbr[title]:after {
+        content: " (" attr(title) ")";
+    }
+
+    /*
+     * Don't show links for images, or javascript/internal links
+     */
+
+    .ir a:after,
+    a[href^="javascript:"]:after,
+    a[href^="#"]:after {
+        content: "";
+    }
+
+    pre,
+    blockquote {
+        border: 1px solid #999;
+        page-break-inside: avoid;
+    }
+
+    thead {
+        display: table-header-group; /* h5bp.com/t */
+    }
+
+    tr,
+    img {
+        page-break-inside: avoid;
+    }
+
+    img {
+        max-width: 100% !important;
+    }
+
+    @page {
+        margin: 0.5cm;
+    }
+
+    p,
+    h2,
+    h3 {
+        orphans: 3;
+        widows: 3;
+    }
+
+    h2,
+    h3 {
+        page-break-after: avoid;
+    }
+}
+
+aside #logo {
+    background: url("../img/logo.png") no-repeat scroll 0 0 transparent;
+    margin-top: 20px;
+    position: relative;
+    background-position: center center;
+    background-color: #fff0bd;
+    left: 50%;
+    width: 212px;
+    height: 212px;
+    border-radius: 50%;
+    margin-left: -106px;
+    margin-bottom: 14px;
+}
+aside #logo a{display:block;height:100%;}
+aside nav ul {list-style:none;padding: 0;margin-bottom: 0;}
+aside nav li {text-align:center;white-space: nowrap;margin-bottom: 2px;}
+aside nav>ul>li>a {
+    position: relative;
+    display: block;
+    text-decoration:none;
+    font-family: 'ostrich_sansheavy';
+    font-size: 26px;
+    border-radius:3px;
+    padding: 2px 34px 1px 34px;
+    display: inline-block;
+    border-radius: 10px;
+    -webkit-transition: background-color .3s ease;
+    -o-transition: background-color .3s ease;
+    transition: background-color .3s ease;
+    font-family: 'ostrich_sansheavy';
+}
+
+aside nav li.selected a {
+    background-color: #fa7272;    
+}
+
+aside nav>ul>li>a:hover {
+    background-color: #fa7272;
+}
+aside nav li:hover a, aside nav li.selected a{
+    color:#fff;
+}
+aside nav li.Menucolecao ul li{
+    height: 20px;
+    margin-right: 15px;
+    padding: 0;
+}
+aside nav li.Menucolecao ul li a{
+    text-decoration: none;
+    color: #4d2c61;
+    font-size: 18px;
+    font-family: JOMOS;
+}
+aside nav li.Menucolecao ul{
+    margin: 10px 0 0;
+}
+aside nav li.Menucolecao.selected{
+    height: 113px;
+    -webkit-transition: height 0.6s ease 0s;
+    -moz-transition: height 0.6s ease 0s;
+    -ns-transition: height 0.6s ease 0s;
+    -o-transition: height 0.6s ease 0s;
+    transition: height 0.6s ease 0s;
+}
+aside nav li.Menucolecao{
+    -webkit-transition: height 0.6s ease 0s;
+    -moz-transition: height 0.6s ease 0s;
+    -ns-transition: height 0.6s ease 0s;
+    -o-transition: height 0.6s ease 0s;
+    transition: height 0.6s ease 0s;
+}
+
+aside nav li>a>span{
+    color:#fff;
+    display: block;
+    position: relative;
+}
+
+section.home {s
+    background-image: url("../img/home.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow-y: hidden;
+}
+section.home .pokeball{
+    background: none repeat scroll 0 0 rgba(255, 255, 255, 0.85);
+    border-radius: 10px;
+    height: 676px;
+    margin: 113px auto 0;
+    width: 684px;
+    position: relative;
+    z-index: 3;
+}
+section.home .pokeball .titulos{
+    height: auto;
+    margin: 0 auto;
+    width: 267px;
+    padding-top: 46px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+.pokeball h2:before{
+    /* content: ""; */
+    background: url("../img/h2before.png") no-repeat scroll 0 0 transparent;
+    display: block;
+    height: 68px;
+    left: 0px;
+    position: absolute;
+    top: 0px;
+    width: 28px;
+    z-index: 100;
+    display: inline-block;
+}
+.page .pokeball h2 {
+    position: relative;
+    color: #25aae2;
+    font-family: 'ostrich_sansheavy';
+    margin-top: 0;
+    padding-top: 0;
+    margin-bottom: 9px;
+    line-height: 75px;
+    font-size: 78px;
+}
+.page .pokeball h2 > span {
+    position: relative;
+}
+
+.page .pokeball h2 > span:before {
+    content: '';
+    position: absolute;
+    background-color: #25aae2;
+    bottom: 11px;
+    left: 8px;
+    width: 10px;
+    height: 5px;
+}
+.pokeball h3 {
+    color: #3da7c9;
+    display: inline-block;
+    font-family: 'ostrich_sansheavy';
+    margin-top: 0;
+    padding-top: 0;
+    position: relative;
+    font-size: 28px;
+}
+
+.pokeball h3 .icon {
+    display: inline-block;
+    background-image: url('../img/icons.png');
+
+}
+.pokeball h3 .icon.flower {
+    width: 18px;
+    height: 20px;
+    margin-right: 6px;
+}
+
+.pokeball h3 .icon.sun {
+    width: 21px;
+    height: 21px;
+    margin-left: 4px;
+    background-position: -23px 0;
+}
+
+.BannerHome{
+    height: 380px;
+    width: 530px;
+    margin: 0 auto;
+    position: relative;
+}
+.BannerHome .ImagensBanner{
+    width: 530px;
+    height: 235px;
+    clear: both;
+    overflow: hidden;
+}
+
+.BannerHome .position{
+    position: absolute;
+    width: 370px;
+    left: 50%;
+    margin-left: -182px;
+    z-index: 2;
+    /*margin-left: -265px;*/
+}
+
+.owl-item{
+}
+
+#owl-example{
+    width: 530px;
+    /*width: 370px;*/
+    height: 235px;
+    margin-left: -83px;
+}
+
+#owl-example .item p{
+    text-align: center;
+    margin: -6px 0 0 0;
+}
+
+#owl-example .item img{
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.owl-theme .owl-controls{
+    margin-top: 20px !important;
+}
+
+.park{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1772px;
+    height: 1181px;
+    background-image: url('../img/park.jpg');
+    z-index: 1;
+}
+
+.toys{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1772px;
+    height: 1181px;
+    background-image: url('../img/toys.png');
+    background-position: 100px 20px;
+    z-index: 2;
+}
+
+.toy_one{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1772px;
+    height: 1181px;
+    background-image: url('../img/toy_one.png');
+    background-position: 370px 544px;
+    background-repeat: no-repeat;
+    z-index: 2;
+}
+
+.toy_two{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1772px;
+    height: 1181px;
+    background-image: url('../img/toy_two.png');
+    background-position: 988px 618px;
+    background-repeat: no-repeat;
+    z-index: 2;
+}
+
+.toy_three{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1772px;
+    height: 1181px;
+    background-image: url('../img/toy_three.png');
+    background-position: 1358px 277px;
+    background-repeat: no-repeat;
+    z-index: 2;
+}
+
+.BannerHome .ImagensBanner ul{
+    height: 238px;
+    margin: 0;
+    padding: 0;
+    width: 2120px;
+}
+.BannerHome .ImagensBanner ul li{
+    width: 530px;
+    height: 235px;
+    float: left;
+    list-style: none;
+    text-align: center;
+}
+
+.BannerHome .ImagensBanner ul li img{
+    max-width: 530px;
+    max-height: 235px;
+}
+
+.BannerHome .baseBanner{
+    background: url("../img/base.png") repeat scroll 0 0 transparent;
+    height: 140px;
+    /*margin-top: -35px;*/
+    /*padding-top: 5px;*/
+    width: 530px;
+    top: 200px;
+    z-index: 1;
+    position: absolute;
+}
+.BannerHome .baseBanner .ReferenciaBanner{
+    width: 530px;
+    height: 30px;
+    overflow: hidden;
+    margin-top: 33px;
+}
+.BannerHome .baseBanner .ReferenciaBanner ul{
+    height: 30px;
+    margin: 0;
+    padding: 0;
+    width: 2120px;
+}
+.BannerHome .baseBanner .ReferenciaBanner ul li{
+    width: 530px;
+    height: 30px;
+    float: left;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    line-height: 30px;
+}
+.BannerHome .baseBanner .ReferenciaBanner ul li p{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+.BannerHome .navBanner ul{
+    height: 10px;
+    margin: 0 auto;
+    padding: 0;
+    width: 60px;
+}
+.BannerHome .navBanner li:hover{background: #2185c5;}
+.BannerHome .navBanner li{
+    background: none repeat scroll 0 0 #C3C4C4;
+    border-radius: 50% 50% 50% 50%;
+    display: inline-block;
+    height: 10px;
+    width: 10px;
+    margin-top: 0;
+    cursor: pointer;
+}
+.BannerHome .arrowsBanner{
+    width: 120px;
+    height: 75px;
+    position: absolute;
+    bottom: 50px;
+    left: 0;
+    z-index: 3;
+}
+.BannerHome .arrowsBanner li{
+    width: 60px;
+    height: 60px;
+    float: left;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    background: url('../img/nav.png');
+    cursor: pointer;
+}
+.BannerHome .arrowsBanner li#direita{
+    background-position: -60px 0px;
+}
+.BannerHome .arrowsBanner li#esquerda{
+    background-position: 0 0;
+    margin-top: 20px;
+}
+.BannerHome .arrowsBanner ul{
+    margin: 0;
+    padding: 0;
+}
+
+section.empresa{
+    height: 696px;
+    background-color: #fff0bd;
+    padding: 0 0 120px 100px;
+}
+
+section.empresa .promo{
+    width: 752px;
+    height: 438px;
+    background-image: url('../img/bussines_promo.png');
+    background-repeat: no-repeat;
+    position: absolute;
+    margin: 0 0 0 -366px;
+    top: 315px;
+    left: 50%;
+}
+
+section.empresa .promo .textBlock{
+    width: 790px;
+    position: absolute;
+    top: -187px;
+    left: 14px;
+}
+
+section.empresa .promo .textBlock h2{
+    font-size: 48px;
+    color: #1e9bda;
+}
+
+section.empresa .promo .textBlock p {
+    color: #393939;
+    font-size: 18px;
+    font-family: 'gotham-condensed-book';
+}
+
+
+section.colecao{background-color: #7fd9e5;}
+footer{position:fixed;left:0;bottom:0;height:122px;width:100%;}
+
+#pageContainer{
+    height: 100%;
+    position: absolute;
+    min-width: 910px;
+    left: 320px;
+}
+
+/*TESTE ZUEIRA*/ /* <<< DAFUQ JOAO?!*/
+section{
+    width: 100%;
+    min-height: 100%;
+    padding-bottom:130px;
+}
+
+
+
+
+.empresa .box{
+    height: 445px;
+    width: 750px;
+    margin: 0 auto;
+    position: relative;
+    padding-top: 30px;
+}
+.empresa .box .imagemEmpresa{
+    background: url("../img/empresa.png") repeat scroll 0 0 transparent;
+    bottom: 0;
+    top: 20px;
+    height: 428px;
+    position: absolute;
+    width: 785px;
+}
+.empresa .box .textosEmpresa{
+    width: 450px;
+    height: 200px;
+    position: absolute;
+    right: 0;
+}
+.page h2{
+    font-family: 'ostrich_sansheavy';
+    font-size: 48px;
+    padding: 0;
+    color: #fff;
+    margin: 0px 0px 0px 5px;
+    letter-spacing: 2.7px;
+    line-height: initial;
+}
+.page p{
+    font-size: 18px;
+    font-family: 'gotham-condensed-book';
+    color: #fff;
+    margin-top: 0;
+    margin-left: 5px;
+    margin-bottom: 0;
+    line-height: initial;
+    margin-bottom: 7px;
+}
+
+.colecao .model{
+    padding: 0 0 0 100px;
+    margin: auto;
+    display: block;
+    width: 800px;
+}
+
+.colecao .box1{
+    height: 100px;
+    margin: 30px auto 0;
+    width: 750px;
+}
+.colecao .box1 ul{
+    margin: 0;
+    padding: 0;
+    margin-right: -24px;
+}
+.colecao .box1 ul li:after{
+    /* content: '|'; */
+    position: absolute;
+    right: -7px;
+    top: 0;
+}
+.colecao .box1 ul li.selected, .colecao .box1 ul li:hover{
+    background: #fff;
+}
+.colecao .box1 ul li:first-child{
+}
+.colecao .box1 ul li:last-child{
+    margin-right: 0;
+}
+.colecao .box1 ul li:last-child:after{
+    content: '';
+}
+.colecao .box1 ul li{
+    list-style: none;
+    display: inline-block;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 3px;
+}
+.colecao .box1 ul li a{
+    text-decoration: none;
+    font-family: 'gotham-condensed-medium';
+    text-transform: uppercase;
+    color: #fff;
+    width: 190px;
+    height: 24px;
+    background-color: #30a8dd;
+    display: block;
+    text-align: center;
+    border-radius: 3px;
+    line-height: 27px;
+}
+
+.colecao .box1 .align{
+    margin: 0 0 0 -26px;
+    float: left;
+}
+
+.colecao .box2{
+    height: auto;
+    margin: 5px auto 0;
+    width: 800px;
+}
+.colecao .box2 ul{
+    margin: 0;
+    padding: 0;
+}
+.colecao .box2 ul li:before{
+    content: "";
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+}
+.colecao .box2 ul li img{
+    display: inline-block;
+    height: auto;
+    max-height: 100%;
+    max-width: 100%;
+    vertical-align: middle;
+    width: auto;
+}
+.colecao .box2 ul li{
+    width: 164px;
+    height: 94px;
+    padding: 10px;
+    float: left;
+    list-style: none;
+    background: #fff;
+    border-radius: 10px;
+    margin: 5px;
+    white-space: nowrap;
+    text-align: center;
+    position: relative;
+    border: 3px solid white;
+    -webkit-transition: all .25s;
+       -moz-transition: all .25s;
+        -ms-transition: all .25s;
+         -o-transition: all .25s;
+            transition: all .25s;
+}
+
+.colecao .box2 ul li:hover{
+    border-color: #30a8dd;
+}
+
+/*@media only screen and (max-width: 1861px) {
+    .colecao .box2{
+        width: 1400px;
+    }
+}
+@media only screen and (max-width: 1772px) {
+    .colecao .box2{
+        width: 1200px;
+    }
+}
+@media only screen and (max-width: 1620px) {
+    .colecao .box2{
+        width: 1000px;
+    }
+}
+@media only screen and (max-width: 1410px) {
+    .colecao .box2{
+        width: 800px;
+    }
+}
+@media only screen and (max-width: 1220px) {
+    .colecao .box2{
+        width: 600px;
+    }
+}*/
+.box3{
+    width: 165px;
+    margin: 0 auto;
+    height: 35px;
+    position: relative;
+}
+.social-mobile{
+    display: none;
+}
+.box3.navBanner ul{
+    height: 10px;
+    margin-bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 4px 0 0;
+    width: 85px;
+}
+.box3.navBanner li:hover{background: #2185c5;}
+.box3.navBanner li{
+    background: none repeat scroll 0 0 #C3C4C4;
+    border-radius: 50% 50% 50% 50%;
+    display: inline-block;
+    height: 10px;
+    width: 10px;
+    margin-top: 0;
+    cursor: pointer;
+}
+.box3.navBanner .esquerdaNav{
+    background: url("../img/minisetas.png") repeat scroll 0 0 transparent;
+    height: 30px;
+    left: 0;
+    top: 0;
+    position: absolute;
+    width: 35px;
+}
+.box3.navBanner .direitaNav{
+    background: url("../img/minisetas.png") repeat scroll right top transparent;
+    height: 30px;
+    right: 0;
+    top: 0;
+    position: absolute;
+    width: 35px;
+}
+
+.colecao .dark{
+    min-height: 100%;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.9);
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
+
+.modalProduto{
+    display:none;
+    background: none repeat scroll 0 0 #FFFFFF;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 0 0 5px #BBBBBB;
+    width: 900px;
+    height: 490px;
+    left: 50%;
+    margin-left: -450px;
+    margin-top: -245px;
+    padding: 15px;
+    position: fixed;
+    top: 50%;
+    z-index: 3;
+    -webkit-transition: all 1s;
+    -moz-transition: all 1s;
+    -ms-transition: all 1s;
+    -o-transition: all 1s;
+    transition: all 1s;
+}
+.modalProduto .pdtleft{
+    float: left;
+    height: 480px;
+    width: 700px;
+    -webkit-transition: all 1s;
+    -moz-transition: all 1s;
+    -ms-transition: all 1s;
+    -o-transition: all 1s;
+    transition: all 1s;
+}
+.modalProduto .pdt{
+    height: auto;
+    /*padding-top: 30px;*/
+    width: 100%;
+}
+.modalProduto .asideAnother{
+    float: left;
+    height: 480px;
+    width: 200px;
+    overflow-y: auto;
+    overflow-x: hidden;
+    -webkit-transition: all 1s;
+    -moz-transition: all 1s;
+    -ms-transition: all 1s;
+    -o-transition: all 1s;
+    transition: all 1s;
+}
+.modalProduto .ibagemtop{
+    width: 100%;
+    height: 435px;
+    -webkit-transition: all 1s;
+    -moz-transition: all 1s;
+    -ms-transition: all 1s;
+    -o-transition: all 1s;
+    transition: all 1s;
+}
+.modalProduto>a {
+    width: 35px;
+    height: 35px;
+    position: absolute;
+    right: -17px;
+    top: -17px;
+    overflow: hidden;
+    background: #3aaedf;
+    color: #fff;
+    line-height: 10px;
+    border-radius: 50%;
+    text-align: center;
+    padding-top: 11px;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+
+.modalProduto>a:hover{
+    background-position: 0 -35px;
+}
+
+.modalProduto p{
+    color: #3c3d3d;
+    font-weight: bold;
+    font-size: 25px;
+    -webkit-transition: all 1s;
+    -moz-transition: all 1s;
+    -ms-transition: all 1s;
+    -o-transition: all 1s;
+    transition: all 1s;
+}
+.modalProduto ul{
+    margin: 0;
+    padding: 0;
+}
+.modalProduto ul li:before{
+    content: "";
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+}
+.modalProduto ul li img{
+    display: inline-block;
+    height: auto;
+    max-height: 100%;
+    max-width: 100%;
+    vertical-align: middle;
+    width: auto;
+    border: 3px solid white;
+    -webkit-transition: all .25s;
+       -moz-transition: all .25s;
+        -ms-transition: all .25s;
+         -o-transition: all .25s;
+            transition: all .25s;
+}
+
+.modalProduto ul li img:hover{
+    border-color: purple;
+}
+
+.modalProduto ul li{
+    width: 170px;
+    height: 100px;
+    padding: 10px;
+    float: left;
+    list-style: none;
+    border-radius: 10px;
+    margin: 5px;
+    white-space: nowrap;
+    text-align: center;
+    position: relative;
+}
+#onde-comprar{
+    background-color: #fff0bd;
+    padding: 0 0 122px 0;
+}
+
+#onde-comprar  p {
+    color: #393939;
+    margin-left: 0;
+}
+#onde-comprar>div{
+    width: 644px;
+    padding: 70px 0 0 0;
+    display: block;
+    margin: 0 auto;
+    /*    margin: 0 0 0 -322px;
+    padding: 90px 0 0 0;
+    position: absolute;
+    left: 50%;
+    top: 0;*/
+}
+#onde-comprar>div h2{
+    font-size: 48px;
+    color: #1e9bda;
+    margin-left: 0;
+}
+
+#onde-comprar>div .left{
+    width: 376px;
+    float: left;
+}
+
+#onde-comprar>div .left #representantes_estado, #onde-comprar>div .right #representantes_estado, 
+#onde-comprar>div .left #lojas_estado, #onde-comprar>div .left #lojas_cidade{
+    width: 126px;
+    height: 30px;
+    font-size: 16px;
+    color: #a0a0a0;
+    padding: 0 0 0 10px;
+    border: none;
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    border-radius: 2px;
+    font-family: 'gotham-condensed-book';
+    background: #fff;
+}.confort-mobile-img{
+        display: none;
+    }
+.confort-mobile-img-two{
+        display: none;
+    }
+
+#onde-comprar>div .left .listagem.representantes, #onde-comprar>div .right .listagem.representantes{
+    margin: 30px 0 0 0;
+}
+
+.listagem.lojas{
+    margin: 30px 0 0 0;
+}
+
+#onde-comprar>div .left .listagem.representantes h5, #onde-comprar>div .right .listagem.representantes h5, #onde-comprar>div .left .listagem.lojas h5{
+    font-size: 16px;
+    color: #393939;
+    font-family: 'gothamcondensed-bold';
+    text-transform: uppercase;
+    line-height: 1em;
+    padding: 0;
+    margin: 0;
+    font-weight: normal;
+}
+
+#onde-comprar>div .left .listagem.representantes p, #onde-comprar>div .right .listagem.representantes p, #onde-comprar>div .left .listagem.lojas p{
+    margin: 0 0 30px 0;
+    padding: 0;
+}
+
+#onde-comprar>div .right{
+    width: 268px;
+    min-height: 100px;
+    float: right;
+}
+
+#onde-comprar>div ul{margin: 0 0 60px 0;padding: 0;margin-left: -10px;}
+#onde-comprar>div ul li{
+    /*    width: 137px;
+    height: 51px;
+    height: 83px;*/
+    padding: 10px;
+    background: #fff;
+    display: inline-block;
+    /*margin: 5px;*/
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 15px;
+    }
+
+
+#onde-comprar>div ul li a img{
+    max-height: 71px;
+    min-height: 71px;
+}
+
+#contato>div{
+    margin: 100px auto 0;
+    width: 790px;
+}
+#contato h2 {
+    color: #1e9bda;
+}
+
+#contato p {
+    color: #393939;
+    margin-left: 0;
+}
+
+#contato p strong {
+    color: #25aae2;
+    font-weight: normal;
+    font-family: 'gothamcondensed-bold';
+    font-size: 18px;
+}
+#contato>div form{
+    width: 435px;
+    float: left;
+    margin-top: 10px;
+    margin-left: -4px;
+    margin-right: -4px;
+}
+#contato>div form button[type~=submit]{
+    background-color: #fa7272;
+    border: none;
+    float: right;
+    margin-right: 4px;
+    cursor:pointer;
+    color: #fff;
+    margin-top: 4px;
+    font-family: 'gothamcondensed-bold';
+    font-size: 16px;
+    padding: 4px 31px;
+    border-radius: 4px;
+    line-height: inherit;
+}
+.newsletter h2{
+    color: #fef3bd;
+    font-family: JOMOS;
+    font-size: 19px;
+    padding: 0;
+    font-family: 'ostrich_sansheavy';
+    font-size: 30px;
+    text-transform: uppercase;
+    margin: 0;
+    margin-bottom: -7px;
+    padding-left: 10px;
+}
+.newsletter input[type~=email]{
+    background-color: #fff;
+    border: 0 none;
+    border-radius: 3px 3px 3px 3px;
+    color: #FFFFFF;
+    height: 16px;
+    padding-left: 21px;
+    padding-right: 21px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    width: 212px;
+    position: relative;
+    border-radius: 11px;
+    color: #8c8c8c;
+    font-size: 10px;
+    font-family: 'gotham-condensed';
+    margin: 0;
+    font-size: 19px;
+}
+
+.newsletter input[type~=email]::-webkit-input-placeholder {color: #8c8c8c;}
+.newsletter input[type~=email]:-o-input-placeholder {color: #8c8c8c;}
+.newsletter input[type~=email]:-moz-input-placeholder {color: #8c8c8c;}
+.newsletter input[type~=email]::-moz-input-placeholder {color: #8c8c8c;}
+.newsletter input[type~=email]:-ms-input-placeholder {color: #8c8c8c;}
+
+.newsletter button[type~=submit]{
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border: none;
+    background-color: #c0c688;
+    color: #fff;
+    font-family: 'ostrich_sansheavy';
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    position: relative;
+    font-size: 31px;
+    right: 12px;
+    top: -5px;
+    box-sizing: border-box;
+    line-height: 0;
+    padding-left: 9px;
+    padding-top: 2px;
+    position: relative;
+    top: 12px;
+    margin-left: 3px;
+    position: absolute;
+}
+#contato>div form input[type~=text]{
+    float: left;
+    height: 15px;
+    margin-left: 4px;
+    margin-right: 4px;
+    margin-bottom: 8px;
+    padding: 8px;
+    width: 190px;
+    font-family: 'gotham-condensed-book';
+    border: none;
+    font-size: 16px;
+    padding-left: 11px;
+    border-radius: 2px;
+}
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+    #contato>div form textarea {
+        width: calc(100% - 27px);
+        height: 117px;
+        resize: none;
+        margin-left: 2px;
+        border: none;
+        padding: 8px;
+        padding-left: 12px;
+        font-family: 'gotham-condensed-book';
+        font-size: 16px;
+    }
+}
+#contato{
+    background-color: #fff0bd;
+    position: relative;
+}
+#contato>div .map .map1{
+    background: url("../img/map.jpg") repeat scroll 0 0 transparent;
+    height: 175px;
+    margin-top: 13px;
+    width: 235px;
+}
+#contato>div .map{
+    float: left;
+    margin-left: 30px;
+    width: 260px;
+}
+.page.conforto{
+    background-color: #FFF0BD;
+    padding: 0 0 122px 0;
+    height: 785px;
+    position: relative !important;
+}
+
+/*.page.conforto>div{
+    width: 500px;
+    margin: 30px auto 0;
+    position: relative;
+}*/
+
+.page.conforto .promo{
+    width: 782px;
+    height: 643px;
+    /*background-image: url('../img/conforto_promo.png');*/
+    background-repeat: no-repeat;
+    background-position: 0 20px;
+    position: absolute;
+    margin: 0 0 0 -375px;
+    top: 167px;
+    left: 50%;
+}
+
+.page.conforto .pt{
+    background-image: url('../img/conforto_promo.png');
+}
+.page.conforto .en{
+    background-image: url('../img/conforto_promo_en.png');
+}
+.page.conforto .es{
+    background-image: url('../img/conforto_promo_es.png');
+}
+
+.page.conforto .promo .textBlock.one{
+    position: absolute;
+    top: -95px;
+    left: 23px;
+}
+
+.page.conforto .promo .textBlock.two {
+    position: absolute;
+    top: 301px;
+    left: 204px;
+}
+
+.page.conforto .promo .textBlock.two h2 {
+    font-size: 30px;
+}
+
+.page.conforto .promo .textBlock.three{
+    position: absolute;
+    top: 656px;
+    left: 0;
+}
+
+.page.conforto .promo .textBlock.three p{
+    width: 100%;
+}
+
+.page.conforto .promo .textBlock.four{
+    position: absolute;
+    top: 1010px;
+    left: 0;
+}
+
+.page.conforto .promo .textBlock.four p{
+    width: 100%;
+}
+
+.page.conforto .promo .textBlock h2{
+    font-size: 48px;
+    color: #1e9bda;
+}
+
+.page.conforto .promo .textBlock p{
+    font-size: 18px;
+    color: #393939;
+    font-family: 'gotham-condensed-book';
+}
+
+.page.conforto>div p{
+    width: 314px;
+}
+.page.conforto>div .conforto1{
+    background: url("../img/conforto1.png") repeat scroll 0 0 transparent;
+    height: 350px;
+    margin-bottom: 20px;
+    width: 465px;
+}
+.page.conforto>div .conforto2{
+    background: url("../img/conforto2.png") repeat scroll 0 0 transparent;
+    height: 259px;
+    position: absolute;
+    right: 0;
+    top: 370px;
+    width: 170px;
+}
+
+.social-list {
+    text-align: center;
+}
+.social-list .action {
+    display: inline-block;
+    background-color: #fff0bd;
+    color: #3a9d4d;
+    width: 42px;
+    height: 42px;
+    border-radius: 50%;
+    font-size: 27px;
+    line-height: 44px;
+    margin-left: 2px;
+    margin-right: 2px;
+}
+
+.social-list .language {
+    display: inline-block;
+    background-color: #fff0bd;
+    color: #3a9d4d;
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    font-size: 14px;
+    line-height: 34px;
+    margin-left: 2px;
+    margin-right: 2px;
+    font-weight:bold;
+}
+
+/* ==========================================================================
+   Media and screen
+   ========================================================================== */
+
+@media screen and (max-width: 1300px){
+
+    .modalProduto{
+        display: none;
+        background: none repeat scroll 0 0 #FFFFFF;
+        border-radius: 10px 10px 10px 10px;
+        box-shadow: 0 0 5px #BBBBBB;
+        width: 600px;
+        /*height: 490px;*/
+        height: 336px;
+        left: 50%;
+        margin-left: -300px;
+        margin-top: -168px;
+        padding: 15px;
+        position: absolute;
+        top: 50%;
+        z-index: 3;
+        -webkit-transition: all 1s;
+        -moz-transition: all 1s;
+        -ms-transition: all 1s;
+        -o-transition: all 1s;
+        transition: all 1s;
+    }
+
+    .modalProduto .pdtleft{
+        height: auto;
+        width: auto;
+        -webkit-transition: all 1s;
+        -moz-transition: all 1s;
+        -ms-transition: all 1s;
+        -o-transition: all 1s;
+        transition: all 1s;
+    }
+
+    .modalProduto .ibagemtop{
+        height: auto;
+        width: 400px;
+        -webkit-transition: all 1s;
+        -moz-transition: all 1s;
+        -ms-transition: all 1s;
+        -o-transition: all 1s;
+        transition: all 1s;
+    }
+
+    .modalProduto .ibagemtop img{
+        max-width: 100%;
+        -webkit-transition: all 1s;
+        -moz-transition: all 1s;
+        -ms-transition: all 1s;
+        -o-transition: all 1s;
+        transition: all 1s;
+    }
+
+    .modalProduto .asideAnother{
+        float: right;
+        height: 336px;
+        -webkit-transition: all 1s;
+        -moz-transition: all 1s;
+        -ms-transition: all 1s;
+        -o-transition: all 1s;
+        transition: all 1s;
+    }
+
+}
+
+.social {
+    position: absolute;
+    background-color: #FBF55D;
+    width: 312px;
+    height: 312px;
+    left: 361px;
+    top: 296px;
+    border-radius: 50%;
+}
+
+.social:before {
+    content: '';
+    position: absolute;
+    left: -7px;
+    top: -51px;
+    background-image: url('../img/frog.png');
+    background-repeat: no-repeat;
+    width: 248px;
+    height: 171px;
+}
+
+.social p {font-family: 'ostrichsans-black' !important;font-size: 21px !important;text-align: center;color: #90b32f !important;background: #FFF0BD;position: absolute;left: 129px;top: 115px;width: 155px;height: 155px;border-radius: 50%;padding-top: 44px;box-sizing: border-box;-moz-boz-sizing: border-box;line-height: 23px;letter-spacing: 1px;}
+.social .facebook {
+    position: absolute;
+    width: 110px;
+    height: 110px;
+    background: #CDD51B;
+    right: -52px;
+    bottom: 50px;
+    border-radius: 50%;
+    color: #fff0bd;
+    font-size: 66px;
+    text-align: center;
+    padding-top: 9px;
+    box-sizing: border-box;
+    -mox-box-sizing: border-box;
+}
+.social .instagram {
+    position: absolute;
+    width: 75px;
+    height: 75px;
+    background: #A6CE38;
+    right: 25px;
+    bottom: 4px;
+    border-radius: 50%;
+    color: #fff0bd;
+    font-size: 46px;
+    text-align: center;
+    box-sizing: border-box;
+    -moz-boz-sizing: border-box;
+    padding-top: 5px;
+}
+
+
+/* ==========================================================================
+   Helper classes
+   ========================================================================== */
+
+/*
+ * Image replacement
+ */
+
+.ir {
+    background-color: transparent;
+    border: 0;
+    overflow: hidden;
+    /* IE 6/7 fallback */
+    *text-indent: -9999px;
+}
+
+.ir:before {
+    content: "";
+    display: block;
+    width: 0;
+    height: 150%;
+}
+
+/*
+ * Hide from both screenreaders and browsers: h5bp.com/u
+ */
+
+.hidden {
+    display: none !important;
+    visibility: hidden;
+}
+
+/*
+ * Hide only visually, but have it available for screenreaders: h5bp.com/v
+ */
+
+.visuallyhidden {
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+}
+
+/*
+ * Extends the .visuallyhidden class to allow the element to be focusable
+ * when navigated to via the keyboard: h5bp.com/p
+ */
+
+.visuallyhidden.focusable:active,
+.visuallyhidden.focusable:focus {
+    clip: auto;
+    height: auto;
+    margin: 0;
+    overflow: visible;
+    position: static;
+    width: auto;
+}
+
+/*
+ * Hide visually and from screenreaders, but maintain layout
+ */
+
+.invisible {
+    visibility: hidden;
+}
+
+/*
+ * Clearfix: contain floats
+ *
+ * For modern browsers
+ * 1. The space content is one way to avoid an Opera bug when the
+ *    `contenteditable` attribute is included anywhere else in the document.
+ *    Otherwise it causes space to appear at the top and bottom of elements
+ *    that receive the `clearfix` class.
+ * 2. The use of `table` rather than `block` is only necessary if using
+ *    `:before` to contain the top-margins of child elements.
+ */
+
+.clearfix:before,
+.clearfix:after {
+    content: " "; /* 1 */
+    display: table; /* 2 */
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+/*
+ * For IE 6/7 only
+ * Include this rule to trigger hasLayout and contain floats.
+ */
+
+.clearfix {
+    *zoom: 1;
+}
+
+/* ==========================================================================
+   EXAMPLE Media Queries for Responsive Design.
+   These examples override the primary ('mobile first') styles.
+   Modify as content requires.
+   ========================================================================== */
+
+@media only screen and (min-width: 35em) {
+    /* Style adjustments for viewports that meet the condition */
+}
+
+@media print,
+(-o-min-device-pixel-ratio: 5/4),
+(-webkit-min-device-pixel-ratio: 1.25),
+(min-resolution: 120dpi) {
+    /* Style adjustments for high resolution devices */
+}
+
+/* ==========================================================================
+   Print styles.
+   Inlined to avoid required HTTP connection: h5bp.com/r
+   ========================================================================== */
+
+@media print {
+    * {
+        background: transparent !important;
+        color: #000 !important; /* Black prints faster: h5bp.com/s */
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+    a,
+    a:visited {
+        text-decoration: underline;
+    }
+
+    a[href]:after {
+        content: " (" attr(href) ")";
+    }
+
+    abbr[title]:after {
+        content: " (" attr(title) ")";
+    }
+
+    /*
+     * Don't show links for images, or javascript/internal links
+     */
+
+    .ir a:after,
+    a[href^="javascript:"]:after,
+    a[href^="#"]:after {
+        content: "";
+    }
+
+    pre,
+    blockquote {
+        border: 1px solid #999;
+        page-break-inside: avoid;
+    }
+
+    thead {
+        display: table-header-group; /* h5bp.com/t */
+    }
+
+    tr,
+    img {
+        page-break-inside: avoid;
+    }
+
+    img {
+        max-width: 100% !important;
+    }
+
+    @page {
+        margin: 0.5cm;
+    }
+
+    p,
+    h2,
+    h3 {
+        orphans: 3;
+        widows: 3;
+    }
+
+    h2,
+    h3 {
+        page-break-after: avoid;
+    }
+}
+@media (max-width: 1024px) and (min-width: 320px){
+    .pageMobile{
+        width: 100%!important;
+    }
+    #menu-mobile{
+        display: none;
+    }
+    #pageContainer{
+        position: relative;
+        left: 0;
+        min-width: inherit;
+
+    }
+    section.home .pokeball{
+        width: 100%;
+        height: auto;
+        margin: 0 auto;
+        display: table;
+        position: absolute;
+    }
+    .owl-wrapper-outer{
+        overflow: hidden;
+        position: relative;
+        width: 100%;
+        /*display: table;*/
+        height: 450px;
+    }
+    .owl-item{
+        overflow: hidden;
+        position: relative;
+        width: 100%;
+        display: table;
+        height: 20%;
+    }
+   #owl-example{
+        width: 100%;
+        margin: 0px;
+   }
+   .BannerHome{
+        width: 45%;
+   }
+   .BannerHome .position{
+        position: absolute;
+        width: 100%;
+        left: 0;
+        height: 35%;
+        margin-left: 0;
+        z-index: 2;
+   }
+   .icone-mobile{
+        display: block; 
+        width: 7%;
+   }   
+   aside{
+        background-image: url(../img/bg-sidebar.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-color: #419e36;
+        background-position: 0 -13.5vw;
+        height: 100%;
+        position: fixed;
+        width: 100%;
+        z-index: 4;
+        overflow: scroll;
+   }
+   aside nav{
+    margin-bottom: 0;
+   }
+
+
+
+    aside #logo{
+
+        background: url(../img/logo.png) no-repeat scroll 0 0 transparent;   
+        background-position: center center;
+        background-color: #fff0bd;
+        height: 30%;
+        border-radius: 50%; 
+        margin:5vw auto;
+        left:0;
+        width: 58vw;
+   }
+   aside nav li{
+        text-align: center;
+        white-space: nowrap;
+        margin-bottom:0;
+
+   }
+   #pageContainer{
+        position: relative;
+        left: 0;
+        min-width: inherit;
+   }
+   .close-menu{
+        font-size: 8vw!important;
+        position: absolute;
+        right: 5vw;
+        top: 5vw;
+        color: white;
+        display: block!important;
+   }
+   .empresa .icone-mobile{
+           position: relative;
+           margin: 0;
+           display: block;
+           width: 7%;
+   }
+   section.empresa{
+       background-color: #fff0bd;
+        width: 100%;
+        height: 100%;
+        padding: 0;
+   }
+   section.empresa .promo{
+        width: 100%;
+        height: 137vw;
+        background:none;
+      /*  background-repeat: no-repeat;*/
+        margin: 0 auto;
+        left: 0;
+        top:0;
+        position: relative;
+   }
+
+   section.empresa .promo .textBlock{
+        width: 100%;
+        top:0;
+        left: 0;
+        text-align: center;
+   }
+   .header{
+    width: 100%;
+    display: table;
+    position: relative;
+   }
+   .social:before {
+        content:initial; 
+}
+    .social{
+        display: none;
+    }
+    .social-mobile{
+        display: block;
+    }
+    .frog-img{
+        width: 35vw;
+    }
+    .social-mobile p {
+            font-family: 'ostrichsans-black' !important;
+            font-size: 21px !important;
+            text-align: center;
+            color: #90b32f !important;
+            background: #FFF0BD;            
+            top: 115px;           
+            border-radius: 50%;          
+            box-sizing: border-box;
+            -moz-boz-sizing: border-box;           
+            letter-spacing: 1px;
+    }
+    .facebook {
+        display: block;
+        width: 75px;
+        height: 75px;
+        background: #CDD51B;
+        right: -52px;
+        bottom: 50px;
+        border-radius: 50%;
+        color: #fff0bd;
+        font-size: 46px;
+        text-align: center;
+        padding-top: 5px;
+        box-sizing: border-box;
+        margin: 0 auto;
+}
+    .instagram {
+        display: block;
+        width: 75px;
+        height: 75px;
+        background: #A6CE38;
+        right: 25px;
+        bottom: 4px;
+        border-radius: 50%;
+        color: #fff0bd;
+        font-size: 46px;
+        text-align: center;
+        box-sizing: border-box;
+        -moz-boz-sizing: border-box;
+        padding-top: 5px;
+        margin: 0 auto;
+    }
+    footer{
+        position: relative;
+        height: auto;
+    }
+
+
+    .social-txt{
+        padding-top: 5vw;
+    }
+    .social-txt p{
+        font-size: 7vw;
+    }
+    .redes{
+        width: 50%;
+        float: left;
+    }
+
+    /*COLEÇÃO MOBILE*/
+    .colecao{
+        padding-bottom: 0;
+    }
+    .colecao .model{
+        padding: 3vw;
+        margin: 0 auto;
+        display: block;
+        width: 100%;
+    }
+    .colecao .box1{
+        height: auto;
+        margin: 0 auto;
+        width: 100%;
+    }
+    .colecao .box1 .align{
+        float: left;
+        width: 100%;
+        margin: 0 auto;
+        height: auto;
+    }
+    .page.colecao p{
+        font-size: 18px;
+        font-family: 'gotham-condensed-book';
+        color: white;
+        margin-top: 0;
+        margin-left: 5px;
+        margin-bottom: 0;
+        width: 100%;
+        line-height: initial;
+        margin-bottom: 7px;
+    }
+    .pcor{
+        color: black!important;
+    }
+    .colecao .box1 ul{
+        margin: 0;
+        width: 113%;
+        padding: 0;
+    }
+    .colecao .box2{
+        height: auto;
+        margin: 0 auto;
+        width: 100%;
+    }
+
+    *, :after, :before {
+        box-sizing: border-box;
+    }
+    .colecao .box1 ul li a{
+        text-decoration: none;
+        font-family: 'gotham-condensed-medium';
+        text-transform: uppercase;
+        color: #fff;
+        width: 41vw;
+        height: 6vw;
+        background-color: #30a8dd;
+        display: block;
+        text-align: center;
+        border-radius: 1vw;
+        line-height: 6vw;
+    }
+    .colecao .box2{
+        height: auto;
+        margin: 0 auto;
+        width: 100%;
+        display: table;
+    }
+    .colecao .box2 ul{
+        margin: 0;
+        padding: 0;
+        width: 100%;
+    }
+    .colecao .box2 ul li{
+        width: 100%;
+        height: 100%;
+        float: left;
+        list-style: none;
+        background: #fff;
+        border-radius: 10px;
+        margin: 5px;
+        white-space: nowrap;
+        text-align: center;
+        position: relative;
+        border: 3px solid white;
+        -webkit-transition: all .25s;
+        -moz-transition: all .25s;
+        -ms-transition: all .25s;
+        -o-transition: all .25s;
+        transition: all .25s;
+    }
+
+    /*MODAL PRODUTO */
+    .modalProduto .pdt{
+        height: inherit;
+        width: 100%;
+        display: table;
+    }
+    .modalProduto .ibagemtop{
+        height: auto;
+        width: 100%;
+        -webkit-transition: all 1s;
+        -moz-transition: all 1s;
+        -ms-transition: all 1s;
+        -o-transition: all 1s;
+        transition: all 1s;
+    }
+    .modalProduto.pdtleft.ibagemtop p{
+        color: black;
+    }
+    .modalProduto{
+        display: none;
+        background: none repeat scroll 0 0 #FFFFFF;
+        border-radius: 10px 10px 10px 10px;
+        box-shadow: 0 0 5px #BBBBBB;
+        width: 80%;
+        height: 42%;
+        position: fixed;
+        bottom: 0;
+        top: 0;
+        left: 0;
+        right: 0;
+        -webkit-transition: all 1s;
+        -moz-transition: all 1s;
+        margin: auto;
+        -ms-transition: all 1s;
+        -o-transition: all 1s;
+        transition: all 1s;
+    }
+    /*CONFORTO MOBILE*/
+    .page.conforto{
+        display: table;
+    }
+    .page.conforto .promo{
+        width: 100%;
+        height: 100%;
+        background: none;
+        position: relative;
+        top: 0;
+        left: 0;
+        margin: 0 auto;
+        padding-right: 5vw;
+        padding-left: 5vw;
+    }
+
+    .page.conforto .promo .textBlock.one{
+        position: relative;      
+        margin: 0 auto;
+        top: 0;
+        left: 0;
+    }
+    .page.conforto .promo .textBlock h2{
+         font-size: 2em;
+         color: #1e9bda;
+    }
+    .page.conforto .promo .textBlock.two{
+        position: relative;
+        top: 0;
+        left: 0;
+        padding-top: 5vw;
+    }
+    .page.conforto .promo .textBlock.two h2{
+         font-size: 2em;
+         color: #1e9bda;
+    }
+    .page.conforto .promo .textBlock p{
+        font-size: 1.1em;
+        color: #393939;
+        font-family: 'gotham-condensed-book';
+    }
+    .confort-mobile-img{
+        width: 100%;
+        height: 100%;
+        display: block;
+        padding-right: 9vw;
+    }
+    .confort-mobile-img img{
+        width: 100%;
+    }
+
+    .confort-mobile-img-two{
+        display: block;
+        width: 100%;
+        height: 100%;
+    }
+   .confort-mobile-img-two img{
+        max-width: 100%;
+        height: 400px;
+        display: block;
+        margin: 0 auto;
+    }
+/*ONDE-COMPRAR MOBILE*/
+#onde-comprar>div{
+    width: 100%;
+    padding: 0!important;
+    padding-left:5vw!important;
+}
+#onde-comprar>div .left{
+    width: 100%!important;
+    float: left;
+}
+.onde-comprar.header{
+    padding: 0;
+}
+#onde-comprar>div ul{
+    margin: 0 auto!important;
+    padding: 0!important;
+    
+}
+#onde-comprar>div ul li{  
+    background: #fff;
+    border-radius: 10px;   
+    margin-bottom: 15px;
+    padding: 6px;    
+    display: inline-block;
+    margin-left: 0;
+    margin-right: 0;
+    width: 47%;
+}
+#onde-comprar>div ul li a img{
+ 
+    width: 100%;
+ 
+}
+#onde-comprar>div .right{
+    width: 100%;
+    min-height: 100px;
+    float: right;
+}
+/*CONTATO MOBILE*/
+#contato>div {
+    margin: 0 auto;
+    width: 100%;    
+}
+#contato>div form button[type~=submit]{
+    background-color: #fa7272;
+    border: none;
+    float: right;
+    margin-right: 0;
+    margin-top: 0; 
+    cursor: pointer;
+    color: #fff;
+    width: 100%;
+    font-family: 'gothamcondensed-bold';
+    font-size: 1em;
+    padding:0;
+    border-radius: 4px;
+    line-height: inherit;
+}
+.contato-fale{    
+    padding: 0!important;
+}
+.contato.page h2{
+    font-family: 'ostrich_sansheavy';
+    font-size: 48px;
+    padding: 0;
+    color: #fff;
+    margin: 0px 0px 0px 5px;
+    letter-spacing: 2.7px;
+    line-height: initial;
+    padding-left: 5vw;
+}
+.contato.page p{
+    font-size: 18px;
+    font-family: 'gotham-condensed-book';
+    color: #fff;
+    margin-top: 0;
+    margin-left: 5px;
+    margin-bottom: 0;
+    line-height: initial;
+    margin-bottom: 7px;
+    padding-left: 5vw;
+}
+#contato>div .map{
+    float: left;
+    margin-left:0;
+    width: 260px;
+    padding-left: 5vw;
+}
+#contato>div form {
+    width: 58%!important;
+    margin: 0 auto!important;
+    padding-left: 5vw;
+}
+#contato{
+    padding-bottom: 0!important;
+}
+#contato p{
+    margin-left: 0!important;
+}
+.contato-end{
+    padding-left: 0!important;
+}
+@media (min-width: 1024px){
+
+   #menu-mobile{
+        display: block!important;
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
